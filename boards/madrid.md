@@ -2,7 +2,7 @@
 
 Roles listing Madrid as their location.
 
-_794 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
+_847 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -34,25 +34,25 @@ _794 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Diseñador/a BIM – Revit para proyectos de laboratorio](https://jobs.smartrecruiters.com/SGS/744000143242481) | SGS | Madrid, es | 2026-08-13 |
 | [Software Engineer, Platform - Madrid, Spain](https://job-boards.greenhouse.io/speechify/jobs/5974289004) | Speechify | Madrid, Spain | 2026-08-13 |
 | [Backend Engineer](https://jobs.ashbyhq.com/Vic.ai/dd90e14e-01b4-455c-aab4-7ee314ecfa72) | Vic.Ai | Madrid, Spain - ONLY | 2026-08-12 |
-| [Staff Engineer - Data Platform Experience](https://careers.datadoghq.com/detail/8119493/?gh_jid=8119493) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| [Senior Software Engineer - Security Libraries](https://careers.datadoghq.com/detail/8081477/?gh_jid=8081477) | Datadog | Bordeaux, France; Lyon, France; Madrid, Spain; Nantes, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
-| [Staff Engineer - Data Semantics](https://careers.datadoghq.com/detail/8043560/?gh_jid=8043560) | Datadog | Madrid, Spain; Paris, France | 2026-08-12 |
-| [Strategic Account Executive (Iberia)](https://careers.datadoghq.com/detail/6572400/?gh_jid=6572400) | Datadog | Madrid, Spain | 2026-08-12 |
-| [Senior Security Engineer - Cloud SIEM](https://careers.datadoghq.com/detail/7996898/?gh_jid=7996898) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| [Senior Software Engineer - AI (EMEA)](https://careers.datadoghq.com/detail/8015588/?gh_jid=8015588) | Datadog | Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
-| [Senior Software Engineer - REDAPL Graph Engine](https://careers.datadoghq.com/detail/7959962/?gh_jid=7959962) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| [Partner Solutions Architect (Pan-EMEA GSI)](https://careers.datadoghq.com/detail/7997198/?gh_jid=7997198) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
 | [Senior AI Engineer – Notebooks](https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183) | Datadog | Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote | 2026-08-12 |
+| [Partner Solutions Architect (Pan-EMEA GSI)](https://careers.datadoghq.com/detail/7997198/?gh_jid=7997198) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
+| [Senior Software Engineer - Security Libraries](https://careers.datadoghq.com/detail/8081477/?gh_jid=8081477) | Datadog | Bordeaux, France; Lyon, France; Madrid, Spain; Nantes, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
 | [Manager I, Engineering - Code Coverage](https://careers.datadoghq.com/detail/8048588/?gh_jid=8048588) | Datadog | Madrid, Spain | 2026-08-12 |
-| [Manager I, Engineering - OrgStore Blueprint](https://careers.datadoghq.com/detail/7586019/?gh_jid=7586019) | Datadog | Madrid, Spain | 2026-08-12 |
-| [Technical Account Manager 3 - Madrid](https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225) | Datadog | Madrid, Spain | 2026-08-12 |
 | [Senior Software Engineer (AI)](https://careers.datadoghq.com/detail/7566827/?gh_jid=7566827) | Datadog | Madrid, Spain | 2026-08-12 |
+| [Senior Security Engineer - Cloud SIEM](https://careers.datadoghq.com/detail/7996898/?gh_jid=7996898) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| [Technical Account Manager 3 - Madrid](https://careers.datadoghq.com/detail/7982225/?gh_jid=7982225) | Datadog | Madrid, Spain | 2026-08-12 |
+| [Strategic Account Executive (Iberia)](https://careers.datadoghq.com/detail/6572400/?gh_jid=6572400) | Datadog | Madrid, Spain | 2026-08-12 |
+| [Staff Engineer - Data Semantics](https://careers.datadoghq.com/detail/8043560/?gh_jid=8043560) | Datadog | Madrid, Spain; Paris, France | 2026-08-12 |
+| [Staff Engineer - Data Platform Experience](https://careers.datadoghq.com/detail/8119493/?gh_jid=8119493) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| [Senior Software Engineer - AI (EMEA)](https://careers.datadoghq.com/detail/8015588/?gh_jid=8015588) | Datadog | Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
+| [Manager I, Engineering - OrgStore Blueprint](https://careers.datadoghq.com/detail/7586019/?gh_jid=7586019) | Datadog | Madrid, Spain | 2026-08-12 |
+| [Senior Software Engineer - REDAPL Graph Engine](https://careers.datadoghq.com/detail/7959962/?gh_jid=7959962) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
 | [Account Manager Intern - Q Commerce Groceries](https://jobs.smartrecruiters.com/DeliveryHero/744000143164389) | Delivery Hero | Madrid, es | 2026-08-12 |
 | [Intern Key Accounts Spain](https://jobs.smartrecruiters.com/DeliveryHero/744000143163280) | Delivery Hero | Madrid, es | 2026-08-12 |
 | [Senior Solutions Engineer](https://job-boards.greenhouse.io/keyfactorinc/jobs/6141971004) | Keyfactor, Inc. | Spain; Barcelona or Madrid | 2026-08-12 |
-| [Senior Customer Success Manager](https://www.mongodb.com/careers/job/?gh_jid=8071152) | MongoDB | Madrid | 2026-08-12 |
-| [Enterprise Account Executive, Growth](https://www.mongodb.com/careers/job/?gh_jid=7257122) | MongoDB | Madrid | 2026-08-12 |
 | [Enterprise Account Executive](https://www.mongodb.com/careers/job/?gh_jid=7257330) | MongoDB | Madrid | 2026-08-12 |
+| [Enterprise Account Executive, Growth](https://www.mongodb.com/careers/job/?gh_jid=7257122) | MongoDB | Madrid | 2026-08-12 |
+| [Senior Customer Success Manager](https://www.mongodb.com/careers/job/?gh_jid=8071152) | MongoDB | Madrid | 2026-08-12 |
 | [AI Product Manager](https://jobs.ashbyhq.com/prosper-ai/2dbe76ca-9c09-4879-9533-e1847bd31782) | Prosper Ai | Madrid | 2026-08-12 |
 | [Localization Language Lead - Italian](https://job-boards.greenhouse.io/2kmadrid/jobs/7769403003) | 2K Madrid | Madrid, Spain; Madrid, Spain | 2026-08-12 |
 | [Localization Language Lead - Italian](https://job-boards.greenhouse.io/2k/jobs/6562869003) | 2K | Madrid, Spain; Madrid, Spain | 2026-08-12 |
@@ -88,8 +88,8 @@ _794 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Junior User Researcher](https://job-boards.eu.greenhouse.io/feverup/jobs/4927024101) | FeverUp | Madrid | 2026-08-12 |
 | [German Speaking Customer Support Agent SIXT Share (m/f/d) - 100% Remote](https://jobs.smartrecruiters.com/SIXT/744000143037349) | SIXT | Madrid, es | 2026-08-12 |
 | [Senior End User Experience Manager](https://jobs.smartrecruiters.com/Nexthink/744000143033530) | Nexthink | Madrid, es | 2026-08-12 |
-| [Head of Operations](https://apply.workable.com/j/852D6A1CB9) | Zoomo | Madrid, Spain | 2026-08-12 |
 | [Senior Data Governance Analyst](https://apply.workable.com/j/B9594A749E) | MediaRadar | Madrid, Spain | 2026-08-12 |
+| [Head of Operations](https://apply.workable.com/j/852D6A1CB9) | Zoomo | Madrid, Spain | 2026-08-12 |
 | [Solutions Architect (Portuguese Speaking) Madrid Spain](https://databricks.com/company/careers/open-positions/job?gh_jid=8675568002) | Databricks | Madrid | 2026-08-11 |
 | [Sr. Solutions Architect Madrid Spain](https://databricks.com/company/careers/open-positions/job?gh_jid=8641242002) | Databricks | Madrid | 2026-08-11 |
 | [Manager, Delivery Solutions Architects](https://databricks.com/company/careers/open-positions/job?gh_jid=8545248002) | Databricks | Madrid; Milan, Italy; Paris, France | 2026-08-11 |
@@ -112,19 +112,19 @@ _794 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Digital Marketing Associate](https://job-boards.eu.greenhouse.io/feverup/jobs/4950501101) | FeverUp | Madrid | 2026-08-11 |
 | [Pintor/a de vehículos - Alemania](https://jobs.smartrecruiters.com/Auto1/744000142820389) | AUTO1 Group | Madrid, es | 2026-08-11 |
 | [Perito/a de vehículos para Alemania](https://jobs.smartrecruiters.com/Auto1/744000142818719) | AUTO1 Group | Madrid, es | 2026-08-11 |
-| [Localization Language Lead, Russian](https://job-boards.greenhouse.io/2k/jobs/7812726003) | 2K | Madrid, Spain | 2026-08-11 |
 | [Test Manager](https://job-boards.greenhouse.io/2k/jobs/5963871003) | 2K | Madrid, Spain | 2026-08-11 |
 | [Sr. Manager, LQA](https://job-boards.greenhouse.io/2k/jobs/7796121003) | 2K | Madrid, Spain | 2026-08-11 |
+| [Localization Language Lead, Russian](https://job-boards.greenhouse.io/2k/jobs/7812726003) | 2K | Madrid, Spain | 2026-08-11 |
 | [Localization Language Lead, Polish](https://job-boards.greenhouse.io/2k/jobs/7812737003) | 2K | Madrid, Spain | 2026-08-11 |
-| [Localization Language Lead, Arabic](https://job-boards.greenhouse.io/2k/jobs/7809858003) | 2K | Madrid, Spain | 2026-08-11 |
 | [Localization Language Lead, German](https://job-boards.greenhouse.io/2k/jobs/6562871003) | 2K | Madrid, Spain | 2026-08-11 |
-| [Localization Language Lead, German](https://job-boards.greenhouse.io/2kmadrid/jobs/7769396003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| [Localization Language Lead, Arabic](https://job-boards.greenhouse.io/2k/jobs/7809858003) | 2K | Madrid, Spain | 2026-08-11 |
 | [Localization Language Lead, Arabic](https://job-boards.greenhouse.io/2kmadrid/jobs/7820345003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
-| [Localization Language Lead, Polish](https://job-boards.greenhouse.io/2kmadrid/jobs/7820571003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
-| [Sr. Manager, LQA](https://job-boards.greenhouse.io/2kmadrid/jobs/7797615003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
-| [2K Madrid General](https://job-boards.greenhouse.io/2kmadrid/jobs/4418963003) | 2K Madrid | Madrid | 2026-08-11 |
-| [Localization Language Lead, Russian](https://job-boards.greenhouse.io/2kmadrid/jobs/7820584003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| [Localization Language Lead, German](https://job-boards.greenhouse.io/2kmadrid/jobs/7769396003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
 | [Test Manager](https://job-boards.greenhouse.io/2kmadrid/jobs/7806803003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| [Sr. Manager, LQA](https://job-boards.greenhouse.io/2kmadrid/jobs/7797615003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| [Localization Language Lead, Russian](https://job-boards.greenhouse.io/2kmadrid/jobs/7820584003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| [Localization Language Lead, Polish](https://job-boards.greenhouse.io/2kmadrid/jobs/7820571003) | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| [2K Madrid General](https://job-boards.greenhouse.io/2kmadrid/jobs/4418963003) | 2K Madrid | Madrid | 2026-08-11 |
 | [EMEA Tax Manager](https://job-boards.eu.greenhouse.io/feverup/jobs/4950422101) | FeverUp | Madrid | 2026-08-11 |
 | [Media Planner Associate](https://job-boards.eu.greenhouse.io/feverup/jobs/4950411101) | FeverUp | Madrid | 2026-08-11 |
 | [Media Buying Associate](https://job-boards.eu.greenhouse.io/feverup/jobs/4950407101) | FeverUp | Madrid | 2026-08-11 |
@@ -163,10 +163,10 @@ _794 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Lead Sales Manager, Enterprise Sales](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4921627101) | Veeam Software | Madrid, Spain | 2026-08-07 |
 | [Partner Manager](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4927097101) | Veeam Software | Madrid, Spain | 2026-08-07 |
 | [Training Specialist (Portuguese Speaker)](https://job-boards.greenhouse.io/celonis/jobs/7834892003?gh_jid=7834892003) | Celonis | Madrid, Spain | 2026-08-07 |
-| [Manager - Salesforce Marketing Cloud Development](https://job-boards.greenhouse.io/map/jobs/8542735002) | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
-| [Senior Developer - Salesforce Marketing Cloud](https://job-boards.greenhouse.io/map/jobs/8561852002) | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
 | [Senior Data Insights Consultant](https://job-boards.greenhouse.io/map/jobs/8603931002) | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
 | [Senior Technical Project Manager - Martech](https://job-boards.greenhouse.io/map/jobs/8580491002) | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
+| [Senior Developer - Salesforce Marketing Cloud](https://job-boards.greenhouse.io/map/jobs/8561852002) | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
+| [Manager - Salesforce Marketing Cloud Development](https://job-boards.greenhouse.io/map/jobs/8542735002) | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
 | [Senior Producer - Customer Testimonials](https://job-boards.greenhouse.io/celonis/jobs/7798567003?gh_jid=7798567003) | Celonis | Madrid, Spain | 2026-08-07 |
 | [Senior System Administrator T Cloud Public (m/f/d)](https://jobs.smartrecruiters.com/T-SystemsIberia/744000142160505) | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla or Valencia, es | 2026-08-07 |
 | [Cloud Architect - T Cloud Public (m/f/d)](https://jobs.smartrecruiters.com/T-SystemsIberia/744000142163319) | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla or Valencia, es | 2026-08-07 |
@@ -178,7 +178,6 @@ _794 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Global Licensing Business Development Associate](https://job-boards.eu.greenhouse.io/feverup/jobs/4948649101) | FeverUp | Madrid | 2026-08-07 |
 | [BECA CURRICULAR_ CLIENT SERVICES INTERN](https://job-boards.greenhouse.io/interbrand/jobs/8113923) | Interbrand | Madrid | 2026-08-07 |
 | [Especialista en Compra y Tasación de Coches - Alcalá de Henares](https://jobs.smartrecruiters.com/Auto1/744000142117744) | AUTO1 Group | Madrid, es | 2026-08-07 |
-| [Account Executive Enterprise Public Sector, Iberia](https://jobs.ashbyhq.com/mistral.ai/5a6b0492-507b-48c4-8573-290c3c761bf9) | Mistral AI | Madrid | 2026-08-07 |
 | [Growth B2B Internship](https://job-boards.greenhouse.io/cabify/jobs/8622168002) | Cabify | Madrid | 2026-08-07 |
 | [Lider de turno Operación (Ingles)](https://jobs.smartrecruiters.com/inetum2/744000142102389) | Inetum | Madrid, es | 2026-08-07 |
 | [Social Strategy Director (Mat Leave cover)](https://job-boards.greenhouse.io/oliver/jobs/8113756) | OLIVER Agency | Madrid, Spain | 2026-08-07 |
@@ -187,19 +186,19 @@ _794 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Consultant, Forensics Consulting](https://apply.workable.com/j/C93026EAE3) | Control Risks | Madrid, Spain | 2026-08-07 |
 | [Software Engineer, iOS Core Product - Madrid, Spain](https://job-boards.greenhouse.io/speechify/jobs/5981036004) | Speechify | Madrid, Spain | 2026-08-06 |
 | [Principal Software Engineer, GO & Rust (Engine)](https://www.workato.com/careers?gh_jid=8625415002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
-| [Senior Software Engineer (MLAI services)](https://www.workato.com/careers?gh_jid=8316191002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
-| [System Architect (GO/Rust)](https://www.workato.com/careers?gh_jid=8653283002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
-| [Staff Software Engineer (Ruby or GOlang)](https://www.workato.com/careers?gh_jid=8422463002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | [Senior Software Engineer (Ruby / GOlang)](https://www.workato.com/careers?gh_jid=8630805002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
+| [Staff Software Engineer (Ruby or GOlang)](https://www.workato.com/careers?gh_jid=8422463002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
+| [Senior Software Engineer (MLAI services)](https://www.workato.com/careers?gh_jid=8316191002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | [Staff AI Engineer](https://www.workato.com/careers?gh_jid=8316203002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
+| [System Architect (GO/Rust)](https://www.workato.com/careers?gh_jid=8653283002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | [Staff Software Engineer](https://www.workato.com/careers?gh_jid=8188419002#open-roles) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | [Senior Compliance Analyst](https://job-boards.greenhouse.io/taxbit/jobs/6138014004) | Taxbit | Madrid, Spain | 2026-08-06 |
 | [Cloud Security Engineer](https://jobs.ashbyhq.com/happyrobot.ai/039cf27f-591f-435a-84be-9b4b2df568f1) | Happyrobot.Ai | Madrid | 2026-08-06 |
 | [SOC Analyst](https://jobs.ashbyhq.com/happyrobot.ai/646f0c1e-f367-4c5c-a139-29cfb893cd66) | Happyrobot.Ai | Madrid | 2026-08-06 |
 | [SOC Engineer](https://jobs.ashbyhq.com/happyrobot.ai/76592a14-99a0-43ca-8049-f67be5086aa3) | Happyrobot.Ai | Madrid | 2026-08-06 |
+| [Technical Customer Success Manager](https://www.avepoint.com/careers/job-detail?gh_jid=8025919) | AvePoint | Barcelona, Barcelona, Spain; Madrid, Madrid, Spain; Milano, Milan, Italy | 2026-08-06 |
 | [Partner Development Manager - Spain](https://www.avepoint.com/careers/job-detail?gh_jid=8028227) | AvePoint | Madrid, Madrid, Spain | 2026-08-06 |
 | [Partner Account Manager](https://www.avepoint.com/careers/job-detail?gh_jid=8002601) | AvePoint | Madrid, Madrid, Spain | 2026-08-06 |
-| [Technical Customer Success Manager](https://www.avepoint.com/careers/job-detail?gh_jid=8025919) | AvePoint | Barcelona, Barcelona, Spain; Madrid, Madrid, Spain; Milano, Milan, Italy | 2026-08-06 |
 | [Account Executive](https://www.avepoint.com/careers/job-detail?gh_jid=7562624) | AvePoint | Madrid, Madrid, Spain | 2026-08-06 |
 | [Senior Software Engineer, Core Experiences - Madrid, Spain](https://job-boards.greenhouse.io/speechify/jobs/5974480004) | Speechify | Madrid, Spain | 2026-08-06 |
 | [Senior Pharmacovigilance Officer, Team Lead/ Case Processing Manager- Medical Device experience needed](https://jobs.smartrecruiters.com/ergomed/744000141959889) | Ergomed | Madrid, es | 2026-08-06 |
@@ -306,6 +305,7 @@ _794 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Senior AI Applied Software Engineer](https://job-boards.greenhouse.io/workatbackbase/jobs/8070940) | Backbase | Madrid | 2026-07-31 |
 | [AI Applied Software Engineer](https://job-boards.greenhouse.io/workatbackbase/jobs/8070942) | Backbase | Madrid | 2026-07-31 |
 | [Senior Legal Counsel (Europe based, Spain as preference)](https://jobs.smartrecruiters.com/ergomed/744000140883874) | Ergomed | Madrid, es | 2026-07-31 |
+| [Compensation and Benefits Manager (Regional/Global)](https://jobs.smartrecruiters.com/PSICRO/744000140876122) | PSI CRO | Madrid, es | 2026-07-31 |
 
 ---
 

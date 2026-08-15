@@ -2,20 +2,16 @@
 
 Roles listing Munich as their location.
 
-_1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
+_1,494 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| [CRM Manager – Investment & Pension Products (m/f/d)](https://job-boards.eu.greenhouse.io/raisin/jobs/4950847101) | Raisin | Berlin, Berlin, Germany; Frankfurt a. M.; Hamburg; Munich | 2026-08-14 |
-| [Future Projects Thermal Engineer](https://jobs.ashbyhq.com/the-exploration-company/3c87ef04-f1ba-4755-b84d-d9612984de8a) | Cherry Ventures | Munich, Germany | 2026-08-14 |
 | [Regional Field Marketing Manager - DACH](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4939485101) | Veeam Software | Munich, Germany | 2026-08-13 |
 | [Enterprise Account Executive, DACH](https://www.wiz.io/careers/job/4684213006/:title?gh_jid=4684213006) | Wiz, Inc. | Munich, Germany | 2026-08-13 |
 | [Store Advisor, Munich](https://boards.greenhouse.io/onrunning/jobs/7694132?gh_jid=7694132) | On | Munich | 2026-08-13 |
 | [Head of Europe Government Sales](https://jobs.ashbyhq.com/the-exploration-company/29e9c35d-2217-4e7f-9057-f692fd2b992a) | The Exploration Company | Munich, Germany | 2026-08-13 |
-| [Head of Europe Government Sales](https://jobs.ashbyhq.com/the-exploration-company/29e9c35d-2217-4e7f-9057-f692fd2b992a) | Cherry Ventures | Munich, Germany | 2026-08-13 |
 | [VP Sales (f/m/d)](https://jobs.ashbyhq.com/remberg/0573ff5f-38c8-4947-90e0-838b930a7ab0) | Remberg | Munich Office | 2026-08-13 |
 | [Head of Customer - DACH](https://jobs.ashbyhq.com/hawk/a4bfbc66-2174-4a73-9825-0537d61bad88) | Hawk | Munich | 2026-08-13 |
-| [GNC Software Intern](https://jobs.ashbyhq.com/the-exploration-company/88861ad4-8273-4e58-a4fe-ad3957cac3e2) | Cherry Ventures | Munich, Germany | 2026-08-13 |
 | [GNC Software Intern](https://jobs.ashbyhq.com/the-exploration-company/88861ad4-8273-4e58-a4fe-ad3957cac3e2) | The Exploration Company | Munich, Germany | 2026-08-13 |
 | [Medical Science Liaison Solid Tumors (all genders) für die Region Südost](https://jobs.smartrecruiters.com/abbvie/3743990014582626) | AbbVie | Munich, de | 2026-08-13 |
 | [Trainee - People Operations & Payroll (m/f/d)](https://jobs.ashbyhq.com/roadsurfer.com/1044b0c6-7f39-48a0-a1e0-5c7315300b8c) | Roadsurfer.Com | Munich Office | 2026-08-13 |
@@ -40,9 +36,9 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Avionics Hardware Engineer](https://helsing.ai/jobs/4878635101?gh_jid=4878635101) | Helsing | Munich | 2026-08-12 |
 | [Senior Customer Success Manager, Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000143144289) | ServiceNow | Munich, de | 2026-08-12 |
 | [Senior Customer Success Manager](https://www.mongodb.com/careers/job/?gh_jid=7906059) | MongoDB | Berlin; Frankfurt; Hamburg; Munich | 2026-08-12 |
-| [Enterprise Account Executive](https://www.mongodb.com/careers/job/?gh_jid=7979277) | MongoDB | Munich | 2026-08-12 |
-| [Solutions Architect](https://www.mongodb.com/careers/job/?gh_jid=8066544) | MongoDB | Berlin; Cologne; Frankfurt; Hamburg; Munich; Stuttgart | 2026-08-12 |
 | [Enterprise Account Executive, Growth](https://www.mongodb.com/careers/job/?gh_jid=7219021) | MongoDB | Berlin; Frankfurt; Munich | 2026-08-12 |
+| [Solutions Architect](https://www.mongodb.com/careers/job/?gh_jid=8066544) | MongoDB | Berlin; Cologne; Frankfurt; Hamburg; Munich; Stuttgart | 2026-08-12 |
+| [Enterprise Account Executive](https://www.mongodb.com/careers/job/?gh_jid=7979277) | MongoDB | Munich | 2026-08-12 |
 | [Senior Product Marketing Specialist](https://www.okta.com/company/careers/opportunity/8104905?gh_jid=8104905) | Okta | Munich, Germany | 2026-08-12 |
 | [Account Executive - Enterprise - DACH](https://jobs.ashbyhq.com/wordsmith/9c81bdc5-377f-49e1-ad1b-b03857b12912) | Wordsmith | Munich | 2026-08-12 |
 | [Senior Software Engineer - Omnia](https://job-boards.greenhouse.io/celonis/jobs/7712675003?gh_jid=7712675003) | Celonis | Munich, Germany | 2026-08-12 |
@@ -60,21 +56,21 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Werkstudent (m/w/d) Standortentwicklung & Immobilien](https://jobs.smartrecruiters.com/SIXT/744000143040279) | SIXT | Munich, de | 2026-08-12 |
 | [Werkstudent (m/w/d) Immobilienmanagement & Expansion](https://jobs.smartrecruiters.com/SIXT/744000143039610) | SIXT | Munich, de | 2026-08-12 |
 | [(Senior) Product Marketing Manager](https://helsing.ai/jobs/4468911101?gh_jid=4468911101) | Helsing | London; Munich - Berlin | 2026-08-12 |
-| [Werkstudent/in Medical Affairs (w/m/d)](https://apply.workable.com/j/27872388CD) | Ascendis Pharma | Munich, Germany | 2026-08-12 |
 | [Senior Business Development Manager (DACH) - Germany](https://apply.workable.com/j/6B60E4BD61) | AIRS Medical Inc | Munich, Germany | 2026-08-12 |
+| [Werkstudent/in Medical Affairs (w/m/d)](https://apply.workable.com/j/27872388CD) | Ascendis Pharma | Munich, Germany | 2026-08-12 |
 | [Office Manager (m/w/d)](https://apply.workable.com/j/AB5F48DC31) | Teltonika | Munich, Germany | 2026-08-12 |
 | [Projektmanager/-in (m/w/d)](https://jobs.smartrecruiters.com/MSXInternational/3743990014546096) | MSX International | Munich, de | 2026-08-11 |
 | [Strategic Core Account Executive - Automotive/OEM](https://databricks.com/company/careers/open-positions/job?gh_jid=8656210002) | Databricks | Munich, Germany | 2026-08-11 |
 | [Sr. Forward Deployed Engineer - FDE (Fullstack)](https://databricks.com/company/careers/open-positions/job?gh_jid=8645052002) | Databricks | Berlin, Germany; Munich, Germany | 2026-08-11 |
 | [Solutions Architect](https://databricks.com/company/careers/open-positions/job?gh_jid=8608603002) | Databricks | Munich, Germany | 2026-08-11 |
 | [Sr. Manager, Field Engineering](https://databricks.com/company/careers/open-positions/job?gh_jid=8572876002) | Databricks | Munich, Germany | 2026-08-11 |
-| [Lakebase Sales Specialist, Director (Germany)](https://databricks.com/company/careers/open-positions/job?gh_jid=8569518002) | Databricks | Munich, Germany | 2026-08-11 |
 | [Sr. Solutions Architect - Lakebase](https://databricks.com/company/careers/open-positions/job?gh_jid=8567849002) | Databricks | Berlin, Germany; Munich, Germany | 2026-08-11 |
 | [Director, Lakebase Sales Specialists (Central region)](https://databricks.com/company/careers/open-positions/job?gh_jid=8567843002) | Databricks | Munich, Germany | 2026-08-11 |
+| [Lakebase Sales Specialist, Director (Germany)](https://databricks.com/company/careers/open-positions/job?gh_jid=8569518002) | Databricks | Munich, Germany | 2026-08-11 |
 | [Field Technical Program Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8540665002) | Databricks | Munich, Germany | 2026-08-11 |
 | [Lakebase Sales Specialist, Associate Director (Germany)](https://databricks.com/company/careers/open-positions/job?gh_jid=8451296002) | Databricks | Munich, Germany | 2026-08-11 |
-| [Strategic Core Account Executive - Insurance, m/f/d](https://databricks.com/company/careers/open-positions/job?gh_jid=8353246002) | Databricks | Munich, Germany | 2026-08-11 |
 | [Director, Strategic Accounts - Logistics & Tech, m/f/d](https://databricks.com/company/careers/open-positions/job?gh_jid=8388585002) | Databricks | Munich, Germany | 2026-08-11 |
+| [Strategic Core Account Executive - Insurance, m/f/d](https://databricks.com/company/careers/open-positions/job?gh_jid=8353246002) | Databricks | Munich, Germany | 2026-08-11 |
 | [Customer Care Representative – German Speaking](https://job-boards.greenhouse.io/lucidmotors/jobs/5187388007) | Lucid Motors | Munich, BY | 2026-08-11 |
 | [Principal Talent Acquisition Partner](https://helsing.ai/jobs/4912850101?gh_jid=4912850101) | Helsing | Berlin; Munich | 2026-08-11 |
 | [EMEA HR Director](https://www.monks.com/careers/6115751004/job?gh_jid=6115751004) | Monks | Munich | 2026-08-11 |
@@ -103,8 +99,8 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Robot Learning Engineer](https://jobs.ashbyhq.com/Clera/28b83583-0f48-4bdd-b6dd-b4d0817034f1) | Clera | Munich | 2026-08-10 |
 | [Senior Robotic Systems Engineer](https://jobs.ashbyhq.com/Clera/83242e84-fdfd-4866-96c4-1a4135ec8622) | Clera | Munich | 2026-08-10 |
 | [Enterprise Solutions Engineer, Service Management](https://www.asana.com/jobs/apply/8112908?gh_jid=8112908) | Asana | Munich | 2026-08-10 |
-| [Manager, Enterprise Sales](https://www.asana.com/jobs/apply/8100429?gh_jid=8100429) | Asana | Munich | 2026-08-10 |
 | [Pre-sales Engineer (DACH)](https://www.asana.com/jobs/apply/8077240?gh_jid=8077240) | Asana | Munich | 2026-08-10 |
+| [Manager, Enterprise Sales](https://www.asana.com/jobs/apply/8100429?gh_jid=8100429) | Asana | Munich | 2026-08-10 |
 | [Corporate Account Executive, DACH](https://www.asana.com/jobs/apply/7962960?gh_jid=7962960) | Asana | Munich | 2026-08-10 |
 | [Senior Manager, Customer Marketing Management](https://jobs.smartrecruiters.com/ServiceNow/744000142725919) | ServiceNow | Munich, de | 2026-08-10 |
 | [Client Value Partner- AI-Driven Transformation & Process Intelligence (Logistics/Transportation)](https://job-boards.greenhouse.io/celonis/jobs/7777096003?gh_jid=7777096003) | Celonis | Munich, Germany | 2026-08-10 |
@@ -114,8 +110,8 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Lead/Principal Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production](https://job-boards.greenhouse.io/celonis/jobs/7770073003?gh_jid=7770073003) | Celonis | Munich, Germany | 2026-08-10 |
 | [Lead/Principal Management & Technology Consultant - Manufacturing/Production](https://job-boards.greenhouse.io/celonis/jobs/7770069003?gh_jid=7770069003) | Celonis | Munich, Germany | 2026-08-10 |
 | [Lead/Principal Digital Transformation & Process Optimisation Consultant - Manufacturing/Production](https://job-boards.greenhouse.io/celonis/jobs/7765927003?gh_jid=7765927003) | Celonis | Munich, Germany | 2026-08-10 |
-| [Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production](https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003) | Celonis | Munich, Germany | 2026-08-10 |
 | [Senior Value Engineer - Manufacturing/Production](https://job-boards.greenhouse.io/celonis/jobs/7825970003?gh_jid=7825970003) | Celonis | Munich, Germany | 2026-08-10 |
+| [Senior Process Intelligence & Supply Chain Transformation Consultant - Manufacturing/Production](https://job-boards.greenhouse.io/celonis/jobs/7825969003?gh_jid=7825969003) | Celonis | Munich, Germany | 2026-08-10 |
 | [Senior Management & Technology Consultant - Manufacturing/Production](https://job-boards.greenhouse.io/celonis/jobs/7825968003?gh_jid=7825968003) | Celonis | Munich, Germany | 2026-08-10 |
 | [Senior Digital Transformation & Process Optimisation Consultant - Manufacturing/Production](https://job-boards.greenhouse.io/celonis/jobs/7817273003?gh_jid=7817273003) | Celonis | Munich, Germany | 2026-08-10 |
 | [Senior Value Engineer - Scale Team](https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003) | Celonis | Munich, Germany | 2026-08-10 |
@@ -144,7 +140,6 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [AI & Backend Engineer](https://jobs.ashbyhq.com/Clera/e1847b78-b9e9-489e-8140-1f744440f4b6) | Clera | Munich | 2026-08-08 |
 | [Sales Development Representative (all genders)](https://jobs.ashbyhq.com/lio/02d110a7-4ffa-4234-a451-158971d1b30a) | Lio | Munich Office | 2026-08-08 |
 | [Manager, Sales Development](https://job-boards.greenhouse.io/tanium/jobs/8073291) | Tanium | Munich, Germany; Paris, France (Hybrid) | 2026-08-07 |
-| [AIT Thermal & Qualification Intern](https://jobs.ashbyhq.com/the-exploration-company/b75d0167-ce3b-43aa-b002-ca2b8c0b1ed8) | Cherry Ventures | Munich, Germany | 2026-08-07 |
 | [AIT Thermal & Qualification Intern](https://jobs.ashbyhq.com/the-exploration-company/b75d0167-ce3b-43aa-b002-ca2b8c0b1ed8) | The Exploration Company | Munich, Germany | 2026-08-07 |
 | [Director, Channel (DACH)](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4921586101) | Veeam Software | Munich, Germany | 2026-08-07 |
 | [Regional Alliance Manager, Germany](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4912256101) | Veeam Software | Munich, Germany | 2026-08-07 |
@@ -158,14 +153,11 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Senior / Staff Product Designer](https://jobs.ashbyhq.com/Clera/85a8a4f2-1434-4933-85c2-115e280eb075) | Clera | Munich | 2026-08-07 |
 | [Team Lead, Account Executives](https://jobs.ashbyhq.com/Clera/e515b802-bbdf-4b70-bf7c-ec7e9f337b0b) | Clera | Munich | 2026-08-07 |
 | [Founding Engineer](https://jobs.ashbyhq.com/Clera/93532c53-8104-44fb-b1e1-39a31223449a) | Clera | Munich | 2026-08-07 |
-| [Launcher Propulsion Engineer](https://jobs.ashbyhq.com/the-exploration-company/afa09042-a926-46f6-8a57-9e379cbe6377) | Cherry Ventures | Munich, Germany | 2026-08-07 |
 | [Launcher Propulsion Engineer](https://jobs.ashbyhq.com/the-exploration-company/afa09042-a926-46f6-8a57-9e379cbe6377) | The Exploration Company | Munich, Germany | 2026-08-07 |
 | [Avionics Manufacturing Team Lead](https://jobs.ashbyhq.com/the-exploration-company/a3a6af0b-81ff-4f2b-b4ca-2d6c5c7d9837) | The Exploration Company | Munich, Germany | 2026-08-07 |
-| [Avionics Manufacturing Team Lead](https://jobs.ashbyhq.com/the-exploration-company/a3a6af0b-81ff-4f2b-b4ca-2d6c5c7d9837) | Cherry Ventures | Munich, Germany | 2026-08-07 |
-| [Production Engineer - Mechatronic Systems](https://helsing.ai/jobs/4642812101?gh_jid=4642812101) | Helsing | Munich | 2026-08-07 |
 | [Production Engineer - Software Integration](https://helsing.ai/jobs/4788891101?gh_jid=4788891101) | Helsing | Munich | 2026-08-07 |
+| [Production Engineer - Mechatronic Systems](https://helsing.ai/jobs/4642812101?gh_jid=4642812101) | Helsing | Munich | 2026-08-07 |
 | [Senior Systems Engineer](https://spire.com/careers/job-openings/job/?gh_jid=8113829&gh_jid=8113829) | Spire | Munich, Germany | 2026-08-07 |
-| [EGSE Engineer](https://jobs.ashbyhq.com/the-exploration-company/a6f7e9a8-3ce1-4e49-8547-2c047ec83d4f) | Cherry Ventures | Munich, Germany | 2026-08-07 |
 | [EGSE Engineer](https://jobs.ashbyhq.com/the-exploration-company/a6f7e9a8-3ce1-4e49-8547-2c047ec83d4f) | The Exploration Company | Munich, Germany | 2026-08-07 |
 | [Head of Production Quality](https://helsing.ai/jobs/4948713101?gh_jid=4948713101) | Helsing | Munich | 2026-08-07 |
 | [Webflow & Visual Specialist (all genders)](https://jobs.ashbyhq.com/lio/5fd559ee-67e8-46dd-8fe7-e1be6f96ea31) | Lio | Munich Office | 2026-08-07 |
@@ -196,27 +188,26 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Senior Full Stack Engineer](https://jobs.ashbyhq.com/Clera/48d5c5a2-6af2-4c8a-9880-9c17ac720195) | Clera | Munich | 2026-08-07 |
 | [Full Stack Engineer](https://jobs.ashbyhq.com/Clera/2066e4d1-9df2-42fb-ad27-cfc5fd8ffcca) | Clera | Munich | 2026-08-07 |
 | [Junior Product Designer](https://jobs.ashbyhq.com/Clera/6470f87b-a8b8-408f-8ea4-6b494bee68e2) | Clera | Munich | 2026-08-07 |
-| [Rezeptionist/in (m/w/d) in Teilzeit gesucht](https://apply.workable.com/j/9AC81116BD) | Soulhouse | Munich, Germany | 2026-08-07 |
 | [Senior Konzepter:in (m/w/d)](https://apply.workable.com/j/46951F15AB) | We Are Social | Munich, Germany | 2026-08-07 |
 | [Senior Solution Manager (m/f/d) for GenAI in Banking](https://apply.workable.com/j/E1D93F5894) | SAP Fioneer | Munich, Germany | 2026-08-07 |
-| [Staff Software Engineer (Ruby or GOlang)](https://www.workato.com/careers?gh_jid=8630794002#open-roles) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-08-06 |
-| [Staff AI Engineer](https://www.workato.com/careers?gh_jid=8579922002#open-roles) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-08-06 |
+| [Rezeptionist/in (m/w/d) in Teilzeit gesucht](https://apply.workable.com/j/9AC81116BD) | Soulhouse | Munich, Germany | 2026-08-07 |
 | [Principal Software Engineer, GO & Rust (Engine)](https://www.workato.com/careers?gh_jid=8630787002#open-roles) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-08-06 |
+| [Staff AI Engineer](https://www.workato.com/careers?gh_jid=8579922002#open-roles) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-08-06 |
+| [Staff Software Engineer (Ruby or GOlang)](https://www.workato.com/careers?gh_jid=8630794002#open-roles) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-08-06 |
 | [System Architect (GO/Rust)](https://www.workato.com/careers?gh_jid=8653284002#open-roles) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-08-06 |
 | [Senior Rust Developer](https://www.workato.com/careers?gh_jid=8509060002#open-roles) | Workato | Munich, Germany | 2026-08-06 |
-| [Sales Associate, Munich (m/f/d)](https://job-boards.greenhouse.io/lucidmotors/jobs/5203685007) | Lucid Motors | Munich, BY | 2026-08-06 |
 | [Service Advisor, Munich (m/f/d)](https://job-boards.greenhouse.io/lucidmotors/jobs/5203699007) | Lucid Motors | Munich, BY | 2026-08-06 |
+| [Sales Associate, Munich (m/f/d)](https://job-boards.greenhouse.io/lucidmotors/jobs/5203685007) | Lucid Motors | Munich, BY | 2026-08-06 |
 | [Senior Software Quality Engineer - 3D Performance Computing (F/M/D)](https://job-boards.eu.greenhouse.io/navvis/jobs/4764555101) | NavVis | Munich Hybrid (NavVis GmbH) | 2026-08-06 |
 | [Software Engineer, Platform - Munich, Germany](https://job-boards.greenhouse.io/speechify/jobs/5976191004) | Speechify | Munich, Germany | 2026-08-06 |
-| [Partner Development Manager](https://www.avepoint.com/careers/job-detail?gh_jid=8093377) | AvePoint | Munich, Germany | 2026-08-06 |
-| [Partner Account Manager](https://www.avepoint.com/careers/job-detail?gh_jid=7562563) | AvePoint | Munich, Germany | 2026-08-06 |
-| [Account Executive, Public Sector](https://www.avepoint.com/careers/job-detail?gh_jid=7884433) | AvePoint | Munich, Germany | 2026-08-06 |
-| [Business Development Representative - Public Sector](https://www.avepoint.com/careers/job-detail?gh_jid=8045916) | AvePoint | Munich, Germany | 2026-08-06 |
-| [Mid-Market Account Executive](https://www.avepoint.com/careers/job-detail?gh_jid=7562561) | AvePoint | Munich, Germany | 2026-08-06 |
 | [Forward Deployed Engineer - AI](https://www.avepoint.com/careers/job-detail?gh_jid=8041101) | AvePoint | London, United Kingdom; Munich, Germany | 2026-08-06 |
+| [Mid-Market Account Executive](https://www.avepoint.com/careers/job-detail?gh_jid=7562561) | AvePoint | Munich, Germany | 2026-08-06 |
+| [Partner Account Manager](https://www.avepoint.com/careers/job-detail?gh_jid=7562563) | AvePoint | Munich, Germany | 2026-08-06 |
+| [Partner Development Manager](https://www.avepoint.com/careers/job-detail?gh_jid=8093377) | AvePoint | Munich, Germany | 2026-08-06 |
+| [Business Development Representative - Public Sector](https://www.avepoint.com/careers/job-detail?gh_jid=8045916) | AvePoint | Munich, Germany | 2026-08-06 |
+| [Account Executive, Public Sector](https://www.avepoint.com/careers/job-detail?gh_jid=7884433) | AvePoint | Munich, Germany | 2026-08-06 |
 | [Sales Leader (Enterprise) \| Germany](https://jobs.ashbyhq.com/deepl/6eec6707-c7b6-4b28-8d2a-c218c34a1897) | Deepl | Munich | 2026-08-06 |
 | [Brand Manager - Marketing & Communications](https://helsing.ai/jobs/4945398101?gh_jid=4945398101) | Helsing | Berlin; London; Munich | 2026-08-06 |
-| [Senior Environment Health & Safety Engineer](https://jobs.ashbyhq.com/the-exploration-company/f6f0649e-5f4d-4feb-a436-7a9047856c9a) | Cherry Ventures | Munich, Germany | 2026-08-06 |
 | [Senior Environment Health & Safety Engineer](https://jobs.ashbyhq.com/the-exploration-company/f6f0649e-5f4d-4feb-a436-7a9047856c9a) | The Exploration Company | Munich, Germany | 2026-08-06 |
 | [Intern AI Transformation & Automation (m/f/d)](https://job-boards.greenhouse.io/autoscout24/jobs/7820095003) | AutoScout24 | Munich (Germany) | 2026-08-06 |
 | [Partnerships Specialist](https://jobs.ashbyhq.com/proxima-fusion/ce7545d4-7280-4c19-b29d-caf3551e17cc) | Proxima Fusion | Munich | 2026-08-06 |
@@ -249,17 +240,17 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Key Account Manager (m/f/d)](https://www.simscale.com/jobs/8682399002?gh_jid=8682399002) | SimScale | Munich, Germany and Remote | 2026-08-05 |
 | [Founders Associate (Growth & Marketing)](https://jobs.ashbyhq.com/zeit-ai/a8510b32-2327-4ab8-9336-e7fb9efec205) | Zeit Ai | Munich | 2026-08-05 |
 | [Senior Machine Learning Engineer - Semantic Spatial AI (F/M/D)](https://job-boards.eu.greenhouse.io/navvis/jobs/4835176101) | NavVis | Munich Hybrid (NavVis GmbH) | 2026-08-05 |
-| [Spacecraft Electronics Engineer](https://spire.com/careers/job-openings/job/?gh_jid=8074204&gh_jid=8074204) | Spire | Munich, Bavaria, Germany | 2026-08-05 |
-| [Customer Success Manager](https://spire.com/careers/job-openings/job/?gh_jid=8081276&gh_jid=8081276) | Spire | Munich | 2026-08-05 |
-| [Social Media & Content Manager](https://spire.com/careers/job-openings/job/?gh_jid=7270822&gh_jid=7270822) | Spire | Munich, Bavaria, Germany | 2026-08-05 |
-| [Senior Manager, Digital Marketing & Channel](https://spire.com/careers/job-openings/job/?gh_jid=7686961&gh_jid=7686961) | Spire | Munich | 2026-08-05 |
 | [Facilities & Workplace Manager](https://spire.com/careers/job-openings/job/?gh_jid=8065037&gh_jid=8065037) | Spire | Munich | 2026-08-05 |
+| [Social Media & Content Manager](https://spire.com/careers/job-openings/job/?gh_jid=7270822&gh_jid=7270822) | Spire | Munich, Bavaria, Germany | 2026-08-05 |
+| [Spacecraft Electronics Engineer](https://spire.com/careers/job-openings/job/?gh_jid=8074204&gh_jid=8074204) | Spire | Munich, Bavaria, Germany | 2026-08-05 |
+| [Senior Manager, Digital Marketing & Channel](https://spire.com/careers/job-openings/job/?gh_jid=7686961&gh_jid=7686961) | Spire | Munich | 2026-08-05 |
+| [Customer Success Manager](https://spire.com/careers/job-openings/job/?gh_jid=8081276&gh_jid=8081276) | Spire | Munich | 2026-08-05 |
 | [Senior Full Stack Software Engineer - Angular/Typescript/Python + Robotics Backend (F/M/D)](https://job-boards.eu.greenhouse.io/navvis/jobs/4932274101) | NavVis | Munich Hybrid (NavVis GmbH) | 2026-08-05 |
 | [Android Engineer (all genders)](https://jobs.ashbyhq.com/avelios-medical/4f17b661-6367-481a-9790-167ec2bb7c55) | Avelios Medical | Munich | 2026-08-05 |
 | [Senior Information Security Manager (GRC)](https://jobs.ashbyhq.com/deepl/e9635327-a951-410e-bfc5-dddcf9094b12) | Deepl | Munich | 2026-08-05 |
 | [Office Manager](https://jobs.smartrecruiters.com/Sobi/744000141651580) | Sobi | Munich, de | 2026-08-05 |
-| [M&A Consultant - Life Sciences - Germany](https://apply.workable.com/j/907F996508) | Infosys Consulting - Europe | Munich, Germany | 2026-08-05 |
 | [GRC Consultant - Life Sciences - Germany](https://apply.workable.com/j/0ED25F8019) | Infosys Consulting - Europe | Munich, Germany | 2026-08-05 |
+| [M&A Consultant - Life Sciences - Germany](https://apply.workable.com/j/907F996508) | Infosys Consulting - Europe | Munich, Germany | 2026-08-05 |
 | [Praktikum Commercial Operations & Account Management](https://jobs.ashbyhq.com/carwow/cf19d3fe-de32-45c9-a5c5-dcff161c164c) | Carwow | Munich | 2026-08-04 |
 | [Enterprise Solutions Engineer - Munich](https://jobs.ashbyhq.com/dash0/3b237bd4-a2e2-496e-bab2-5d74a03ed638) | Dash0 | Munich - Office | 2026-08-04 |
 | [Enterprise Customer Success Manager (m/f/d)](https://www.simscale.com/jobs/8572627002?gh_jid=8572627002) | SimScale | Munich, Germany and Remote | 2026-08-04 |
@@ -269,7 +260,6 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Product Manager, SaaS (F/M/D)](https://job-boards.eu.greenhouse.io/navvis/jobs/4879815101) | NavVis | Munich Hybrid (NavVis GmbH) | 2026-08-04 |
 | [Finance Business Partner - Germany](https://jobs.ashbyhq.com/omaze/43d834ae-a7c9-45f1-8a2f-90709168fe4a) | Omaze | Munich | 2026-08-04 |
 | [Administrative Assistant](https://jobs.ashbyhq.com/the-exploration-company/5fac2626-551b-47d6-9f9c-a8b2a4a56714) | The Exploration Company | Munich, Germany | 2026-08-04 |
-| [Administrative Assistant](https://jobs.ashbyhq.com/the-exploration-company/5fac2626-551b-47d6-9f9c-a8b2a4a56714) | Cherry Ventures | Munich, Germany | 2026-08-04 |
 | [Staff Software Engineer - Context Model Core Team](https://job-boards.greenhouse.io/celonis/jobs/7820430003?gh_jid=7820430003) | Celonis | Munich, Germany | 2026-08-04 |
 | [Software Engineer - Context Model Core Team](https://job-boards.greenhouse.io/celonis/jobs/7820422003?gh_jid=7820422003) | Celonis | Munich, Germany | 2026-08-04 |
 | [Senior Software Engineer - Context Model Core Team](https://job-boards.greenhouse.io/celonis/jobs/7820412003?gh_jid=7820412003) | Celonis | Munich, Germany | 2026-08-04 |
@@ -284,8 +274,8 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Senior Data Engineer, Simulation & Synthetic (m/f/d)](https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4942236101) | ARX Robotics GmbH | Munich | 2026-08-04 |
 | [Assistant Store Manager (Sales & Service) - Munich](https://boards.greenhouse.io/aloyoga/jobs/6097986004?gh_jid=6097986004) | ALO | Munich, Bavaria, Germany | 2026-08-04 |
 | [Assistant Store Manager (Stock) - Munich](https://boards.greenhouse.io/aloyoga/jobs/6102916004?gh_jid=6102916004) | ALO | Munich, Bavaria, Germany | 2026-08-04 |
-| [Assistant Store Manager (Visual) - Munich](https://boards.greenhouse.io/aloyoga/jobs/6102922004?gh_jid=6102922004) | ALO | Munich, Bavaria, Germany | 2026-08-04 |
 | [Store Manager - Munich](https://boards.greenhouse.io/aloyoga/jobs/5746448004?gh_jid=5746448004) | ALO | Munich, Bavaria, Germany | 2026-08-04 |
+| [Assistant Store Manager (Visual) - Munich](https://boards.greenhouse.io/aloyoga/jobs/6102922004?gh_jid=6102922004) | ALO | Munich, Bavaria, Germany | 2026-08-04 |
 | [Financial Controller (m/f/d)](https://apply.workable.com/j/9443FDF8B0) | Westfalia Fruit | Munich, Germany | 2026-08-04 |
 | [AI Quality Engineer - Working Student (f/m/d)](https://jobs.ashbyhq.com/manex/7c7a9f91-8d59-4a75-a723-eadfe1e3f1bf) | Manex | Munich | 2026-08-03 |
 | [Applied AI Architect, Applied AI (Digital Natives Business)](https://job-boards.greenhouse.io/anthropic/jobs/5226862008) | Anthropic | Munich, Germany | 2026-08-03 |
@@ -306,6 +296,16 @@ _1,282 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Consultant Automotive IT Transformation (m/f/d)](https://jobs.smartrecruiters.com/nagarro1/744000141235494) | Nagarro | Munich, de | 2026-08-03 |
 | [Robot Operator (Mensch)](https://jobs.ashbyhq.com/neura-robotics-gmbh/55debad7-04a4-422b-83dd-99d8fed31cc4) | Neura Robotics Gmbh | Munich | 2026-08-03 |
 | [Robot Operator (human)](https://jobs.ashbyhq.com/neura-robotics-gmbh/f4f76f37-9d09-4486-a425-9630a3041a2b) | Neura Robotics Gmbh | Munich | 2026-08-03 |
+| [SAP Consultant - Life Sciences - Germany](https://apply.workable.com/j/CD65DB3D12) | Infosys Consulting - Europe | Munich, Germany | 2026-08-03 |
+| [Technical Project Manager (TPM) Germany](https://job-boards.eu.greenhouse.io/parloa/jobs/4719998101) | Parloa | Berlin Office; Munich Office; Remotely in Germany | 2026-08-02 |
+| [Strategic Account Executive Okta](https://www.okta.com/company/careers/opportunity/8040913?gh_jid=8040913) | Okta | Munich, Germany | 2026-07-31 |
+| [HR-Manager/Senior HR-Manager](https://jobs.smartrecruiters.com/Sobi/744000140905995) | Sobi | Munich, de | 2026-07-31 |
+| [Freelance Onsite Support Technician – 1st / 2nd Level Support ( m/w/d)](https://jobs.smartrecruiters.com/EVERIENCE/744000140903090) | EVERIENCE | Munich, de | 2026-07-31 |
+| [Partner Success Executive (m/f/d)](https://job-boards.greenhouse.io/gympass/jobs/8613538002) | Wellhub | Germany (Munich - Hybrid) | 2026-07-31 |
+| [Associate Data Analytics (m/w/d), AI + Innovation](https://job-boards.greenhouse.io/fgsglobal/jobs/5185503007) | FGS Global | Munich | 2026-07-31 |
+| [Senior Frontend Software Engineer (all genders)](https://jobs.ashbyhq.com/wemolo/18816dfc-a29c-4109-b8b5-9b25fa7bc351) | Wemolo | Munich | 2026-07-31 |
+| [Senior Product Designer (m/f/d)](https://job-boards.greenhouse.io/autoscout24/jobs/7596900003) | AutoScout24 | Berlin (Germany); Munich (Germany) | 2026-07-31 |
+| [Umweltplaner / Landschaftsplaner (m/w/d) \| Objektplanung & Ausführungsplanung](https://jobs.smartrecruiters.com/AFRY/744000140847111) | AFRY | Munich, de | 2026-07-31 |
 
 ---
 

@@ -2,11 +2,10 @@
 
 Roles whose title reads as engineering.
 
-_44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
+_55,863 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| [Future Projects Thermal Engineer](https://jobs.ashbyhq.com/the-exploration-company/3c87ef04-f1ba-4755-b84d-d9612984de8a) | Cherry Ventures | Munich, Germany | 2026-08-14 |
 | [Lead Engineer - Product Catalog Team](https://www.stitchfix.com/careers/jobs?gh_jid=8031204&gh_jid=8031204) | Stitch Fix | Remote, USA | 2026-08-14 |
 | [ML Platform Engineer](https://www.stitchfix.com/careers/jobs?gh_jid=8014448&gh_jid=8014448) | Stitch Fix | Remote, USA | 2026-08-14 |
 | [Senior Structural Engineer](https://job-boards.greenhouse.io/woolpert/jobs/4361415009) | Woolpert | Chicago, IL | 2026-08-14 |
@@ -25,7 +24,6 @@ _44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Senior Solutions Engineer - Spend/ERP](https://jobs.ashbyhq.com/airwallex/77d1969e-ccf6-4d7a-bfa4-6e7e53629705) | Airwallex | NL - Amsterdam | 2026-08-14 |
 | [Finance Engineer (m/f/d)](https://jobs.ashbyhq.com/voize/52d122d4-e54e-4376-b510-b7abc472afd4) | Voize | Berlin | 2026-08-14 |
 | [Senior Oracle PL/SQL Software Engineer](https://jobs.smartrecruiters.com/Avaloq1/744000143465039) | Avaloq | Makati City, ph | 2026-08-14 |
-| [AIT Electrical Engineer](https://jobs.ashbyhq.com/the-exploration-company/7f288d6c-fd70-47fe-abd0-bfb738a3b08f) | Cherry Ventures | Bordeaux, France | 2026-08-14 |
 | [WAF/IAM Engineer](https://jobs.smartrecruiters.com/Avaloq1/744000143455909) | Avaloq | Pune, in | 2026-08-14 |
 | [Principal / Senior Engineer, Test Engineering, Technical Operations Management](https://jobs.smartrecruiters.com/Aumovio/744000143447849) | Aumovio | Singapore, sg | 2026-08-14 |
 | [Principal / Senior Engineer, Product Engineering, Technical Operations Management](https://jobs.smartrecruiters.com/Aumovio/744000143446831) | Aumovio | Singapore, sg | 2026-08-14 |
@@ -42,8 +40,8 @@ _44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Senior Software Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004?gh_jid=5823270004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
 | [Staff Chemical Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6133809004?gh_jid=6133809004) | Redwood Materials | McCarran, NV | 2026-08-14 |
 | [Systems Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/6007517004?gh_jid=6007517004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
-| [Staff Electrical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5992298004?gh_jid=5992298004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
 | [Staff Electrical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5989709004?gh_jid=5989709004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Staff Electrical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5992298004?gh_jid=5992298004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
 | [Staff Electrical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5992299004?gh_jid=5992299004) | Redwood Materials | Carson City, NV | 2026-08-14 |
 | [Production Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6123022004?gh_jid=6123022004) | Redwood Materials | McCarran, NV | 2026-08-14 |
 | [Cathode Design Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6103561004?gh_jid=6103561004) | Redwood Materials | McCarran, NV | 2026-08-14 |
@@ -95,14 +93,14 @@ _44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Senior Data Platform Engineer (Cloud-Native)](https://jobs.smartrecruiters.com/Sandisk/744000143408559) | Sandisk | Batu Kawan, my | 2026-08-14 |
 | [Working Student, Software Engineering](https://job-boards.greenhouse.io/planetlabs/jobs/8011312) | Planet | Ljubljana, Slovenia | 2026-08-14 |
 | [Sustainment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5041084007?gh_jid=5041084007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
-| [Staff Frontend Engineer, Ads Creative](https://job-boards.greenhouse.io/reddit/jobs/8082867) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Machine Learning Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8084032) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Frontend Engineer, Ads Creative](https://job-boards.greenhouse.io/reddit/jobs/8082867) | Reddit | Remote - United States | 2026-08-14 |
 | [Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Reddit | Remote - United States | 2026-08-14 |
 | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022942) | Reddit | Remote - The Netherlands | 2026-08-14 |
 | [Senior Business Engineer - Ads](https://job-boards.greenhouse.io/reddit/jobs/8022260) | Reddit | Remote - British Columbia, Canada | 2026-08-14 |
-| [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Reddit | Remote - United Kingdom | 2026-08-14 |
 | [Senior Business Engineer - Ads](https://job-boards.greenhouse.io/reddit/jobs/7954598) | Reddit | Remote - United States | 2026-08-14 |
 | [Engineering Manager, Ads ML Efficiency](https://job-boards.greenhouse.io/reddit/jobs/8022366) | Reddit | Remote - United States | 2026-08-14 |
+| [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Reddit | Remote - United Kingdom | 2026-08-14 |
 | [Engineering Manager, Advanced Signals (SWE)](https://job-boards.greenhouse.io/reddit/jobs/7966985) | Reddit | Remote - United States | 2026-08-14 |
 | [Staff Engineer, Ads Business Manager](https://job-boards.greenhouse.io/reddit/jobs/7980795) | Reddit | Remote - United States | 2026-08-14 |
 | [Staff Android Engineer, Brand Ad Formats](https://job-boards.greenhouse.io/reddit/jobs/8127002) | Reddit | Remote - United States | 2026-08-14 |
@@ -133,8 +131,8 @@ _44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Principal Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5156438007) | Zscaler | San Jose, California, USA | 2026-08-13 |
 | [Senior Detection & Response Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5137999007?gh_jid=5137999007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Senior Hardware Test Engineer](https://job-boards.greenhouse.io/oura/jobs/4113749009) | Ōura | Hybrid - San Francisco, California | 2026-08-13 |
-| [Technical Support Engineer - University Graduate 2026](https://job-boards.greenhouse.io/verkada/jobs/4715534007) | Verkada | San Mateo, CA United States | 2026-08-13 |
 | [Technical Support Engineer - University Graduate 2026](https://job-boards.greenhouse.io/verkada/jobs/5172974007) | Verkada | New York City, NY United States | 2026-08-13 |
+| [Technical Support Engineer - University Graduate 2026](https://job-boards.greenhouse.io/verkada/jobs/4715534007) | Verkada | San Mateo, CA United States | 2026-08-13 |
 | [Senior Software Engineer, Revenue Engineering](https://job-boards.greenhouse.io/muckrack/jobs/8709926002) | Muck Rack | Remote (Ireland, Bulgaria) | 2026-08-13 |
 | [Sr. Software Engineer - Backend](https://job-boards.greenhouse.io/lively43/jobs/5838065004) | Lively | Denver, CO | 2026-08-13 |
 | [Senior Software Engineer, DevOps](https://job-boards.greenhouse.io/muckrack/jobs/8523017002) | Muck Rack | Remote (Bulgaria, Ireland, United Kingdom) | 2026-08-13 |
@@ -163,32 +161,32 @@ _44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Staff Data Engineer](https://boards.greenhouse.io/rdccareers/jobs/7848816003?gh_jid=7848816003) | Realtor.com Careers | Austin, Texas, United States | 2026-08-13 |
 | [Cleared C# / .NET Developer (Washington, DC)](https://boards.greenhouse.io/accenturefederalservices/jobs/4691609006?gh_jid=4691609006) | Accenture Federal Services | Washington, DC | 2026-08-13 |
 | [Mission Software Engineer, Vehicle Software, Frontend](https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007) | Anduril Industries | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-08-13 |
-| [Technical Support Engineer III](https://job-boards.greenhouse.io/planetlabs/jobs/8042428) | Planet | Berlin, Germany | 2026-08-13 |
-| [Flight Dynamics Engineer, Orbits R&D](https://job-boards.greenhouse.io/planetlabs/jobs/8045328) | Planet | San Francisco, CA | 2026-08-13 |
-| [Senior Spacecraft Qualification Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7963971) | Planet | Berlin, Germany | 2026-08-13 |
-| [Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8096079) | Planet | San Francisco, CA | 2026-08-13 |
-| [Opto-Mechanical Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7476623) | Planet | San Francisco, CA | 2026-08-13 |
-| [Senior Software Engineer, Storage Infrastructure](https://job-boards.greenhouse.io/planetlabs/jobs/7967527) | Planet | United States, Remote | 2026-08-13 |
-| [Senior Forward Deployed Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8011111) | Planet | United States, Remote | 2026-08-13 |
-| [Sr. Satcom Modem Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7524896) | Planet | San Francisco, CA | 2026-08-13 |
-| [Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence](https://job-boards.greenhouse.io/planetlabs/jobs/8013156) | Planet | APAC, Remote | 2026-08-13 |
 | [Engineering Program Manager — Special Projects](https://job-boards.greenhouse.io/planetlabs/jobs/7988579) | Planet | San Francisco, CA | 2026-08-13 |
-| [Software Engineer, Platform Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7555019) | Planet | United States, Remote | 2026-08-13 |
-| [Software Engineer, Platform Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7593419) | Planet | Canada, Remote | 2026-08-13 |
+| [Software Engineer, Missions Software](https://job-boards.greenhouse.io/planetlabs/jobs/8008355) | Planet | United States, Remote; Canada, Remote | 2026-08-13 |
 | [Software Engineer - Platform, Mission Systems](https://job-boards.greenhouse.io/planetlabs/jobs/8022265) | Planet | United States, Remote; Canada, Remote | 2026-08-13 |
+| [Software Engineer, Platform Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7593419) | Planet | Canada, Remote | 2026-08-13 |
+| [Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8096079) | Planet | San Francisco, CA | 2026-08-13 |
+| [Software Engineer, Platform Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7555019) | Planet | United States, Remote | 2026-08-13 |
+| [Senior Spacecraft Qualification Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7963971) | Planet | Berlin, Germany | 2026-08-13 |
+| [Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence](https://job-boards.greenhouse.io/planetlabs/jobs/8013156) | Planet | APAC, Remote | 2026-08-13 |
+| [Senior Software Engineer, Storage Infrastructure](https://job-boards.greenhouse.io/planetlabs/jobs/7967527) | Planet | United States, Remote | 2026-08-13 |
+| [Senior Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7979255) | Planet | Ljubljana, Slovenia | 2026-08-13 |
+| [Senior Forward Deployed Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8011111) | Planet | United States, Remote | 2026-08-13 |
+| [Senior Engineering Manager, D&I Analytics](https://job-boards.greenhouse.io/planetlabs/jobs/8068089) | Planet | Washington, D.C. | 2026-08-13 |
+| [Senior Engineering Manager - AI Geospatial Assistant Team](https://job-boards.greenhouse.io/planetlabs/jobs/7603801) | Planet | San Francisco, CA | 2026-08-13 |
 | [Senior Data Engineer, Constellation Services](https://job-boards.greenhouse.io/planetlabs/jobs/8052727) | Planet | Berlin, Germany | 2026-08-13 |
 | [Senior Data Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8016466) | Planet | Washington DC; Denver, CO | 2026-08-13 |
-| [PreSales Sr. Solutions Architect - French Defense and Intelligence](https://job-boards.greenhouse.io/planetlabs/jobs/7622544) | Planet | France, Remote | 2026-08-13 |
-| [Senior Engineering Manager, D&I Analytics](https://job-boards.greenhouse.io/planetlabs/jobs/8068089) | Planet | Washington, D.C. | 2026-08-13 |
 | [Senior Camera Systems Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7644560) | Planet | San Francisco, CA | 2026-08-13 |
-| [Pre-Sales Solutions Architect, LATAM](https://job-boards.greenhouse.io/planetlabs/jobs/8035138) | Planet | LATAM, Remote | 2026-08-13 |
-| [PreSales Sr. Solutions Architect - French Defense and Intelligence](https://job-boards.greenhouse.io/planetlabs/jobs/7700271) | Planet | United Kingdom, Remote | 2026-08-13 |
-| [Data Visualization Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8044691) | Planet | San Francisco, CA | 2026-08-13 |
-| [Manufacturing Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7976116) | Planet | Berlin, Germany | 2026-08-13 |
 | [Quality Engineer Lead](https://job-boards.greenhouse.io/planetlabs/jobs/8042385) | Planet | Berlin, Germany | 2026-08-13 |
-| [Senior Engineering Manager - AI Geospatial Assistant Team](https://job-boards.greenhouse.io/planetlabs/jobs/7603801) | Planet | San Francisco, CA | 2026-08-13 |
-| [Software Engineer, Missions Software](https://job-boards.greenhouse.io/planetlabs/jobs/8008355) | Planet | United States, Remote; Canada, Remote | 2026-08-13 |
-| [Senior Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7979255) | Planet | Ljubljana, Slovenia | 2026-08-13 |
+| [Sr. Satcom Modem Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7524896) | Planet | San Francisco, CA | 2026-08-13 |
+| [PreSales Sr. Solutions Architect - French Defense and Intelligence](https://job-boards.greenhouse.io/planetlabs/jobs/7622544) | Planet | France, Remote | 2026-08-13 |
+| [Technical Support Engineer III](https://job-boards.greenhouse.io/planetlabs/jobs/8042428) | Planet | Berlin, Germany | 2026-08-13 |
+| [PreSales Sr. Solutions Architect - French Defense and Intelligence](https://job-boards.greenhouse.io/planetlabs/jobs/7700271) | Planet | United Kingdom, Remote | 2026-08-13 |
+| [Pre-Sales Solutions Architect, LATAM](https://job-boards.greenhouse.io/planetlabs/jobs/8035138) | Planet | LATAM, Remote | 2026-08-13 |
+| [Opto-Mechanical Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7476623) | Planet | San Francisco, CA | 2026-08-13 |
+| [Manufacturing Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7976116) | Planet | Berlin, Germany | 2026-08-13 |
+| [Data Visualization Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8044691) | Planet | San Francisco, CA | 2026-08-13 |
+| [Flight Dynamics Engineer, Orbits R&D](https://job-boards.greenhouse.io/planetlabs/jobs/8045328) | Planet | San Francisco, CA | 2026-08-13 |
 | [Principal Sales Engineer - Majors, South](https://job-boards.greenhouse.io/zscaler/jobs/5070045007) | Zscaler | Remote - Alabama, USA; Remote - Arkansas, USA; Remote - Florida, USA; Remote - Georgia, USA; Remote - Louisiana, USA; Remote - Mississippi, USA; Remote - North Carolina, USA; Remote - Oklahoma, USA; Remote - South Carolina, USA; Remote - Texas, USA | 2026-08-13 |
 | [Senior Sales Engineer - Enterprise, Carolinas/Georgia](https://job-boards.greenhouse.io/zscaler/jobs/5082269007) | Zscaler | Remote - Georgia, USA; Remote - North Carolina, USA; Remote - South Carolina, USA | 2026-08-13 |
 | [Software Engineer III](https://job-boards.greenhouse.io/renttherunway/jobs/8081485) | Rent the Runway | Galway, Ireland | 2026-08-13 |
@@ -231,42 +229,42 @@ _44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Lead Radar Engineer, Mars Orbiter](https://boards.greenhouse.io/relativity/jobs/8709097002?gh_jid=8709097002) | Relativity Space | Long Beach, California, United States | 2026-08-13 |
 | [Photolithography Process Engineer](https://jobs.smartrecruiters.com/WesternDigital/744000143397549) | Western Digital | San Jose, us | 2026-08-13 |
 | [Senior Solutions Engineer](https://boards.greenhouse.io/neo4j/jobs/4705210006?gh_jid=4705210006) | Neo4j | Remote: Southeast US | 2026-08-13 |
-| [Security Engineer, Cloud](https://job-boards.greenhouse.io/vercel/jobs/6102335004) | Vercel | Remote - United States | 2026-08-13 |
-| [Senior Customer Support Engineer](https://job-boards.greenhouse.io/vercel/jobs/5818258004) | Vercel | Remote - United Kingdom, Germany | 2026-08-13 |
-| [Security Software Engineer, IAM](https://job-boards.greenhouse.io/vercel/jobs/6093255004) | Vercel | Remote - United States | 2026-08-13 |
-| [Software Engineer, Backend](https://job-boards.greenhouse.io/vercel/jobs/5430088004) | Vercel | Remote - United States | 2026-08-13 |
-| [Software Engineer, Compute](https://job-boards.greenhouse.io/vercel/jobs/6113157004) | Vercel | Hybrid - London | 2026-08-13 |
-| [Software Engineer, Observability](https://job-boards.greenhouse.io/vercel/jobs/5428982004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| [Software Engineer, Workflows](https://job-boards.greenhouse.io/vercel/jobs/5798416004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, Trust & Safety](https://job-boards.greenhouse.io/vercel/jobs/5788954004) | Vercel | Remote - United States | 2026-08-13 |
-| [Software Engineer, Deployment Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/5633880004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, CDN Content](https://job-boards.greenhouse.io/vercel/jobs/6105394004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Product Security Engineer](https://job-boards.greenhouse.io/vercel/jobs/6102343004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Senior Manager, Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/5995789004) | Vercel | Remote - Australia | 2026-08-13 |
-| [Engineering Manager, CDN](https://job-boards.greenhouse.io/vercel/jobs/5701765004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Community Engineer](https://job-boards.greenhouse.io/vercel/jobs/5832366004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [DevRel Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6122437004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior Security Software Engineer, v0](https://job-boards.greenhouse.io/vercel/jobs/6117209004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Manager, Solutions Architecture](https://job-boards.greenhouse.io/vercel/jobs/5806456004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Media Engineer, Social](https://job-boards.greenhouse.io/vercel/jobs/5980197004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, CDN](https://job-boards.greenhouse.io/vercel/jobs/5179639004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [IT Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/6020852004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| [Partner Solutions Engineer, EMEA](https://job-boards.greenhouse.io/vercel/jobs/6132416004) | Vercel | Hybrid - London, Berlin | 2026-08-13 |
-| [Software Engineer, eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, Dashboard](https://job-boards.greenhouse.io/vercel/jobs/5808568004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Security Engineer, Detection Response](https://job-boards.greenhouse.io/vercel/jobs/6111332004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [People Operations Integrations Developer](https://job-boards.greenhouse.io/vercel/jobs/6137983004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/5806749004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Forward-Deployed Engineer](https://job-boards.greenhouse.io/vercel/jobs/5752684004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [People Operations Integrations Developer](https://job-boards.greenhouse.io/vercel/jobs/6137983004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Product Security Engineer](https://job-boards.greenhouse.io/vercel/jobs/6102343004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Manager, Solutions Architecture](https://job-boards.greenhouse.io/vercel/jobs/5806456004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [IT Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/6020852004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
+| [Media Engineer, Social](https://job-boards.greenhouse.io/vercel/jobs/5980197004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Partner Solutions Engineer, EMEA](https://job-boards.greenhouse.io/vercel/jobs/6132416004) | Vercel | Hybrid - London, Berlin | 2026-08-13 |
+| [Security Software Engineer, IAM](https://job-boards.greenhouse.io/vercel/jobs/6093255004) | Vercel | Remote - United States | 2026-08-13 |
+| [Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Senior Customer Support Engineer](https://job-boards.greenhouse.io/vercel/jobs/5818258004) | Vercel | Remote - United Kingdom, Germany | 2026-08-13 |
+| [Senior Manager, Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/5995789004) | Vercel | Remote - Australia | 2026-08-13 |
 | [Site Engineer](https://job-boards.greenhouse.io/vercel/jobs/5732855004) | Vercel | Remote - United States | 2026-08-13 |
-| [Director of Forward Deployed Engineering](https://job-boards.greenhouse.io/vercel/jobs/6120051004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Director, Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/6119846004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Senior Security Software Engineer, v0](https://job-boards.greenhouse.io/vercel/jobs/6117209004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Security Engineer, Cloud](https://job-boards.greenhouse.io/vercel/jobs/6102335004) | Vercel | Remote - United States | 2026-08-13 |
+| [Security Engineer, Detection Response](https://job-boards.greenhouse.io/vercel/jobs/6111332004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Software Engineer, eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Backend](https://job-boards.greenhouse.io/vercel/jobs/5430088004) | Vercel | Remote - United States | 2026-08-13 |
 | [Forward-Deployed Engineer](https://job-boards.greenhouse.io/vercel/jobs/5778418004) | Vercel | Hybrid - London, Berlin | 2026-08-13 |
+| [Forward-Deployed Engineer](https://job-boards.greenhouse.io/vercel/jobs/5752684004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Software Engineer, Deployment Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/5633880004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, CDN](https://job-boards.greenhouse.io/vercel/jobs/5179639004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | [Head of Field Engineering Operations](https://job-boards.greenhouse.io/vercel/jobs/5979111004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Software Engineer, Dashboard](https://job-boards.greenhouse.io/vercel/jobs/5808568004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Engineering Manager, CDN](https://job-boards.greenhouse.io/vercel/jobs/5701765004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
 | [Software Engineer, AI SDK](https://job-boards.greenhouse.io/vercel/jobs/5474915004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Compute](https://job-boards.greenhouse.io/vercel/jobs/6113157004) | Vercel | Hybrid - London | 2026-08-13 |
+| [Software Engineer, CDN Content](https://job-boards.greenhouse.io/vercel/jobs/6105394004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Director, Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/6119846004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Software Engineer, AI Gateway](https://job-boards.greenhouse.io/vercel/jobs/5798406004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Workflows](https://job-boards.greenhouse.io/vercel/jobs/5798416004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Observability](https://job-boards.greenhouse.io/vercel/jobs/5428982004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
 | [Software Engineer, Agent](https://job-boards.greenhouse.io/vercel/jobs/5704320004) | Vercel | Hybrid - New York City | 2026-08-13 |
+| [Director of Forward Deployed Engineering](https://job-boards.greenhouse.io/vercel/jobs/6120051004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Community Engineer](https://job-boards.greenhouse.io/vercel/jobs/5832366004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Software Engineer, Trust & Safety](https://job-boards.greenhouse.io/vercel/jobs/5788954004) | Vercel | Remote - United States | 2026-08-13 |
+| [DevRel Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6122437004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Senior Software Engineer, Python](https://job-boards.greenhouse.io/northbeam/jobs/4705232006) | Northbeam | Remote - Canada | 2026-08-13 |
 | [Staff Production Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5149609007) | Zscaler | Remote - California, USA; San Jose, California, USA | 2026-08-13 |
 | [Senior Software Engineer, Python](https://job-boards.greenhouse.io/northbeam/jobs/4705191006) | Northbeam | Remote - USA | 2026-08-13 |
@@ -285,14 +283,14 @@ _44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Principal Cloud Architect](https://www.zoominfo.com/careers?gh_jid=8626991002) | ZoomInfo Technologies LLC | Remote-US-NY | 2026-08-13 |
 | [Principal Facilities Electrical Engineer (High Voltage)](https://jobs.smartrecruiters.com/BoschGroup/744000143396075) | Bosch Group | Roseville, us | 2026-08-13 |
 | [DevOps Engineer III](https://www.zoominfo.com/careers?gh_jid=8614660002) | ZoomInfo Technologies LLC | Waltham, Massachusetts, United States | 2026-08-13 |
-| [Staff Security Engineer - SecOps & Threats](https://boards.greenhouse.io/6sense/jobs/7905102?gh_jid=7905102) | 6sense | United States, Remote | 2026-08-13 |
 | [ML Engineer III](https://boards.greenhouse.io/6sense/jobs/8106123?gh_jid=8106123) | 6sense | Bengaluru, Karnataka, India | 2026-08-13 |
+| [Sr. Software Engineer](https://boards.greenhouse.io/6sense/jobs/7834739?gh_jid=7834739) | 6sense | San Francisco, California, United States | 2026-08-13 |
 | [Staff Software Engineer - Infrastructure/DevOps](https://boards.greenhouse.io/6sense/jobs/7647929?gh_jid=7647929) | 6sense | Bengaluru, Karnataka, India | 2026-08-13 |
 | [Staff Software Engineer](https://boards.greenhouse.io/6sense/jobs/7100430?gh_jid=7100430) | 6sense | Bengaluru, Karnataka, India | 2026-08-13 |
+| [Staff Security Engineer - SecOps & Threats](https://boards.greenhouse.io/6sense/jobs/7905102?gh_jid=7905102) | 6sense | United States, Remote | 2026-08-13 |
 | [Staff Security Engineer - SecOps & Threat](https://boards.greenhouse.io/6sense/jobs/7569929?gh_jid=7569929) | 6sense | Romania, Remote | 2026-08-13 |
 | [Staff Security Engineer - SecOps & Threat](https://boards.greenhouse.io/6sense/jobs/7996539?gh_jid=7996539) | 6sense | India, Remote | 2026-08-13 |
 | [Staff Enterprise AI Engineer](https://boards.greenhouse.io/6sense/jobs/8002993?gh_jid=8002993) | 6sense | San Francisco, California, United States | 2026-08-13 |
-| [Sr. Software Engineer](https://boards.greenhouse.io/6sense/jobs/7834739?gh_jid=7834739) | 6sense | San Francisco, California, United States | 2026-08-13 |
 | [Sr. Software Engineer](https://boards.greenhouse.io/6sense/jobs/7669228?gh_jid=7669228) | 6sense | Bengaluru, Karnataka, India | 2026-08-13 |
 | [Senior Software Engineer (Core Applications)](https://boards.greenhouse.io/6sense/jobs/7707006?gh_jid=7707006) | 6sense | Bengaluru, Karnataka, India | 2026-08-13 |
 | [Principal Architect](https://boards.greenhouse.io/6sense/jobs/5636812?gh_jid=5636812) | 6sense | Bengaluru, Karnataka, India | 2026-08-13 |
@@ -306,6 +304,8 @@ _44,788 open · showing the 300 most recent · updated 2026-08-15 15:39 UTC_
 | [Senior Software Engineer, Ground Software](https://job-boards.greenhouse.io/muonspace/jobs/5083758007) | Muon Space | San Jose, CA | 2026-08-13 |
 | [Senior Hardware Test Engineer, Cyber](https://boards.greenhouse.io/andurilindustries/jobs/5200932007?gh_jid=5200932007) | Anduril Industries | Washington, District of Columbia, United States | 2026-08-13 |
 | [Senior FPGA Engineer, Cyber](https://boards.greenhouse.io/andurilindustries/jobs/5200936007?gh_jid=5200936007) | Anduril Industries | Washington, District of Columbia, United States | 2026-08-13 |
+| [Senior DSP Engineer, Cyber](https://boards.greenhouse.io/andurilindustries/jobs/5200948007?gh_jid=5200948007) | Anduril Industries | Washington, District of Columbia, United States | 2026-08-13 |
+| [Development Engineering Technician](https://boards.greenhouse.io/redwoodmaterials/jobs/6000348004?gh_jid=6000348004) | Redwood Materials | Carson City, NV | 2026-08-13 |
 
 ---
 
