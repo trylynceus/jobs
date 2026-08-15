@@ -1,10 +1,10 @@
-# Lynceus — open engineering roles in Europe and beyond
+# Lynceus — live job listings, straight from company careers pages
 
 **201,883 open roles** at **7,791 companies**,
-**32,540** of them remote. Rebuilt every day, straight from each
-employer's own careers page and job feed.
+**32,540** of them remote. Read from each employer's own careers
+page and job feed — never reposted from another board.
 
-_Last updated: 2026-08-15 15:32 UTC_
+_Last updated: 2026-08-15 15:39 UTC_
 
 Search it conversationally at **[app.trylynceus.com](https://app.trylynceus.com)** — describe
 what you want in plain English and get the companies actually hiring for it.
@@ -45,30 +45,35 @@ roles. The full set is ~38MB, which GitHub will not render and which would add a
 new multi-megabyte blob to this repository every day. The complete, live corpus
 is at [app.trylynceus.com](https://app.trylynceus.com).
 
-## Companies hiring most right now
+## Biggest hirers right now
 
-| Company | Where | Open roles |
-| --- | --- | --- |
-| BAYADA Home Health Care | — | 2591 |
-| Anduril Industries | — | 2200 |
-| SpaceX | — | 2152 |
-| Carvana | — | 1757 |
-| Bjakcareer | — | 1361 |
-| Speechify | — | 1281 |
-| Upstream Rehabilitation | — | 1231 |
-| Veterinary Emergency Group (VEG) | — | 1107 |
-| EquipmentShare | — | 1003 |
-| Doctolib | Berlin | 973 |
-| Openai | — | 954 |
-| Clera | Berlin | 856 |
-| Meridial | — | 821 |
-| Databricks | — | 808 |
-| ALO | — | 767 |
+Ranked purely by open-role count, so volume employers lead it. The
+[boards above](#browse) are the better entry point if you want a particular
+kind of work.
+
+| Company | Open roles |
+| --- | --- |
+| [BAYADA Home Health Care](https://job-boards.greenhouse.io/bayada) | 2,591 |
+| [Anduril Industries](https://job-boards.greenhouse.io/andurilindustries) | 2,200 |
+| [SpaceX](https://job-boards.greenhouse.io/spacex) | 2,152 |
+| [Carvana](https://job-boards.greenhouse.io/carvana) | 1,757 |
+| [Bjakcareer](https://jobs.ashbyhq.com/bjakcareer) | 1,361 |
+| [Speechify](https://job-boards.greenhouse.io/speechify) | 1,281 |
+| [Upstream Rehabilitation](https://job-boards.greenhouse.io/urpt) | 1,231 |
+| [Veterinary Emergency Group (VEG)](https://job-boards.greenhouse.io/veterinaryemergencygroupst) | 1,107 |
+| [EquipmentShare](https://job-boards.greenhouse.io/equipmentsharecom) | 1,003 |
+| [Doctolib](https://careers.doctolib.fr/jobs) | 973 |
+| [Openai](https://jobs.ashbyhq.com/openai) | 954 |
+| [Clera](https://jobs.ashbyhq.com/Clera) | 856 |
+| [Meridial](https://job-boards.greenhouse.io/agency) | 821 |
+| [Databricks](https://job-boards.greenhouse.io/databricks) | 808 |
+| [ALO](https://job-boards.greenhouse.io/aloyoga) | 767 |
 
 ## How this is built
 
 Every role here was read from the company's own careers page or public job
-feed, and each row links to the original posting — apply there, not here.
+feed, and each row links to the original posting — apply there, not here. The
+`Last updated` stamp at the top is when this data was actually generated.
 
 Listings are dropped when they disappear from the source, so nothing in this
 repository is a role that has already been filled. Recruiters, staffing
