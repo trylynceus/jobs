@@ -4,7 +4,7 @@
 **32,540** of them remote. Rebuilt every day, straight from each
 employer's own careers page and job feed.
 
-_Last updated: 2026-08-15 15:31 UTC_
+_Last updated: 2026-08-15 15:32 UTC_
 
 Search it conversationally at **[app.trylynceus.com](https://app.trylynceus.com)** — describe
 what you want in plain English and get the companies actually hiring for it.
