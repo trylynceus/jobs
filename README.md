@@ -1,36 +1,37 @@
 # Lynceus — live job listings, straight from company careers pages
 
-**244,689 open roles** at **8,266 companies**,
-**39,733** of them remote. Read from each employer's own careers
+**241,775 open roles** at **8,260 companies**,
+**39,376** of them remote. Read from each employer's own careers
 page and job feed — never reposted from another board.
 
-_Last updated: 2026-08-15 19:32 UTC_
+_Last updated: 2026-08-16 04:15 UTC_
 
-Search it conversationally at **[app.trylynceus.com](https://app.trylynceus.com)** — describe
+Search it conversationally at **[trylynceus.com](https://trylynceus.com)** — describe
 what you want in plain English and get the companies actually hiring for it.
+In private beta; early access from the same page.
 
 ## Browse
 
-- [Remote](boards/remote.md) — 39,733 roles
-- [Berlin](boards/berlin.md) — 2,780 roles
-- [London](boards/london.md) — 6,924 roles
-- [Paris](boards/paris.md) — 2,172 roles
-- [Amsterdam](boards/amsterdam.md) — 1,522 roles
-- [Munich](boards/munich.md) — 1,494 roles
-- [Madrid](boards/madrid.md) — 847 roles
+- [Remote](boards/remote.md) — 39,376 roles
+- [Berlin](boards/berlin.md) — 2,779 roles
+- [London](boards/london.md) — 6,925 roles
+- [Paris](boards/paris.md) — 2,173 roles
+- [Amsterdam](boards/amsterdam.md) — 1,520 roles
+- [Munich](boards/munich.md) — 1,501 roles
+- [Madrid](boards/madrid.md) — 848 roles
 - [Barcelona](boards/barcelona.md) — 942 roles
-- [Dublin](boards/dublin.md) — 973 roles
-- [Lisbon](boards/lisbon.md) — 694 roles
+- [Dublin](boards/dublin.md) — 972 roles
+- [Lisbon](boards/lisbon.md) — 696 roles
 - [Zurich](boards/zurich.md) — 268 roles
-- [Stockholm](boards/stockholm.md) — 409 roles
-- [New York](boards/new-york.md) — 12,104 roles
-- [San Francisco](boards/san-francisco.md) — 11,113 roles
-- [Engineering](boards/engineering.md) — 55,863 roles
-- [Data & AI](boards/data-ai.md) — 32,988 roles
-- [Design](boards/design.md) — 12,301 roles
-- [Product](boards/product.md) — 11,892 roles
-- [Sales](boards/sales.md) — 21,380 roles
-- [Marketing](boards/marketing.md) — 10,821 roles
+- [Stockholm](boards/stockholm.md) — 408 roles
+- [New York](boards/new-york.md) — 12,095 roles
+- [San Francisco](boards/san-francisco.md) — 11,125 roles
+- [Engineering](boards/engineering.md) — 55,261 roles
+- [Data & AI](boards/data-ai.md) — 31,921 roles
+- [Design](boards/design.md) — 12,134 roles
+- [Product](boards/product.md) — 11,722 roles
+- [Sales](boards/sales.md) — 21,167 roles
+- [Marketing](boards/marketing.md) — 10,666 roles
 
 ## Data
 
@@ -38,12 +39,12 @@ what you want in plain English and get the companies actually hiring for it.
 | --- | --- |
 | [`data/jobs.csv`](data/jobs.csv) | The 5,000 most recently posted roles |
 | [`data/jobs.json`](data/jobs.json) | The same, as JSON |
-| [`data/companies.csv`](data/companies.csv) | All 8,266 companies with open roles |
+| [`data/companies.csv`](data/companies.csv) | All 8,260 companies with open roles |
 
-The data files carry the most recent slice rather than all 244,689
+The data files carry the most recent slice rather than all 241,775
 roles. The full set is ~38MB, which GitHub will not render and which would add a
 new multi-megabyte blob to this repository every day. The complete, live corpus
-is at [app.trylynceus.com](https://app.trylynceus.com).
+is at [trylynceus.com](https://trylynceus.com).
 
 ## Biggest hirers right now
 
@@ -62,12 +63,12 @@ kind of work.
 | [Speechify](https://job-boards.greenhouse.io/speechify) | 1,281 |
 | [Upstream Rehabilitation](https://job-boards.greenhouse.io/urpt) | 1,231 |
 | [Veterinary Emergency Group (VEG)](https://job-boards.greenhouse.io/veterinaryemergencygroupst) | 1,107 |
-| [Hyphen Connect Limited](https://job-boards.greenhouse.io/hyphenconnect) | 1,027 |
 | [EquipmentShare](https://job-boards.greenhouse.io/equipmentsharecom) | 1,003 |
 | [Clera](https://jobs.ashbyhq.com/Clera) | 948 |
 | [Fuku](https://apply.workable.com/fuku/) | 939 |
-| [Talent Trader Group](https://apply.workable.com/talent-trader-group/) | 859 |
-| [Meridial](https://job-boards.greenhouse.io/agency) | 821 |
+| [Databricks](https://job-boards.greenhouse.io/databricks) | 808 |
+| [ALO](https://job-boards.greenhouse.io/aloyoga) | 780 |
+| [Snowflake](https://jobs.ashbyhq.com/Snowflake) | 780 |
 
 ## How this is built
 

@@ -2,16 +2,50 @@
 
 Roles listing New York as their location.
 
-_12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
+_12,095 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| [Executive Support Senior Program Manager, Tech Advisor](https://job-boards.greenhouse.io/anthropic/jobs/5391787008) | Anthropic | Boston, MA; Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY; Washington, DC | 2026-08-15 |
+| [Product Manager, People to Meet](https://careers.airbnb.com/positions/8112204?gh_jid=8112204) | Airbnb | San Francisco, CA, Seattle, WA, New York, NY | 2026-08-14 |
+| [Strategy & Operations Lead, Enterprise Marketing](https://job-boards.greenhouse.io/anthropic/jobs/5389945008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Staff+ Software Engineer, Safeguards Data](https://job-boards.greenhouse.io/anthropic/jobs/5379140008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Partner Success Lead](https://job-boards.greenhouse.io/anthropic/jobs/5391215008) | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-14 |
+| [Enterprise Integrated Campaign Manager](https://job-boards.greenhouse.io/anthropic/jobs/5391995008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Staff+ Software Engineer, GRC Platform](https://job-boards.greenhouse.io/anthropic/jobs/5250091008) | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-14 |
+| [IT Support Engineer, Application Administrator](https://job-boards.greenhouse.io/anthropic/jobs/5390019008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Partner Sales Manager, Systems Integrators](https://job-boards.greenhouse.io/anthropic/jobs/5171950008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Strategic Business Development Lead](https://job-boards.greenhouse.io/anthropic/jobs/5391191008) | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-14 |
+| [Global Technology Partner Manager](https://job-boards.greenhouse.io/anthropic/jobs/5391155008) | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-14 |
+| [Production Coordinator (Temporary to Possible Hire) – NYC](https://boards.greenhouse.io/baublebar/jobs/8130991?gh_jid=8130991) | BaubleBar | New York, NY | 2026-08-14 |
+| [Strategic Account Executive, Industries](https://job-boards.greenhouse.io/anthropic/jobs/5379806008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Technical Writer, Patient Content](https://job-boards.greenhouse.io/blinkhealth/jobs/8716038002) | Blink Health | New York, NY; Pittsburgh, PA | 2026-08-14 |
+| [Principal Program Manager](https://job-boards.greenhouse.io/appian/jobs/8130716) | Appian Corporation | New York, New York | 2026-08-14 |
+| [Customer Programs Manager, Co-Marketing & Measurement](https://job-boards.greenhouse.io/anthropic/jobs/5388726008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Head of Community, Enterprise Marketing](https://job-boards.greenhouse.io/anthropic/jobs/5388719008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Product Marketing Operations Manager, Research](https://job-boards.greenhouse.io/anthropic/jobs/5385715008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Product Marketing Manager, Knowledge Work - Core Products](https://job-boards.greenhouse.io/anthropic/jobs/5385651008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Product Marketing Lead, GTM Strategy - Claude for Knowledge Work](https://job-boards.greenhouse.io/anthropic/jobs/5385602008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Solutions Marketing Lead, Public Sector](https://job-boards.greenhouse.io/anthropic/jobs/5385586008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Sales & Service Manager - Flatiron](https://boards.greenhouse.io/aloyoga/jobs/6144290004?gh_jid=6144290004) | ALO | Flatiron, New York, NY (10007) | 2026-08-14 |
+| [Fall 2027 Associate Consultant, Life Sciences Strategy](https://job-boards.greenhouse.io/bgbxconsulting/jobs/8121839) | BGBx Consulting | Washington D.C.; Boston; New York | 2026-08-14 |
 | [Architectural Designer (Mission Critical)](https://job-boards.greenhouse.io/woolpert/jobs/4369414009) | Woolpert | Chicago, IL; Coral Gables, FL; Miami, FL; New York, NY; Pittsburgh, PA | 2026-08-14 |
+| [Associate, TMF Documentation](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6143109004) | Axsome Therapeutics | New York, NY | 2026-08-14 |
+| [Shift Lead \| Williamsburg](https://job-boards.greenhouse.io/blankstreet/jobs/7869681003) | Blank Street | Brooklyn, New York | 2026-08-14 |
+| [Shift Lead - Upper East Side](https://job-boards.greenhouse.io/blankstreet/jobs/7869680003) | Blank Street | Manhattan New York | 2026-08-14 |
+| [Shift Lead \| Manhattan](https://job-boards.greenhouse.io/blankstreet/jobs/7869679003) | Blank Street | New York City, New York, United States | 2026-08-14 |
+| [Shift Lead \| Brooklyn](https://job-boards.greenhouse.io/blankstreet/jobs/7869678003) | Blank Street | Brooklyn, New York, United States | 2026-08-14 |
+| [Barista \| Upper East Side (NSO)](https://job-boards.greenhouse.io/blankstreet/jobs/7854884003) | Blank Street | New York City, US | 2026-08-14 |
+| [Barista \| Tribeca](https://job-boards.greenhouse.io/blankstreet/jobs/7869676003) | Blank Street | New York City, US | 2026-08-14 |
+| [Barista \| Manhattan](https://job-boards.greenhouse.io/blankstreet/jobs/7869675003) | Blank Street | New York City, US | 2026-08-14 |
+| [Strategic Partner Development, Data & Product Partnerships – Beneficial Deployments](https://job-boards.greenhouse.io/anthropic/jobs/5390022008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
+| [Strategic Partner Development, Product Partnerships – Semiconductors](https://job-boards.greenhouse.io/anthropic/jobs/5390028008) | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY | 2026-08-14 |
 | [Senior Product Designer - Cards & Credit](https://job-boards.greenhouse.io/mercury/jobs/6143552004) | Mercury | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 2026-08-14 |
-| [Senior Client Partner, Large Customer Sales, Pharma](https://job-boards.greenhouse.io/reddit/jobs/8021708) | Reddit | New York City, NY | 2026-08-14 |
+| [GTM Enablement Manager](https://job-boards.greenhouse.io/archera/jobs/5389972008) | Archera | Seattle, Washington, United States, Québec, Quebec, Canada, New York, United States | 2026-08-14 |
 | [Client Account Manager, Large Customer Sales (Retail Beauty)](https://job-boards.greenhouse.io/reddit/jobs/8052432) | Reddit | New York City, NY | 2026-08-14 |
-| [Senior Agile Client Partner, Large Customer Sales](https://job-boards.greenhouse.io/reddit/jobs/8021287) | Reddit | New York City, NY | 2026-08-14 |
+| [Senior Client Partner, Large Customer Sales, Pharma](https://job-boards.greenhouse.io/reddit/jobs/8021708) | Reddit | New York City, NY | 2026-08-14 |
 | [Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks)](https://job-boards.greenhouse.io/reddit/jobs/8092375) | Reddit | New York City, NY | 2026-08-14 |
+| [Senior Agile Client Partner, Large Customer Sales](https://job-boards.greenhouse.io/reddit/jobs/8021287) | Reddit | New York City, NY | 2026-08-14 |
 | [Senior Client Account Manager, Large Customer Sales (Pharma)](https://job-boards.greenhouse.io/reddit/jobs/7746526) | Reddit | New York City, NY | 2026-08-14 |
 | [Senior Client Account Manager, Large Customer Sales (CPG)](https://job-boards.greenhouse.io/reddit/jobs/8113265) | Reddit | New York City, NY | 2026-08-14 |
 | [Client Account Manager, Large Customer Sales (Financial Services)](https://job-boards.greenhouse.io/reddit/jobs/7982928) | Reddit | New York City, NY | 2026-08-14 |
@@ -22,6 +56,7 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Product Manager, Platforms](https://jobs.smartrecruiters.com/nbcuniversal3/744000143406589) | NBCUniversal | New York, us | 2026-08-13 |
 | [Virtual Primary Care Physician - NY, DC or CA Licensed](http://www.onemedical.com/careers/all-departments/8129387?gh_jid=8129387) | One Medical | New York, New York | 2026-08-13 |
 | [Technical Support Engineer - University Graduate 2026](https://job-boards.greenhouse.io/verkada/jobs/5172974007) | Verkada | New York City, NY United States | 2026-08-13 |
+| [Partner Enablement Lead, System Integrators](https://job-boards.greenhouse.io/anthropic/jobs/5304879008) | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-13 |
 | [Senior Manager, Supplier Enablement & Spend Conversion](https://www.brex.com/careers/8659948002?gh_jid=8659948002) | Brex | New York, New York, United States | 2026-08-13 |
 | [Consultant- Marketing Data Science & AI](https://jobs.smartrecruiters.com/Sia/744000143402329) | Sia | New York, us | 2026-08-13 |
 | [Associate Consultant, Generative AI](https://jobs.smartrecruiters.com/Sia/744000143402249) | Sia | New York, us | 2026-08-13 |
@@ -31,56 +66,60 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Specialist Account Executive, Data Security - Enterprise, East](https://job-boards.greenhouse.io/zscaler/jobs/5179466007) | Zscaler | Remote - Massachusetts, USA; Remote - New York, USA | 2026-08-13 |
 | [Commercial Sales Engineer - NY/NJ](https://job-boards.greenhouse.io/zscaler/jobs/5187339007) | Zscaler | New York City, New York, USA; Remote - New Jersey, USA | 2026-08-13 |
 | [AI Operations Associate](https://job-boards.greenhouse.io/accordion/jobs/7867202) | Accordion | Atlanta; Boston; Charlotte; Chicago; Dallas; Los Angeles; New York; San Francisco | 2026-08-13 |
+| [Market Associate](https://careers.airbnb.com/positions/8128736?gh_jid=8128736) | Airbnb | New York, United States, New Jersey, United States, Massachusetts, United States, Pennsylvania, United States, Virginia, United States, Maryland, United States | 2026-08-13 |
+| [Lead Infrastructure Engineer - Developer Experience](https://job-boards.greenhouse.io/arcesiumllc/jobs/5209554007) | Arcesium LLC | New York | 2026-08-13 |
+| [Technical Deployment Lead](https://job-boards.greenhouse.io/anthropic/jobs/5017903008) | Anthropic | Austin, TX; Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA | 2026-08-13 |
 | [Engineering Manager, Enterprise Product](https://job-boards.greenhouse.io/airtable/jobs/8397665002) | Airtable | San Francisco, CA; New York, NY | 2026-08-13 |
-| [Partner Operations Lead](https://job-boards.greenhouse.io/vercel/jobs/6087001004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Software Engineer, Workflows](https://job-boards.greenhouse.io/vercel/jobs/5798416004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | [Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/5806749004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Software Engineer, Observability](https://job-boards.greenhouse.io/vercel/jobs/5428982004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
+| [Software Engineer, eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Deployment Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/5633880004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Dashboard](https://job-boards.greenhouse.io/vercel/jobs/5808568004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, CDN](https://job-boards.greenhouse.io/vercel/jobs/5179639004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, AI SDK](https://job-boards.greenhouse.io/vercel/jobs/5474915004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, AI Gateway](https://job-boards.greenhouse.io/vercel/jobs/5798406004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Agent](https://job-boards.greenhouse.io/vercel/jobs/5704320004) | Vercel | Hybrid - New York City | 2026-08-13 |
 | [Senior Technical Account Manager](https://job-boards.greenhouse.io/vercel/jobs/6112845004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior Security Software Engineer, v0](https://job-boards.greenhouse.io/vercel/jobs/6117209004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Senior Product Designer, Growth](https://job-boards.greenhouse.io/vercel/jobs/6131210004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Senior Payroll Analyst](https://job-boards.greenhouse.io/vercel/jobs/6006148004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior Partner Manager, AWS](https://job-boards.greenhouse.io/vercel/jobs/5825469004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior Integrated Campaigns Manager](https://job-boards.greenhouse.io/vercel/jobs/6122619004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior Brand Designer](https://job-boards.greenhouse.io/vercel/jobs/5579560004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Security Engineer, Detection Response](https://job-boards.greenhouse.io/vercel/jobs/6111332004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Scaled Commercial Account Executive, Install base](https://job-boards.greenhouse.io/vercel/jobs/6142097004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Recruiting Coordinator (Contract)](https://job-boards.greenhouse.io/vercel/jobs/5686511004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Scaled Commercial Account Executive, Install base](https://job-boards.greenhouse.io/vercel/jobs/6142097004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Product Security Engineer](https://job-boards.greenhouse.io/vercel/jobs/6102343004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Security Engineer, Detection Response](https://job-boards.greenhouse.io/vercel/jobs/6111332004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
 | [Presentation Designer](https://job-boards.greenhouse.io/vercel/jobs/6128387004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Senior Brand Designer](https://job-boards.greenhouse.io/vercel/jobs/5579560004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Senior Integrated Campaigns Manager](https://job-boards.greenhouse.io/vercel/jobs/6122619004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Senior Partner Manager, AWS](https://job-boards.greenhouse.io/vercel/jobs/5825469004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Senior Payroll Analyst](https://job-boards.greenhouse.io/vercel/jobs/6006148004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Senior Product Designer, Growth](https://job-boards.greenhouse.io/vercel/jobs/6131210004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Senior Security Software Engineer, v0](https://job-boards.greenhouse.io/vercel/jobs/6117209004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Partner Operations Lead](https://job-boards.greenhouse.io/vercel/jobs/6087001004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Performance Marketing Manager](https://job-boards.greenhouse.io/vercel/jobs/6011904004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [People Operations Integrations Developer](https://job-boards.greenhouse.io/vercel/jobs/6137983004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Media Engineer, Social](https://job-boards.greenhouse.io/vercel/jobs/5980197004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Manager, Solutions Architecture](https://job-boards.greenhouse.io/vercel/jobs/5806456004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [IT Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/6020852004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| [Enterprise Account Executive](https://job-boards.greenhouse.io/vercel/jobs/5042174004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Business Development Representative, Majors](https://job-boards.greenhouse.io/vercel/jobs/5039945004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Commercial Account Executive, Greenfield](https://job-boards.greenhouse.io/vercel/jobs/5042166004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Commercial Account Executive, Install Base](https://job-boards.greenhouse.io/vercel/jobs/6123443004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Community Engineer](https://job-boards.greenhouse.io/vercel/jobs/5832366004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Startups Program Lead](https://job-boards.greenhouse.io/vercel/jobs/5971203004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [GTM Acceleration, Technical Solutions](https://job-boards.greenhouse.io/vercel/jobs/5984039004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [GTM Acceleration Lead, Value Selling](https://job-boards.greenhouse.io/vercel/jobs/6119471004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Director, Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/6119846004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Growth Marketing Manager, Discoverability](https://job-boards.greenhouse.io/vercel/jobs/6119988004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Manager, Solutions Architecture](https://job-boards.greenhouse.io/vercel/jobs/5806456004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Media Engineer, Social](https://job-boards.greenhouse.io/vercel/jobs/5980197004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | [Growth Marketing Manager, Agent Stack](https://job-boards.greenhouse.io/vercel/jobs/6016765004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Software Engineer, CDN](https://job-boards.greenhouse.io/vercel/jobs/5179639004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Growth Marketing Manager, Discoverability](https://job-boards.greenhouse.io/vercel/jobs/6119988004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [GTM Acceleration Lead, Value Selling](https://job-boards.greenhouse.io/vercel/jobs/6119471004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [GTM Acceleration, Technical Solutions](https://job-boards.greenhouse.io/vercel/jobs/5984039004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Director of Forward Deployed Engineering](https://job-boards.greenhouse.io/vercel/jobs/6120051004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Global Benefits Lead](https://job-boards.greenhouse.io/vercel/jobs/6123758004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Director, Major Sales](https://job-boards.greenhouse.io/vercel/jobs/6099752004) | Vercel | Hybrid - New York City | 2026-08-13 |
+| [DevRel Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6122437004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Director, Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/6119846004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Forward-Deployed Engineer](https://job-boards.greenhouse.io/vercel/jobs/5752684004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Enterprise Account Executive, Retail](https://job-boards.greenhouse.io/vercel/jobs/6112143004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Software Engineer, Dashboard](https://job-boards.greenhouse.io/vercel/jobs/5808568004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, Deployment Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/5633880004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, Observability](https://job-boards.greenhouse.io/vercel/jobs/5428982004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| [Software Engineer, Workflows](https://job-boards.greenhouse.io/vercel/jobs/5798416004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [DevRel Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6122437004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Director, Major Sales](https://job-boards.greenhouse.io/vercel/jobs/6099752004) | Vercel | Hybrid - New York City | 2026-08-13 |
-| [Software Engineer, Agent](https://job-boards.greenhouse.io/vercel/jobs/5704320004) | Vercel | Hybrid - New York City | 2026-08-13 |
-| [Director of Forward Deployed Engineering](https://job-boards.greenhouse.io/vercel/jobs/6120051004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Software Engineer, AI Gateway](https://job-boards.greenhouse.io/vercel/jobs/5798406004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, AI SDK](https://job-boards.greenhouse.io/vercel/jobs/5474915004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Startups Program Lead](https://job-boards.greenhouse.io/vercel/jobs/5971203004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Enterprise Account Executive](https://job-boards.greenhouse.io/vercel/jobs/5042174004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Community Engineer](https://job-boards.greenhouse.io/vercel/jobs/5832366004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Commercial Account Executive, Install Base](https://job-boards.greenhouse.io/vercel/jobs/6123443004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Commercial Account Executive, Greenfield](https://job-boards.greenhouse.io/vercel/jobs/5042166004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Business Development Representative, Majors](https://job-boards.greenhouse.io/vercel/jobs/5039945004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Bedrock Manager](https://job-boards.greenhouse.io/mossnewyorkllc/jobs/4369220009) | Moss New York LLC | 520 Fifth Avenue New York NY 10036 | 2026-08-13 |
 | [Director, Internal Operations, Consumer](https://job-boards.greenhouse.io/orchestra/jobs/8706529002) | Orchestra | New York, N.Y. | 2026-08-13 |
 | [Account Manager, Strategic Healthcare Partnerships](https://app.careerpuck.com/job-board/lyft/job/8577546002?gh_jid=8577546002) | Lyft | New York, NY | 2026-08-13 |
+| [Vice President, FP&A](https://job-boards.greenhouse.io/authenticbrandsgroup/jobs/6117538004) | Authentic Brands Group | New York, New York | 2026-08-13 |
 | [Director, Automation Engineering](https://jobs.smartrecruiters.com/nbcuniversal3/744000143393509) | NBCUniversal | New York, us | 2026-08-13 |
 | [Enterprise Account Executive](https://miro.com/careers/vacancy/8651498002?gh_jid=8651498002) | Miro | Austin, US; Los Angeles, US; New York, US; Remote US; San Francisco, US | 2026-08-13 |
 | [Senior Brand Marketing Lead](https://job-boards.greenhouse.io/reddit/jobs/8084941) | Reddit | New York City, NY | 2026-08-13 |
@@ -90,12 +129,15 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Senior Project Coordinator](https://job-boards.greenhouse.io/rockstargames/jobs/7864691003) | Rockstar Games | Manhattan, New York, United States | 2026-08-13 |
 | [Peloton Expert (Part-Time) - PSNY Retail](https://careers.onepeloton.com/en/all-jobs/?gh_jid=7980450) | Peloton | New York, New York | 2026-08-13 |
 | [Director, Global 360 Lead - East Coast](https://jobs.smartrecruiters.com/ServiceNow/744000143391319) | ServiceNow | New York, us | 2026-08-13 |
-| [Global Manager, Growth & Planning](https://job-boards.greenhouse.io/abinbev/jobs/8530160002) | AB InBev \| Growth Group | New York, US | 2026-08-13 |
 | [Global Brand Manager](https://job-boards.greenhouse.io/abinbev/jobs/8574881002) | AB InBev \| Growth Group | New York, US | 2026-08-13 |
+| [Global Manager, Growth & Planning](https://job-boards.greenhouse.io/abinbev/jobs/8530160002) | AB InBev \| Growth Group | New York, US | 2026-08-13 |
 | [Measurement Partner II](https://www.pinterestcareers.com/jobs/?gh_jid=7480764) | Pinterest | New York, NY, US; San Francisco, CA, US | 2026-08-13 |
 | [Director, New Build & Project Procurement - Aspen Hospitality](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000143389609) | Aspen Skiing Company | New York, us | 2026-08-13 |
 | [Director (Public Relations), Consumer Lifestyle](https://job-boards.greenhouse.io/orchestra/jobs/8651447002) | Orchestra | New York, New York | 2026-08-13 |
+| [Life Sciences Counsel](https://job-boards.greenhouse.io/anthropic/jobs/5286008008) | Anthropic | New York City, NY | 2026-08-13 |
 | [Rental Sales Agent (Battery Park)](https://jobs.smartrecruiters.com/SIXT/744000143388379) | SIXT | New York, us | 2026-08-13 |
+| [Enterprise Account Executive - Department of Homeland Security](https://job-boards.greenhouse.io/appian/jobs/8127018) | Appian Corporation | New York, New York | 2026-08-13 |
+| [Enterprise Account Executive - Aerospace and Defense](https://job-boards.greenhouse.io/appian/jobs/8127014) | Appian Corporation | New York, New York | 2026-08-13 |
 | [Designer - Graphic, Digital, AI (On-Site, NYC)](https://job-boards.greenhouse.io/matteprojects/jobs/6143419004) | MATTE PROJECTS | New York, New York | 2026-08-13 |
 | [Enterprise Client Sales Executive](https://www.brex.com/careers/8662162002?gh_jid=8662162002) | Brex | New York, New York, United States | 2026-08-13 |
 | [Enterprise Account Manager](https://www.brex.com/careers/8461601002?gh_jid=8461601002) | Brex | New York, New York, United States | 2026-08-13 |
@@ -110,20 +152,20 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Manager, Development](https://jobs.smartrecruiters.com/nbcuniversal3/744000143373137) | NBCUniversal | New York, us | 2026-08-13 |
 | [Construction Project Manager](https://jobs.smartrecruiters.com/TurnerTownsend/744000143374788) | Turner & Townsend | New York, us | 2026-08-13 |
 | [Group Director, Business Development](https://job-boards.greenhouse.io/realchemistry/jobs/5182768008) | Real Chemistry | Boston - Massachusetts; Carmel - Indiana; Chicago - Illinois; Lambertville - New Jersey; Remote - USA; Water Street - New York | 2026-08-13 |
-| [Relief Veterinarian](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8687352002?gh_jid=8687352002) | Veterinary Practice Partners | East Greenbush, New York | 2026-08-13 |
-| [Veterinary Practice Manager](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8642587002?gh_jid=8642587002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
-| [Relief Veterinarian](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8556541002?gh_jid=8556541002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
-| [Overnight Licensed Veterinary Tech - On Call](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8648933002?gh_jid=8648933002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
-| [Licensed Veterinary Technician](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8651601002?gh_jid=8651601002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
-| [Licensed Veterinary Technician](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8635844002?gh_jid=8635844002) | Veterinary Practice Partners | Henrietta, New York | 2026-08-13 |
-| [Relief Veterinarian](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8556566002?gh_jid=8556566002) | Veterinary Practice Partners | Brooklyn, New York | 2026-08-13 |
-| [Veterinary Assistant](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8693195002?gh_jid=8693195002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
-| [On-Call Overnight Veterinary Technician](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8656632002?gh_jid=8656632002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
-| [Veterinarian - Board Certified Internal Medicine Specialist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8380595002?gh_jid=8380595002) | Veterinary Practice Partners | Hopewell Junction, New York | 2026-08-13 |
-| [Veterinary Receptionist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8660610002?gh_jid=8660610002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
-| [Veterinary Receptionist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8635857002?gh_jid=8635857002) | Veterinary Practice Partners | Henrietta, New York, United States | 2026-08-13 |
 | [Veterinary Receptionist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8693185002?gh_jid=8693185002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
 | [Veterinarian](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8380585002?gh_jid=8380585002) | Veterinary Practice Partners | Marcellus, New York | 2026-08-13 |
+| [Veterinary Assistant](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8693195002?gh_jid=8693195002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
+| [On-Call Overnight Veterinary Technician](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8656632002?gh_jid=8656632002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
+| [Veterinary Receptionist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8635857002?gh_jid=8635857002) | Veterinary Practice Partners | Henrietta, New York, United States | 2026-08-13 |
+| [Relief Veterinarian](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8556541002?gh_jid=8556541002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
+| [Relief Veterinarian](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8687352002?gh_jid=8687352002) | Veterinary Practice Partners | East Greenbush, New York | 2026-08-13 |
+| [Relief Veterinarian](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8556566002?gh_jid=8556566002) | Veterinary Practice Partners | Brooklyn, New York | 2026-08-13 |
+| [Licensed Veterinary Technician](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8651601002?gh_jid=8651601002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
+| [Veterinary Receptionist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8660610002?gh_jid=8660610002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
+| [Licensed Veterinary Technician](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8635844002?gh_jid=8635844002) | Veterinary Practice Partners | Henrietta, New York | 2026-08-13 |
+| [Veterinarian - Board Certified Internal Medicine Specialist](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8380595002?gh_jid=8380595002) | Veterinary Practice Partners | Hopewell Junction, New York | 2026-08-13 |
+| [Overnight Licensed Veterinary Tech - On Call](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8648933002?gh_jid=8648933002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
+| [Veterinary Practice Manager](https://boards.greenhouse.io/veterinarypracticepartners/jobs/8642587002?gh_jid=8642587002) | Veterinary Practice Partners | New York, NY | 2026-08-13 |
 | [Senior Simulation Engineer - Electromagnetics Specialist](https://job-boards.eu.greenhouse.io/physicsx/jobs/4952597101) | PhysicsX | New York | 2026-08-13 |
 | [Software Engineer, Product Backend (4-8 YOE)](https://job-boards.greenhouse.io/airtable/jobs/8397515002) | Airtable | San Francisco, CA; New York, NY | 2026-08-13 |
 | [Senior Project Manager (On-site, NYC)](https://job-boards.greenhouse.io/matteprojects/jobs/6142996004) | MATTE PROJECTS | New York, New York | 2026-08-13 |
@@ -131,6 +173,7 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Technical Account Manager - (Central or East Coast)](https://www.okta.com/company/careers/opportunity/7818930?gh_jid=7818930) | Okta | Chicago, Illinois; Colorado; Georgia; Massachusetts; New York, New York; North Carolina; Texas | 2026-08-13 |
 | [Manager, Back Office & Payment Operations](https://www.brex.com/careers/8687493002?gh_jid=8687493002) | Brex | New York, New York, United States | 2026-08-13 |
 | [Product Manager](https://jobs.smartrecruiters.com/nbcuniversal3/744000143370255) | NBCUniversal | New York, us | 2026-08-13 |
+| [Staff Software Engineer, Education](https://job-boards.greenhouse.io/anthropic/jobs/5389305008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-13 |
 | [Membership Sales Manager](https://job-boards.greenhouse.io/mossnewyorkllc/jobs/4369128009) | Moss New York LLC | 520 Fifth Avenue New York NY 10036 | 2026-08-13 |
 | [Member Experience Manager](https://job-boards.greenhouse.io/mossnewyorkllc/jobs/4369090009) | Moss New York LLC | 520 Fifth Avenue New York NY 10036 | 2026-08-13 |
 | [Senior Customer Success Manager - Growth Segment](https://boards.greenhouse.io/ridgeline/jobs/7865438003?gh_jid=7865438003) | Ridgeline | Remote, USA; New York, NY | 2026-08-13 |
@@ -144,27 +187,28 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Partnerships & Alliances Director](https://triplelift.com/careers-posts/?gh_jid=8084258) | TripleLift | New York, New York, United States | 2026-08-13 |
 | [VP, DSP Partnerships](https://triplelift.com/careers-posts/?gh_jid=8127940) | TripleLift | New York, New York, United States | 2026-08-13 |
 | [Copy of Revenue Analyst](https://triplelift.com/careers-posts/?gh_jid=8125972) | TripleLift | New York, New York, United States | 2026-08-13 |
-| [Senior Specialist - Visual Merchandising](https://boards.greenhouse.io/onrunning/jobs/8100490?gh_jid=8100490) | On | New York City | 2026-08-13 |
-| [Senior Lead Retail Training, AMER](https://boards.greenhouse.io/onrunning/jobs/8094811?gh_jid=8094811) | On | New York City | 2026-08-13 |
-| [Senior Lead, Legal Counsel](https://boards.greenhouse.io/onrunning/jobs/8002350?gh_jid=8002350) | On | New York City | 2026-08-13 |
 | [Senior Lead - Integrated Marketing (3-month Contract)](https://boards.greenhouse.io/onrunning/jobs/8100118?gh_jid=8100118) | On | New York City | 2026-08-13 |
 | [Associate Store Leader, Lafayette](https://boards.greenhouse.io/onrunning/jobs/7884208?gh_jid=7884208) | On | New York City | 2026-08-13 |
-| [Senior Specialist - Marketing Operations](https://boards.greenhouse.io/onrunning/jobs/8099878?gh_jid=8099878) | On | New York City | 2026-08-13 |
+| [Senior Specialist - Visual Merchandising](https://boards.greenhouse.io/onrunning/jobs/8100490?gh_jid=8100490) | On | New York City | 2026-08-13 |
+| [Senior Lead, Legal Counsel](https://boards.greenhouse.io/onrunning/jobs/8002350?gh_jid=8002350) | On | New York City | 2026-08-13 |
 | [Store Advisor (Lafayette)](https://boards.greenhouse.io/onrunning/jobs/7766643?gh_jid=7766643) | On | New York City | 2026-08-13 |
+| [Senior Specialist - Marketing Operations](https://boards.greenhouse.io/onrunning/jobs/8099878?gh_jid=8099878) | On | New York City | 2026-08-13 |
 | [Senior Lead - Sales Planning](https://boards.greenhouse.io/onrunning/jobs/7931324?gh_jid=7931324) | On | New York City | 2026-08-13 |
-| [Seasonal Store Advisor, Flatiron](https://boards.greenhouse.io/onrunning/jobs/7954304?gh_jid=7954304) | On | New York City | 2026-08-13 |
-| [Senior Lead - Distribution & Logistics Transformation Project Manager](https://boards.greenhouse.io/onrunning/jobs/8008632?gh_jid=8008632) | On | Atlanta; Locust Grove; New York City | 2026-08-13 |
-| [Senior Lead - B2B Marketing, Run Specialty](https://boards.greenhouse.io/onrunning/jobs/7932199?gh_jid=7932199) | On | New York City | 2026-08-13 |
+| [Senior Lead Retail Training, AMER](https://boards.greenhouse.io/onrunning/jobs/8094811?gh_jid=8094811) | On | New York City | 2026-08-13 |
 | [Senior Lead - B2B Marketing, Sneaker and Department Store Key Accounts](https://boards.greenhouse.io/onrunning/jobs/7584473?gh_jid=7584473) | On | New York City | 2026-08-13 |
+| [Seasonal Store Advisor, Flatiron](https://boards.greenhouse.io/onrunning/jobs/7954304?gh_jid=7954304) | On | New York City | 2026-08-13 |
+| [Senior Lead - B2B Marketing, Run Specialty](https://boards.greenhouse.io/onrunning/jobs/7932199?gh_jid=7932199) | On | New York City | 2026-08-13 |
+| [Senior Lead - Distribution & Logistics Transformation Project Manager](https://boards.greenhouse.io/onrunning/jobs/8008632?gh_jid=8008632) | On | Atlanta; Locust Grove; New York City | 2026-08-13 |
 | [Senior Lead - Distribution Procurement Category Manager](https://boards.greenhouse.io/onrunning/jobs/8049202?gh_jid=8049202) | On | New York City | 2026-08-13 |
-| [Lead - B2B Digital Marketing](https://boards.greenhouse.io/onrunning/jobs/8074602?gh_jid=8074602) | On | New York City | 2026-08-13 |
-| [Lead - Visual Merchandising](https://boards.greenhouse.io/onrunning/jobs/8100501?gh_jid=8100501) | On | New York City | 2026-08-13 |
+| [Lead - Influencer Marketing, Sneakers, Apparel & Special Projects](https://boards.greenhouse.io/onrunning/jobs/8083369?gh_jid=8083369) | On | New York City | 2026-08-13 |
 | [Lead Store Advisor, Flatiron](https://boards.greenhouse.io/onrunning/jobs/8070247?gh_jid=8070247) | On | New York City | 2026-08-13 |
+| [Lead - Visual Merchandising](https://boards.greenhouse.io/onrunning/jobs/8100501?gh_jid=8100501) | On | New York City | 2026-08-13 |
 | [Lead - Sales Planning](https://boards.greenhouse.io/onrunning/jobs/7863634?gh_jid=7863634) | On | New York City | 2026-08-13 |
 | [Lead - Retail Construction Project Manager (Development Manager)](https://boards.greenhouse.io/onrunning/jobs/8098975?gh_jid=8098975) | On | New York City | 2026-08-13 |
 | [Lead Payroll Administrator, Americas](https://boards.greenhouse.io/onrunning/jobs/7892851?gh_jid=7892851) | On | New York City | 2026-08-13 |
-| [Lead - Influencer Marketing, Sneakers, Apparel & Special Projects](https://boards.greenhouse.io/onrunning/jobs/8083369?gh_jid=8083369) | On | New York City | 2026-08-13 |
+| [Lead - B2B Digital Marketing](https://boards.greenhouse.io/onrunning/jobs/8074602?gh_jid=8074602) | On | New York City | 2026-08-13 |
 | [GTM Associate](https://jobs.ashbyhq.com/sequence/a755e204-d28e-4894-8364-b849664766c5) | Sequence | New York City | 2026-08-13 |
+| [Senior Technical Designer, Socks](https://job-boards.greenhouse.io/bombas/jobs/8114263) | Bombas | New York, NY | 2026-08-13 |
 | [Senior Developer Advocate](https://job-boards.greenhouse.io/viamrobotics/jobs/6142492004) | Viam | New York, NY | 2026-08-13 |
 | [Associate Director, Meeting Services](https://jobs.smartrecruiters.com/eversana1/744000143364059) | EVERSANA | New York, us | 2026-08-13 |
 | [Director of AI Engineering](https://job-boards.greenhouse.io/parachutehealth/jobs/5206327007) | Parachute Health | New York, New York or Boston, MA | 2026-08-13 |
@@ -198,13 +242,13 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Account Manager](https://boards.greenhouse.io/orennia/jobs/5076636008?gh_jid=5076636008) | Orennia | Texas, New York, California, Chicago or US Remote | 2026-08-13 |
 | [Account Director](https://boards.greenhouse.io/orennia/jobs/4534384008?gh_jid=4534384008) | Orennia | Texas, New York, California, Chicago or US Remote | 2026-08-13 |
 | [Senior Solutions Engineer](https://corporate.trustpilot.com/careers/job/8093072?gh_jid=8093072) | Trustpilot | New York | 2026-08-13 |
+| [Director, People Operations & Intelligence](https://job-boards.greenhouse.io/springhealth66/jobs/4720653005) | Spring Health | New York (Hybrid) | 2026-08-13 |
+| [Director, Lifecycle Marketing](https://job-boards.greenhouse.io/springhealth66/jobs/4704507005) | Spring Health | New York (Hybrid) | 2026-08-13 |
 | [Director, Revenue Analytics & AI Innovation](https://job-boards.greenhouse.io/springhealth66/jobs/4715281005) | Spring Health | New York (Hybrid) | 2026-08-13 |
 | [Business Development Representative](https://job-boards.greenhouse.io/springhealth66/jobs/4716685005) | Spring Health | New York (Hybrid) | 2026-08-13 |
-| [Director, Lifecycle Marketing](https://job-boards.greenhouse.io/springhealth66/jobs/4704507005) | Spring Health | New York (Hybrid) | 2026-08-13 |
-| [Director, People Operations & Intelligence](https://job-boards.greenhouse.io/springhealth66/jobs/4720653005) | Spring Health | New York (Hybrid) | 2026-08-13 |
 | [Associate Director, Strategic Operations](https://job-boards.greenhouse.io/springhealth66/jobs/4668678005) | Spring Health | New York (Hybrid) | 2026-08-13 |
-| [Director, Business Operations & Strategy](https://job-boards.greenhouse.io/springhealth66/jobs/4615706005) | Spring Health | New York, New York, United States | 2026-08-13 |
 | [Global Care Navigator - (Dutch Speaking)](https://job-boards.greenhouse.io/springhealth66/jobs/4706350005) | Spring Health | New York, New York, United States | 2026-08-13 |
+| [Director, Business Operations & Strategy](https://job-boards.greenhouse.io/springhealth66/jobs/4615706005) | Spring Health | New York, New York, United States | 2026-08-13 |
 | [Account Executive, Platforms and Publishers (Business Development)](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014583846) | The Nielsen Company | New York, us | 2026-08-13 |
 | [Senior Manager, Strategy & Operations](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6143017004) | Morgan & Morgan, P.A. | Brooklyn, New York, United States | 2026-08-13 |
 | [Deli Server/Barista](https://jobs.smartrecruiters.com/MotelOne/744000143342379) | Motel One | New York, us | 2026-08-13 |
@@ -222,6 +266,7 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Manager, Account Management](https://jobs.ashbyhq.com/warp/6ed7aaa2-8144-411a-8a4c-646b0c48a75d) | Warp | New York | 2026-08-13 |
 | [Manager, Sales Development 1](https://jobs.smartrecruiters.com/LinkedIn3/744000143327339) | LinkedIn | New York, us | 2026-08-13 |
 | [Junior Technology Project Manager](https://job-boards.greenhouse.io/accordion/jobs/7827110) | Accordion | Boston; Charlotte; Chicago; Dallas; New York | 2026-08-13 |
+| [Senior Product Manager, Clinical Workflow](https://job-boards.greenhouse.io/blinkhealth/jobs/8696060002) | Blink Health | New York, NY; Pittsburgh, PA; Seattle, WA | 2026-08-13 |
 | [Assistant Controller](https://jobs.ashbyhq.com/imprint/e847e862-c4b4-4f42-960d-98889cbac082) | Imprint | New York City | 2026-08-13 |
 | [Communications, Real Estate, Vice President](https://job-boards.greenhouse.io/tpgcareers/jobs/7787998003) | TPG Careers Page | New York, New York, United States | 2026-08-13 |
 | [Enterprise Account Executive, Growth](https://jobs.ashbyhq.com/middesk/c008f122-1b8e-4921-92e7-7f7aebcfda6b) | Middesk | New York | 2026-08-13 |
@@ -261,51 +306,6 @@ _12,104 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [DEPUTY DIRECTOR, BOROUGH OFFICE (QUEENS)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578966) | City of New York | New York City, us | 2026-08-13 |
 | [EEO Attorney](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578801) | City of New York | New York City, us | 2026-08-13 |
 | [Director](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578821) | City of New York | New York City, us | 2026-08-13 |
-| [DIRECTOR OF SOCIAL SERVICE](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578956) | City of New York | New York City, us | 2026-08-13 |
-| [RESOURCE SPECIALIST](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578691) | City of New York | New York City, us | 2026-08-13 |
-| [PROJECT MANAGER](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578926) | City of New York | New York City, us | 2026-08-13 |
-| [Clinic Community Liaison, Bureau of Public Health Clinics](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578916) | City of New York | New York City, us | 2026-08-13 |
-| [Junior Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578816) | City of New York | New York City, us | 2026-08-13 |
-| [Coordinator (Sustainability)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578796) | City of New York | New York City, us | 2026-08-13 |
-| [Coordinator (Sustainability)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578701) | City of New York | New York City, us | 2026-08-13 |
-| [Chief (Code Compliance)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578712) | City of New York | New York City, us | 2026-08-13 |
-| [Chief (Code Compliance)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578707) | City of New York | New York City, us | 2026-08-13 |
-| [TIMEKEEPER](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578781) | City of New York | New York City, us | 2026-08-13 |
-| [Junior CADD Technician](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578746) | City of New York | New York City, us | 2026-08-13 |
-| [Senior Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578686) | City of New York | New York City, us | 2026-08-13 |
-| [Senior Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578676) | City of New York | New York City, us | 2026-08-13 |
-| [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578666) | City of New York | New York City, us | 2026-08-13 |
-| [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578656) | City of New York | New York City, us | 2026-08-13 |
-| [Project Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578646) | City of New York | New York City, us | 2026-08-13 |
-| [Quality Monitoring Nurse Reviewer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578636) | City of New York | New York City, us | 2026-08-13 |
-| [FAMILY CARE COORDINATION ASSISTANT DIRECTOR](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578626) | City of New York | New York City, us | 2026-08-13 |
-| [E-LEARNING DEVELOPER](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578616) | City of New York | New York City, us | 2026-08-13 |
-| [Payroll Supervisor](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578567) | City of New York | New York City, us | 2026-08-13 |
-| [Assistant Resident Buildings Superintendent](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578596) | City of New York | New York City, us | 2026-08-13 |
-| [Placement Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578586) | City of New York | New York City, us | 2026-08-13 |
-| [Associate Director, Creative Strategy (Paid) \| Talent Pool](https://jobs.ashbyhq.com/darkroom/3607a04f-6818-4635-a308-bc1444d227ab) | Darkroom | New York | 2026-08-13 |
-| [Director of Intergovernmental Affairs](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578542) | City of New York | New York City, us | 2026-08-13 |
-| [Operations Manager](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578556) | City of New York | New York City, us | 2026-08-13 |
-| [College Aide (Photography)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578521) | City of New York | New York City, us | 2026-08-13 |
-| [Resident Buildings Superintendent](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578546) | City of New York | New York City, us | 2026-08-13 |
-| [Senior Advisor](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578496) | City of New York | New York, us | 2026-08-13 |
-| [Assistant Commissioner, Operations](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578486) | City of New York | New York City, us | 2026-08-13 |
-| [Legal Assistant](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578476) | City of New York | New York City, us | 2026-08-13 |
-| [PROGRAM COORDINATOR](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578461) | City of New York | New York City, us | 2026-08-13 |
-| [Director of Homeless Placement Services for the Division of Housing Opportunity](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578331) | City of New York | New York City, us | 2026-08-13 |
-| [Project Executive](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578438) | City of New York | New York City, us | 2026-08-13 |
-| [APU Payment Analyst](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578466) | City of New York | New York, us | 2026-08-13 |
-| [Direct Care Worker](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578456) | City of New York | New York City, us | 2026-08-13 |
-| [Associate Contract Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578223) | City of New York | New York City, us | 2026-08-13 |
-| [Family Peer Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578426) | City of New York | New York City, us | 2026-08-13 |
-| [DEPUTY DIRECTOR OF TRAINING DEVELOPMENT](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578416) | City of New York | New York City, us | 2026-08-13 |
-| [College Aide - Applications Support](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578366) | City of New York | New York City, us | 2026-08-13 |
-| [Procurement Analyst](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578316) | City of New York | New York City, us | 2026-08-13 |
-| [Senior Enterprise Account Executive - Mirakl Ads](https://job-boards.greenhouse.io/mirakl/jobs/6110487004) | Mirakl | Boston, Massachusetts, United States; New York, New York, United States | 2026-08-13 |
-| [Head of Sales, Mirakl Ads](https://job-boards.greenhouse.io/mirakl/jobs/6013505004) | Mirakl | Boston, Massachusetts, United States; New York, New York, United States | 2026-08-13 |
-| [Assistant Restaurant Manager](https://careers.sweetgreen.com/jobs/7926956?gh_jid=7926956) | sweetgreen | 100 Kenmare St, New York, NY 10012 | 2026-08-13 |
-| [Restaurant Manager](https://careers.sweetgreen.com/jobs/7742574?gh_jid=7742574) | sweetgreen | New York, NY | 2026-08-13 |
-| [Senior Software Engineer \| API](https://jobs.ashbyhq.com/deepl/4fe3ffe8-da25-4b84-addc-8dd06aba9e2e) | Deepl | New York | 2026-08-13 |
 
 ---
 

@@ -2,14 +2,14 @@
 
 Roles listing Stockholm as their location.
 
-_409 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
+_408 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | [Deployment Strategist, Professional Services Global D&I](https://job-boards.greenhouse.io/planetlabs/jobs/7907756) | Planet | Stockholm, Sweden | 2026-08-13 |
+| [Senior Specialist - Sales Representative](https://boards.greenhouse.io/onrunning/jobs/8119220?gh_jid=8119220) | On | Stockholm | 2026-08-13 |
 | [Store Advisor, Stockholm (Part-time)](https://boards.greenhouse.io/onrunning/jobs/7386511?gh_jid=7386511) | On | Stockholm | 2026-08-13 |
 | [Key Account Manager, Nordics (Maternity Cover – 14-Month Fixed-Term Contract)](https://boards.greenhouse.io/onrunning/jobs/8121088?gh_jid=8121088) | On | Stockholm | 2026-08-13 |
-| [Senior Specialist - Sales Representative](https://boards.greenhouse.io/onrunning/jobs/8119220?gh_jid=8119220) | On | Stockholm | 2026-08-13 |
 | [Retail - Lead Store Advisor, Stockholm](https://boards.greenhouse.io/onrunning/jobs/7362505?gh_jid=7362505) | On | Stockholm | 2026-08-13 |
 | [Technical Account Manager - Stockholm](https://jobs.ashbyhq.com/legora/8eca0055-ffb2-4fa1-8ffd-3c311a04a80e) | Legora | Stockholm HQ | 2026-08-13 |
 | [Head of Social Media & Channels](https://jobs.smartrecruiters.com/RedBull/744000143331949) | Red Bull | Stockholm, se | 2026-08-13 |
@@ -24,9 +24,9 @@ _409 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Seniora konsulter till Controls Advisory - Stockholm](https://jobs.smartrecruiters.com/DeloitteNordic/744000143235200) | Deloitte | Stockholm, se | 2026-08-13 |
 | [Software Engineer, iOS Core Product - Stockholm, Sweden](https://job-boards.greenhouse.io/speechify/jobs/5981167004) | Speechify | Stockholm, Sweden | 2026-08-13 |
 | [Software Engineer, Platform - Stockholm, Sweden](https://job-boards.greenhouse.io/speechify/jobs/5974317004) | Speechify | Stockholm, Sweden | 2026-08-13 |
-| [Enterprise Sales Executive (Sweden)](https://careers.datadoghq.com/detail/5925905/?gh_jid=5925905) | Datadog | Stockholm, Sweden | 2026-08-12 |
-| [Enterprise Sales Engineer - Nordics](https://careers.datadoghq.com/detail/7101976/?gh_jid=7101976) | Datadog | Copenhagen, Denmark; Stockholm, Sweden | 2026-08-12 |
 | [Principal Partner Manager - Channels (Nordics)](https://careers.datadoghq.com/detail/7580196/?gh_jid=7580196) | Datadog | Copenhagen, Denmark; Stockholm, Sweden | 2026-08-12 |
+| [Enterprise Sales Engineer - Nordics](https://careers.datadoghq.com/detail/7101976/?gh_jid=7101976) | Datadog | Copenhagen, Denmark; Stockholm, Sweden | 2026-08-12 |
+| [Enterprise Sales Executive (Sweden)](https://careers.datadoghq.com/detail/5925905/?gh_jid=5925905) | Datadog | Stockholm, Sweden | 2026-08-12 |
 | [Partner Solutions Architect (Pan-EMEA GSI)](https://careers.datadoghq.com/detail/7997198/?gh_jid=7997198) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
 | [Pooled Account Manager](https://job-boards.greenhouse.io/adyen/jobs/8122720) | Adyen | Stockholm | 2026-08-12 |
 | [Enterprise Account Manager](https://job-boards.greenhouse.io/adyen/jobs/8053210) | Adyen | Stockholm | 2026-08-12 |
@@ -46,10 +46,10 @@ _409 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Sr. Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8645054002) | Databricks | Stockholm, Sweden | 2026-08-11 |
 | [Sr. Solutions Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8609866002) | Databricks | Stockholm, Sweden | 2026-08-11 |
 | [Lakebase Associate Director](https://databricks.com/company/careers/open-positions/job?gh_jid=8569522002) | Databricks | Stockholm, Sweden | 2026-08-11 |
-| [Senior Solutions Architect - Digital Natives](https://databricks.com/company/careers/open-positions/job?gh_jid=8554470002) | Databricks | Stockholm, Sweden | 2026-08-11 |
+| [Named Enterprise Account Executive](https://databricks.com/company/careers/open-positions/job?gh_jid=8536432002) | Databricks | Stockholm, Sweden | 2026-08-11 |
 | [Senior Solutions Architect](https://databricks.com/company/careers/open-positions/job?gh_jid=8509683002) | Databricks | Stockholm, Sweden | 2026-08-11 |
 | [Solutions Architect](https://databricks.com/company/careers/open-positions/job?gh_jid=8531153002) | Databricks | Stockholm, Sweden | 2026-08-11 |
-| [Named Enterprise Account Executive](https://databricks.com/company/careers/open-positions/job?gh_jid=8536432002) | Databricks | Stockholm, Sweden | 2026-08-11 |
+| [Senior Solutions Architect - Digital Natives](https://databricks.com/company/careers/open-positions/job?gh_jid=8554470002) | Databricks | Stockholm, Sweden | 2026-08-11 |
 | [Core Account Executive, Nordics (Digital Natives)](https://databricks.com/company/careers/open-positions/job?gh_jid=8460871002) | Databricks | Stockholm, Sweden | 2026-08-11 |
 | [Delivery Solutions Architect](https://databricks.com/company/careers/open-positions/job?gh_jid=8441894002) | Databricks | Finland; Remote - Denmark; Stockholm, Sweden | 2026-08-11 |
 | [Partner Solution Engineer](https://jobs.ashbyhq.com/snowflake/4e54be52-2a12-4315-bca5-ebee4d715dab) | Snowflake | SE-Stockholm-MSO | 2026-08-11 |
@@ -64,7 +64,6 @@ _409 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Senior Product Owner](https://apply.workable.com/j/33FFADF773) | InventYOU AB | Stockholm, Sweden | 2026-08-11 |
 | [Enterprise Account Executive - Dutch Speaking](https://www.asana.com/jobs/apply/8075573?gh_jid=8075573) | Asana | Stockholm | 2026-08-10 |
 | [Quality & Care Coordinator](https://jobs.ashbyhq.com/neko-health/338f8738-7362-4beb-8a06-85fac77828a7) | Neko Health | Stockholm | 2026-08-10 |
-| [Channel Solution Engineer - Nordics](https://www.avepoint.com/careers/job-detail?gh_jid=7564313) | AvePoint | Stockholm, Sweden | 2026-08-10 |
 | [Juniora konsulter till Risk, Regulatory & Forensic – Aug 2027](https://jobs.smartrecruiters.com/DeloitteNordic/744000142619649) | Deloitte | Stockholm, se | 2026-08-10 |
 | [Data Science Lead](https://jobs.ashbyhq.com/neko-health/020e6bb8-f453-47e2-b12c-74088919da76) | Neko Health | Stockholm | 2026-08-10 |
 | [Manager & Senior Manager \| Strategy Consulting at Monitor Deloitte \| Stockholm](https://jobs.smartrecruiters.com/DeloitteNordic/744000142591989) | Deloitte | Stockholm, se | 2026-08-10 |
@@ -145,8 +144,8 @@ _409 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Cloud Engineer](https://job-boards.greenhouse.io/keyfactorinc/jobs/6115874004) | Keyfactor, Inc. | Sweden; Stockholm | 2026-07-15 |
 | [Senior Cloud Engineer](https://job-boards.greenhouse.io/keyfactorinc/jobs/6115804004) | Keyfactor, Inc. | Sweden; Stockholm | 2026-07-15 |
 | [General Manager, Sweden](https://jobs.ashbyhq.com/neko-health/863c418c-36cf-48e7-906b-866ba77f4a5b) | Neko Health | Stockholm | 2026-07-14 |
-| [Key Account Manager](https://www.lenusehealth.com/careers/apply?gh_jid=4780836101) | Lenus | Stockholm, Stockholm, Sweden | 2026-07-13 |
 | [Inbound Sales Executive](https://www.lenusehealth.com/careers/apply?gh_jid=4853183101) | Lenus | Stockholm, Stockholm, Sweden | 2026-07-13 |
+| [Key Account Manager](https://www.lenusehealth.com/careers/apply?gh_jid=4780836101) | Lenus | Stockholm, Stockholm, Sweden | 2026-07-13 |
 | [Technical Platform Expert - Stockholm](https://jobs.ashbyhq.com/legora/2cffa991-0af9-4f66-b7f3-1da317eb810e) | Legora | Stockholm HQ | 2026-07-13 |
 | [Principal Platform Advisor - Stockholm](https://jobs.ashbyhq.com/legora/f016af8f-62c3-4dfc-9a33-f4b591d90aaa) | Legora | Stockholm HQ | 2026-07-13 |
 | [Platform Consultant - Stockholm](https://jobs.ashbyhq.com/legora/4af15ee7-44af-4210-bb4a-b7463064632b) | Legora | Stockholm HQ | 2026-07-13 |
@@ -259,8 +258,8 @@ _409 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [CLIENT MANAGER/ NURSE](https://apply.workable.com/j/B0D7EA27C7) | Adoreal | Stockholm, Sweden | 2026-05-21 |
 | [Systems Engineering Manager](https://jobs.ashbyhq.com/modal/b16126e4-cf92-4db9-955e-0da6eec0574d) | Modal | Stockholm | 2026-05-19 |
 | [Säljare till Nordiska Inglasningar](https://apply.workable.com/j/C20A53CF04) | Saleshub | Stockholm, Sweden | 2026-05-19 |
-| [Fältsäljare till Goa Gubbar Fisk](https://apply.workable.com/j/D4233A5BEB) | Saleshub | Stockholm, Sweden | 2026-05-15 |
 | [Resande säljare till Goa Gubbar Fisk](https://apply.workable.com/j/452C2F8D7A) | Saleshub | Stockholm, Sweden | 2026-05-15 |
+| [Fältsäljare till Goa Gubbar Fisk](https://apply.workable.com/j/D4233A5BEB) | Saleshub | Stockholm, Sweden | 2026-05-15 |
 | [Paid Social](https://jobs.ashbyhq.com/epidemic-sound/2a23164e-be5e-437a-8fca-97021c1b62c4) | Epidemic Sound | Stockholm HQ | 2026-05-11 |
 | [Senior Cloud Architect](https://jobs.ashbyhq.com/datatonic/fa40a872-dbc4-4621-8ac4-ae958fefe8f4) | Datatonic | Stockholm | 2026-05-11 |
 | [Senior ML Engineer](https://jobs.ashbyhq.com/datatonic/ecd70031-bb15-453b-8528-452f5f575b9c) | Datatonic | Stockholm | 2026-05-11 |
@@ -268,8 +267,8 @@ _409 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [ERP Project Manager](https://jobs.smartrecruiters.com/DeloitteNordic/744000125124955) | Deloitte | Stockholm, se | 2026-05-07 |
 | [AI Engineer, Retrieval & Quality](https://jobs.ashbyhq.com/redpine/be3acdef-df36-441b-bb79-09d06a79c951) | Redpine | Redpine HQ, central Stockholm | 2026-05-06 |
 | [AI Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/redpine/38cd70c8-c776-40fc-80ea-c4fd48d93194) | Redpine | Redpine HQ, central Stockholm | 2026-05-06 |
-| [Senior System Specialist - Sweden](https://apply.workable.com/j/A0BCC79B34) | M-Files | Stockholm, Sweden | 2026-05-06 |
 | [Systems Specialist: Configuration Management( Sweden)](https://apply.workable.com/j/2C70C5E811) | M-Files | Stockholm, Sweden | 2026-05-06 |
+| [Senior System Specialist - Sweden](https://apply.workable.com/j/A0BCC79B34) | M-Files | Stockholm, Sweden | 2026-05-06 |
 | [Delivery Management Associate (socialsekreterare)](https://jobs.ashbyhq.com/tandem-health/ca225371-10b6-4d3d-94a6-8cf0033dfb03) | Tandem Health | Stockholm | 2026-04-30 |
 | [Innesäljare till ledande företag inom energiteknik](https://apply.workable.com/j/82FF0CF639) | Saleshub | Stockholm, Sweden | 2026-04-30 |
 | [Försäljningsansvarig till DSA Davids Skötsel och Anläggnings AB](https://apply.workable.com/j/0E02C75EE7) | Saleshub | Stockholm, Sweden | 2026-04-28 |
@@ -306,6 +305,7 @@ _409 open · showing the 300 most recent · updated 2026-08-15 19:32 UTC_
 | [Senior Enterprise Account Executive](https://jobs.ashbyhq.com/datatonic/955bb1bc-4ce0-4b3d-bc80-12ad309d08f1) | Datatonic | Stockholm | 2026-02-16 |
 | [Staff Software Engineer](https://jobs.ashbyhq.com/legora/9cbd8455-89f5-46c7-b7ad-9a6255c8ebb4) | Legora | Stockholm HQ | 2026-02-13 |
 | [Publisher Development Manager](https://job-boards.greenhouse.io/impact/jobs/6929152002) | Impact.com | Stockholm | 2026-02-11 |
+| [Manager to our Banking & Financial Services Engineering Team](https://jobs.smartrecruiters.com/DeloitteNordic/744000107580841) | Deloitte | Stockholm, se | 2026-02-05 |
 
 ---
 
