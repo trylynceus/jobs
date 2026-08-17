@@ -2,21 +2,21 @@
 
 Roles listing Paris as their location.
 
-_2,173 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
+_2,173 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | [Forward Deployed Architect, France](https://jobs.ashbyhq.com/notion/d87154d4-d3c5-48cf-8e83-559436f27133) | Notion | Paris, France | 2026-08-14 |
 | [Retail Customer Service Associate](https://jobs.smartrecruiters.com/Sutherland/744000143373088) | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-08-13 |
-| [Lead Store Advisor (Superviseur), Champs-Elysées](https://boards.greenhouse.io/onrunning/jobs/5905957?gh_jid=5905957) | On | Paris | 2026-08-13 |
 | [Store Advisor, La Vallée Village Outlet](https://boards.greenhouse.io/onrunning/jobs/7742132?gh_jid=7742132) | On | Paris | 2026-08-13 |
-| [Senior Specialist - Brand Comms, Sneaker (South)](https://boards.greenhouse.io/onrunning/jobs/8072560?gh_jid=8072560) | On | Paris | 2026-08-13 |
-| [Lead Store Advisor (Superviseur), Galeries Lafayette](https://boards.greenhouse.io/onrunning/jobs/7694515?gh_jid=7694515) | On | Paris | 2026-08-13 |
-| [Lead Store Advisor (Superviseur) / CDD - St. Germain](https://boards.greenhouse.io/onrunning/jobs/5157533?gh_jid=5157533) | On | Paris | 2026-08-13 |
-| [Associate Store Leader (Responsable adjoint de boutique) , Saint Germain](https://boards.greenhouse.io/onrunning/jobs/7846530?gh_jid=7846530) | On | Paris | 2026-08-13 |
+| [Lead Store Advisor (Superviseur), Champs-Elysées](https://boards.greenhouse.io/onrunning/jobs/5905957?gh_jid=5905957) | On | Paris | 2026-08-13 |
 | [Store Advisor, Champs-Elysées](https://boards.greenhouse.io/onrunning/jobs/5902970?gh_jid=5902970) | On | Paris | 2026-08-13 |
-| [Store Advisor, Galeries Lafayette](https://boards.greenhouse.io/onrunning/jobs/7654137?gh_jid=7654137) | On | Paris | 2026-08-13 |
 | [Area Lead, South Europe](https://boards.greenhouse.io/onrunning/jobs/8119272?gh_jid=8119272) | On | Paris | 2026-08-13 |
+| [Store Advisor, Galeries Lafayette](https://boards.greenhouse.io/onrunning/jobs/7654137?gh_jid=7654137) | On | Paris | 2026-08-13 |
+| [Lead Store Advisor (Superviseur), Galeries Lafayette](https://boards.greenhouse.io/onrunning/jobs/7694515?gh_jid=7694515) | On | Paris | 2026-08-13 |
+| [Associate Store Leader (Responsable adjoint de boutique) , Saint Germain](https://boards.greenhouse.io/onrunning/jobs/7846530?gh_jid=7846530) | On | Paris | 2026-08-13 |
+| [Lead Store Advisor (Superviseur) / CDD - St. Germain](https://boards.greenhouse.io/onrunning/jobs/5157533?gh_jid=5157533) | On | Paris | 2026-08-13 |
+| [Senior Specialist - Brand Comms, Sneaker (South)](https://boards.greenhouse.io/onrunning/jobs/8072560?gh_jid=8072560) | On | Paris | 2026-08-13 |
 | [Stagiaire réception (H/F/X)](https://jobs.smartrecruiters.com/AccorHotel/744000143358799) | AccorHotel | Paris, fr | 2026-08-13 |
 | [Channel Sales Manager, France](http://block.xyz/careers/jobs/5183786008?gh_jid=5183786008) | Block | Paris, France | 2026-08-13 |
 | [Superviseur Restaurant (H/F/X)](https://jobs.smartrecruiters.com/AccorHotel/744000143351060) | AccorHotel | Paris, fr | 2026-08-13 |
@@ -33,9 +33,9 @@ _2,173 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
 | [Learning & Development Manager](https://jobs.smartrecruiters.com/AccorCorpo/744000143296494) | AccorCorpo | Paris, fr | 2026-08-13 |
 | [Software Engineer Java](https://job-boards.greenhouse.io/mirakllabs/jobs/6138689004) | Mirakl - Labs | Paris, France | 2026-08-13 |
 | [Sales Enablement Manager](https://job-boards.greenhouse.io/mirakl/jobs/6141828004) | Mirakl | Paris, France | 2026-08-13 |
-| [Product Manager - Financial Services](https://job-boards.greenhouse.io/mirakllabs/jobs/6134001004) | Mirakl - Labs | Paris, France | 2026-08-13 |
-| [Product Manager - Fulfillment (Freelance)](https://job-boards.greenhouse.io/mirakllabs/jobs/6121105004) | Mirakl - Labs | Paris, France | 2026-08-13 |
 | [Product Manager - Fulfillment (12-month contract)](https://job-boards.greenhouse.io/mirakllabs/jobs/6122455004) | Mirakl - Labs | Paris, France | 2026-08-13 |
+| [Product Manager - Fulfillment (Freelance)](https://job-boards.greenhouse.io/mirakllabs/jobs/6121105004) | Mirakl - Labs | Paris, France | 2026-08-13 |
+| [Product Manager - Financial Services](https://job-boards.greenhouse.io/mirakllabs/jobs/6134001004) | Mirakl - Labs | Paris, France | 2026-08-13 |
 | [VP DATA](https://job-boards.greenhouse.io/mirakllabs/jobs/6102819004) | Mirakl - Labs | Paris, France | 2026-08-13 |
 | [Lead AI engineer](https://job-boards.greenhouse.io/mirakllabs/jobs/6116425004) | Mirakl - Labs | Paris, France | 2026-08-13 |
 | [Senior AI Engineer](https://job-boards.greenhouse.io/mirakllabs/jobs/5850877004) | Mirakl - Labs | Paris, France | 2026-08-13 |
@@ -63,55 +63,55 @@ _2,173 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
 | [Client Relationship Representative (In-House)](https://apply.workable.com/j/94AFEA27FA) | Viva.com | Paris, France | 2026-08-13 |
 | [Financial Accountant (AP) (all genders)](https://apply.workable.com/j/70FCD6EFF5) | Shiftmove | Paris, France | 2026-08-13 |
 | [Sr. Client Partner (8-Month Fixed Term)](https://www.pinterestcareers.com/jobs/?gh_jid=8098379) | Pinterest | Paris, FR | 2026-08-12 |
-| [Strategic Account Executive - Paris](https://careers.datadoghq.com/detail/7101117/?gh_jid=7101117) | Datadog | Paris, France | 2026-08-12 |
-| [Senior Applied Scientist](https://careers.datadoghq.com/detail/6781197/?gh_jid=6781197) | Datadog | Paris, France | 2026-08-12 |
-| [Enterprise Sales Engineer - Paris](https://careers.datadoghq.com/detail/7661700/?gh_jid=7661700) | Datadog | Paris, France | 2026-08-12 |
-| [Enterprise IT Support Technician I](https://careers.datadoghq.com/detail/8035671/?gh_jid=8035671) | Datadog | Paris, France | 2026-08-12 |
-| [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726) | Datadog | Italy, Remote; Paris, France; Portugal, Remote; Spain, Remote | 2026-08-12 |
-| [Senior Applied Scientist - Behavior AI](https://careers.datadoghq.com/detail/8045964/?gh_jid=8045964) | Datadog | Paris, France | 2026-08-12 |
-| [Executive Assistant II - Paris](https://careers.datadoghq.com/detail/8096323/?gh_jid=8096323) | Datadog | Paris, France | 2026-08-12 |
-| [Senior Platform Security Engineer](https://careers.datadoghq.com/detail/8094188/?gh_jid=8094188) | Datadog | Paris, France | 2026-08-12 |
-| [Senior Product Manager - Data Security](https://careers.datadoghq.com/detail/7808839/?gh_jid=7808839) | Datadog | Paris, France | 2026-08-12 |
-| [Staff Engineer - Data Platform Experience](https://careers.datadoghq.com/detail/8119493/?gh_jid=8119493) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| [Staff Engineer - Data Semantics](https://careers.datadoghq.com/detail/8043560/?gh_jid=8043560) | Datadog | Madrid, Spain; Paris, France | 2026-08-12 |
-| [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007589/?gh_jid=8007589) | Datadog | Paris, France | 2026-08-12 |
-| [Product Manager II, AI & Data Security](https://careers.datadoghq.com/detail/8012549/?gh_jid=8012549) | Datadog | Paris, France | 2026-08-12 |
-| [AI Research Engineer - Datadog AI Research (DAIR)](https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969) | Datadog | Paris, France | 2026-08-12 |
-| [AI Research Scientist - Datadog AI Research (DAIR)](https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564) | Datadog | Paris, France | 2026-08-12 |
-| [Director, Engineering - Digital Experience Monitoring](https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591) | Datadog | Paris, France | 2026-08-12 |
-| [Director, Product Management - Cloud Security and Shared Capabilities](https://careers.datadoghq.com/detail/8030324/?gh_jid=8030324) | Datadog | Paris, France | 2026-08-12 |
-| [Director, Technical Account Management](https://careers.datadoghq.com/detail/7658810/?gh_jid=7658810) | Datadog | Dublin, Ireland; London, United Kingdom; Paris, France | 2026-08-12 |
 | [Product Manager II - Application Performance Monitoring](https://careers.datadoghq.com/detail/8028422/?gh_jid=8028422) | Datadog | Paris, France | 2026-08-12 |
-| [Product Strategy and Corporate Development Lead (EMEA)](https://careers.datadoghq.com/detail/7413847/?gh_jid=7413847) | Datadog | Paris, France | 2026-08-12 |
-| [Program Manager - Community Content and Events (EMEA)](https://careers.datadoghq.com/detail/8091868/?gh_jid=8091868) | Datadog | Paris, France | 2026-08-12 |
-| [Real Estate Associate Project Manager](https://careers.datadoghq.com/detail/7732564/?gh_jid=7732564) | Datadog | Amsterdam, The Netherlands; London, United Kingdom; Paris, France | 2026-08-12 |
-| [Manager I, Engineering - Husky](https://careers.datadoghq.com/detail/7959705/?gh_jid=7959705) | Datadog | Paris, France | 2026-08-12 |
-| [Manager I, Engineering - Observability Pipelines (OP)](https://careers.datadoghq.com/detail/8074318/?gh_jid=8074318) | Datadog | Paris, France | 2026-08-12 |
-| [Manager I, Engineering - Security Libraries](https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219) | Datadog | Paris, France | 2026-08-12 |
-| [Manager I, Engineering - Sensitive Data Scanner](https://careers.datadoghq.com/detail/8102794/?gh_jid=8102794) | Datadog | Paris, France | 2026-08-12 |
-| [Manager I, Engineering - Source Code Integration](https://careers.datadoghq.com/detail/8051068/?gh_jid=8051068) | Datadog | Paris, France | 2026-08-12 |
-| [Manager II, Premier Support Engineering - EMEA](https://careers.datadoghq.com/detail/7496237/?gh_jid=7496237) | Datadog | Paris, France | 2026-08-12 |
-| [Manager I, Technical Escalations Engineering - Paris](https://careers.datadoghq.com/detail/8013353/?gh_jid=8013353) | Datadog | Paris, France | 2026-08-12 |
-| [Senior Software Engineer - REDAPL Graph Engine](https://careers.datadoghq.com/detail/7959962/?gh_jid=7959962) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| [Senior Software Engineer - Incident Insights & Readiness](https://careers.datadoghq.com/detail/8094111/?gh_jid=8094111) | Datadog | Paris, France | 2026-08-12 |
-| [Manager I, Engineering - Applied AI/ML Product Analytics Suite](https://careers.datadoghq.com/detail/8081251/?gh_jid=8081251) | Datadog | Paris, France | 2026-08-12 |
-| [Senior Software Engineer - Action Platform](https://careers.datadoghq.com/detail/8102624/?gh_jid=8102624) | Datadog | Paris, France | 2026-08-12 |
-| [Senior Software Engineer - Security Libraries](https://careers.datadoghq.com/detail/8081477/?gh_jid=8081477) | Datadog | Bordeaux, France; Lyon, France; Madrid, Spain; Nantes, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
-| [Technical Escalations Engineer 2 (Network Monitoring) - EMEA](https://careers.datadoghq.com/detail/8064226/?gh_jid=8064226) | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
-| [Technical Enablement Manager 3 (Italian Speaking)](https://careers.datadoghq.com/detail/8046399/?gh_jid=8046399) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland; Paris, France | 2026-08-12 |
-| [Technical Support Engineer 3, Premier - EMEA](https://careers.datadoghq.com/detail/8083128/?gh_jid=8083128) | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
-| [Major Account Manager (EMEA)](https://careers.datadoghq.com/detail/7409175/?gh_jid=7409175) | Datadog | Paris, France; Switzerland, Remote | 2026-08-12 |
-| [Manager I, Applied AI - Distilled Models](https://careers.datadoghq.com/detail/8030598/?gh_jid=8030598) | Datadog | Paris, France | 2026-08-12 |
-| [Technical Support Engineer 2, Premier - EMEA](https://careers.datadoghq.com/detail/7496253/?gh_jid=7496253) | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
-| [Senior Software Engineer (AI)](https://careers.datadoghq.com/detail/7731292/?gh_jid=7731292) | Datadog | Paris, France | 2026-08-12 |
-| [Senior AI Engineer – Notebooks](https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183) | Datadog | Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote | 2026-08-12 |
-| [Manager I, Engineering - AI Platform - Evaluation & Annotation](https://careers.datadoghq.com/detail/7965428/?gh_jid=7965428) | Datadog | Paris, France | 2026-08-12 |
-| [Manager I, Engineering - AI Platform - Training & Serving](https://careers.datadoghq.com/detail/7529852/?gh_jid=7529852) | Datadog | Paris, France | 2026-08-12 |
-| [Manager I, Engineering - Code Security](https://careers.datadoghq.com/detail/8108378/?gh_jid=8108378) | Datadog | Paris, France | 2026-08-12 |
-| [Senior Software Engineer - Backend](https://careers.datadoghq.com/detail/4599148/?gh_jid=4599148) | Datadog | Bordeaux, France; Paris, France | 2026-08-12 |
-| [Office Technology Administrator II](https://careers.datadoghq.com/detail/8028254/?gh_jid=8028254) | Datadog | Paris, France | 2026-08-12 |
+| [Senior Applied Scientist](https://careers.datadoghq.com/detail/6781197/?gh_jid=6781197) | Datadog | Paris, France | 2026-08-12 |
 | [Senior Security Engineer - Cloud SIEM](https://careers.datadoghq.com/detail/7996898/?gh_jid=7996898) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| [Manager I, Engineering - AI Platform - Training & Serving](https://careers.datadoghq.com/detail/7529852/?gh_jid=7529852) | Datadog | Paris, France | 2026-08-12 |
+| [Product Strategy and Corporate Development Lead (EMEA)](https://careers.datadoghq.com/detail/7413847/?gh_jid=7413847) | Datadog | Paris, France | 2026-08-12 |
+| [Staff Engineer - Data Semantics](https://careers.datadoghq.com/detail/8043560/?gh_jid=8043560) | Datadog | Madrid, Spain; Paris, France | 2026-08-12 |
+| [AI Research Engineer - Datadog AI Research (DAIR)](https://careers.datadoghq.com/detail/7194969/?gh_jid=7194969) | Datadog | Paris, France | 2026-08-12 |
+| [Manager I, Engineering - Source Code Integration](https://careers.datadoghq.com/detail/8051068/?gh_jid=8051068) | Datadog | Paris, France | 2026-08-12 |
+| [Manager I, Engineering - Observability Pipelines (OP)](https://careers.datadoghq.com/detail/8074318/?gh_jid=8074318) | Datadog | Paris, France | 2026-08-12 |
+| [Senior Software Engineer - Incident Insights & Readiness](https://careers.datadoghq.com/detail/8094111/?gh_jid=8094111) | Datadog | Paris, France | 2026-08-12 |
+| [Technical Support Engineer 3, Premier - EMEA](https://careers.datadoghq.com/detail/8083128/?gh_jid=8083128) | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
+| [Manager I, Engineering - Sensitive Data Scanner](https://careers.datadoghq.com/detail/8102794/?gh_jid=8102794) | Datadog | Paris, France | 2026-08-12 |
+| [AI Research Scientist - Datadog AI Research (DAIR)](https://careers.datadoghq.com/detail/6652564/?gh_jid=6652564) | Datadog | Paris, France | 2026-08-12 |
+| [Technical Enablement Manager 3 (Italian Speaking)](https://careers.datadoghq.com/detail/8046399/?gh_jid=8046399) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland; Paris, France | 2026-08-12 |
+| [Office Technology Administrator II](https://careers.datadoghq.com/detail/8028254/?gh_jid=8028254) | Datadog | Paris, France | 2026-08-12 |
+| [Product Manager II, AI & Data Security](https://careers.datadoghq.com/detail/8012549/?gh_jid=8012549) | Datadog | Paris, France | 2026-08-12 |
+| [Enterprise Sales Engineer - Paris](https://careers.datadoghq.com/detail/7661700/?gh_jid=7661700) | Datadog | Paris, France | 2026-08-12 |
+| [Senior Applied Scientist - Behavior AI](https://careers.datadoghq.com/detail/8045964/?gh_jid=8045964) | Datadog | Paris, France | 2026-08-12 |
+| [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726) | Datadog | Italy, Remote; Paris, France; Portugal, Remote; Spain, Remote | 2026-08-12 |
+| [Director, Engineering - Digital Experience Monitoring](https://careers.datadoghq.com/detail/8050591/?gh_jid=8050591) | Datadog | Paris, France | 2026-08-12 |
+| [Manager I, Engineering - Code Security](https://careers.datadoghq.com/detail/8108378/?gh_jid=8108378) | Datadog | Paris, France | 2026-08-12 |
+| [Senior AI Engineer – Notebooks](https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183) | Datadog | Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote | 2026-08-12 |
+| [Director, Product Management - Cloud Security and Shared Capabilities](https://careers.datadoghq.com/detail/8030324/?gh_jid=8030324) | Datadog | Paris, France | 2026-08-12 |
+| [Manager I, Engineering - AI Platform - Evaluation & Annotation](https://careers.datadoghq.com/detail/7965428/?gh_jid=7965428) | Datadog | Paris, France | 2026-08-12 |
+| [Major Account Manager (EMEA)](https://careers.datadoghq.com/detail/7409175/?gh_jid=7409175) | Datadog | Paris, France; Switzerland, Remote | 2026-08-12 |
+| [Technical Support Engineer 2, Premier - EMEA](https://careers.datadoghq.com/detail/7496253/?gh_jid=7496253) | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
 | [Senior Software Engineer - AI (EMEA)](https://careers.datadoghq.com/detail/8015588/?gh_jid=8015588) | Datadog | Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
+| [Manager I, Engineering - Security Libraries](https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219) | Datadog | Paris, France | 2026-08-12 |
+| [Program Manager - Community Content and Events (EMEA)](https://careers.datadoghq.com/detail/8091868/?gh_jid=8091868) | Datadog | Paris, France | 2026-08-12 |
+| [Senior Product Manager - Data Security](https://careers.datadoghq.com/detail/7808839/?gh_jid=7808839) | Datadog | Paris, France | 2026-08-12 |
+| [Senior Software Engineer (AI)](https://careers.datadoghq.com/detail/7731292/?gh_jid=7731292) | Datadog | Paris, France | 2026-08-12 |
+| [Director, Technical Account Management](https://careers.datadoghq.com/detail/7658810/?gh_jid=7658810) | Datadog | Dublin, Ireland; London, United Kingdom; Paris, France | 2026-08-12 |
+| [Senior Software Engineer - REDAPL Graph Engine](https://careers.datadoghq.com/detail/7959962/?gh_jid=7959962) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| [Manager I, Technical Escalations Engineering - Paris](https://careers.datadoghq.com/detail/8013353/?gh_jid=8013353) | Datadog | Paris, France | 2026-08-12 |
+| [Manager II, Premier Support Engineering - EMEA](https://careers.datadoghq.com/detail/7496237/?gh_jid=7496237) | Datadog | Paris, France | 2026-08-12 |
+| [Staff Engineer - Data Platform Experience](https://careers.datadoghq.com/detail/8119493/?gh_jid=8119493) | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| [Senior Software Engineer - Backend](https://careers.datadoghq.com/detail/4599148/?gh_jid=4599148) | Datadog | Bordeaux, France; Paris, France | 2026-08-12 |
+| [Manager I, Applied AI - Distilled Models](https://careers.datadoghq.com/detail/8030598/?gh_jid=8030598) | Datadog | Paris, France | 2026-08-12 |
+| [Real Estate Associate Project Manager](https://careers.datadoghq.com/detail/7732564/?gh_jid=7732564) | Datadog | Amsterdam, The Netherlands; London, United Kingdom; Paris, France | 2026-08-12 |
+| [Senior Software Engineer - Action Platform](https://careers.datadoghq.com/detail/8102624/?gh_jid=8102624) | Datadog | Paris, France | 2026-08-12 |
+| [Enterprise IT Support Technician I](https://careers.datadoghq.com/detail/8035671/?gh_jid=8035671) | Datadog | Paris, France | 2026-08-12 |
+| [Technical Escalations Engineer 2 (Network Monitoring) - EMEA](https://careers.datadoghq.com/detail/8064226/?gh_jid=8064226) | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
+| [Manager I, Engineering - Husky](https://careers.datadoghq.com/detail/7959705/?gh_jid=7959705) | Datadog | Paris, France | 2026-08-12 |
+| [Manager I, Engineering - Applied AI/ML Product Analytics Suite](https://careers.datadoghq.com/detail/8081251/?gh_jid=8081251) | Datadog | Paris, France | 2026-08-12 |
+| [Executive Assistant II - Paris](https://careers.datadoghq.com/detail/8096323/?gh_jid=8096323) | Datadog | Paris, France | 2026-08-12 |
+| [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007589/?gh_jid=8007589) | Datadog | Paris, France | 2026-08-12 |
+| [Senior Software Engineer - Security Libraries](https://careers.datadoghq.com/detail/8081477/?gh_jid=8081477) | Datadog | Bordeaux, France; Lyon, France; Madrid, Spain; Nantes, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
+| [Senior Platform Security Engineer](https://careers.datadoghq.com/detail/8094188/?gh_jid=8094188) | Datadog | Paris, France | 2026-08-12 |
+| [Strategic Account Executive - Paris](https://careers.datadoghq.com/detail/7101117/?gh_jid=7101117) | Datadog | Paris, France | 2026-08-12 |
 | [Senior Customer Success Manager - Enterprise](https://jobs.ashbyhq.com/gorgias/ab8b07d1-ea1a-4945-b011-1be178193ecb) | Gorgias | Paris | 2026-08-12 |
 | [Account Executive, EMEA](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5163529007) | Temporal Technologies | Paris, France | 2026-08-12 |
 | [Senior Energy Data Officers](https://jobs.smartrecruiters.com/OECD/744000143144759) | OECD | Paris, fr | 2026-08-12 |
@@ -119,9 +119,9 @@ _2,173 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
 | [Accommodation Services Agent](https://jobs.smartrecruiters.com/Sutherland/744000143141860) | Sutherland | Mandeville, Manchester Parish, Jamaica, jm | 2026-08-12 |
 | [Responsable Room Service (H/F)](https://jobs.smartrecruiters.com/barriere/744000143136115) | Barrière | PARIS, fr | 2026-08-12 |
 | [Enterprise Account Executive, Growth](https://www.mongodb.com/careers/job/?gh_jid=7256796) | MongoDB | Paris | 2026-08-12 |
-| [Enterprise Account Executive, Growth](https://www.mongodb.com/careers/job/?gh_jid=6949764) | MongoDB | Paris | 2026-08-12 |
-| [Principal Consulting Engineer](https://www.mongodb.com/careers/job/?gh_jid=8109743) | MongoDB | Paris | 2026-08-12 |
 | [Senior Solutions Architect](https://www.mongodb.com/careers/job/?gh_jid=7806547) | MongoDB | Paris | 2026-08-12 |
+| [Principal Consulting Engineer](https://www.mongodb.com/careers/job/?gh_jid=8109743) | MongoDB | Paris | 2026-08-12 |
+| [Enterprise Account Executive, Growth](https://www.mongodb.com/careers/job/?gh_jid=6949764) | MongoDB | Paris | 2026-08-12 |
 | [Enterprise Account Executive](https://www.mongodb.com/careers/job/?gh_jid=7256839) | MongoDB | Paris | 2026-08-12 |
 | [Executive Assistant - M/W/NB](https://jobs.smartrecruiters.com/ubisoft2/744000143129329) | Ubisoft | Paris, fr | 2026-08-12 |
 | [Senior Devops - F/H/NB](https://jobs.smartrecruiters.com/ubisoft2/744000143129060) | Ubisoft | Paris, fr | 2026-08-12 |
@@ -142,12 +142,12 @@ _2,173 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
 | [Consultant Senior Data & AI - F/H - CDI](https://jobs.smartrecruiters.com/Talan/744000143102364) | Talan | Paris, fr | 2026-08-12 |
 | [Senior Software Engineer, Understanding](https://job-boards.greenhouse.io/algolia/jobs/6139133004) | Algolia | Paris, France | 2026-08-12 |
 | [Software Engineering Intern - Spring/Summer 2027](https://jobs.ashbyhq.com/frontcareers/1026a32c-f8cc-4eee-992b-bacdf771d9fc) | Frontcareers | Paris, France | 2026-08-12 |
-| [Auxiliaire de vie (H/F) - Week-ends](https://job-boards.greenhouse.io/ouihelp/jobs/7815216003) | Ouihelp | Paris | 2026-08-12 |
-| [Auxiliaire de vie à domicile (H/F)](https://job-boards.greenhouse.io/ouihelp/jobs/7815215003) | Ouihelp | Paris | 2026-08-12 |
-| [Aide aux personnes âgées (H/F) - rentrée septembre](https://job-boards.greenhouse.io/ouihelp/jobs/7815214003) | Ouihelp | Paris | 2026-08-12 |
 | [Aide à domicile (H/F)](https://job-boards.greenhouse.io/ouihelp/jobs/7815212003) | Ouihelp | Paris | 2026-08-12 |
-| [Aide aux personnes âgées (H/F)](https://job-boards.greenhouse.io/ouihelp/jobs/7815213003) | Ouihelp | Paris | 2026-08-12 |
+| [Auxiliaire de vie à domicile (H/F)](https://job-boards.greenhouse.io/ouihelp/jobs/7815215003) | Ouihelp | Paris | 2026-08-12 |
 | [Auxiliaire de vie - job d'été (H/F)](https://job-boards.greenhouse.io/ouihelp/jobs/7815217003) | Ouihelp | Paris | 2026-08-12 |
+| [Auxiliaire de vie (H/F) - Week-ends](https://job-boards.greenhouse.io/ouihelp/jobs/7815216003) | Ouihelp | Paris | 2026-08-12 |
+| [Aide aux personnes âgées (H/F)](https://job-boards.greenhouse.io/ouihelp/jobs/7815213003) | Ouihelp | Paris | 2026-08-12 |
+| [Aide aux personnes âgées (H/F) - rentrée septembre](https://job-boards.greenhouse.io/ouihelp/jobs/7815214003) | Ouihelp | Paris | 2026-08-12 |
 | [Regional Account Executive (Enterprise) (Fluent in French) (Located in France)](https://job-boards.greenhouse.io/knowbe4/jobs/7925832002) | KnowBe4 | Paris, France | 2026-08-12 |
 | [Director, M&A - France](https://job-boards.greenhouse.io/banyansoftware/jobs/4977838007) | Banyan Software | Paris, Paris, France | 2026-08-12 |
 | [Senior Human Resources Business Partner - EMEA & Southern Europe](https://www.netskope.com/company/careers/open-positions/?gh_jid=8119451) | Netskope | Paris, Paris, France | 2026-08-12 |
@@ -176,16 +176,16 @@ _2,173 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
 | [Solutions Architect, EMEA Startups — France](https://databricks.com/company/careers/open-positions/job?gh_jid=8675572002) | Databricks | Paris, France | 2026-08-11 |
 | [Field Marketing Manager - France, Middle East & Africa](https://databricks.com/company/careers/open-positions/job?gh_jid=8638640002) | Databricks | Paris, France | 2026-08-11 |
 | [Strategic Core Account Executive](https://databricks.com/company/careers/open-positions/job?gh_jid=8628029002) | Databricks | Paris, France | 2026-08-11 |
+| [Business Development Representative (Italian-speaking)](https://databricks.com/company/careers/open-positions/job?gh_jid=8590201002) | Databricks | Paris, France | 2026-08-11 |
 | [Delivery Solutions Architect](https://databricks.com/company/careers/open-positions/job?gh_jid=8575046002) | Databricks | Paris, France | 2026-08-11 |
 | [Sales Director, Lakebase Sales Specialist - South EMEA](https://databricks.com/company/careers/open-positions/job?gh_jid=8569618002) | Databricks | Paris, France | 2026-08-11 |
-| [Business Development Representative (Italian-speaking)](https://databricks.com/company/careers/open-positions/job?gh_jid=8590201002) | Databricks | Paris, France | 2026-08-11 |
-| [Solutions Architect Digital Natives Mid Market France](https://databricks.com/company/careers/open-positions/job?gh_jid=8560496002) | Databricks | Paris, France | 2026-08-11 |
-| [Senior Field Technical Program Manager, Professional Services](https://databricks.com/company/careers/open-positions/job?gh_jid=8554840002) | Databricks | Paris, France | 2026-08-11 |
-| [Lakebase Sales Specialist](https://databricks.com/company/careers/open-positions/job?gh_jid=8569552002) | Databricks | Paris, France | 2026-08-11 |
 | [Senior Forward Deployed Engineer - Full stack](https://databricks.com/company/careers/open-positions/job?gh_jid=8556371002) | Databricks | Paris, France | 2026-08-11 |
-| [Manager, Delivery Solutions Architects](https://databricks.com/company/careers/open-positions/job?gh_jid=8545248002) | Databricks | Madrid; Milan, Italy; Paris, France | 2026-08-11 |
+| [Lakebase Sales Specialist](https://databricks.com/company/careers/open-positions/job?gh_jid=8569552002) | Databricks | Paris, France | 2026-08-11 |
+| [Senior Field Technical Program Manager, Professional Services](https://databricks.com/company/careers/open-positions/job?gh_jid=8554840002) | Databricks | Paris, France | 2026-08-11 |
+| [Solutions Architect Digital Natives Mid Market France](https://databricks.com/company/careers/open-positions/job?gh_jid=8560496002) | Databricks | Paris, France | 2026-08-11 |
 | [Manager, Field Engineering France - Specialist Solutions Architects](https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002) | Databricks | Paris, France | 2026-08-11 |
 | [Sr. Manager, Field Engineering Qatar&Africa](https://databricks.com/company/careers/open-positions/job?gh_jid=8535812002) | Databricks | London, United Kingdom; Paris, France | 2026-08-11 |
+| [Manager, Delivery Solutions Architects](https://databricks.com/company/careers/open-positions/job?gh_jid=8545248002) | Databricks | Madrid; Milan, Italy; Paris, France | 2026-08-11 |
 | [EMEA Energy Industry Go-To-Market (GTM) Leader](https://databricks.com/company/careers/open-positions/job?gh_jid=8495059002) | Databricks | EMEA; Germany; London, United Kingdom; Paris, France; Remote - Netherlands | 2026-08-11 |
 | [Manager, Field Engineering France](https://databricks.com/company/careers/open-positions/job?gh_jid=8491126002) | Databricks | Paris, France | 2026-08-11 |
 | [Retail & Consumer Goods EMEA Leader](https://databricks.com/company/careers/open-positions/job?gh_jid=8374717002) | Databricks | Germany; London, United Kingdom; Netherlands; Paris, France | 2026-08-11 |
@@ -303,8 +303,8 @@ _2,173 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
 | [Prompt Specialist (F/H/NB)](https://jobs.smartrecruiters.com/ubisoft2/744000142125929) | Ubisoft | Paris, fr | 2026-08-07 |
 | [Chief Financial Officer - Satispay Bank (Relocation to Luxembourg)](https://jobs.ashbyhq.com/satispay/9ab703e1-24c3-44ff-9fdc-de5e0cf78db1) | Satispay | France, Paris | 2026-08-07 |
 | [Chargé(e) de Stock Studio - F/H](https://jobs.smartrecruiters.com/Courir/744000142117419) | Courir | PARIS, fr | 2026-08-07 |
-| [HR Generalist](https://job-boards.greenhouse.io/soldejaneiro/jobs/5181152007) | Sol de Janeiro | Paris, France | 2026-08-07 |
 | [Supply Planning Manager, EMEA](https://job-boards.greenhouse.io/soldejaneiro/jobs/5175006007) | Sol de Janeiro | Paris, France | 2026-08-07 |
+| [HR Generalist](https://job-boards.greenhouse.io/soldejaneiro/jobs/5181152007) | Sol de Janeiro | Paris, France | 2026-08-07 |
 | [Specialist Account Executive, ZT Branch](https://job-boards.greenhouse.io/zscaler/jobs/5124275007) | Zscaler | Ville de Paris, FRA | 2026-08-07 |
 
 ---
