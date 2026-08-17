@@ -2,12 +2,13 @@
 
 Roles whose title reads as design.
 
-_12,134 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
+_12,141 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | [Senior Manager, Paid Acquisition](https://job-boards.greenhouse.io/apolloio/jobs/6143278004) | Apollo.io | Remote, United States | 2026-08-14 |
 | [Equipment Maintenance Technician](https://job-boards.greenhouse.io/aperiatechnologies/jobs/6144707004) | Aperia Technologies, Inc | Hayward, CA | 2026-08-14 |
+| [Forward Deployed Product Designer](https://job-boards.greenhouse.io/scaleai/jobs/4724276005) | Scale AI | New York, NY; Washington, DC | 2026-08-14 |
 | [University Talent Acquisition Partner](https://job-boards.greenhouse.io/appian/jobs/8128578) | Appian Corporation | McLean, Virginia | 2026-08-14 |
 | [Architectural Designer (Mission Critical)](https://job-boards.greenhouse.io/woolpert/jobs/4369414009) | Woolpert | Chicago, IL; Coral Gables, FL; Miami, FL; New York, NY; Pittsburgh, PA | 2026-08-14 |
 | [Emergency Credentialed Veterinary Technician (Relief) - Louisville, KY](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6144119004?gh_jid=6144119004) | Veterinary Emergency Group (VEG) | Louisville, Kentucky, United States | 2026-08-14 |
@@ -44,11 +45,11 @@ _12,134 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Community & Patient Liaison - Louisville, GA](https://job-boards.greenhouse.io/mainstreethealth/jobs/4724110005) | Main Street Health | Louisville, GA | 2026-08-13 |
 | [NetSuite Administrator](https://job-boards.greenhouse.io/platformscience/jobs/7866799003) | Platform Science | Remote - US | 2026-08-13 |
 | [Participant Recruitment Analyst](https://jobs.smartrecruiters.com/M3USA/744000143397509) | M3USA | Raleigh, us | 2026-08-13 |
-| [Recruiting Coordinator (Contract)](https://job-boards.greenhouse.io/vercel/jobs/5686511004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Visual Designer, Web](https://job-boards.greenhouse.io/vercel/jobs/6115991004) | Vercel | Remote - United States | 2026-08-13 |
-| [Senior Product Designer, Growth](https://job-boards.greenhouse.io/vercel/jobs/6131210004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Senior Brand Designer](https://job-boards.greenhouse.io/vercel/jobs/5579560004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | [Presentation Designer](https://job-boards.greenhouse.io/vercel/jobs/6128387004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Senior Brand Designer](https://job-boards.greenhouse.io/vercel/jobs/5579560004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Recruiting Coordinator (Contract)](https://job-boards.greenhouse.io/vercel/jobs/5686511004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Senior Product Designer, Growth](https://job-boards.greenhouse.io/vercel/jobs/6131210004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Visual Designer, Web](https://job-boards.greenhouse.io/vercel/jobs/6115991004) | Vercel | Remote - United States | 2026-08-13 |
 | [Strategic Cuisines Account Executive - Spanish - Tri-Valley, CA](https://careers.toasttab.com/jobs?gh_jid=8129221) | Toast | Livermore, CA | 2026-08-13 |
 | [Strategic Cuisines Account Executive - Spanish - Santa Rosa, CA](https://careers.toasttab.com/jobs?gh_jid=8129217) | Toast | Santa Rosa, CA | 2026-08-13 |
 | [Strategic Cuisines Account Executive - Spanish - Central Valley, CA](https://careers.toasttab.com/jobs?gh_jid=8129211) | Toast | Monterey, CA | 2026-08-13 |
@@ -63,8 +64,8 @@ _12,134 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Fluid Component Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7865904003) | Rocket Lab Corporation | Long Beach, CA | 2026-08-13 |
 | [Recruiting Coordinator (On-Site)](https://jobs.smartrecruiters.com/Gerresheimer/744000143392679) | Gerresheimer | Peachtree City, us | 2026-08-13 |
 | [Senior Talent Acquisition Partner](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014594456) | The Nielsen Company | New York, us | 2026-08-13 |
-| [Senior Service Designer](https://job-boards.greenhouse.io/abinbev/jobs/8653587002) | AB InBev \| Growth Group | São Paulo, Brazil | 2026-08-13 |
 | [Senior Product Designer](https://job-boards.greenhouse.io/abinbev/jobs/8631815002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| [Senior Service Designer](https://job-boards.greenhouse.io/abinbev/jobs/8653587002) | AB InBev \| Growth Group | São Paulo, Brazil | 2026-08-13 |
 | [Senior UX Writer](https://job-boards.greenhouse.io/abinbev/jobs/8637411002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
 | [OPERADOR AUXILIAR (USINAGEM E MONTAGEM)](https://jobs.smartrecruiters.com/BoschGroup/744000143391064) | Bosch Group | Sorocaba, br | 2026-08-13 |
 | [Staff Motion Designer, Design Innovation](https://www.pinterestcareers.com/jobs/?gh_jid=7770898) | Pinterest | San Francisco, CA, US; Remote, CA, US | 2026-08-13 |
@@ -120,15 +121,15 @@ _12,134 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Senior Manager, Build Planning and Distribution](https://job-boards.greenhouse.io/lucidmotors/jobs/5211250007) | Lucid Motors | Phoenix, AZ | 2026-08-13 |
 | [Channels Partner Manager, Netsuite](https://paystand.com/job-listing/?gh_jid=7673999003) | Paystand | Austin, Texas, United States; Minneapolis, Minnesota, United States; Remote; Santa Cruz, California, United States | 2026-08-13 |
 | [Laboratory Analyst - PLM (TU - SA, 1PM - 9PM) Eurofins Built Environment Testing - Reservoirs, Arvada, CO](https://jobs.smartrecruiters.com/Eurofins/744000143365119) | Eurofins | Arvada, us | 2026-08-13 |
-| [Lead - Footwear Material Designer](https://boards.greenhouse.io/onrunning/jobs/7742550?gh_jid=7742550) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - SMU Designer FTW](https://boards.greenhouse.io/onrunning/jobs/7765598?gh_jid=7765598) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Color Designer Performance Footwear](https://boards.greenhouse.io/onrunning/jobs/8016535?gh_jid=8016535) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Talent Acquisition, Japan & KR](https://boards.greenhouse.io/onrunning/jobs/8068872?gh_jid=8068872) | On | Tokyo | 2026-08-13 |
-| [Senior Specialist - Talent Acquisition Retail](https://boards.greenhouse.io/onrunning/jobs/7780026?gh_jid=7780026) | On | Shanghai | 2026-08-13 |
-| [Retail - Store Advisor（Taikoo Hui SHA）](https://boards.greenhouse.io/onrunning/jobs/5815265?gh_jid=5815265) | On | Shanghai | 2026-08-13 |
-| [Senior Lead - Computational Designer](https://boards.greenhouse.io/onrunning/jobs/7120658?gh_jid=7120658) | On | Zurich | 2026-08-13 |
-| [Retail - Store Advisor（Taikoo Hui GUA）](https://boards.greenhouse.io/onrunning/jobs/5573097?gh_jid=5573097) | On | Guangzhou | 2026-08-13 |
 | [Retail - Lead Store Advisor(Taikoo Hui SHA)](https://boards.greenhouse.io/onrunning/jobs/6628733?gh_jid=6628733) | On | Shanghai | 2026-08-13 |
+| [Senior Lead - Computational Designer](https://boards.greenhouse.io/onrunning/jobs/7120658?gh_jid=7120658) | On | Zurich | 2026-08-13 |
+| [Retail - Store Advisor（Taikoo Hui SHA）](https://boards.greenhouse.io/onrunning/jobs/5815265?gh_jid=5815265) | On | Shanghai | 2026-08-13 |
+| [Retail - Store Advisor（Taikoo Hui GUA）](https://boards.greenhouse.io/onrunning/jobs/5573097?gh_jid=5573097) | On | Guangzhou | 2026-08-13 |
+| [Senior Specialist - Talent Acquisition Retail](https://boards.greenhouse.io/onrunning/jobs/7780026?gh_jid=7780026) | On | Shanghai | 2026-08-13 |
+| [Lead - Footwear Material Designer](https://boards.greenhouse.io/onrunning/jobs/7742550?gh_jid=7742550) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Color Designer Performance Footwear](https://boards.greenhouse.io/onrunning/jobs/8016535?gh_jid=8016535) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - SMU Designer FTW](https://boards.greenhouse.io/onrunning/jobs/7765598?gh_jid=7765598) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Talent Acquisition, Japan & KR](https://boards.greenhouse.io/onrunning/jobs/8068872?gh_jid=8068872) | On | Tokyo | 2026-08-13 |
 | [Senior Technical Designer, Socks](https://job-boards.greenhouse.io/bombas/jobs/8114263) | Bombas | New York, NY | 2026-08-13 |
 | [Talent Acquisition Partner](https://job-boards.greenhouse.io/merceradvisors/jobs/5388538008) | Mercer Advisors | Remote, USA | 2026-08-13 |
 | [Recruitment Care Professional Sheffield South_T040](https://jobs.smartrecruiters.com/HomeInsteadCare/744000143362739) | Home Instead | Care Professional General Enquiry, gb | 2026-08-13 |
@@ -149,8 +150,8 @@ _12,134 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Designer UX senior](https://jobs.smartrecruiters.com/ubisoft2/744000143357559) | Ubisoft | Montreal, ca | 2026-08-13 |
 | [Business Analysis, Acquisitions - Principal Analyst / Manager](https://job-boards.greenhouse.io/missionlane/jobs/8445714002) | Mission Lane | Remote, United States | 2026-08-13 |
 | [Senior Recruiting Manager, Advanced Effects](https://boards.greenhouse.io/andurilindustries/jobs/5199003007?gh_jid=5199003007) | Anduril Industries | Huntsville, Alabama, United States | 2026-08-13 |
-| [CW Production Recruiting Lead](https://boards.greenhouse.io/andurilindustries/jobs/5202671007?gh_jid=5202671007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [CW Production Recruiting Lead](https://boards.greenhouse.io/andurilindustries/jobs/5205305007?gh_jid=5205305007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
+| [CW Production Recruiting Lead](https://boards.greenhouse.io/andurilindustries/jobs/5202671007?gh_jid=5202671007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Registered Nurse - Birthing Suite](https://jobs.smartrecruiters.com/HaltonHealthcare1/3743990014585566) | Halton Healthcare | Oakville, ca | 2026-08-13 |
 | [Registered Nurse - Birthing Suite](https://jobs.smartrecruiters.com/HaltonHealthcare1/3743990014585437) | Halton Healthcare | Oakville, ca | 2026-08-13 |
 | [Chef de Partie Cuisine H/F CDI](https://jobs.smartrecruiters.com/barriere/744000143354999) | Barrière | RIBEAUVILLE, fr | 2026-08-13 |
@@ -184,9 +185,9 @@ _12,134 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Senior Manager, Talent Acquisition, Mission Readiness](https://boards.greenhouse.io/andurilindustries/jobs/5056082007?gh_jid=5056082007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Recruiter (High Volume)](https://jobs.smartrecruiters.com/Evolution/744000143342568) | Evolution | Atlantic City, us | 2026-08-13 |
 | [Equipier commercial - Encaissement - CDI - H/F](https://jobs.smartrecruiters.com/METROMAKRO/744000143342509) | METRO/MAKRO | Souffelweyersheim, fr | 2026-08-13 |
+| [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5171942007?gh_jid=5171942007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5173534007?gh_jid=5173534007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5173388007?gh_jid=5173388007) | Anduril Industries | Boston, Massachusetts, United States | 2026-08-13 |
-| [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5171942007?gh_jid=5171942007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Operations Project Coordinator - Salesforce experience required - No 3rd party candidates](https://jobs.smartrecruiters.com/eversana1/744000143338919) | EVERSANA | Remote, us | 2026-08-13 |
 | [Senior Service Designer](https://jobs.smartrecruiters.com/NECSWS/744000143339105) | NECSWS | Remote, United Kingdom, gb | 2026-08-13 |
 | [Principal Service Designer](https://jobs.smartrecruiters.com/NECSWS/744000143340509) | NECSWS | Remote, United Kingdom, gb | 2026-08-13 |
@@ -197,8 +198,8 @@ _12,134 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Senior Electrical Engineer (Circuit Design)](https://boards.greenhouse.io/andurilindustries/jobs/5183497007?gh_jid=5183497007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Global Talent Acquisition Leader](https://job-boards.greenhouse.io/mitratech/jobs/8046771) | Mitratech | Mitratech US | 2026-08-13 |
 | [Instructional Designer](https://boards.greenhouse.io/andurilindustries/jobs/5093473007?gh_jid=5093473007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
-| [Senior Product Designer, Design Systems](https://boards.greenhouse.io/andurilindustries/jobs/5129637007?gh_jid=5129637007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Senior Product Designer, Design Systems](https://boards.greenhouse.io/andurilindustries/jobs/5210843007?gh_jid=5210843007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
+| [Senior Product Designer, Design Systems](https://boards.greenhouse.io/andurilindustries/jobs/5129637007?gh_jid=5129637007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Mobile Building Engineer](https://job-boards.greenhouse.io/lpc/jobs/5195247007) | Lincoln Property Company | Allen, TX | 2026-08-13 |
 | [Construction Delivery Manager - Nuclear New Build](https://jobs.smartrecruiters.com/ASSYSTEM/744000143331976) | ASSYSTEM | Bristol, gb | 2026-08-13 |
 | [Auxiliar de Vendas e Atendimento - Vitória/ES - (Exclusiva PCDs)](https://job-boards.greenhouse.io/agibank/jobs/5382046008) | Agibank | Vitória, Espírito Santo, Brasil | 2026-08-13 |
@@ -305,7 +306,6 @@ _12,134 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Scope, Baseline & Requirements Lead (PMO) - Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143278409) | Turner & Townsend | Dublin, ie | 2026-08-13 |
 | [Monikohdetiimiläisiä aulapalveluihin pääkaupunkiseudulle](https://jobs.smartrecruiters.com/securitas/744000143277119) | Securitas | Helsinki, fi | 2026-08-13 |
 | [Talent Acquisition Partner, GTM](https://jobs.ashbyhq.com/legora/75d7038a-d571-4166-b665-7d90181e963b) | Legora | Chicago | 2026-08-13 |
-| [Auxiliaire de vie - job d'été (H/F)](https://job-boards.greenhouse.io/ouihelp/jobs/7863518003) | Ouihelp | Évry-Courcouronnes | 2026-08-13 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 Roles whose title reads as data & ai.
 
-_31,921 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
+_31,956 open · showing the 300 most recent · updated 2026-08-17 04:18 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -72,28 +72,28 @@ _31,921 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Sr. Manager, Large Customer Sales (Big Box Retail)](https://job-boards.greenhouse.io/reddit/jobs/7947897) | Reddit | Chicago, IL | 2026-08-14 |
 | [Sustainment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5041084007?gh_jid=5041084007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
 | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8103594) | Reddit | Toronto, Canada | 2026-08-14 |
-| [Senior Machine Learning Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8084032) | Reddit | Remote - United States | 2026-08-14 |
 | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Reddit | Remote - United States | 2026-08-14 |
-| [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Machine Learning Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8084032) | Reddit | Remote - United States | 2026-08-14 |
 | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8103609) | Reddit | Toronto, Canada | 2026-08-14 |
+| [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)](https://job-boards.greenhouse.io/reddit/jobs/8010403) | Reddit | Toronto, Canada | 2026-08-14 |
 | [Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Reddit | Remote - United States | 2026-08-14 |
 | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022942) | Reddit | Remote - The Netherlands | 2026-08-14 |
-| [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Reddit | Remote - United Kingdom | 2026-08-14 |
 | [Engineering Manager, Ads ML Efficiency](https://job-boards.greenhouse.io/reddit/jobs/8022366) | Reddit | Remote - United States | 2026-08-14 |
-| [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
+| [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Reddit | Remote - United Kingdom | 2026-08-14 |
 | [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Reddit | Remote - United States | 2026-08-14 |
-| [Staff Technical Product Manager, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/7954001) | Reddit | Remote - United States | 2026-08-14 |
-| [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Reddit | Remote - United States | 2026-08-14 |
 | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
-| [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
-| [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
+| [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Technical Product Manager, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/7954001) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
 | [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
 | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Reddit | Remote - United States | 2026-08-14 |
 | [Staff Machine Learning Engineer, Shopping Ads](https://job-boards.greenhouse.io/reddit/jobs/8115838) | Reddit | Remote - United States | 2026-08-14 |
-| [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Sustainment Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5076626007?gh_jid=5076626007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
 | [Senior Manager, People & Culture (EAII Advisors)](https://apply.workable.com/j/1E1E091C21) | Evidence Action | New Delhi, India | 2026-08-14 |
 | [Manager, Learning Management Operations (EAII Advisors)](https://apply.workable.com/j/EC7D5A368A) | Evidence Action | New Delhi, India | 2026-08-14 |
@@ -129,11 +129,11 @@ _31,921 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [DATA GOVERNANCE MANAGER](https://jobs.smartrecruiters.com/experian/744000143401509) | Experian | Bogotá, co | 2026-08-13 |
 | [Staff Data Engineer](https://boards.greenhouse.io/rdccareers/jobs/7848816003?gh_jid=7848816003) | Realtor.com Careers | Austin, Texas, United States | 2026-08-13 |
 | [Senior Retention Campaign Manager](https://job-boards.greenhouse.io/manscaped/jobs/5389809008) | MANSCAPED | United States - Remote | 2026-08-13 |
-| [Senior Data Engineer, Constellation Services](https://job-boards.greenhouse.io/planetlabs/jobs/8052727) | Planet | Berlin, Germany | 2026-08-13 |
+| [Senior Data Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8016466) | Planet | Washington DC; Denver, CO | 2026-08-13 |
 | [Data Visualization Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8044691) | Planet | San Francisco, CA | 2026-08-13 |
 | [Knowledge & AI Agent Manager](https://job-boards.greenhouse.io/planetlabs/jobs/8038788) | Planet | Berlin, Germany; Haarlem, Netherlands | 2026-08-13 |
 | [Product Marketing Manager, AI Solutions](https://job-boards.greenhouse.io/planetlabs/jobs/7964648) | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
-| [Senior Data Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8016466) | Planet | Washington DC; Denver, CO | 2026-08-13 |
+| [Senior Data Engineer, Constellation Services](https://job-boards.greenhouse.io/planetlabs/jobs/8052727) | Planet | Berlin, Germany | 2026-08-13 |
 | [Senior Engineering Manager - AI Geospatial Assistant Team](https://job-boards.greenhouse.io/planetlabs/jobs/7603801) | Planet | San Francisco, CA | 2026-08-13 |
 | [Senior Engineering Manager, D&I Analytics](https://job-boards.greenhouse.io/planetlabs/jobs/8068089) | Planet | Washington, D.C. | 2026-08-13 |
 | [Senior Product Manager, Analysis Ready Data Products](https://job-boards.greenhouse.io/planetlabs/jobs/7967529) | Planet | San Francisco, CA; Arlington, VA | 2026-08-13 |
@@ -156,10 +156,10 @@ _31,921 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Customer Service and Exit Booth Agent (Pittsburgh Airport)](https://jobs.smartrecruiters.com/SIXT/744000143397280) | SIXT | Pittsburgh, us | 2026-08-13 |
 | [Data Architect](https://jobs.smartrecruiters.com/PriviaHealth/744000143398599) | Privia Health | Remote, us | 2026-08-13 |
 | [Project Coordinator - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143397639) | Turner & Townsend | Indianapolis, us | 2026-08-13 |
-| [Enterprise Account Executive, Retail](https://job-boards.greenhouse.io/vercel/jobs/6112143004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Senior Integrated Campaigns Manager](https://job-boards.greenhouse.io/vercel/jobs/6122619004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Software Engineer, AI Gateway](https://job-boards.greenhouse.io/vercel/jobs/5798406004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Enterprise Account Executive, Retail](https://job-boards.greenhouse.io/vercel/jobs/6112143004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Software Engineer, AI SDK](https://job-boards.greenhouse.io/vercel/jobs/5474915004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, AI Gateway](https://job-boards.greenhouse.io/vercel/jobs/5798406004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | [Customer Return Agent (Baltimore Airport)](https://jobs.smartrecruiters.com/SIXT/744000143397289) | SIXT | Baltimore, us | 2026-08-13 |
 | [📢 Hiring Now! Part-Time Unarmed Retail Security Officers🎉](https://job-boards.greenhouse.io/marksman/jobs/4320668009) | Marksman Security LLC | Wauwatosa, WI 53226 | 2026-08-13 |
 | [📢 Welcome to Marksman Security Retail Security Job Fair! 🎉, Wauwatosa, WI](https://job-boards.greenhouse.io/marksman/jobs/4358202009) | Marksman Security LLC | Wauwatosa, WI 53226 | 2026-08-13 |
@@ -169,8 +169,8 @@ _31,921 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Retail Assistant Store Manager, Community Focus (Citadel Outlets)](https://jobs.smartrecruiters.com/VuoriInc/744000143395903) | Vuori, Inc | Commerce, us | 2026-08-13 |
 | [ML Engineer III](https://boards.greenhouse.io/6sense/jobs/8106123?gh_jid=8106123) | 6sense | Bengaluru, Karnataka, India | 2026-08-13 |
 | [Product Lead, AI Platform](https://boards.greenhouse.io/6sense/jobs/7994495?gh_jid=7994495) | 6sense | United States, Remote | 2026-08-13 |
-| [Sr. Data Scientist](https://boards.greenhouse.io/6sense/jobs/7974951?gh_jid=7974951) | 6sense | San Francisco, California, United States | 2026-08-13 |
 | [Staff Enterprise AI Engineer](https://boards.greenhouse.io/6sense/jobs/8002993?gh_jid=8002993) | 6sense | San Francisco, California, United States | 2026-08-13 |
+| [Sr. Data Scientist](https://boards.greenhouse.io/6sense/jobs/7974951?gh_jid=7974951) | 6sense | San Francisco, California, United States | 2026-08-13 |
 | [Lead, Advanced Analytics, Community Support](https://careers.airbnb.com/positions/8125981?gh_jid=8125981) | Airbnb | United States | 2026-08-13 |
 | [Tailored Day Service Floater](https://job-boards.greenhouse.io/abilitypath/jobs/5193769007) | AbilityPath | Burlingame, California, United States, Redwood City, California, United States, | 2026-08-13 |
 | [Data Analyst - Revenue Management](https://jobs.smartrecruiters.com/PublicStorage/744000143395139) | Public Storage | Glendale, us | 2026-08-13 |
@@ -180,9 +180,9 @@ _31,921 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Maintenance Tech II](https://jobs.smartrecruiters.com/AsburyCommunities/744000143394279) | Asbury Communities | Gaithersburg, us | 2026-08-13 |
 | [Sr. Director, UX Research - AI](https://jobs.smartrecruiters.com/ServiceNow/744000143393175) | ServiceNow | Santa Clara, us | 2026-08-13 |
 | [Hospice Certified Home Health Aide (CHHA/CNA)](https://job-boards.greenhouse.io/missionhealthcare/jobs/4341002009) | Mission Healthcare | Ventura, CA | 2026-08-13 |
-| [Hospice Chaplain](https://job-boards.greenhouse.io/missionhealthcare/jobs/4353204009) | Mission Healthcare | Murrieta, CA | 2026-08-13 |
-| [Hospice Certified Home Health Aide (CHHA/CNA)](https://job-boards.greenhouse.io/missionhealthcare/jobs/4329100009) | Mission Healthcare | San Bernardino, CA | 2026-08-13 |
 | [Home Health Certified Home Health Aide (CHHA/CNA)](https://job-boards.greenhouse.io/missionhealthcare/jobs/4317462009) | Mission Healthcare | Sacramento, CA | 2026-08-13 |
+| [Hospice Certified Home Health Aide (CHHA/CNA)](https://job-boards.greenhouse.io/missionhealthcare/jobs/4329100009) | Mission Healthcare | San Bernardino, CA | 2026-08-13 |
+| [Hospice Chaplain](https://job-boards.greenhouse.io/missionhealthcare/jobs/4353204009) | Mission Healthcare | Murrieta, CA | 2026-08-13 |
 | [Principal Data Engineer (Remote)](https://job-boards.greenhouse.io/8thlightrebuild/jobs/7866487003) | 8th Light | United States | 2026-08-13 |
 | [Staff Product Manager - Enterprise AI](https://job-boards.greenhouse.io/twilio/jobs/7918885) | Twilio | Remote - US | 2026-08-13 |
 | [Retail Inventory Lead (Manhattan Beach)](https://jobs.smartrecruiters.com/VuoriInc/744000143393289) | Vuori, Inc | Manhattan Beach, us | 2026-08-13 |
@@ -202,25 +202,25 @@ _31,921 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Senior Director/SME, Integration & Data Management Strategy](https://job-boards.greenhouse.io/m9solutions/jobs/5211384007) | M9 Solutions | Remote - Public Trust clearance required | 2026-08-13 |
 | [Peloton Expert (Part-Time) - PSNY Retail](https://careers.onepeloton.com/en/all-jobs/?gh_jid=7980450) | Peloton | New York, New York | 2026-08-13 |
 | [Senior Analytics Engineer](https://job-boards.greenhouse.io/twilio/jobs/8044650) | Twilio | Remote - US | 2026-08-13 |
-| [Ads Growth & Insights Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8647555002) | AB InBev \| Growth Group | São Paulo, Brazil | 2026-08-13 |
-| [Chapter Lead Data Analytics](https://job-boards.greenhouse.io/abinbev/jobs/8437704002) | AB InBev \| Growth Group | São Paulo (SP) OR Campinas (SP) | 2026-08-13 |
-| [Data Product Manager - Machine Learning & Computer Vision](https://job-boards.greenhouse.io/abinbev/jobs/8672703002) | AB InBev \| Growth Group | Sao Paulo | 2026-08-13 |
-| [Data Product Manager \| Machine Learning Platform](https://job-boards.greenhouse.io/abinbev/jobs/8586652002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Data Product Manager - RTM & Contact Strategy](https://job-boards.greenhouse.io/abinbev/jobs/8583901002) | AB InBev \| Growth Group | Sao Paulo - SP | 2026-08-13 |
-| [Intermediate Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8630971002) | AB InBev \| Growth Group | São Paulo, SP | 2026-08-13 |
 | [Intermediate Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/7598518002) | AB InBev \| Growth Group | Brazil, Remote | 2026-08-13 |
 | [Intermediate Data Science\| Anti-Fraud](https://job-boards.greenhouse.io/abinbev/jobs/8672562002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| [Data Product Manager \| Machine Learning Platform](https://job-boards.greenhouse.io/abinbev/jobs/8586652002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
+| [Ads Growth & Insights Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8647555002) | AB InBev \| Growth Group | São Paulo, Brazil | 2026-08-13 |
+| [Chapter Lead Data Analytics](https://job-boards.greenhouse.io/abinbev/jobs/8437704002) | AB InBev \| Growth Group | São Paulo (SP) OR Campinas (SP) | 2026-08-13 |
 | [Mid Level Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8675651002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Senior Data Scientist - BEES Logistics](https://job-boards.greenhouse.io/abinbev/jobs/8601336002) | AB InBev \| Growth Group | Remote | 2026-08-13 |
-| [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8638804002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8422274002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Manager Machine Learning Platform - Bees Data](https://job-boards.greenhouse.io/abinbev/jobs/8620873002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8675757002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Senior Data Scientist - Bees Frontline](https://job-boards.greenhouse.io/abinbev/jobs/8616933002) | AB InBev \| Growth Group | Remote | 2026-08-13 |
-| [Mid Level Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8590377002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8592620002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Mid Level Machine Learning Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8645026002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| [Data Product Manager - Machine Learning & Computer Vision](https://job-boards.greenhouse.io/abinbev/jobs/8672703002) | AB InBev \| Growth Group | Sao Paulo | 2026-08-13 |
+| [Intermediate Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8630971002) | AB InBev \| Growth Group | São Paulo, SP | 2026-08-13 |
+| [Data Product Manager - RTM & Contact Strategy](https://job-boards.greenhouse.io/abinbev/jobs/8583901002) | AB InBev \| Growth Group | Sao Paulo - SP | 2026-08-13 |
 | [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8147553002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
+| [Senior Data Scientist - BEES Logistics](https://job-boards.greenhouse.io/abinbev/jobs/8601336002) | AB InBev \| Growth Group | Remote | 2026-08-13 |
+| [Senior Data Scientist - Bees Frontline](https://job-boards.greenhouse.io/abinbev/jobs/8616933002) | AB InBev \| Growth Group | Remote | 2026-08-13 |
+| [Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8592620002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| [Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8422274002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
+| [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8638804002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
+| [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8675757002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
+| [Mid Level Machine Learning Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8645026002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| [Mid Level Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8590377002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| [Manager Machine Learning Platform - Bees Data](https://job-boards.greenhouse.io/abinbev/jobs/8620873002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
 | [Senior People Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8631716002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
 | [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8646318002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
 | [Retail General Manager, Lynnfield](https://jobs.smartrecruiters.com/VuoriInc/744000143391219) | Vuori, Inc | Lynnfield, us | 2026-08-13 |
@@ -245,12 +245,12 @@ _31,921 open · showing the 300 most recent · updated 2026-08-16 04:15 UTC_
 | [Janitorial Maintenance](https://jobs.smartrecruiters.com/PilotCompany/744000143387680) | Pilot Company | Villa Ridge, us | 2026-08-13 |
 | [Terrain Park Lead - Buttermilk WINTER 26-27](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000143388980) | Aspen Skiing Company | Aspen, us | 2026-08-13 |
 | [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866279003) | ACCEL Schools | Lorain Preparatory High School | 2026-08-13 |
-| [AI Systems Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7821495003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [AI Software Engineer-Principal](https://netsage.com/careers/current-openings/job?gh_jid=7821504003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [AI Software Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7686786003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [AI Systems Integration Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7821498003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [Dataflow Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7793277003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
 | [AI Analytic Software Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7693005003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
+| [Dataflow Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7793277003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
+| [AI Systems Integration Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7821498003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
+| [AI Systems Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7821495003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
+| [AI Software Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7686786003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
+| [AI Software Engineer-Principal](https://netsage.com/careers/current-openings/job?gh_jid=7821504003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
 | [Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143388620) | Turner & Townsend | West Palm Beach, us | 2026-08-13 |
 | [Federal HR Domain SME](https://job-boards.greenhouse.io/m9solutions/jobs/5211381007) | M9 Solutions | Remote - Public Trust clearance required | 2026-08-13 |
 | [Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143388509) | Turner & Townsend | Indiantown, us | 2026-08-13 |
