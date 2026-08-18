@@ -1,10 +1,10 @@
 # Lynceus — live job listings, straight from company careers pages
 
-**257,498 open roles** at **11,404 companies**,
-**41,134** of them remote. Read from each employer's own careers
+**242,595 open roles** at **8,411 companies**,
+**40,198** of them remote. Read from each employer's own careers
 page and job feed — never reposted from another board.
 
-_Last updated: 2026-08-18 18:51 UTC_
+_Last updated: 2026-08-18 22:42 UTC_
 
 Search it conversationally at **[trylynceus.com](https://trylynceus.com)** — describe
 what you want in plain English and get the companies actually hiring for it.
@@ -12,26 +12,26 @@ In private beta; early access from the same page.
 
 ## Browse
 
-- [Remote](boards/remote.md) — 41,134 roles
-- [Berlin](boards/berlin.md) — 2,884 roles
-- [London](boards/london.md) — 7,275 roles
-- [Paris](boards/paris.md) — 2,253 roles
-- [Amsterdam](boards/amsterdam.md) — 1,590 roles
-- [Munich](boards/munich.md) — 1,551 roles
-- [Madrid](boards/madrid.md) — 861 roles
-- [Barcelona](boards/barcelona.md) — 897 roles
-- [Dublin](boards/dublin.md) — 1,005 roles
-- [Lisbon](boards/lisbon.md) — 527 roles
+- [Remote](boards/remote.md) — 40,198 roles
+- [Berlin](boards/berlin.md) — 2,801 roles
+- [London](boards/london.md) — 7,180 roles
+- [Paris](boards/paris.md) — 2,219 roles
+- [Amsterdam](boards/amsterdam.md) — 1,527 roles
+- [Munich](boards/munich.md) — 1,536 roles
+- [Madrid](boards/madrid.md) — 839 roles
+- [Barcelona](boards/barcelona.md) — 884 roles
+- [Dublin](boards/dublin.md) — 971 roles
+- [Lisbon](boards/lisbon.md) — 505 roles
 - [Zurich](boards/zurich.md) — 277 roles
-- [Stockholm](boards/stockholm.md) — 463 roles
-- [New York](boards/new-york.md) — 12,230 roles
-- [San Francisco](boards/san-francisco.md) — 11,207 roles
-- [Engineering](boards/engineering.md) — 58,652 roles
-- [Data & AI](boards/data-ai.md) — 33,219 roles
-- [Design](boards/design.md) — 12,913 roles
-- [Product](boards/product.md) — 12,295 roles
-- [Sales](boards/sales.md) — 22,192 roles
-- [Marketing](boards/marketing.md) — 11,361 roles
+- [Stockholm](boards/stockholm.md) — 441 roles
+- [New York](boards/new-york.md) — 12,101 roles
+- [San Francisco](boards/san-francisco.md) — 11,140 roles
+- [Engineering](boards/engineering.md) — 55,556 roles
+- [Data & AI](boards/data-ai.md) — 32,047 roles
+- [Design](boards/design.md) — 12,129 roles
+- [Product](boards/product.md) — 11,931 roles
+- [Sales](boards/sales.md) — 21,105 roles
+- [Marketing](boards/marketing.md) — 10,631 roles
 
 ## Data
 
@@ -39,9 +39,9 @@ In private beta; early access from the same page.
 | --- | --- |
 | [`data/jobs.csv`](data/jobs.csv) | The 5,000 most recently posted roles |
 | [`data/jobs.json`](data/jobs.json) | The same, as JSON |
-| [`data/companies.csv`](data/companies.csv) | All 11,404 companies with open roles |
+| [`data/companies.csv`](data/companies.csv) | All 8,411 companies with open roles |
 
-The data files carry the most recent slice rather than all 257,498
+The data files carry the most recent slice rather than all 242,595
 roles. The full set is ~38MB, which GitHub will not render and which would add a
 new multi-megabyte blob to this repository every day.
 
@@ -58,21 +58,21 @@ kind of work.
 
 | Company | Open roles |
 | --- | --- |
-| [BAYADA Home Health Care](https://job-boards.greenhouse.io/bayada) | 2,591 |
-| [Anduril Industries](https://job-boards.greenhouse.io/andurilindustries) | 2,200 |
-| [SpaceX](https://job-boards.greenhouse.io/spacex) | 2,152 |
-| [Carvana](https://job-boards.greenhouse.io/carvana) | 1,757 |
-| [Openai](https://jobs.ashbyhq.com/OpenAI) | 1,470 |
-| [Bjakcareer](https://jobs.ashbyhq.com/bjakcareer) | 1,392 |
-| [Speechify](https://job-boards.greenhouse.io/speechify) | 1,281 |
-| [Upstream Rehabilitation](https://job-boards.greenhouse.io/urpt) | 1,231 |
-| [Veterinary Emergency Group (VEG)](https://job-boards.greenhouse.io/veterinaryemergencygroupst) | 1,107 |
-| [EquipmentShare](https://job-boards.greenhouse.io/equipmentsharecom) | 1,003 |
-| [Clera](https://jobs.ashbyhq.com/Clera) | 948 |
-| [Fuku](https://apply.workable.com/fuku/) | 939 |
-| [Databricks](https://job-boards.greenhouse.io/databricks) | 808 |
-| [ALO](https://job-boards.greenhouse.io/aloyoga) | 780 |
-| [Snowflake](https://jobs.ashbyhq.com/Snowflake) | 780 |
+| BAYADA Home Health Care | 2,591 |
+| Anduril Industries | 2,200 |
+| SpaceX | 2,152 |
+| Carvana | 1,757 |
+| Bjakcareer | 1,392 |
+| Speechify | 1,281 |
+| Upstream Rehabilitation | 1,231 |
+| Veterinary Emergency Group (VEG) | 1,107 |
+| EquipmentShare | 1,003 |
+| Fuku | 939 |
+| Databricks | 808 |
+| ALO | 780 |
+| Rentokil Initial | 756 |
+| Openai | 735 |
+| Capco | 734 |
 
 ## How this is built
 
