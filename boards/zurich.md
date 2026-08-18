@@ -2,34 +2,64 @@
 
 Roles listing Zurich as their location.
 
-_276 open · updated 2026-08-18 04:15 UTC_
+_277 open · updated 2026-08-18 18:51 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| [Senior Lead - Apparel Development](https://boards.greenhouse.io/onrunning/jobs/7696157?gh_jid=7696157) | On | Zurich | 2026-08-13 |
-| [Lead - Generative Intelligence and Search Ecosystem Analyst](https://boards.greenhouse.io/onrunning/jobs/7972381?gh_jid=7972381) | On | Zurich | 2026-08-13 |
-| [Lead - Inbound Transportation Operations](https://boards.greenhouse.io/onrunning/jobs/8046066?gh_jid=8046066) | On | Zurich | 2026-08-13 |
-| [Lead - Pattern Engineer](https://boards.greenhouse.io/onrunning/jobs/8098491?gh_jid=8098491) | On | Zurich | 2026-08-13 |
-| [Lead - Polymer Process Engineer, Lightspray](https://boards.greenhouse.io/onrunning/jobs/8110850?gh_jid=8110850) | On | Zurich | 2026-08-13 |
-| [Lead - Project Manager, Brand & Product Assets](https://boards.greenhouse.io/onrunning/jobs/8083302?gh_jid=8083302) | On | Berlin; London; Zurich | 2026-08-13 |
-| [Lead - Robotics and PLC Engineer](https://boards.greenhouse.io/onrunning/jobs/8079590?gh_jid=8079590) | On | Zurich | 2026-08-13 |
-| [Lead - Supply Chain Decision Intelligence & Operations Research](https://boards.greenhouse.io/onrunning/jobs/8095927?gh_jid=8095927) | On | Zurich | 2026-08-13 |
-| [Principal Data Scientist](https://boards.greenhouse.io/onrunning/jobs/8093827?gh_jid=8093827) | On | London; Zurich | 2026-08-13 |
+| [Senior Specialist - Footwear Tooling Engineer](https://boards.greenhouse.io/onrunning/jobs/7727073?gh_jid=7727073) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Footwear Developer](https://boards.greenhouse.io/onrunning/jobs/7908053?gh_jid=7908053) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Footwear Materials](https://boards.greenhouse.io/onrunning/jobs/7845232?gh_jid=7845232) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Footwear Testing](https://boards.greenhouse.io/onrunning/jobs/8053160?gh_jid=8053160) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Global Creator Marketing](https://boards.greenhouse.io/onrunning/jobs/8106150?gh_jid=8106150) | On | London; Zurich | 2026-08-13 |
+| [Senior Lead - Global Portfolio & Pricing](https://boards.greenhouse.io/onrunning/jobs/8074415?gh_jid=8074415) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Last Engineer](https://boards.greenhouse.io/onrunning/jobs/8025652?gh_jid=8025652) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Legal Counsel, Intellectual Property & Brand Protection](https://boards.greenhouse.io/onrunning/jobs/8038187?gh_jid=8038187) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Pattern Engineer](https://boards.greenhouse.io/onrunning/jobs/7641466?gh_jid=7641466) | On | Zurich | 2026-08-13 |
+| [Senior Lead, People Analytics](https://boards.greenhouse.io/onrunning/jobs/8093901?gh_jid=8093901) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Sports Engineer](https://boards.greenhouse.io/onrunning/jobs/7892990?gh_jid=7892990) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Staff Software Engineer](https://boards.greenhouse.io/onrunning/jobs/8119274?gh_jid=8119274) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Tooling Engineer](https://boards.greenhouse.io/onrunning/jobs/8114421?gh_jid=8114421) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - 3D Footwear Modeller](https://boards.greenhouse.io/onrunning/jobs/8060038?gh_jid=8060038) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Color Designer Performance Footwear](https://boards.greenhouse.io/onrunning/jobs/8016535?gh_jid=8016535) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Commercial Education](https://boards.greenhouse.io/onrunning/jobs/8053584?gh_jid=8053584) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Finance Systems](https://boards.greenhouse.io/onrunning/jobs/8064121?gh_jid=8064121) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Footwear Design](https://boards.greenhouse.io/onrunning/jobs/7721405?gh_jid=7721405) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Group CAPEX](https://boards.greenhouse.io/onrunning/jobs/7835371?gh_jid=7835371) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Innovation Concept Design](https://boards.greenhouse.io/onrunning/jobs/8079080?gh_jid=8079080) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Innovation Footwear Developer](https://boards.greenhouse.io/onrunning/jobs/8015208?gh_jid=8015208) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - LightSpray Footwear Developer](https://boards.greenhouse.io/onrunning/jobs/8098307?gh_jid=8098307) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - New Store Openings Project Manager, DMS](https://boards.greenhouse.io/onrunning/jobs/8074401?gh_jid=8074401) | On | Zurich | 2026-08-13 |
+| [Senior Specialist - Product Quality Intelligence](https://boards.greenhouse.io/onrunning/jobs/8119023?gh_jid=8119023) | On | Zurich | 2026-08-13 |
+| [Senior Specialist- Retail Campaign Production, EMEA](https://boards.greenhouse.io/onrunning/jobs/8099677?gh_jid=8099677) | On | London; Zurich | 2026-08-13 |
+| [Senior Specialist - SMU Designer FTW](https://boards.greenhouse.io/onrunning/jobs/7765598?gh_jid=7765598) | On | Zurich | 2026-08-13 |
+| [Specialist - Material Quality](https://boards.greenhouse.io/onrunning/jobs/7984586?gh_jid=7984586) | On | Zurich | 2026-08-13 |
+| [Staff Security Engineer - Platform](https://boards.greenhouse.io/onrunning/jobs/7917274?gh_jid=7917274) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Copy](https://boards.greenhouse.io/onrunning/jobs/7745510?gh_jid=7745510) | On | Zurich | 2026-08-13 |
+| [1412 - Senior Lead - Art Director (Brand Assets – Athlete & Editorial)](https://boards.greenhouse.io/onrunning/jobs/8108532?gh_jid=8108532) | On | London; Zurich | 2026-08-13 |
+| [Chief of Staff - Retail Strategy](https://boards.greenhouse.io/onrunning/jobs/7929715?gh_jid=7929715) | On | Zurich | 2026-08-13 |
+| [Director of Innovation Management & Strategy](https://boards.greenhouse.io/onrunning/jobs/7699563?gh_jid=7699563) | On | Zurich | 2026-08-13 |
+| [Director of Product Testing](https://boards.greenhouse.io/onrunning/jobs/7972311?gh_jid=7972311) | On | Zurich | 2026-08-13 |
+| [Director of Product Vertical Running](https://boards.greenhouse.io/onrunning/jobs/7214896?gh_jid=7214896) | On | Zurich | 2026-08-13 |
+| [Director of Sports Science](https://boards.greenhouse.io/onrunning/jobs/6734964?gh_jid=6734964) | On | Zurich | 2026-08-13 |
+| [EVP Content & Communications Lead](https://boards.greenhouse.io/onrunning/jobs/8094019?gh_jid=8094019) | On | Zurich | 2026-08-13 |
+| [Fit Model (Flexible, Part-Time Opportunity)](https://boards.greenhouse.io/onrunning/jobs/8030127?gh_jid=8030127) | On | Zurich | 2026-08-13 |
+| [Global Head of Brand Events](https://boards.greenhouse.io/onrunning/jobs/7687729?gh_jid=7687729) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Brand Environment Design](https://boards.greenhouse.io/onrunning/jobs/8053064?gh_jid=8053064) | On | Zurich | 2026-08-13 |
 | [Principal Engineer - Operations Technology](https://boards.greenhouse.io/onrunning/jobs/7491246?gh_jid=7491246) | On | Zurich | 2026-08-13 |
 | [Program Manager - Global Distributor-led Store Business](https://boards.greenhouse.io/onrunning/jobs/8074409?gh_jid=8074409) | On | Zurich | 2026-08-13 |
 | [Sample Maker](https://boards.greenhouse.io/onrunning/jobs/8044980?gh_jid=8044980) | On | Zurich | 2026-08-13 |
 | [Senior Director of Brand Moments](https://boards.greenhouse.io/onrunning/jobs/7918307?gh_jid=7918307) | On | Zurich | 2026-08-13 |
 | [Senior Director of Creative Apparel Marketing](https://boards.greenhouse.io/onrunning/jobs/7573654?gh_jid=7573654) | On | Zurich | 2026-08-13 |
 | [Senior Lead - Accessories Material Development](https://boards.greenhouse.io/onrunning/jobs/7988349?gh_jid=7988349) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Apparel Development](https://boards.greenhouse.io/onrunning/jobs/7696157?gh_jid=7696157) | On | Zurich | 2026-08-13 |
 | [Senior Lead - Apparel Material Development (Performance)](https://boards.greenhouse.io/onrunning/jobs/8053185?gh_jid=8053185) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Brand Environment Design](https://boards.greenhouse.io/onrunning/jobs/8053064?gh_jid=8053064) | On | Zurich | 2026-08-13 |
 | [Senior Lead - Commercialization Engineer](https://boards.greenhouse.io/onrunning/jobs/8090454?gh_jid=8090454) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Computational Designer](https://boards.greenhouse.io/onrunning/jobs/7120658?gh_jid=7120658) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Distribution Center Network Design & Planning](https://boards.greenhouse.io/onrunning/jobs/7976404?gh_jid=7976404) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Exhibiton Programming](https://boards.greenhouse.io/onrunning/jobs/8056606?gh_jid=8056606) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Footwear Costing](https://boards.greenhouse.io/onrunning/jobs/7492423?gh_jid=7492423) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Footwear Design, Performance Running](https://boards.greenhouse.io/onrunning/jobs/8054998?gh_jid=8054998) | On | Zurich | 2026-08-13 |
 | [Senior Lead - Footwear Developer](https://boards.greenhouse.io/onrunning/jobs/7995040?gh_jid=7995040) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Footwear Design, Performance Running](https://boards.greenhouse.io/onrunning/jobs/8054998?gh_jid=8054998) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Footwear Costing](https://boards.greenhouse.io/onrunning/jobs/7492423?gh_jid=7492423) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Exhibiton Programming](https://boards.greenhouse.io/onrunning/jobs/8056606?gh_jid=8056606) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Distribution Center Network Design & Planning](https://boards.greenhouse.io/onrunning/jobs/7976404?gh_jid=7976404) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Computational Designer](https://boards.greenhouse.io/onrunning/jobs/7120658?gh_jid=7120658) | On | Zurich | 2026-08-13 |
 | [Global Senior Director of Brand Apparel Marketing](https://boards.greenhouse.io/onrunning/jobs/7402412?gh_jid=7402412) | On | Zurich | 2026-08-13 |
 | [Head of - Apparel Materials Development (Performance)](https://boards.greenhouse.io/onrunning/jobs/7384378?gh_jid=7384378) | On | Zurich | 2026-08-13 |
 | [Head of Business Process Excellence](https://boards.greenhouse.io/onrunning/jobs/8046508?gh_jid=8046508) | On | Zurich | 2026-08-13 |
@@ -52,44 +82,14 @@ _276 open · updated 2026-08-18 04:15 UTC_
 | [Lead - Footwear Dynamic Testing - Innovation](https://boards.greenhouse.io/onrunning/jobs/8078986?gh_jid=8078986) | On | Zurich | 2026-08-13 |
 | [Lead - Footwear Material Designer](https://boards.greenhouse.io/onrunning/jobs/7742550?gh_jid=7742550) | On | Zurich | 2026-08-13 |
 | [Lead - Footwear Tooling Engineer](https://boards.greenhouse.io/onrunning/jobs/7606445?gh_jid=7606445) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Pattern Engineer](https://boards.greenhouse.io/onrunning/jobs/7641466?gh_jid=7641466) | On | Zurich | 2026-08-13 |
-| [Staff Security Engineer - Platform](https://boards.greenhouse.io/onrunning/jobs/7917274?gh_jid=7917274) | On | Zurich | 2026-08-13 |
-| [Specialist - Material Quality](https://boards.greenhouse.io/onrunning/jobs/7984586?gh_jid=7984586) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - SMU Designer FTW](https://boards.greenhouse.io/onrunning/jobs/7765598?gh_jid=7765598) | On | Zurich | 2026-08-13 |
-| [Senior Specialist- Retail Campaign Production, EMEA](https://boards.greenhouse.io/onrunning/jobs/8099677?gh_jid=8099677) | On | London; Zurich | 2026-08-13 |
-| [Senior Specialist - Product Quality Intelligence](https://boards.greenhouse.io/onrunning/jobs/8119023?gh_jid=8119023) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - New Store Openings Project Manager, DMS](https://boards.greenhouse.io/onrunning/jobs/8074401?gh_jid=8074401) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - LightSpray Footwear Developer](https://boards.greenhouse.io/onrunning/jobs/8098307?gh_jid=8098307) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Innovation Footwear Developer](https://boards.greenhouse.io/onrunning/jobs/8015208?gh_jid=8015208) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Innovation Concept Design](https://boards.greenhouse.io/onrunning/jobs/8079080?gh_jid=8079080) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Group CAPEX](https://boards.greenhouse.io/onrunning/jobs/7835371?gh_jid=7835371) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Footwear Tooling Engineer](https://boards.greenhouse.io/onrunning/jobs/7727073?gh_jid=7727073) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Footwear Design](https://boards.greenhouse.io/onrunning/jobs/7721405?gh_jid=7721405) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Finance Systems](https://boards.greenhouse.io/onrunning/jobs/8064121?gh_jid=8064121) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Commercial Education](https://boards.greenhouse.io/onrunning/jobs/8053584?gh_jid=8053584) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - Color Designer Performance Footwear](https://boards.greenhouse.io/onrunning/jobs/8016535?gh_jid=8016535) | On | Zurich | 2026-08-13 |
-| [Senior Specialist - 3D Footwear Modeller](https://boards.greenhouse.io/onrunning/jobs/8060038?gh_jid=8060038) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Tooling Engineer](https://boards.greenhouse.io/onrunning/jobs/8114421?gh_jid=8114421) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Staff Software Engineer](https://boards.greenhouse.io/onrunning/jobs/8119274?gh_jid=8119274) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Sports Engineer](https://boards.greenhouse.io/onrunning/jobs/7892990?gh_jid=7892990) | On | Zurich | 2026-08-13 |
-| [Senior Lead, People Analytics](https://boards.greenhouse.io/onrunning/jobs/8093901?gh_jid=8093901) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Footwear Developer](https://boards.greenhouse.io/onrunning/jobs/7908053?gh_jid=7908053) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Footwear Materials](https://boards.greenhouse.io/onrunning/jobs/7845232?gh_jid=7845232) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Footwear Testing](https://boards.greenhouse.io/onrunning/jobs/8053160?gh_jid=8053160) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Global Creator Marketing](https://boards.greenhouse.io/onrunning/jobs/8106150?gh_jid=8106150) | On | London; Zurich | 2026-08-13 |
-| [Senior Lead - Global Portfolio & Pricing](https://boards.greenhouse.io/onrunning/jobs/8074415?gh_jid=8074415) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Last Engineer](https://boards.greenhouse.io/onrunning/jobs/8025652?gh_jid=8025652) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Legal Counsel, Intellectual Property & Brand Protection](https://boards.greenhouse.io/onrunning/jobs/8038187?gh_jid=8038187) | On | Zurich | 2026-08-13 |
-| [1412 - Senior Lead - Art Director (Brand Assets – Athlete & Editorial)](https://boards.greenhouse.io/onrunning/jobs/8108532?gh_jid=8108532) | On | London; Zurich | 2026-08-13 |
-| [Chief of Staff - Retail Strategy](https://boards.greenhouse.io/onrunning/jobs/7929715?gh_jid=7929715) | On | Zurich | 2026-08-13 |
-| [Senior Lead - Copy](https://boards.greenhouse.io/onrunning/jobs/7745510?gh_jid=7745510) | On | Zurich | 2026-08-13 |
-| [Global Head of Brand Events](https://boards.greenhouse.io/onrunning/jobs/7687729?gh_jid=7687729) | On | Zurich | 2026-08-13 |
-| [Fit Model (Flexible, Part-Time Opportunity)](https://boards.greenhouse.io/onrunning/jobs/8030127?gh_jid=8030127) | On | Zurich | 2026-08-13 |
-| [EVP Content & Communications Lead](https://boards.greenhouse.io/onrunning/jobs/8094019?gh_jid=8094019) | On | Zurich | 2026-08-13 |
-| [Director of Sports Science](https://boards.greenhouse.io/onrunning/jobs/6734964?gh_jid=6734964) | On | Zurich | 2026-08-13 |
-| [Director of Product Vertical Running](https://boards.greenhouse.io/onrunning/jobs/7214896?gh_jid=7214896) | On | Zurich | 2026-08-13 |
-| [Director of Product Testing](https://boards.greenhouse.io/onrunning/jobs/7972311?gh_jid=7972311) | On | Zurich | 2026-08-13 |
-| [Director of Innovation Management & Strategy](https://boards.greenhouse.io/onrunning/jobs/7699563?gh_jid=7699563) | On | Zurich | 2026-08-13 |
+| [Lead - Generative Intelligence and Search Ecosystem Analyst](https://boards.greenhouse.io/onrunning/jobs/7972381?gh_jid=7972381) | On | Zurich | 2026-08-13 |
+| [Lead - Inbound Transportation Operations](https://boards.greenhouse.io/onrunning/jobs/8046066?gh_jid=8046066) | On | Zurich | 2026-08-13 |
+| [Lead - Pattern Engineer](https://boards.greenhouse.io/onrunning/jobs/8098491?gh_jid=8098491) | On | Zurich | 2026-08-13 |
+| [Lead - Polymer Process Engineer, Lightspray](https://boards.greenhouse.io/onrunning/jobs/8110850?gh_jid=8110850) | On | Zurich | 2026-08-13 |
+| [Lead - Project Manager, Brand & Product Assets](https://boards.greenhouse.io/onrunning/jobs/8083302?gh_jid=8083302) | On | Berlin; London; Zurich | 2026-08-13 |
+| [Lead - Robotics and PLC Engineer](https://boards.greenhouse.io/onrunning/jobs/8079590?gh_jid=8079590) | On | Zurich | 2026-08-13 |
+| [Lead - Supply Chain Decision Intelligence & Operations Research](https://boards.greenhouse.io/onrunning/jobs/8095927?gh_jid=8095927) | On | Zurich | 2026-08-13 |
+| [Principal Data Scientist](https://boards.greenhouse.io/onrunning/jobs/8093827?gh_jid=8093827) | On | London; Zurich | 2026-08-13 |
 | [Project & Operations Manager (all genders) - Hardware Installation Planning](https://jobs.ashbyhq.com/wemolo/a0fcad54-5d1a-4310-8599-9f7d7e6df357) | Wemolo | Zurich, Switzerland | 2026-08-13 |
 | [Technical Implementation Manager (all genders) - Zürich, Wallisellen](https://jobs.ashbyhq.com/wemolo/60a3f8ae-cb1e-4220-abc4-64e4605b691b) | Wemolo | Zurich, Switzerland | 2026-08-13 |
 | [Account Manager - Zurich](https://job-boards.greenhouse.io/opentable/jobs/8672228002) | OpenTable | Zurich, Switzerland | 2026-08-13 |
@@ -109,8 +109,8 @@ _276 open · updated 2026-08-18 04:15 UTC_
 | [[US-DC] Pit Operator](https://careers.hellofresh.com/global/en/job/8114529?gh_jid=8114529) | HelloFresh | Lake Zurich, Illinois, United States | 2026-08-07 |
 | [Office & Logistics Coordinator Working Student 20-30%](https://jobs.ashbyhq.com/deepjudge/a287051f-8aff-40b9-b0bf-f80c2ed415a9) | Deepjudge | Zurich HQ | 2026-08-07 |
 | [Technical Account Manager](https://jobs.ashbyhq.com/benchling/78ae90cf-22ff-4dd9-b597-a132ade29abf) | Benchling | Zurich, Switzerland | 2026-08-06 |
-| [Service Technician - French Speaking, Zürich (m/f/d)](https://job-boards.greenhouse.io/lucidmotors/jobs/5168016007) | Lucid Motors | Zurich, ZH | 2026-08-06 |
 | [Service Technician, Zürich (m/f/d)](https://job-boards.greenhouse.io/lucidmotors/jobs/5152551007) | Lucid Motors | Zurich, ZH | 2026-08-06 |
+| [Service Technician - French Speaking, Zürich (m/f/d)](https://job-boards.greenhouse.io/lucidmotors/jobs/5168016007) | Lucid Motors | Zurich, ZH | 2026-08-06 |
 | [System Engineer - Humanoid (Mensch)](https://jobs.ashbyhq.com/neura-robotics-gmbh/4d7bf977-34df-4dc5-b71b-47f5fc4f6f8c) | Neura Robotics Gmbh | Zurich | 2026-08-06 |
 | [System Engineer - Humanoid (human)](https://jobs.ashbyhq.com/neura-robotics-gmbh/9a6a1163-70c1-4ea8-ad8b-f7cc81fc1f27) | Neura Robotics Gmbh | Zurich | 2026-08-06 |
 | [Product Manager (ShelfView)](https://www.scandit.com/careers/job-description/?gh_jid=8043068) | Scandit | Zurich | 2026-08-06 |
@@ -137,6 +137,7 @@ _276 open · updated 2026-08-18 04:15 UTC_
 | [Account Manager (m/w/d)](https://jobs.smartrecruiters.com/StepStoneGroup/744000140863321) | StepStone Group | Zurich, ch | 2026-07-31 |
 | [Area Manager I, Warehouse](https://careers.hellofresh.com/global/en/job/8079724?gh_jid=8079724) | HelloFresh | Lake Zurich, Illinois, United States | 2026-07-29 |
 | [Director of Engineering - Mission Intelligence](https://jobs.ashbyhq.com/harmattan-ai/3bd7ac18-ad66-4ea2-b7a8-113f9a35f572) | Harmattan Ai | Zurich | 2026-07-28 |
+| [Account Executive \| in Österreich (m/w/d)](https://jobs.ashbyhq.com/DeepL/5d5ed7b1-8a46-4123-8ad2-0b612b13355c) | DeepL | Zurich | 2026-07-28 |
 | [Account Executive \| in Österreich (m/w/d)](https://jobs.ashbyhq.com/deepl/5d5ed7b1-8a46-4123-8ad2-0b612b13355c) | Deepl | Zurich | 2026-07-28 |
 | [Customer Success Manager](https://job-boards.greenhouse.io/bottomlinetechnologies/jobs/8615320002) | Bottomline | Switzerland, Zurich | 2026-07-27 |
 | [Robotics Perception & State Estimation Engineer - Humanoid (Mensch)](https://jobs.ashbyhq.com/neura-robotics-gmbh/644cb5bb-91a4-4b5c-9689-76237c19cc29) | Neura Robotics Gmbh | Zurich | 2026-07-27 |
@@ -209,10 +210,10 @@ _276 open · updated 2026-08-18 04:15 UTC_
 | [Autonomy Engineer - Deep Learning Model Acceleration](https://jobs.ashbyhq.com/skydio/0aff9e3d-6c59-4463-845c-850b78b48172) | Skydio | Zurich, Switzerland | 2026-05-27 |
 | [Autonomy Engineer - Deep Learning Infrastructure](https://jobs.ashbyhq.com/skydio/06234e2e-6285-43ce-9ae5-417cbfb85436) | Skydio | Zurich, Switzerland | 2026-05-27 |
 | [Senior Autonomy Engineer - Deep Learning](https://jobs.ashbyhq.com/skydio/4ded3e5e-cdfe-4dc5-bbaf-0d3023521246) | Skydio | Zurich, Switzerland | 2026-05-27 |
-| [Account Executive - DACH (m/f/d)](https://jobs.ashbyhq.com/tandem-health/3cd3a46c-19b5-4929-bf58-9f1974471905) | Aminocollective | Zurich | 2026-05-24 |
 | [Account Executive - DACH (m/f/d)](https://jobs.ashbyhq.com/tandem-health/3cd3a46c-19b5-4929-bf58-9f1974471905) | Tandem Health | Zurich | 2026-05-24 |
-| [Senior Account Executive - DACH (m/f/d)](https://jobs.ashbyhq.com/tandem-health/b566e351-b477-4627-be0f-8c101df078d9) | Tandem Health | Zurich | 2026-05-24 |
+| [Account Executive - DACH (m/f/d)](https://jobs.ashbyhq.com/tandem-health/3cd3a46c-19b5-4929-bf58-9f1974471905) | Aminocollective | Zurich | 2026-05-24 |
 | [Senior Account Executive - DACH (m/f/d)](https://jobs.ashbyhq.com/tandem-health/b566e351-b477-4627-be0f-8c101df078d9) | Aminocollective | Zurich | 2026-05-24 |
+| [Senior Account Executive - DACH (m/f/d)](https://jobs.ashbyhq.com/tandem-health/b566e351-b477-4627-be0f-8c101df078d9) | Tandem Health | Zurich | 2026-05-24 |
 | [Sales Development Representative (SDR)](https://jobs.ashbyhq.com/pallon.com/ff5de702-2e44-496c-be47-665497e7b253) | Pallon.Com | Zurich / Remote | 2026-05-21 |
 | [SMB Account Executive](https://jobs.ashbyhq.com/benchling/73b44c32-f5ab-48e5-a812-c70f09858f15) | Benchling | Zurich, Switzerland | 2026-05-20 |
 | [VP, Enterprise Products & Solutions EMEA](https://jobs.ashbyhq.com/blockstream/85ac7901-01c0-4658-b653-613cc179c5ee) | Blockstream | Zurich | 2026-05-20 |
@@ -256,32 +257,32 @@ _276 open · updated 2026-08-18 04:15 UTC_
 | [DevOps Engineer](https://jobs.ashbyhq.com/deepjudge/9f0359e5-4ec1-40a0-9803-700497b2512e) | Deepjudge | Zurich HQ | 2025-11-13 |
 | [Member of Technical Staff - Foundations](https://jobs.ashbyhq.com/tzafon/d24d8aa3-099e-47ec-82b8-22c1649727ce) | Tzafon | San Francisco / Tel Aviv / Zurich | 2025-10-10 |
 | [Member of Technical Staff – Backend/Platform Engineer](https://jobs.ashbyhq.com/tzafon/e043899c-381b-4e6c-a1ea-a6825c288dee) | Tzafon | San Francisco / Tel Aviv / Zurich | 2025-09-24 |
-| [Fundraiser:in Face to Face Deutschschweiz](https://medecinssansfrontieressuisse.recruitee.com/o/fundraiserin-face-to-face-deutschschweiz) | Médecins Sans Frontières Suisse | Zurich, Suisse |  |
-| [Recruiter*in (Deutsch als Muttersprache)](https://swisslinx.jobs.personio.com/job/2286101) | Swisslinx | Zurich |  |
+| [Interhome - Founders' Associate [German-speaking] (m/f/d)](https://hometogo.jobs.personio.com/job/2643968) | Hometogo | Zurich |  |
+| [HR Business Partner](https://trina-solar-1.jobs.personio.com/job/2751609) | Trina Solar 1 | Switzerland - Zurich Office |  |
+| [Sorbent Module Product Owner (80-100%)](https://climeworks.recruitee.com/o/sorbent-module-product-owner-80-100) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| [Cost Manager (Kalkulator)- Construction](https://puregymswiss.recruitee.com/o/cost-manager-kalkulator-construction) | PureGym AG | Zurich, Schweiz |  |
+| [Principal Design Engineer - Mechanical Equipment (80-100%)](https://climeworks.recruitee.com/o/principal-design-engineer-mechanical-equipment-80-100) | Climeworks | Opfikon, Zurich, Switzerland |  |
 | [SUBSTITUT*INNEN - ZÜRICH](https://lalive-law.jobs.personio.com/job/1158502) | Lalive Law | Zurich (ZRH) |  |
+| [Lead Mechanical Engineer (100%)](https://climeworks.recruitee.com/o/lead-mechanical-engineer-100-101) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| [Lead EIC Engineer (100%)](https://climeworks.recruitee.com/o/lead-eic-engineer-100-101) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| [Facilities Technician- French Speaking](https://puregymswiss.recruitee.com/o/facilities-technician-french-speaking) | PureGym AG | Zurich, Schweiz |  |
+| [HSE & Facility Senior Manager (100%)](https://climeworks.recruitee.com/o/hse-facility-senior-manager-100) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| [Speculative Intership Enquiries](https://restor.jobs.personio.com/job/1545775) | Restor | Zurich |  |
+| [Sales Development Representative, Boostbar - Zürich (100%)](https://boost-inc.jobs.personio.com/job/2742812) | Boost Inc | Switzerland - Zurich |  |
+| [Customer Care Lead, Boostbar - Zürich (100%)](https://boost-inc.jobs.personio.com/job/2745409) | Boost Inc | Switzerland - Zurich |  |
+| [Recruiter*in (Deutsch als Muttersprache)](https://swisslinx.jobs.personio.com/job/2286101) | Swisslinx | Zurich |  |
 | [Open Application](https://swisslinx.jobs.personio.com/job/2359109) | Swisslinx | Zurich |  |
 | [Graduate Recruitment Consultants, Zurich, Switzerland (On-site)](https://swisslinx.jobs.personio.com/job/2588844) | Swisslinx | Zurich |  |
-| [Marketing Assistant - Internship (F/M) - Zurich](https://job.lumapps.com/jobs/8181037-marketing-assistant-internship-f-m-zurich) | LumApps | Zurich |  |
-| [Senior Account Manager](https://job.lumapps.com/jobs/8081204-senior-account-manager) | LumApps | Beekeeper by LumApps · Zurich |  |
-| [Interhome - Founders' Associate [German-speaking] (m/f/d)](https://hometogo.jobs.personio.com/job/2643968) | Hometogo | Zurich |  |
-| [Sorbent Module Product Owner (80-100%)](https://climeworks.recruitee.com/o/sorbent-module-product-owner-80-100) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| [HSE & Facility Senior Manager (100%)](https://climeworks.recruitee.com/o/hse-facility-senior-manager-100) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| [Lead EIC Engineer (100%)](https://climeworks.recruitee.com/o/lead-eic-engineer-100-101) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| [Lead Mechanical Engineer (100%)](https://climeworks.recruitee.com/o/lead-mechanical-engineer-100-101) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| [Principal Design Engineer - Mechanical Equipment (80-100%)](https://climeworks.recruitee.com/o/principal-design-engineer-mechanical-equipment-80-100) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| [Facilities Technician- French Speaking](https://puregymswiss.recruitee.com/o/facilities-technician-french-speaking) | PureGym AG | Zurich, Schweiz |  |
-| [Cost Manager (Kalkulator)- Construction](https://puregymswiss.recruitee.com/o/cost-manager-kalkulator-construction) | PureGym AG | Zurich, Schweiz |  |
-| [HR Business Partner](https://trina-solar-1.jobs.personio.com/job/2751609) | Trina Solar 1 | Switzerland - Zurich Office |  |
+| [Customer Delivery Manager (w/m/d/x) Software for Insurances](https://emil-group-gmbh.jobs.personio.com/job/2618325) | Emil Group Gmbh | Zurich |  |
+| [Strategic Communications Manager 100%](https://climeworks.recruitee.com/o/strategic-communications-manager-100) | Climeworks | Opfikon, Zurich, Switzerland |  |
 | [Intern in Testing (100%)](https://climeworks.recruitee.com/o/intern-in-testing-100-105) | Climeworks | Opfikon, Zurich, Switzerland |  |
 | [Strategy - Energy Infrastructure - Intern](https://8advisory.recruitee.com/o/strategy-energy-infrastructure-intern) | EIGHT ADVISORY SAS | Zurich, Suisse |  |
+| [Marketing Assistant - Internship (F/M) - Zurich](https://job.lumapps.com/jobs/8181037-marketing-assistant-internship-f-m-zurich) | LumApps | Zurich |  |
+| [Senior Account Manager](https://job.lumapps.com/jobs/8081204-senior-account-manager) | LumApps | Beekeeper by LumApps · Zurich |  |
 | [Forward Deployed Engineer (FDE), Zurich](https://job.lumapps.com/jobs/8052689-forward-deployed-engineer-fde-zurich) | LumApps | Engineering EMEA · Zurich |  |
+| [Fundraiser:in Face to Face Deutschschweiz](https://medecinssansfrontieressuisse.recruitee.com/o/fundraiserin-face-to-face-deutschschweiz) | Médecins Sans Frontières Suisse | Zurich, Suisse |  |
 | [Customer Success Manager, FR speaking](https://job.lumapps.com/jobs/7938577-customer-success-manager-fr-speaking) | LumApps | Beekeeper by LumApps · Zurich |  |
-| [Strategic Communications Manager 100%](https://climeworks.recruitee.com/o/strategic-communications-manager-100) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| [Speculative Intership Enquiries](https://restor.jobs.personio.com/job/1545775) | Restor | Zurich |  |
-| [Customer Care Lead, Boostbar - Zürich (100%)](https://boost-inc.jobs.personio.com/job/2745409) | Boost Inc | Switzerland - Zurich |  |
-| [Sales Development Representative, Boostbar - Zürich (100%)](https://boost-inc.jobs.personio.com/job/2742812) | Boost Inc | Switzerland - Zurich |  |
 | [Merchandiser*In, Boostbar - Zürich (50%)](https://boost-inc.jobs.personio.com/job/2726684) | Boost Inc | Switzerland - Zurich |  |
-| [Customer Delivery Manager (w/m/d/x) Software for Insurances](https://emil-group-gmbh.jobs.personio.com/job/2618325) | Emil Group Gmbh | Zurich |  |
 
 ---
 

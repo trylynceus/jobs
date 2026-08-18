@@ -2,245 +2,54 @@
 
 Roles whose title reads as engineering.
 
-_58,763 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
+_58,652 open · showing the 300 most recent · updated 2026-08-18 18:51 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| [Coordinator BigData Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44384402-817-S) | Vodafone GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-18 |
-| [IT System Engineer im Service Desk & Service Management (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13126-44383821-817-S) | Vetter Pharma GmbH & Co. KG | Ravensburg, Württemberg, Baden_Wuerttemberg, Deutschland | 2026-08-18 |
-| [Data Scientist: Advanced Analytics & AI Engineer in Insurance](https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44383301-817-S) | HDI AG | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-18 |
-| [Digital Design Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/20174-2312209-S) | TDK-Micronas GmbH Freiburg | Deutschland | 2026-08-18 |
-| [Expert Cloud Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44384568-817-S) | Vodafone GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-18 |
-| [(Senior) System Engineer Networking (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44383733-817-S) | Bechtle AG | Dortmund, Nordrhein_Westfalen, Deutschland | 2026-08-18 |
-| [Senior App Developer\| Stockholm\|50 000+ användare](https://arbetsformedlingen.se/platsbanken/annonser/31362591) | KAMLIN CAREERS AB | Norrköping, Östergötlands län, Sverige | 2026-08-17 |
+| [Network Project Engineer Lead](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4426152) | Lightgrid |  | 2026-08-18 |
+| [Network Test Engineer Senior](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4426176) | Lightgrid |  | 2026-08-18 |
+| [Solution Architect (.NET/C#)](https://gorillalogic.bamboohr.com/careers/189) | Gorillalogic | CO, CR | 2026-08-18 |
+| [Solar solution engineer](https://lambda.global/jobs/solar-solution-engineer-41720934) | Lambda |  | 2026-08-18 |
+| [2nd Engineer](https://crewings.me/vacancy/221555-2nd-engineer-general-cargo) | Crewings Me |  | 2026-08-18 |
+| [Chief Engineer](https://crewings.me/vacancy/221363-chief-engineer-crude-oil-tanker) | Crewings Me |  | 2026-08-18 |
+| [3rd Engineer](https://crewings.me/vacancy/221341-3rd-engineer-general-cargo) | Crewings Me |  | 2026-08-18 |
+| [NET Developer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/net) | Builtindublin | Remote | 2026-08-18 |
+| [Software Engineer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/software-engineer) | Builtindublin | Remote | 2026-08-18 |
+| [Java Developer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/java-developer) | Builtindublin | Remote | 2026-08-18 |
+| [IoS Developer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/ios-developer) | Builtindublin | Remote | 2026-08-18 |
+| [Full Stack Developer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/full-stack-developer) | Builtindublin | Remote | 2026-08-18 |
+| [Web Developer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/web-developer) | Builtindublin | Remote | 2026-08-18 |
+| [Automation Engineer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/automation-engineer) | Builtindublin | Remote | 2026-08-18 |
+| [Design Engineer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/design-engineer) | Builtindublin | Remote | 2026-08-18 |
+| [Engineering Manager Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/engineering-manager) | Builtindublin | Remote | 2026-08-18 |
+| [Quality Engineer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/quality-engineer) | Builtindublin | Remote | 2026-08-18 |
+| [Network Engineer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/network-engineer) | Builtindublin | Remote | 2026-08-18 |
+| [Front End Developer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/front-end-developer) | Builtindublin | Remote | 2026-08-18 |
+| [Project Engineer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/project-engineer) | Builtindublin | Remote | 2026-08-18 |
+| [DevOps Engineer Jobs in Dublin](https://builtindublin.ie/jobs/dev-engineering/search/devops-engineer) | Builtindublin | Remote | 2026-08-18 |
+| [Senior Applied AI/ML Developer](https://app.obsidi.com/jobs#senior-applied-ai-ml-developer) | Obsidi |  | 2026-08-18 |
+| [Technical Architect - MLE](https://app.obsidi.com/jobs#technical-architect-mle) | Obsidi |  | 2026-08-18 |
+| [Data Engineer](https://app.obsidi.com/jobs#data-engineer) | Obsidi |  | 2026-08-18 |
+| [Infrastructure Monitoring - Software Developer](https://copydata.com.mx/careers/#collapse555847272) | Copydata | NEW YORK | 2026-08-18 |
+| [Front-End Developer - Software Developer](https://copydata.com.mx/careers/#collapse1701269574) | Copydata | NEW YORK | 2026-08-18 |
+| [Senior Software Developer - Web Development](https://copydata.com.mx/careers/#collapse1567016198) | Copydata | NEW YORK | 2026-08-18 |
+| [Main Developer - Software Developer](https://copydata.com.mx/careers/#collapse679120915) | Copydata | NEW YORK | 2026-08-18 |
+| [Automation QA Engineer \| Mid - Senior \| NordVPN \| Android team](https://jobs.ashbyhq.com/nord-security/4ce078ea-a65b-4927-9f04-ed36f0157fb8) | Writesaas | Vilnius | 2026-08-18 |
+| [Senior Electronic Warfare Engineer](https://talent.odysseyconsult.com/jobs/8218?lang=en-us) | Odysseyconsult |  | 2026-08-18 |
+| [Senior Backend Engineer (Foundation)](https://job-boards.eu.greenhouse.io/proton/jobs/4954545101) | Proton | Barcelona; Geneva | 2026-08-18 |
+| [Enterprise Migrations Engineer](https://jobs.ashbyhq.com/GitBook/16e7afae-5d59-4ddb-9e55-14586a110dbb) | Gitbook | Europe (+/- 3 hours) | 2026-08-18 |
+| [Product Engineer, Backend(Shops) - Mercari](https://apply.workable.com/j/235DCE3779) | Mercari | Minato City, Japan | 2026-08-18 |
 | [Controls Engineer](https://job-boards.greenhouse.io/ambiententerprises/jobs/5386837008) | Ambient Enterprises | Orange,CA | 2026-08-17 |
-| [Product Quality Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31362495) | Koenigsegg Automotive AB | Ängelholm, Skåne län, Sverige | 2026-08-17 |
-| [DevOps Engineer till Complior – Stockholm](https://arbetsformedlingen.se/platsbanken/annonser/31362420) | 2Complete AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Software Engineer, Engineering Systems](https://jobs.ashbyhq.com/apex-technology-inc/b14b559f-f540-4762-b327-af9a9f12e364) | Outsidersfund | Los Angeles | 2026-08-17 |
 | [Full Stack Developer, Business Systems](https://jobs.ashbyhq.com/apex-technology-inc/e0dcbd0f-ef84-4412-baee-d327a90ff8d3) | Outsidersfund | Los Angeles | 2026-08-17 |
-| [CNC-tekniker – Programmering, ställ och körning](https://arbetsformedlingen.se/platsbanken/annonser/31361845) | NN Bemanning & Rekrytering AB | Trosa, Södermanlands län, Sverige | 2026-08-17 |
-| [CNC-tekniker – Programmering, ställ och körning](https://arbetsformedlingen.se/platsbanken/annonser/31361843) | NN Bemanning & Rekrytering AB | Nyköping, Södermanlands län, Sverige | 2026-08-17 |
-| [CNC-tekniker – Programmering, ställ och körning](https://arbetsformedlingen.se/platsbanken/annonser/31361837) | NN Bemanning & Rekrytering AB | Oxelösund, Södermanlands län, Sverige | 2026-08-17 |
-| [Senior Dynamics 365 CRM Developer](https://arbetsformedlingen.se/platsbanken/annonser/31361800) | Avaron AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Experienced Embedded Developer to SATCUBE](https://arbetsformedlingen.se/platsbanken/annonser/31361680) | SATCUBE AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
+| [Quality Assurance Engineer- Program & Project Delivery](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5389021008) | Thenuclearcompany | Columbia, SC | 2026-08-17 |
 | [Lead IT Infrastructure Support Engineer](https://job-boards.greenhouse.io/nuvem/jobs/4371955009) | Nuvem | United States | 2026-08-17 |
-| [Test Engineer Handheld Battery Electric Products - Husqvarna Group](https://arbetsformedlingen.se/platsbanken/annonser/31361629) | Husqvarna AB | Jönköping, Jönköpings län, Sverige | 2026-08-17 |
-| [DevOps konsult](https://arbetsformedlingen.se/platsbanken/annonser/31361553) | Infinity IT Consulting AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Site Reliability Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31361526) | Procruitment AB | Karlstad, Värmlands län, Sverige | 2026-08-17 |
-| [Senior Detection Engineer (KQL / Microsoft Sentinel & Defender XDR)](https://arbetsformedlingen.se/platsbanken/annonser/31361468) | ACADEMIC WORK SWEDEN AB | Malmö, Skåne län, Sverige | 2026-08-17 |
-| [Mechanical Engineer Handheld R&D Product Design Husqvarna Group](https://arbetsformedlingen.se/platsbanken/annonser/31361443) | Husqvarna AB | Jönköping, Jönköpings län, Sverige | 2026-08-17 |
-| [Product Owner Platform Engineering Getinge Critical Care](https://arbetsformedlingen.se/platsbanken/annonser/31361295) | Getinge AB (publ) | Solna, Stockholms län, Sverige | 2026-08-17 |
-| [Software Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31361211) | Acast AB (publ) | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Lab Engineer - Husqvarna Group](https://arbetsformedlingen.se/platsbanken/annonser/31361204) | Husqvarna AB | Jönköping, Jönköpings län, Sverige | 2026-08-17 |
-| [Operations Quality Engineer sökes till Global aktör](https://arbetsformedlingen.se/platsbanken/annonser/31361080) | Professionals Nord Eskilstuna AB | Västerås, Västmanlands län, Sverige | 2026-08-17 |
-| [Engineering Manager - Engine Control Software](https://arbetsformedlingen.se/platsbanken/annonser/31361073) | Koenigsegg Automotive AB | Ängelholm, Skåne län, Sverige | 2026-08-17 |
-| [Lead Platform Engineer - API Platform](https://arbetsformedlingen.se/platsbanken/annonser/31360964) | H & M Hennes & Mauritz GBC AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Database Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31360960) | Friday Väst AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Senior Cyber Security Engineer - Network Security (CISSP)](https://arbetsformedlingen.se/platsbanken/annonser/31360896) | H & M Hennes & Mauritz GBC AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Product Engineer @ FINQR](https://arbetsformedlingen.se/platsbanken/annonser/31360911) | Blingdale AB | Malmö, Skåne län, Sverige | 2026-08-17 |
-| [Data Engineer: Cloud Data Platforms & Pipelines](https://arbetsformedlingen.se/platsbanken/annonser/31360752) | Cyber Instincts AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
-| [Systems Engineer Handheld BEP R&D](https://arbetsformedlingen.se/platsbanken/annonser/31360681) | Husqvarna AB | Jönköping, Jönköpings län, Sverige | 2026-08-17 |
-| [Staff .NET Developer](https://arbetsformedlingen.se/platsbanken/annonser/31360672) | RebTel Networks AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Systems Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31360301) | Konecranes Lifttrucks AB | Markaryd, Kronobergs län, Sverige | 2026-08-17 |
-| [Software Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31360554) | Flowity AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Electrical Application Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31360550) | Xamera AB | Helsingborg, Skåne län, Sverige | 2026-08-17 |
-| [Junior Automation & Electrical Engineer till uppdrag i Lund](https://arbetsformedlingen.se/platsbanken/annonser/31360340) | Quattro Bemanning & Rekrytering AB | Lund, Skåne län, Sverige | 2026-08-17 |
-| [Virtual Manufacturing Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31360328) | Incluso AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
-| [Seniora Ingenjörer till AQ Engineering Västerås](https://arbetsformedlingen.se/platsbanken/annonser/31360212) | AQ Engineering AB | Västerås, Västmanlands län, Sverige | 2026-08-17 |
-| [Technical Support Engineer inom Linux och utvecklingsmiljöer](https://arbetsformedlingen.se/platsbanken/annonser/31360167) | Xamera AB | Järfälla, Stockholms län, Sverige | 2026-08-17 |
-| [Junior Platform Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31360059) | Ellevio Sverige AB | Karlstad, Värmlands län, Sverige | 2026-08-17 |
-| [Senior DevOps Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31359711) | Explipro Group AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
 | [Senior DevOps Engineer - Platform](https://job-boards.eu.greenhouse.io/proton/jobs/4953832101) | Proton | Paris;Geneva | 2026-08-17 |
-| [Embedded Test Engineer (m/w/d) – Hardware & Softwareentwicklung](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18879-S) | Orizon GmbH, Unit Aviation | Penzberg, Bayern, Deutschland | 2026-08-17 |
-| [Test Engineer Schienenfahrzeuge (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551245-S) | ALTEN GmbH München | Salzgitter, Niedersachsen, Deutschland | 2026-08-17 |
-| [Generative AI/Agentic AI Engineer (m/w/d) für AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18874-S) | Orizon GmbH, Unit Aviation | Ulm, Donau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Senior Solution Architect & Lead-Developer bei Mercedes-Benz Financial Services Deutschland...](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1619189-1-S) | Mercedes-Benz Group AG | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [AI/ML Engineer – Generative AI + Legal AI (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-139916-S) | YPOG | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Fullstack Developer bei Mercedes-Benz Financial Services Deutschland (d/m/f/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1619184-1-S) | Mercedes-Benz Group AG | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003552327-S) | ADS Allg Deutsche Steuerberatung mbH | Hamburg, Deutschland | 2026-08-17 |
-| [Engineer IT System (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-478267_JB5222841-S) | FERCHAU GmbH Niederlassung Rosenheim | Stephanskirchen, Simssee, Bayern, Deutschland | 2026-08-17 |
-| [Senior CAx Application Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4123-S) | recruitIT Consulting | Erding, Bayern, Deutschland | 2026-08-17 |
-| [AI-Engineer Agentic Development and Enablement (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551759-S) | ALTEN GmbH München | Nürnberg, Mittelfranken, Bayern, Deutschland | 2026-08-17 |
-| [Team Lead Data Engineering (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14774-BB-563927-12683-260-S) | Deichmann SE | Essen, Ruhr, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Manager Electrical Engineering (m/w/d) Energietechnik / Teamleitung (1685)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003550920-S) | Brüggen Engineering GmbH | Mannheim, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Duales Masterprogramm (M. Sc.) im Bereich Big Data Engineering 2027](https://www.arbeitsagentur.de/jobsuche/jobdetail/12608-1440166-28043-1-S) | REWE Group | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Teamleitung Structural & Mechanical Engineering (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/18777-964308462-S) | OHB-System AG | Mainz am Rhein, Rheinland_Pfalz, Deutschland | 2026-08-17 |
-| [Bachelor of Engineering (m/w/d) – Bauingenieurwesen (Projektmanagement) Schwerpunkt Tiefbau](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207555554-S) | Stadtverwaltung Rottenburg | Rottenburg am Neckar, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Data Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/11949-17320577-S) | Bundesministerium für Inneres | Wien,Innere Stadt, Wien, Oesterreich | 2026-08-17 |
-| [Design Mechanical Engineer Satellitentechnik Luft- und Raumfahrttechnik (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003555124-S) | AGILIOS Personal GmbH Arbeitnehmerüberlassung | Backnang, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Embedded Software Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513832_JB5223004-S) | FERCHAU GmbH Niederlassung Darmstadt | Darmstadt, Hessen, Deutschland | 2026-08-17 |
-| [Airbus - Loads Engineer (d/f/m)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4917089428-S) | Randstad Professional | Manching, Bayern, Deutschland | 2026-08-17 |
-| [Quality Engineer (m/w/d) Management Systems](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18872-S) | Orizon GmbH, Unit Aviation | Hamburg, Deutschland | 2026-08-17 |
-| [Technical Application Support Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916495714-S) | Tergos GmbH | Oberhausen, Rheinland, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [QA-Engineer (m/w/d) ? AI focus](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SCEZ96-IHU-S) | Scopevisio AG | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Netzwerkadministrator (m/w/d) Network Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916485365-S) | DIS AG Germany | Heidelberg, Neckar, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Devolopment Engineer Testmanager (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556274-S) | Diehl Metering GmbH | Ansbach, Mittelfranken, Bayern, Deutschland | 2026-08-17 |
-| [Prozess Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15017-k40147.2395-S) | HR power solution GmbH | Hildesheim, Niedersachsen, Deutschland | 2026-08-17 |
-| [AI Configuration & Implementation Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916496872-S) | Liebherr-IT Services GmbH | Kirchdorf an der Iller, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [C# / .NET Core Developer Backend Azure Kubernetes (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4104-S) | recruitIT Consulting | Kempten (Allgäu), Bayern, Deutschland | 2026-08-17 |
-| [Airbus - System Safety Engineer (f/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4917080838-S) | Randstad Professional | Manching, Bayern, Deutschland | 2026-08-17 |
-| [Cloud / DevOps Engineer (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003552368-S) | ALTEN GmbH München | München, Bayern, Deutschland | 2026-08-17 |
-| [Field Service Engineer / Servicetechniker Pharmatechnik & Reinstmedien (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12598-k10741.1973-S) | Jobs & Service e.K. Akin Yasar Yildiz | Goslar, Niedersachsen, Deutschland | 2026-08-17 |
-| [Chief Engineering PMO (m/w/d) H135/H145 - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964323090-S) | AERO HighProfessionals GmbH | Donauwörth, Bayern, Deutschland | 2026-08-17 |
-| [Airbus - Software Developer for Test and Simulation Framework (d/m/w)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4917079262-S) | Randstad Professional | Manching, Bayern, Deutschland | 2026-08-17 |
-| [Junior Design Engineer/Konstrukteur Logistik-Produkte (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207555289-S) | Zarges GmbH | Weilheim in Oberbayern, Bayern, Deutschland | 2026-08-17 |
-| [Senior System Engineer - Loadbalancing / Citrix Netscaler ADC (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917133340-S) | BWI GmbH | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Security Engineer Secure Software Development, CI/CD Security, Cloud und IoT (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4102-S) | recruitIT Consulting | Kempten (Allgäu), Bayern, Deutschland | 2026-08-17 |
-| [Software Engineer - Interventional Therapy Systems (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619010-1-S) | Siemens AG | Forchheim, Oberfranken, Bayern, Deutschland | 2026-08-17 |
-| [Techniker (m/w/d) Project Engineering Anlagenbau](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003552685-S) | EnviTec Anlagenbau GmbH & Co. KG | Saerbeck, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Entwicklungsingenieur (m/w/d) Optik / Optical Engineering 2108-399](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003554150-S) | PAPEVE GmbH Der Spezialist für Ingenieure Techniker und Fachpersonal | Backnang, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Ingenieur/in - Systems Engineering](https://www.arbeitsagentur.de/jobsuche/jobdetail/11949-17321812-S) | Magenta Telekom | Wien,Landstraße, Wien, Oesterreich | 2026-08-17 |
-| [Ingenieur/in - Systems Engineering](https://www.arbeitsagentur.de/jobsuche/jobdetail/11949-17321101-S) | PORR AG | Wien,Favoriten, Wien, Oesterreich | 2026-08-17 |
-| [Werkstudent Machine Learning Engineering (d/m/w/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1619152-1-S) | Mercedes-Benz Group AG | Karlsruhe, Baden, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [100% Remote DevSecOps & Application Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916473136-S) | Tergos GmbH | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Senior Software Engineer (m/w/d) – Teilprojektleitung](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-f35e0bae_JB5222471-S) | Steadforce | München, Bayern, Deutschland | 2026-08-17 |
-| [Werkstudent*in Data & AI Solutions Engineering im Bereich Transformation & Strategie](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618926-1-S) | Mercedes-Benz Group AG | Berlin, Deutschland | 2026-08-17 |
-| [Software Engineer - AI Powered Development (m/w/d), Würzburg](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2315386-S) | WSW Software GmbH | Würzburg, Bayern, Deutschland | 2026-08-17 |
-| [Embedded Software Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513658_JB5222973-S) | FERCHAU GmbH Niederlassung Ludwigshafen | Kaiserslautern, Rheinland_Pfalz, Deutschland | 2026-08-17 |
-| [Senior System Engineer - Loadbalancing / Citrix Netscaler ADC (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13509-00002110fa0001-S) | BWI GmbH | Rheinbach, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Systems Engineering Manager Space System Studies (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/18777-964363583-S) | OHB-System AG | Bremen, Deutschland | 2026-08-17 |
-| [Maschinenbauingenieur (m/w/d) – Baurobotik / Mechanical Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556625-S) | Sitegeist GmbH | München, Bayern, Deutschland | 2026-08-17 |
-| [Senior Embedded Software Engineer - Hardwarenahe Entwicklung / Rust & C++ (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13185-506763-1790507-0-S) | ALTEN Consulting Services GmbH | Berlin, Deutschland | 2026-08-17 |
-| [IT/OT Infrastructure & Operations Engineer (m/w/d) Engineering & Lab Environments](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513550_JB5222950-S) | FERCHAU GmbH Niederlassung Augsburg | Kaufering, Bayern, Deutschland | 2026-08-17 |
-| [Senior Professional Test-Engineer in der Zentralen Testdatenbasis (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556876-S) | Bundesagentur für Arbeit IT-Systemhaus Nürnberg | Berlin, Deutschland | 2026-08-17 |
-| [Senior System Engineer - Citrix ADC (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917137545-S) | BWI GmbH | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Legal Engineer (f/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-477582838-S) | Siemens Energy Global GmbH & Co. KG | Erlangen, Bayern, Deutschland | 2026-08-17 |
-| [#14784 Senior Data Engineer AWS (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15220-2026-14784-S) | Constaff GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Data Handling System Engineer (d/m/w)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-964334604-S) | Airbus Defence and Space GmbH | Immenstaad am Bodensee, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [IT SUPPORT ENGINEER L2](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003555766-S) | Lich Weltweit GmbH | Niederlande | 2026-08-17 |
-| [Mobile Test Automation Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13334-00005f64914002-S) | EDEKA IT Stiftung & Co. OHG | Hamburg, Deutschland | 2026-08-17 |
-| [IT Systems & Infrastructure Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916800977-S) | Bertrandt AG | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Spacecraft Operations Engineer (m/w/d) - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964323976-S) | AERO HighProfessionals GmbH | Taufkirchen, Kreis München, Bayern, Deutschland | 2026-08-17 |
-| [DevSecOps / Platform Engineer (m/w/d), ArcGIS, Kubernetes, Linux bei einem etablierten Technologieko](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916472714-S) | KA Resources | München, Bayern, Deutschland | 2026-08-17 |
-| [Systems Engineer Digital Architecture (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-494299_JB5222882-S) | FERCHAU GmbH Niederlassung Kiel | Kiel, Schleswig_Holstein, Deutschland | 2026-08-17 |
-| [Manufacturing Engineer (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551344-S) | ALTEN GmbH München | Bremen, Deutschland | 2026-08-17 |
-| [Engineer Test Equipment Development (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17732-0066768265-S) | Physik Instrumente (PI) GmbH & Co. KG | Rosenheim, Oberbayern, Bayern, Deutschland | 2026-08-17 |
-| [Solution Architect Embedded Linux / Web (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4109-S) | recruitIT Consulting | Kempten (Allgäu), Bayern, Deutschland | 2026-08-17 |
-| [Cloud Engineer (m/w/d)Schwerpunkt Netzwerk-Engineering](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207559554-S) | Deutsche Bundesbank Zentrale | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Fullstack Software Engineer (m/w/d) \| KI \| Remote](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917126000-S) | hyrUP GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Java / Angular Software Engineer (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551303-S) | ALTEN GmbH München | Nürnberg, Mittelfranken, Bayern, Deutschland | 2026-08-17 |
-| [Data Platform Engineer / Kubernetes (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207556805-S) | HUK-COBURG VVaG | Coburg, Bayern, Deutschland | 2026-08-17 |
-| [AI Agent Engineer/ AI Expert (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-e8dfb295_JB5222262-S) | Xantaro Group | Münster, Westfalen, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Industrial Engineer (w/m/d) Schraubtechnik - Werkerführungsystem](https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-477584382-S) | Siemens Energy Global GmbH & Co. KG | Berlin, Deutschland | 2026-08-17 |
-| [Mobile Test Automation Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917146800-S) | EDEKA IT Stiftung & Co. OHG | Hamburg, Deutschland | 2026-08-17 |
-| [Process Integration Engineer (d/m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-063730819-S) | ams-OSRAM AG | Oesterreich | 2026-08-17 |
-| [Forward Deployed Engineer / Maschinist-Kommissionsingenieur (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556736-S) | Sitegeist GmbH | München, Bayern, Deutschland | 2026-08-17 |
-| [Senior System Engineer – Citrix Plattform Operations (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917142925-S) | BWI GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [AI und Data Science Engineer - EUV Metrology (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-889340/1_620499LS-S) | Hays Professional Solutions GmbH | Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Senior Software Engineer - Interventional Therapy Systems (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619008-1-S) | Siemens AG | Forchheim, Oberfranken, Bayern, Deutschland | 2026-08-17 |
-| [Solution Architect Embedded Linux / Web (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4108-S) | recruitIT Consulting | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
 | [Manager, Analytics Engineer - Mercari](https://apply.workable.com/j/0CFBF11B9E) | Mercari | Minato City, Japan | 2026-08-17 |
-| [Teamleitung Software Algorithm Engineering Computed Tomography (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619015-1-S) | Siemens AG | Forchheim, Oberfranken, Bayern, Deutschland | 2026-08-17 |
-| [Head (m/f/d) of Software Engineering & Architecture in R&D](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003553257-S) | KWS SAAT SE & Co. KGaA | Einbeck, Niedersachsen, Deutschland | 2026-08-17 |
-| [Senior Human Factors Engineer (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551414-S) | ALTEN GmbH München | Mannheim, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Elektrokonstrukteur / Electrical Design Engineer (m/w/d) EPLAN P8](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916815005-S) | Handtmann Reutlingen GmbH | Reutlingen, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Senior Cloud Engineer - AWS / Kubernetes / Terraform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916485032-S) | Workwise GmbH | Karlsruhe, Baden, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Drei Werksstudierende für IT-Engineering im Bereich Software-Entwicklungswerkzeuge](https://www.arbeitsagentur.de/jobsuche/jobdetail/14089-01478318-S) | Deutsche Bundesbank | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Technical Data Engineer (m/w/d) - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964322255-S) | AERO HighProfessionals GmbH | Donauwörth, Bayern, Deutschland | 2026-08-17 |
-| [Cloud DevOps Engineer (mIwId)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003552838-S) | LeySelect GmbH | Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Specialist System-Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556892-S) | Bundesagentur für Arbeit IT-Systemhaus Nürnberg | Chemnitz, Sachsen, Sachsen, Deutschland | 2026-08-17 |
-| [Software Developer (m/w/d) Test and Simulation Framework AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18886-S) | Orizon GmbH, Unit Aviation | Manching, Bayern, Deutschland | 2026-08-17 |
-| [Cyber Security Test Engineer (d/f/m)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-964351650-S) | Airbus Defence and Space GmbH | München, Bayern, Deutschland | 2026-08-17 |
-| [OT System Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4127-S) | recruitIT Consulting | Gütersloh, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Cloud Platform Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4093-S) | recruitIT Consulting | Deutschland | 2026-08-17 |
-| [AI Engineer/ Specialist (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-9d18d743_JB5223493-S) | Rottendorf Pharma GmbH | Ennigerloh, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Electronics Engineer (m/w/d) Electrical Design & Power](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-516586_JB5222403-S) | FERCHAU GmbH Niederlassung Bremen City | Bremen, Deutschland | 2026-08-17 |
-| [System Engineer (w/m/d) Fahrgastinformationssysteme](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1618398-1-S) | Siemens AG | Erlangen, Bayern, Deutschland | 2026-08-17 |
-| [Test Engineer für Röntgenstrahlungserzeugungssysteme (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619741-1-S) | Siemens AG | Forchheim, Oberfranken, Bayern, Deutschland | 2026-08-17 |
-| [Mechanical Engineer (m/w/d) Helicopter Maintenance Design - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964319687-S) | AERO HighProfessionals GmbH | Donauwörth, Bayern, Deutschland | 2026-08-17 |
-| [Software Developer - Java (Eclipse) and Python (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-063703338-S) | Advantest Europe GmbH | Böblingen, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [R&D Engineer (m/f/d) Software Development (Java)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-063703337-S) | Advantest Europe GmbH | Böblingen, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Softwareentwickler (m/w/d) DevOps](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18885-S) | Orizon GmbH, Unit Aviation | Bremen, Deutschland | 2026-08-17 |
-| [Life Cycle Engineer (m/w/d) - ILS & Obsoleszenz Management](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916483656-S) | expertum GmbH | Oberkochen, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Projektingenieur / Test Engineer Automotive (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916822536-S) | PERMACON GmbH Düsseldorf | Ennepetal, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Quality Assurance Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-063730774-S) | EDGITAL GmbH | Essen, Ruhr, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Microsoft 365 Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003553589-S) | CMS Cinema Management Services GmbH & Co. KG | Lübeck, Schleswig_Holstein, Deutschland | 2026-08-17 |
-| [Development Engineer Laser (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-889352/1_620517LS-S) | Hays Professional Solutions GmbH | Thueringen, Deutschland | 2026-08-17 |
-| [Engineer Product Development (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13892-3131145_4055578-S) | Freudenberg Medical Hemoteq GmbH | Würselen, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Algorithm Engineer (m/w/d) Messtechnik](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-475999_JB5222865-S) | FERCHAU GmbH Niederlassung Nürnberg City | Nürnberg, Mittelfranken, Bayern, Deutschland | 2026-08-17 |
-| [System Engineer Private Cloud (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917128779-S) | Atruvia AG | Aschheim, Bayern, Deutschland | 2026-08-17 |
-| [Casting Simulation Design Engineer (f/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15170-476456516-S) | Siemens Energy Global GmbH & Co. KG | Mülheim an der Ruhr, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Systems Engineer - Aerospace & Avionics (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13131-13835079-S) | EMMA JOBS in München | Weßling, Oberbayern, Bayern, Deutschland | 2026-08-17 |
-| [Praxisreferent/-in für das Pflegelabor/Skills Lab am Fb4 (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551131-S) | Frankfurt University of Applied Sciences | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Solution Architect Integrated Product Support (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513403_JB5222741-S) | FERCHAU GmbH Niederlassung Hamburg-City | Hamburg, Deutschland | 2026-08-17 |
-| [Unified Communications Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917129082-S) | hyrUP GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Solution Architect (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-A8FH2T81LL8T01LM-S) | Da Vinci Engineering GmbH | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Linux System Engineer & Automation (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916809567-S) | DIS AG Germany | Freiburg im Breisgau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Cloud Engineer Azure (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4100-S) | recruitIT Consulting | Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [System Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917132089-S) | hyrUP GmbH | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Senior Systems Planning Engineer, Kommunikations- und Einsatzsysteme im Behördenumfeld (m\|w\|d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917136114-S) | Broadcast Solutions GmbH | Bingen am Rhein, Rheinland_Pfalz, Deutschland | 2026-08-17 |
-| [SHD System-Haus-Dresden GmbH: System Engineer (m/w/d) - Server und Virtualisierung](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3022241783375200-S) | SHD System-Haus-Dresden GmbH | Dresden, Sachsen, Deutschland | 2026-08-17 |
-| [Cisco Network Engineer – Operations & Design (DNAC / Routing / Festnetz) (w/m/d).](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003554671-S) | Zentraldienst der Polizei des Landes Brandenburg | Potsdam, Brandenburg, Deutschland | 2026-08-17 |
-| [Solution Architect Embedded Linux / Web (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4110-S) | recruitIT Consulting | Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Senior Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12826-SA0145069_JB5223753-S) | expertplace professionals GmbH | Dresden, Sachsen, Deutschland | 2026-08-17 |
-| [Product Cyber Security Engineer for Aerospace Electronics](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207553814-S) | Liebherr-Aerospace Lindenberg GmbH | Lindenberg im Allgäu, Bayern, Deutschland | 2026-08-17 |
-| [Industrial Engineer (m/w/d) - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964323974-S) | AERO HighProfessionals GmbH | Augsburg, Bayern, Bayern, Deutschland | 2026-08-17 |
-| [UAV Systems Validation & Integration Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18888-S) | Orizon GmbH, Unit Aviation | München, Bayern, Deutschland | 2026-08-17 |
-| [Fullstack Developer (m/w/d) KI-Fokus, InsurTech, CHECK24 Versicherungen Sachbereich/Vorsorgebereich](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2315648-S) | CHECK24 - InsurTech | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Praxisreferent/ -in für die Koordination der Praxiseinsätze der Hebammenwissenschaft am Fb4 (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551056-S) | Frankfurt University of Applied Sciences | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Mechanical Project Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19821-Z66NFRMPIOZPEHM9-S) | Schmitt GmbH | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Hardware Layout Engineer (m/w/d) - PCB Design 1](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916808803-S) | Bertrandt AG | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Quality & Reliability Engineer – Semiconductor Manufacturing (m/w/d) – MQR](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917165810-S) | European Semiconductor Manufacturing Company | Dresden, Sachsen, Deutschland | 2026-08-17 |
-| [Teilprojektleiter Technisches Engineering Freileitung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513568_JB5222952-S) | FERCHAU GmbH Niederlassung Hannover | Lehrte bei Hannover, Niedersachsen, Deutschland | 2026-08-17 |
-| [Auftragssteuerer Manufacturing Engineering Tornado (m/w/d) für AIRBUS Defence & Space](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-494440_JB5222890-S) | FERCHAU GmbH Niederlassung Augsburg | Manching, Bayern, Deutschland | 2026-08-17 |
-| [Junior Fullstack Developer (m/w/d) KI-Fokus, InsurTech, CHECK24 Versicherung...](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2315647-S) | CHECK24 - InsurTech | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Lead Cloud Integration Architect - Data Fusion Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13509-000021110c3001-S) | BWI GmbH | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Senior System Engineer – Citrix Plattform Operations (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13509-00002110fa8001-S) | BWI GmbH | München, Bayern, Deutschland | 2026-08-17 |
-| [Engineering - Sachbearbeiter Engineering (m/w/d) senior](https://www.arbeitsagentur.de/jobsuche/jobdetail/14087-LW6KOMK7IJ16TZE9-S) | Cabo Personal GmbH | Pfaffenhofen an der Ilm, Bayern, Deutschland | 2026-08-17 |
-| [NTT DATA Business Solutions Global Managed Services GmbH: PreSales Architect für SAP Lösungen im Rah](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2970891784584801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Heidelberg, Neckar, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Software Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12826-SA0145073_JB5223755-S) | expertplace professionals GmbH | Hannover, Niedersachsen, Deutschland | 2026-08-17 |
-| [Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12438-13835640-S) | expertum GmbH | Hamburg, Deutschland | 2026-08-17 |
-| [Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19821-7IQSP5BA710A7P14-S) | Schmitt GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Senior Systems Planning Engineer, Kommunikations- und Einsatzsysteme im Behördenumfeld (m\|w\|d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12514-202608b048sss01-S) | Broadcast Solutions GmbH | Bingen am Rhein, Rheinland_Pfalz, Deutschland | 2026-08-17 |
-| [Senior DevOps Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917125630-S) | hyrUP GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [Senior Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917142173-S) | hyrUP GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Part Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003550684-S) | DPC DONCASTERS PRECISION CASTI NGS-BOCHUM GMBH | Bochum, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [System Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916500658-S) | DIS AG Germany | Ludwigshafen am Rhein, Rheinland_Pfalz, Deutschland | 2026-08-17 |
-| [Content Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916821099-S) | Personalhaus EXPERT | Bremen, Deutschland | 2026-08-17 |
-| [Cloud Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917137171-S) | SINC GmbH | Wiesbaden, Hessen, Deutschland | 2026-08-17 |
-| [Sovereign Cloud Expert DevOps Engineer (f/m/d) - SAP Business Data Cloud (BDC)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11070-1619270-1-S) | SAP | St. Leon-Rot, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Field Service Engineer / Key Account Techniker Wasserstoffsysteme (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12598-k10741.1974-S) | Jobs & Service e.K. Akin Yasar Yildiz | Goslar, Niedersachsen, Deutschland | 2026-08-17 |
-| [Backend Developer](https://www.arbeitsagentur.de/jobsuche/jobdetail/15980-2I8QB3TEZ6JV8NEH-S) | activjob GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
-| [IT-Engineer (m/w/d) Firewall & Network](https://www.arbeitsagentur.de/jobsuche/jobdetail/12951-47751830-3f71-4d6c--S) | Badenova | Freiburg im Breisgau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
-| [Sub Project Lead Technical Engineering - Freileitungsplanung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-506818_JB5222757-S) | FERCHAU GmbH Vertriebsstützpunkt Bayreuth | Bayreuth, Bayern, Deutschland | 2026-08-17 |
-| [Pflichtpraktikum im Recruiting (m/w/d) – Active Sourcing für IT & Engineering](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916474291-S) | Exclusive Associates | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [Senior Professional System-Engineer - ERP-Technologie (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556897-S) | Bundesagentur für Arbeit IT-Systemhaus Nürnberg | Chemnitz, Sachsen, Sachsen, Deutschland | 2026-08-17 |
-| [Senior Precision Analog and Instrumentation Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12727-MU1383145-S) | engineering people GmbH München | München, Bayern, Deutschland | 2026-08-17 |
-| [Senior System Engineer – Citrix Plattform Operations (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13509-00002110a74002-S) | BWI GmbH | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
-| [NTT DATA Deutschland SE: Lead Cloud Software Architect für Google Cloud Platform (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3001021786831201-S) | NTT DATA Deutschland SE | Ettlingen, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
-| [SHD System-Haus-Dresden GmbH: System Engineer (m/w/d) - Support](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3029411783029600-S) | SHD System-Haus-Dresden GmbH | Leipzig, Sachsen, Deutschland | 2026-08-16 |
-| [Engineer for Mechanical Ground Support Equipment (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/18777-964238415-S) | OHB-System AG | Bremen, Deutschland | 2026-08-16 |
-| [Praktikum im Bereich Full-Stack-Engineering (w/m/div.)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF294072L-3d41729-S) | Robert Bosch GmbH | Ulm, Donau, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
-| [Engineering (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17560-66419c4197b1443-S) | AlphaConsult Premium KG | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-16 |
-| [GlobalFoundries Management Services GmbH & Co. KG: Junior Engineer Tapeout Systems/Tapeout Operation](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3031351786831201-S) | GlobalFoundries Management Services GmbH & Co. KG | Dresden, Sachsen, Deutschland | 2026-08-16 |
-| [Network Security Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17560-69a6e7c050634fd-S) | AlphaConsult Premium KG | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-16 |
-| [GlobalFoundries Management Services GmbH & Co. KG: Werkstudent*in im Bereich Tape-Out Engineering](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3031311786831201-S) | GlobalFoundries Management Services GmbH & Co. KG | Dresden, Sachsen, Deutschland | 2026-08-16 |
-| [Account Manager (gn) Engineering](https://www.arbeitsagentur.de/jobsuche/jobdetail/12310-MDIDKG66TBVJBPPF-S) | PAMEC PAPP GmbH | Nürnberg, Mittelfranken, Bayern, Deutschland | 2026-08-16 |
-| [Cloud & Data Platform Architect (gn)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12928-BGM5I6Z15VOI7LO5-S) | Experis GmbH | München, Bayern, Deutschland | 2026-08-16 |
-| [Network Security Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17560-a594e0cfb03143e-S) | AlphaConsult Premium KG | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-16 |
-| [Network Security Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17560-99c6e79eafc74fa-S) | AlphaConsult Premium KG | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-16 |
-| [Network Security Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17560-6a149abbab3d4d8-S) | AlphaConsult Premium KG | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-16 |
-| [IT System Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14418-47580-1790447-0-S) | Schmieder GmbH Unternehmensberatung | Bad Waldsee, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
-| [NTT DATA Deutschland SE: Lead Cloud Platform Architect für Microsoft Azure (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3048201786831200-S) | NTT DATA Deutschland SE | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
-| [SHD System-Haus-Dresden GmbH: System Engineer (m/w/d) - Operational Service](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3029251783029600-S) | SHD System-Haus-Dresden GmbH | Leipzig, Sachsen, Deutschland | 2026-08-16 |
-| [Operation and Maintenance Engineer – Cloud Operation Services (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-5FTZGIXVII85RMNV-S) | Da Vinci Engineering GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-16 |
-| [Initiativbewerbung \| Alpha-Engineering Erfurt](https://www.arbeitsagentur.de/jobsuche/jobdetail/12668-77a5278a35dd491-S) | Alpha-Engineering KG - Erfurt | Erfurt, Thueringen, Deutschland | 2026-08-16 |
-| [Supplier Quality & Development Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12668-bfc9b20929404b2-S) | Alpha-Engineering KG - Erfurt | Deutschland | 2026-08-16 |
-| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Defense Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-2999731786831201-S) | NTT DATA Deutschland SE | München, Bayern, Deutschland | 2026-08-16 |
-| [Mechanical AIT Engineer (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/18777-964229404-S) | OHB-System AG | Bremen, Deutschland | 2026-08-16 |
-| [IT Onsite Support Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13669-CLL5GO1XIGLSQZWO-S) | puro Personaldienstleistung GmbH | Nürnberg, Mittelfranken, Bayern, Deutschland | 2026-08-16 |
-| [Flight Management Systems Engineer (all genders)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13185-506758-1790423-0-S) | ALTEN Consulting Services GmbH | Manching, Bayern, Deutschland | 2026-08-16 |
-| [Software Developer Web-Application (m/w/d), corpuls Kaufering (Hauswiesenstraße)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2314898-S) | Corpuls | Kaufering, Bayern, Deutschland | 2026-08-16 |
-| [Security Operation Engineer (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-1RFN5OKMLJJW5OQ4-S) | Da Vinci Engineering GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-16 |
-| [Senior Software Engineer (m/w/d) – Backend (TypeScript) - Hybrid](https://www.arbeitsagentur.de/jobsuche/jobdetail/17338-5ddd2bca95b7bc4d9b-S) | 7Assets GmbH | Mannheim, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
-| [Software Engineer C#/.NET (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13185-506757-1790420-0-S) | ALTEN Consulting Services GmbH | Manching, Bayern, Deutschland | 2026-08-16 |
-| [Avionics Integration Test Engineer (all genders)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13185-506759-1790427-0-S) | ALTEN Consulting Services GmbH | Manching, Bayern, Deutschland | 2026-08-16 |
-| [System Engineer (m/w/d) im Bereich Verkehrstechnik - Hybrid](https://www.arbeitsagentur.de/jobsuche/jobdetail/17338-7add2bca95b7bc4d9c-S) | Spot On You Consulting | Berlin, Deutschland | 2026-08-16 |
 | [Senior/Staff Software Engineer, Machine Control Systems](https://job-boards.greenhouse.io/atomicmachines/jobs/4357813009) | Atomic Machines | Emeryville, California or Santa Clara, California | 2026-08-15 |
 | [Backend Engineer - Marketing Technology](https://job-boards.eu.greenhouse.io/proton/jobs/4708508101) | Proton | London; Paris; Prague | 2026-08-15 |
 | [Senior Electrical Engineer](https://job-boards.greenhouse.io/axon/jobs/7602020003) | Axon | Kassel, Hesse, Germany | 2026-08-15 |
 | [Manager, Corporate Network Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5391782008) | Anthropic | San Francisco, CA | 2026-08-15 |
-| [Senior Forward Deployed Engineer (Gemini Enterprise)](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8717340002) | LinkedIn Job Wrapping | Montréal, Quebec, Canada | 2026-08-15 |
 | [Senior Forward Deployed Engineer (Gemini Enterprise)](https://job-boards.greenhouse.io/artefact/jobs/8716939002) | Artefact | Montréal, Quebec, Canada | 2026-08-15 |
 | [Mechanical Associate Engineer (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704621006) | Astranis | San Francisco | 2026-08-15 |
 | [Mechanical Associate Engineer (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704620006) | Astranis | San Francisco | 2026-08-15 |
@@ -251,51 +60,6 @@ _58,763 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [CAD Engineer/Librarian Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704742006) | Astranis | San Francisco | 2026-08-15 |
 | [CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) | Astranis | San Francisco | 2026-08-15 |
 | [CAD Engineer/Librarian Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704748006) | Astranis | San Francisco | 2026-08-15 |
-| [Senior Systems Engineer - Windows Server Betrieb (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f539j0452039-S) | BWI GmbH | Hamburg, Deutschland | 2026-08-15 |
-| [Application Engineer - Test & Validation (m/f/d) in R&D](https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026280178-S) | Tesla Automation GmbH | Reutlingen, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
-| [Engineering Assistant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-J4C1BM-431-S) | Sheraton & Marriott Frankfurt Airport Hotel | Frankfurt am Main, Hessen, Deutschland | 2026-08-15 |
-| [System Engineer Flugsteuerung (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12727-IN1383234-S) | engineering people GmbH Ingolstadt | Manching, Bayern, Deutschland | 2026-08-15 |
-| [Application Engineer - Test & Validation (m/f/d) in R&D](https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026280177-S) | Tesla Automation GmbH | Prüm, Rheinland_Pfalz, Deutschland | 2026-08-15 |
-| [Senior Engineering Technician - Test & Validation (m/f/d) in R&D](https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026280174-S) | Tesla Automation GmbH | Reutlingen, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
-| [Senior Engineering Technician - Test & Validation (m/f/d) in R&D](https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026280175-S) | Tesla Automation GmbH | Prüm, Rheinland_Pfalz, Deutschland | 2026-08-15 |
-| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Manufacturing & Dual Use Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3001691786744801-S) | NTT DATA Deutschland SE | Frankfurt am Main, Hessen, Deutschland | 2026-08-15 |
-| [Werkstudent Entwicklung im 4-Takt Engineering (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16567-44379860-814-S) | Everllence SE | Augsburg, Bayern, Bayern, Deutschland | 2026-08-15 |
-| [Werkstudent Konstruktion und Einspritzsysteme im 4-Takt Engineering (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16567-44379845-814-S) | Everllence SE | Augsburg, Bayern, Bayern, Deutschland | 2026-08-15 |
-| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Retail & Consumer Goods Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-2999611786744801-S) | NTT DATA Deutschland SE | München, Bayern, Deutschland | 2026-08-15 |
-| [Werkstudent Produktentwicklung Future Fuels im 4-Takt Engineering (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16567-44379834-814-S) | Everllence SE | Augsburg, Bayern, Bayern, Deutschland | 2026-08-15 |
-| [NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3001451786744801-S) | NTT DATA Deutschland SE | Hamburg, Deutschland | 2026-08-15 |
-| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Transport & Logistics Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-2999971786744801-S) | NTT DATA Deutschland SE | München, Bayern, Deutschland | 2026-08-15 |
-| [NTT DATA Deutschland SE: Lead Cloud Software Architect für Microsoft Azure (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3001141786744801-S) | NTT DATA Deutschland SE | Ettlingen, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
-| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Pharma Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3000471786744801-S) | NTT DATA Deutschland SE | Ettlingen, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
-| [Senior Data Architect - Data Fusion Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f539j0452086-S) | BWI GmbH | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [PLC-Programmer (m/f/d) - Hybrid](https://www.arbeitsagentur.de/jobsuche/jobdetail/17338-e95e51aff6a7d52310-S) | Hoppe Marine GmbH | Hamburg, Deutschland | 2026-08-15 |
-| [IT-Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-311307-S) | nasdo | Aschheim, Bayern, Deutschland | 2026-08-15 |
-| [Senior Architect GeoInfo & METOC (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f539j0452038-S) | BWI GmbH | München, Bayern, Deutschland | 2026-08-15 |
-| [IT- Architect - Cloud Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f1201j0450576-S) | netgo group GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-15 |
-| [Systemadministrator - DevOps (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f539j0452034-S) | BWI GmbH | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [IT Support Engineer - Systemintegration (all genders) - Hybrid](https://www.arbeitsagentur.de/jobsuche/jobdetail/17338-39f71dd22603460920-S) | mioso - IT Solutions GmbH | Hamburg, Deutschland | 2026-08-15 |
-| [System Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13669-S9OTQW1PRIHARSYD-S) | puro Personaldienstleistung GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-15 |
-| [Citrix System Engineer (m/w/d) – IT-Infrastruktur & Client Management](https://www.arbeitsagentur.de/jobsuche/jobdetail/13356-947859A049505C6-S) | BS Wutow Professional GmbH | Essen, Ruhr, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [Senior Platform Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f539j0452041-S) | BWI GmbH | Meckenheim, Rheinland, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [Software Developers](https://www.arbeitsagentur.de/jobsuche/jobdetail/12513-0007652030-S) | Maxime HR Ltd. | Nikosia, Zypern | 2026-08-15 |
-| [Softwareentwickler*in/ Software Developer (m/w/d) - im JAVA- und C#-Umfeld (Nr. 005-J)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-311300-S) | DVZ M-V | Schwerin, Mecklenburg, Mecklenburg_Vorpommern, Deutschland | 2026-08-15 |
-| [Senior Application Engineer (Java, Cloud & AI) (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44380377-814-S) | HDI AG | Hannover, Niedersachsen, Deutschland | 2026-08-15 |
-| [Technical Data Engineering Specialist (d/m/w) AIRBUS Helicopters](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003549510-S) | SimpleXX GmbH | Donauwörth, Bayern, Deutschland | 2026-08-15 |
-| [Software Security Architekt/Engineer (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-311305-S) | S&N Invent | Paderborn, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [Platform Engineer (m/w/d), DSC Software AG](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2314321-S) | DSC Software AG | Karlsruhe, Baden, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
-| [System Architect (m/w/d) Telecommunications und NTN Systems](https://www.arbeitsagentur.de/jobsuche/jobdetail/14418-47549-1790408-0-S) | Schmieder GmbH Unternehmensberatung | Friedrichshafen, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
-| [(Senior) Systems Engineer Linux & Identity Services (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12586-44379230-814-S) | Bausparkasse Schwäbisch Hall AG | Schwäbisch Hall, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
-| [Inhouse Developer „SAP Datawarehouse (SAP BW/4HANA)" (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14662-44380904-814-S) | NRW.BANK AdöR | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [Communardo GmbH: Sales Development Representative mit Fokus AWS, DevOps und KI (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3011371786744801-S) | Communardo GmbH | Dresden, Sachsen, Deutschland | 2026-08-15 |
-| [Senior Consultant SAP Architecture & Technology (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/20151-44379958-814-S) | Vaillant GmbH | Remscheid, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [Data Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/11949-17285743-S) | KPMG Services GmbH | Linz, Oberoesterreich, Oesterreich | 2026-08-15 |
-| [NTT DATA Business Solutions Global Managed Services GmbH: Enterprise IT Architect - SAP (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2970801786312801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Dortmund, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [API Developer & Identity Engineer (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-311287-S) | freenet | Büdelsdorf, Schleswig_Holstein, Deutschland | 2026-08-15 |
-| [Senior Messaging Engineer (M365 / Email Infrastructure) (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-063597832-S) | STRABAG BRVZ GMBH & CO.KG | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
-| [Senior Expert Cloud Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44380032-814-S) | Vodafone GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
-| [System Engineer - Cloud Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f1201j0450578-S) | netgo group GmbH | Berlin, Deutschland | 2026-08-15 |
-| [COMBASE AG: Linux Infrastructure Engineer (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3011471786744801-S) | COMBASE AG | Dresden, Sachsen, Deutschland | 2026-08-15 |
-| [Certification Engineer Emission (m/w/d) - 13540](https://www.arbeitsagentur.de/jobsuche/jobdetail/16567-44379772-814-S) | Everllence SE | Augsburg, Bayern, Bayern, Deutschland | 2026-08-15 |
 | [Principal Software Engineer- Embedded OS](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5212989007) | ALTEN Technology USA | Denver, Colorado, United States | 2026-08-14 |
 | [Senior DevSecOps Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5212703007) | ALTEN Technology USA | Denver, Colorado, United States | 2026-08-14 |
 | [Staff+ Software Engineer, Safeguards Data](https://job-boards.greenhouse.io/anthropic/jobs/5379140008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
@@ -306,6 +70,242 @@ _58,763 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Sr. Manufacturing Design Engineer - eMotor](https://job-boards.greenhouse.io/archer56/jobs/7861049003) | Archer | San Jose, California, United States | 2026-08-14 |
 | [Technical Support Engineer - Temp Employment](https://job-boards.greenhouse.io/beyondtrust/jobs/8130315) | BeyondTrust | Remote Canada | 2026-08-14 |
 | [ADAS Performance Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5212908007) | ALTEN Technology USA | Auburn Hills, Michigan, United States | 2026-08-14 |
+| [Senior Machine Learning Engineer, Trust](https://careers.airbnb.com/positions/8130355?gh_jid=8130355) | Airbnb | San Francisco, CA | 2026-08-14 |
+| [Developer, Rust](https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538) | 1Password | Remote (United States \| Canada) | 2026-08-14 |
+| [[Internal] Developer, Rust](https://jobs.ashbyhq.com/1password/d19d8ac2-8f67-407e-ace1-7f07914e581c) | 1Password | Remote (United States \| Canada) | 2026-08-14 |
+| [Sr. Principal Silicon Applications Engineer, AI Infrastructure](https://job-boards.greenhouse.io/asteralabs/jobs/4723516005) | Astera Labs | San Jose, California, United States | 2026-08-14 |
+| [Solutions Engineer, SMB](https://jobs.ashbyhq.com/1password/03e43d8b-af31-489e-a97c-a7da66df129b) | 1Password | Remote (United States \| Canada) | 2026-08-14 |
+| [Product Support Engineer](https://www.go-applied.com/careers/openings/?gh_jid=4371023009) | Applied Engineering | Wyoming, MN | 2026-08-14 |
+| [AI Infrastructure Engineer](https://job-boards.greenhouse.io/axon/jobs/7810798003) | Axon | Boston, Massachusetts, United States; San Francisco, California, United States; Scottsdale, Arizona, United States; Seattle, Washington, United States | 2026-08-14 |
+| [Staff Data Engineer](https://job-boards.greenhouse.io/archer56/jobs/7797797003) | Archer | San Jose, California, United States | 2026-08-14 |
+| [Staff Software Engineer, Passport & Commerce (Backend)](https://careers.airbnb.com/positions/8130817?gh_jid=8130817) | Airbnb | United States | 2026-08-14 |
+| [Engineering Program Manager II](https://job-boards.greenhouse.io/axon/jobs/7836937003) | Axon | Sterling, Virginia, United States | 2026-08-14 |
+| [Manager, Software Engineering - Integrations](https://job-boards.greenhouse.io/axon/jobs/7827989003) | Axon | Washington, United States | 2026-08-14 |
+| [Finance Systems Engineer, Finance and Strategy](https://job-boards.greenhouse.io/anthropic/jobs/5390728008) | Anthropic | San Francisco, CA | 2026-08-14 |
+| [Principal Product Applications Engineer, Custom Silicon](https://job-boards.greenhouse.io/asteralabs/jobs/4723517005) | Astera Labs | San Jose, California, United States | 2026-08-14 |
+| [Robotics Software Engineer, Simulations](https://job-boards.greenhouse.io/atomicmachines/jobs/4370850009) | Atomic Machines | Emeryville, or Santa Clara, California | 2026-08-14 |
+| [Senior Mobile App Engineer (React Native/iOS/Android)](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4370828009) | Beacon Biosignals | Boston, MA / Remote | 2026-08-14 |
+| [Solutions Engineer](https://jobs.ashbyhq.com/redpanda-data/b88b8bf9-e092-44d1-b235-af3c800dd30f) | Redpanda | US/Canada - Western Region | 2026-08-14 |
+| [Deployment Engineer](https://boards.greenhouse.io/array/jobs/4805396004?gh_jid=4805396004) | Array | Remote - USA or Canada | 2026-08-14 |
+| [Lead Deployment Engineer](https://boards.greenhouse.io/array/jobs/5841728004?gh_jid=5841728004) | Array | Remote - USA or Canada | 2026-08-14 |
+| [Staff Software Engineer, User Profile](https://job-boards.greenhouse.io/attentive/jobs/4369486009) | Attentive | United States | 2026-08-14 |
+| [Senior Project Engineer - Water](https://job-boards.greenhouse.io/apexcompanies/jobs/5386830008) | Apex Companies | Denver, CO | 2026-08-14 |
+| [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/axon/jobs/7867043003) | Axon | Seattle, Washington, United States | 2026-08-14 |
+| [Senior Full Stack Engineer - BitGo Labs](https://job-boards.greenhouse.io/bitgo/jobs/8709045002) | BitGo | Palo Alto, California, United States | 2026-08-14 |
+| [Design Engineer III - Private Land Development](https://job-boards.greenhouse.io/apexcompanies/jobs/5386788008) | Apex Companies | Denver, CO | 2026-08-14 |
+| [Civil Engineers & Project Managers](https://job-boards.greenhouse.io/apexcompanies/jobs/5388809008) | Apex Companies | Boise, ID; Fort Myers, FL; Marathon, FL; Portland, OR; Providence, RI; Punta Gorda, FL; Quincy, MA; Reno, NV; Richland, WA; Salt Lake City, UT; Seattle, WA; Tampa, FL; Vancouver, WA; Walla Walla, WA; Woburn, MA | 2026-08-14 |
+| [Civil Engineer, EIT - Land Development](https://job-boards.greenhouse.io/atwellgroup/jobs/5212425007) | Atwell, LLC | Reno, Nevada, United States | 2026-08-14 |
+| [Forward Deployed Engineer](https://job-boards.greenhouse.io/assetliving/jobs/6138155004) | Asset Living | Remote | 2026-08-14 |
+| [Lead Engineer - Product Catalog Team](https://www.stitchfix.com/careers/jobs?gh_jid=8031204&gh_jid=8031204) | Stitch Fix | Remote, USA | 2026-08-14 |
+| [ML Platform Engineer](https://www.stitchfix.com/careers/jobs?gh_jid=8014448&gh_jid=8014448) | Stitch Fix | Remote, USA | 2026-08-14 |
+| [Senior Structural Engineer](https://job-boards.greenhouse.io/woolpert/jobs/4361415009) | Woolpert | Chicago, IL | 2026-08-14 |
+| [Senior Software Engineer - Platform](https://jobs.ashbyhq.com/loancrate/efe03f3a-2c3d-4bd7-b237-978deed13cbd) | Loancrate | United States | 2026-08-14 |
+| [Architectural Designer (Mission Critical)](https://job-boards.greenhouse.io/woolpert/jobs/4369414009) | Woolpert | Chicago, IL; Coral Gables, FL; Miami, FL; New York, NY; Pittsburgh, PA | 2026-08-14 |
+| [Site Reliability Engineer - Storage](https://job-boards.eu.greenhouse.io/proton/jobs/4953188101) | Proton | Geneva, Switzerland, Paris, France | 2026-08-14 |
+| [Software Engineer I, Privacy](https://job-boards.greenhouse.io/axon/jobs/7713401003) | Axon | Seattle, Washington, United States | 2026-08-14 |
+| [Graduate Frontend Engineer - React/TypeScript](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4936846101) | Bitpanda | București, Bucharest, Romania | 2026-08-14 |
+| [DevOps Engineer - Technology R&D Lab](https://jobs.smartrecruiters.com/Avaloq1/744000143513292) | Avaloq | Makati City, ph | 2026-08-14 |
+| [AI Workflows Engineer](https://jobs.ashbyhq.com/neuralconcept/fd812691-d373-47e5-af9b-0964468a1c79) | Neuralconcept | Lausanne | 2026-08-14 |
+| [Software Engineer, Backend (5-7 years)](https://job-boards.greenhouse.io/phonepe/jobs/7869947003) | PhonePe | Bangalore | 2026-08-14 |
+| [Data Ingestion Engineer (ADF+Dbt+Snowflake)](https://jobs.smartrecruiters.com/eversana1/744000143503054) | EVERSANA | Pune, in | 2026-08-14 |
+| [Forward Deployed Architect, France](https://jobs.ashbyhq.com/notion/d87154d4-d3c5-48cf-8e83-559436f27133) | Notion | Paris, France | 2026-08-14 |
+| [Software Engineer II - C++/Rust](https://job-boards.greenhouse.io/axon/jobs/7617831003) | Axon | Kassel, Hesse, Germany | 2026-08-14 |
+| [Manager, Forward Deployed Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5385634008) | Anthropic | London, UK | 2026-08-14 |
+| [Forward Deployed Architect](https://jobs.ashbyhq.com/notion/77861b77-9493-4869-bbaf-eaa11477a251) | Notion | Dublin, Ireland | 2026-08-14 |
+| [Data Platform Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4701476006?gh_jid=4701476006) | Accenture Federal Services | Suitland, MD | 2026-08-14 |
+| [Software Development Engineer - Java](https://job-boards.greenhouse.io/appdirect/jobs/8702774002) | AppDirect | Pune, India | 2026-08-14 |
+| [IC Verification Engineer](https://jobs.smartrecruiters.com/Aumovio/744000143485709) | Aumovio | Bengaluru, in | 2026-08-14 |
+| [IC Verification Engineer](https://jobs.smartrecruiters.com/Aumovio/744000143485419) | Aumovio | Bengaluru, in | 2026-08-14 |
+| [Engineering Manager](https://job-boards.greenhouse.io/betsson/jobs/8129805) | Betsson Group | Malaga | 2026-08-14 |
+| [Software Release Engineer (Release Manager)](https://jobs.smartrecruiters.com/Avaloq1/744000143482419) | Avaloq | Makati City, ph | 2026-08-14 |
+| [Solution Engineer](https://www.avepoint.com/careers/job-detail?gh_jid=8121241) | AvePoint | Dubai, Dubai, United Arab Emirates; Riyadh, Riyadh, Saudi Arabia | 2026-08-14 |
+| [Senior Software Engineer, Regulatory Reporting](https://jobs.ashbyhq.com/airwallex/9dc86b31-c0aa-4532-b42b-2e0a7484cbff) | Airwallex | SG - Singapore | 2026-08-14 |
+| [Senior Security Engineer](https://job-boards.greenhouse.io/auctane/jobs/7835190003) | Auctane | Madrid, ES | 2026-08-14 |
+| [Senior Solutions Engineer - Spend/ERP](https://jobs.ashbyhq.com/airwallex/77d1969e-ccf6-4d7a-bfa4-6e7e53629705) | Airwallex | NL - Amsterdam | 2026-08-14 |
+| [Finance Engineer (m/f/d)](https://jobs.ashbyhq.com/voize/52d122d4-e54e-4376-b510-b7abc472afd4) | Voize | Berlin | 2026-08-14 |
+| [Senior Oracle PL/SQL Software Engineer](https://jobs.smartrecruiters.com/Avaloq1/744000143465039) | Avaloq | Makati City, ph | 2026-08-14 |
+| [Senior / Staff Data Engineer (BI) – CEG Team](https://job-boards.greenhouse.io/agoda/jobs/7529815) | Agoda | Bangkok | 2026-08-14 |
+| [NOC Engineer](https://job-boards.greenhouse.io/armada/jobs/5387070008) | Armada | Thiruvananthapuram Office, AEDGE AICC India Pvt Ltd | 2026-08-14 |
+| [Associate Support Engineer](https://branch.io/careers/apply/?gh_jid=8127617) | Branch AI | Bengaluru, Karnataka, India | 2026-08-14 |
+| [WAF/IAM Engineer](https://jobs.smartrecruiters.com/Avaloq1/744000143455909) | Avaloq | Pune, in | 2026-08-14 |
+| [QA - Engineering Manager](https://job-boards.greenhouse.io/armorcode/jobs/5212128007) | ArmorCode Inc. | Gurugram, India | 2026-08-14 |
+| [Front-end Software Engineer \| Betty UK](https://job-boards.greenhouse.io/bettyjobboard/jobs/5212124007) | Betty | Sofia, Bulgaria | 2026-08-14 |
+| [Principal / Senior Engineer, Test Engineering, Technical Operations Management](https://jobs.smartrecruiters.com/Aumovio/744000143447849) | Aumovio | Singapore, sg | 2026-08-14 |
+| [Principal / Senior Engineer, Product Engineering, Technical Operations Management](https://jobs.smartrecruiters.com/Aumovio/744000143446831) | Aumovio | Singapore, sg | 2026-08-14 |
+| [Senior Software Engineer - Node.js](https://job-boards.greenhouse.io/appfire/jobs/4722208005) | Appfire | Bulgaria | 2026-08-14 |
+| [Senior Software Engineer - Node.js](https://job-boards.greenhouse.io/appfire/jobs/4722207005) | Appfire | Poland | 2026-08-14 |
+| [Principal / Senior Engineer, Data Analytics & Management, Technical Operations Management](https://jobs.smartrecruiters.com/Aumovio/744000143446409) | Aumovio | Singapore, sg | 2026-08-14 |
+| [Senior QA Engineer](https://job-boards.greenhouse.io/impact/jobs/8630893002) | Impact.com | Cape Town, SA | 2026-08-14 |
+| [Senior Cloud Network Engineer, Infrastructure](https://jobs.ashbyhq.com/airwallex/91379897-dc2c-455b-9476-88b16362801b) | Airwallex | SG - Singapore | 2026-08-14 |
+| [Senior Data Engineer, BizTech](https://careers.airbnb.com/positions/7640881?gh_jid=7640881) | Airbnb | Bangalore, India | 2026-08-14 |
+| [Principal QA Engineer](https://job-boards.greenhouse.io/workatbackbase/jobs/7774440) | Backbase | Ho Chi Minh | 2026-08-14 |
+| [Senior Software Engineer - OT](https://job-boards.greenhouse.io/tenableinc/jobs/5114162008) | Tenable, Inc. | Israel - Office - Tel Aviv | 2026-08-14 |
+| [Battery Software Integration Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/6139225004?gh_jid=6139225004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Chemical Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6128148004?gh_jid=6128148004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Associate Controls Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116835004?gh_jid=6116835004) | Redwood Materials | Ridgeville, South Carolina, United States | 2026-08-14 |
+| [Senior Analytics Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6116721004?gh_jid=6116721004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Development Engineering Technician](https://boards.greenhouse.io/redwoodmaterials/jobs/6115206004?gh_jid=6115206004) | Redwood Materials | Carson City, NV | 2026-08-14 |
+| [ERP Solutions Architect](https://boards.greenhouse.io/redwoodmaterials/jobs/6017649004?gh_jid=6017649004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Senior Software Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004?gh_jid=5823270004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Staff Chemical Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6133809004?gh_jid=6133809004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Systems Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/6007517004?gh_jid=6007517004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Staff Electrical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5992298004?gh_jid=5992298004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Staff Electrical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5992299004?gh_jid=5992299004) | Redwood Materials | Carson City, NV | 2026-08-14 |
+| [Staff Electrical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5989709004?gh_jid=5989709004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Production Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6123022004?gh_jid=6123022004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Cathode Design Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6103561004?gh_jid=6103561004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Software Engineer - ML/Computer Vision (Battery Sorting)](https://boards.greenhouse.io/redwoodmaterials/jobs/6099577004?gh_jid=6099577004) | Redwood Materials | McCarran, NV; San Francisco, California, United States | 2026-08-14 |
+| [Embedded Software Engineer – Power Electronics, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/6003203004?gh_jid=6003203004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Systems Engineer, Industrial Infrastructure](https://boards.greenhouse.io/redwoodmaterials/jobs/6103562004?gh_jid=6103562004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Staff Software Engineer, Onboard Compute Architecture](https://job-boards.greenhouse.io/muonspace/jobs/5207152007) | Muon Space | San Jose, CA | 2026-08-14 |
+| [Engineering Manager in Back End - LLM (Gurugram based relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/8129488) | Agoda | Gurugram | 2026-08-14 |
+| [Verification & Qualification Engineer - Solar & Deployables](https://job-boards.greenhouse.io/muonspace/jobs/5212082007) | Muon Space | San Jose, CA | 2026-08-14 |
+| [Senior Photovoltaics / Solar Array Engineer - Solar & Deployables](https://job-boards.greenhouse.io/muonspace/jobs/5212080007) | Muon Space | San Jose, CA | 2026-08-14 |
+| [Staff Mechanical Engineer - Spacecraft Mechanical Design Technical Lead](https://job-boards.greenhouse.io/muonspace/jobs/5212077007) | Muon Space | San Jose, CA | 2026-08-14 |
+| [Software Validation Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/6139226004?gh_jid=6139226004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Packaging Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6117051004?gh_jid=6117051004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Staff Mechanical Design Engineer, Big Machines](https://boards.greenhouse.io/redwoodmaterials/jobs/6117129004?gh_jid=6117129004) | Redwood Materials | McCarran, NV; San Francisco, California, United States | 2026-08-14 |
+| [Land Use Engineer, Energy Storage Project Engineering](https://boards.greenhouse.io/redwoodmaterials/jobs/6143595004?gh_jid=6143595004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Senior Technical Program Manager, Production Engineering](https://boards.greenhouse.io/redwoodmaterials/jobs/6141162004?gh_jid=6141162004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Systems Design Engineer, Factory Systems Modeling](https://boards.greenhouse.io/redwoodmaterials/jobs/5804094004?gh_jid=5804094004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Staff Engineer - Customer Onboarding](https://job-boards.greenhouse.io/adyen/jobs/7825733) | Adyen | Chicago | 2026-08-14 |
+| [Electrical Engineer, Energy Storage Project Engineering](https://boards.greenhouse.io/redwoodmaterials/jobs/6143587004?gh_jid=6143587004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Staff Engineer - Financial Products](https://job-boards.greenhouse.io/adyen/jobs/7585595) | Adyen | San Francisco | 2026-08-14 |
+| [Staff Engineer - Financial Products](https://job-boards.greenhouse.io/adyen/jobs/6897762) | Adyen | Chicago | 2026-08-14 |
+| [Staff Engineer - Intelligent Customer Experiences](https://job-boards.greenhouse.io/adyen/jobs/8097513) | Adyen | San Francisco | 2026-08-14 |
+| [Staff Engineer - Customer Interfaces](https://job-boards.greenhouse.io/adyen/jobs/7773220) | Adyen | San Francisco | 2026-08-14 |
+| [Engineering Manager, Customer Interfaces](https://job-boards.greenhouse.io/adyen/jobs/8038008) | Adyen | San Francisco | 2026-08-14 |
+| [Senior Full Stack Engineer (Java/React)](https://job-boards.greenhouse.io/aperiasolutions/jobs/5210246007) | Aperia | Vietnam Remote | 2026-08-14 |
+| [Electrical Engineer, Energy Storage Project Engineering](https://boards.greenhouse.io/redwoodmaterials/jobs/6143567004?gh_jid=6143567004) | Redwood Materials | McCarran, NV; San Francisco, California, United States | 2026-08-14 |
+| [Software Engineer Intern (Jan to Jun 2027)](https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441) | Airwallex | SG - Singapore | 2026-08-14 |
+| [Development Engineering Technician](https://boards.greenhouse.io/redwoodmaterials/jobs/5820263004?gh_jid=5820263004) | Redwood Materials | Carson City, NV | 2026-08-14 |
+| [Identity and Access Management Engineer](https://jobs.smartrecruiters.com/Avaloq1/744000143430931) | Avaloq | Makati City, ph | 2026-08-14 |
+| [Senior Sales Engineer - Enterprise, Texas](https://job-boards.greenhouse.io/zscaler/jobs/5202109007) | Zscaler | Dallas, Texas, USA | 2026-08-14 |
+| [WUI-RD-REP Software Engineer 软件工程师（以太网背景）](https://jobs.smartrecruiters.com/Aumovio/744000143418372) | Aumovio | Wuhu, cn | 2026-08-14 |
+| [Data Engineering Manager](https://boards.greenhouse.io/redwoodmaterials/jobs/6008522004?gh_jid=6008522004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Infrastructure Software Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/5737879004?gh_jid=5737879004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Okta on Okta Principal Identity Engineer](https://www.okta.com/company/careers/opportunity/8048078?gh_jid=8048078) | Okta | Brisbane, Australia; Canberra, Australia; Melbourne, Australia; Sydney, Australia | 2026-08-14 |
+| [Staff Electrical Engineer, Balance of Plant](https://boards.greenhouse.io/redwoodmaterials/jobs/6139227004?gh_jid=6139227004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Software Engineer - Site Controller, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/6097367004?gh_jid=6097367004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Abuse Test Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/5894704004?gh_jid=5894704004) | Redwood Materials | McCarran, NV | 2026-08-14 |
+| [Sr. Channel Solutions Engineer - Brisbane](https://www.netskope.com/company/careers/open-positions/?gh_jid=8124457) | Netskope | Australia | 2026-08-14 |
+| [Principal Software Engineer - Multi-Cloud Control Plane - Kubernetes](https://jobs.smartrecruiters.com/ServiceNow/744000143409759) | ServiceNow | San Diego, us | 2026-08-14 |
+| [Process Engineer](https://jobs.smartrecruiters.com/InterIKEAGroup/744000143409480) | Inter IKEA Group | Nantong, cn | 2026-08-14 |
+| [Principal Software Engineer - Multi-Cloud - Control Plane - Kubernetes](https://jobs.smartrecruiters.com/ServiceNow/744000143409629) | ServiceNow | Santa Clara, us | 2026-08-14 |
+| [Cycle Performance Engineer - Turbomachinery](https://job-boards.greenhouse.io/valaratomics/jobs/4369979009) | Valar Atomics | Torrance, California, United States | 2026-08-14 |
+| [Site Engineer](https://jobs.smartrecruiters.com/EgisGroup/744000143409449) | Egis Group | Pasig, ph | 2026-08-14 |
+| [Electrical New Product Engineering (ENPIE)](https://jobs.smartrecruiters.com/AristaNetworks/744000143409419) | Arista Networks | Santa Clara, us | 2026-08-14 |
+| [Field Quality Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/5835346004?gh_jid=5835346004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Service Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/5823618004?gh_jid=5823618004) | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| [Software and Integration Test Engineer](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4337311009) | Voyager Technologies, Inc. | Pittsburgh, PA | 2026-08-14 |
+| [Senior Board Power Engineer](https://jobs.smartrecruiters.com/AristaNetworks/744000143408979) | Arista Networks | Santa Clara, us | 2026-08-14 |
+| [Business Applications Engineer, Oracle Transport Management](https://boards.greenhouse.io/redwoodmaterials/jobs/6115205004?gh_jid=6115205004) | Redwood Materials | McCarran, NV; Ridgeville, South Carolina, United States | 2026-08-14 |
+| [Senior Backend Engineer, Compliance Engineering](https://job-boards.greenhouse.io/reddit/jobs/8128860) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Data Platform Engineer (Cloud-Native)](https://jobs.smartrecruiters.com/Sandisk/744000143408559) | Sandisk | Batu Kawan, my | 2026-08-14 |
+| [Working Student, Software Engineering](https://job-boards.greenhouse.io/planetlabs/jobs/8011312) | Planet | Ljubljana, Slovenia | 2026-08-14 |
+| [Sustainment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5041084007?gh_jid=5041084007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
+| [Staff Frontend Engineer, Ads Creative](https://job-boards.greenhouse.io/reddit/jobs/8082867) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Machine Learning Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8084032) | Reddit | Remote - United States | 2026-08-14 |
+| [Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Reddit | Remote - United States | 2026-08-14 |
+| [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022942) | Reddit | Remote - The Netherlands | 2026-08-14 |
+| [Senior Business Engineer - Ads](https://job-boards.greenhouse.io/reddit/jobs/8022260) | Reddit | Remote - British Columbia, Canada | 2026-08-14 |
+| [Senior Business Engineer - Ads](https://job-boards.greenhouse.io/reddit/jobs/7954598) | Reddit | Remote - United States | 2026-08-14 |
+| [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Reddit | Remote - United Kingdom | 2026-08-14 |
+| [Engineering Manager, Ads ML Efficiency](https://job-boards.greenhouse.io/reddit/jobs/8022366) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Engineer, Ads Business Manager](https://job-boards.greenhouse.io/reddit/jobs/7980795) | Reddit | Remote - United States | 2026-08-14 |
+| [Engineering Manager, Advanced Signals (SWE)](https://job-boards.greenhouse.io/reddit/jobs/7966985) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Android Engineer, Brand Ad Formats](https://job-boards.greenhouse.io/reddit/jobs/8127002) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Machine Learning Engineer, Shopping Ads](https://job-boards.greenhouse.io/reddit/jobs/8115838) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Sustainment Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5076626007?gh_jid=5076626007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
+| [Electrical Systems Engineer](https://jobs.smartrecruiters.com/LLNL/3743990014596756) | LLNL | Livermore, us | 2026-08-14 |
+| [Senior UI Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5187630007?gh_jid=5187630007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
+| [Mechanical Test Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5212023007) | ALTEN Technology USA | Mukilteo, Washington | 2026-08-14 |
+| [Semi-Senior Fullstack Developer (Nuxt VueJs / Blazor .NET) - Remote LATAM](https://apply.workable.com/j/0F7CAC7D23) | DaCodes | Mexico | 2026-08-14 |
+| [.NET Software Engineer](https://apply.workable.com/j/C0184546FA) | 1GLOBAL | São Paulo, Brazil | 2026-08-14 |
+| [Telecom Billing Software Engineer - Lisbon Based](https://apply.workable.com/j/1DEC208C4A) | 1GLOBAL | Lisbon, Portugal | 2026-08-14 |
+| [Principal Architect, Enterprise Engineering](https://apply.workable.com/j/69B3E82C01) | Thrivenextgen | United States | 2026-08-14 |
+| [Senior Software engineer, Android (Mobile Enablement) - Mercari](https://apply.workable.com/j/7BA08AA464) | Mercari | Minato City, Japan | 2026-08-14 |
+| [Software Engineer - Experimentation System - Mercari](https://apply.workable.com/j/3E0903C522) | Mercari | Minato City, Japan | 2026-08-14 |
+| [Senior Mechanical Design Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5212021007) | ALTEN Technology USA | Mukilteo, Washington | 2026-08-13 |
+| [Principal Security Operations Engineer](https://job-boards.greenhouse.io/axon/jobs/7821001003) | Axon | Atlanta, Georgia, United States; Boston, Massachusetts, United States; San Francisco, California, United States; Scottsdale, Arizona, United States; Seattle, Washington, United States | 2026-08-13 |
+| [Senior Android Engineer](https://job-boards.greenhouse.io/oura/jobs/4024429009) | Ōura | Remote - United States | 2026-08-13 |
+| [Database Reliability Engineer](https://jobs.smartrecruiters.com/LLNL/3743990014596596) | LLNL | Livermore, us | 2026-08-13 |
+| [Resident Engineer](https://job-boards.greenhouse.io/lusternational/jobs/5389932008) | Luster National | Fresno, California, United States; Los Angeles, California, United States; Sacramento, California, United States; San Francisco Bay Area; Seattle, Washington, United States | 2026-08-13 |
+| [Entry Level Support Engineer](https://job-boards.greenhouse.io/neweratech/jobs/8692912002) | New Era Technology | New Zealand - Manukau | 2026-08-13 |
+| [Structural Analysis Engineer - Aerospace](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5212009007) | ALTEN Technology USA | Fully Remote | 2026-08-13 |
+| [Entry Level Support Engineer](https://job-boards.greenhouse.io/neweratech/jobs/8698279002) | New Era Technology | New Zealand - Henderson | 2026-08-13 |
+| [Integration and Test Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5212011007?gh_jid=5212011007) | Anduril Industries | Melbourne, Victoria, Australia | 2026-08-13 |
+| [Senior Associate Support Engineer](https://job-boards.greenhouse.io/parachutehealth/jobs/5152203007) | Parachute Health | U.S. Remote | 2026-08-13 |
+| [Senior Backend Software Engineer (Java/Node.JS)](https://jobs.smartrecruiters.com/PureIntegration/744000143405097) | pureIntegration | Reston, us | 2026-08-13 |
+| [Staff Machine Learning Engineer, Traffic Intelligence](https://careers.airbnb.com/positions/8129371?gh_jid=8129371) | Airbnb | United States | 2026-08-13 |
+| [Solutions Engineer, Growth - East](https://www.wiz.io/careers/job/4703831006/:title?gh_jid=4703831006) | Wiz, Inc. | Remote - USA | 2026-08-13 |
+| [Staff, Electrical Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5197578007?gh_jid=5197578007) | Anduril Industries | Huntsville, Alabama, United States | 2026-08-13 |
+| [Systems Engineer ll](https://job-boards.greenhouse.io/onepath/jobs/5196734007) | RedHelm | Pittsburgh, PA; Columbus, OH | 2026-08-13 |
+| [Cloud Security Software Engineer](https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009) | First Due | Remote - US Only | 2026-08-13 |
+| [Staff Mechanical Engineer, Matter Compiler](https://job-boards.greenhouse.io/atomicmachines/jobs/4022007009) | Atomic Machines | Emeryville or Santa Clara, California | 2026-08-13 |
+| [Senior Network Engineer, Projects](https://job-boards.greenhouse.io/onepath/jobs/5208585007) | RedHelm | Columbus, OH | 2026-08-13 |
+| [IT Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5199800007?gh_jid=5199800007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
+| [SENIOR SAP COMMERCE CLOUD (HYBRIS) DEVELOPER - L3 CONSULTANT](https://jobs.smartrecruiters.com/BoschGroup/744000143404389) | Bosch Group | San Francisco, cr | 2026-08-13 |
+| [Senior Frontend Engineer - Product Features](https://jobs.smartrecruiters.com/Canva/6000000001313519) | Canva | Sydney, au | 2026-08-13 |
+| [Senior Manager, Engineering (API Platform)](https://job-boards.greenhouse.io/zscaler/jobs/5103337007) | Zscaler | San Jose, California, USA | 2026-08-13 |
+| [Frontend Engineer - Product Features](https://jobs.smartrecruiters.com/Canva/6000000001313514) | Canva | Sydney, au | 2026-08-13 |
+| [Principal Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5156438007) | Zscaler | San Jose, California, USA | 2026-08-13 |
+| [Senior Detection & Response Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5137999007?gh_jid=5137999007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
+| [Senior Hardware Test Engineer](https://job-boards.greenhouse.io/oura/jobs/4113749009) | Ōura | Hybrid - San Francisco, California | 2026-08-13 |
+| [Technical Support Engineer - University Graduate 2026](https://job-boards.greenhouse.io/verkada/jobs/5172974007) | Verkada | New York City, NY United States | 2026-08-13 |
+| [Technical Support Engineer - University Graduate 2026](https://job-boards.greenhouse.io/verkada/jobs/4715534007) | Verkada | San Mateo, CA United States | 2026-08-13 |
+| [Senior Software Engineer, Revenue Engineering](https://job-boards.greenhouse.io/muckrack/jobs/8709926002) | Muck Rack | Remote (Ireland, Bulgaria) | 2026-08-13 |
+| [Sr. Software Engineer - Backend](https://job-boards.greenhouse.io/lively43/jobs/5838065004) | Lively | Denver, CO | 2026-08-13 |
+| [Senior Software Engineer, DevOps](https://job-boards.greenhouse.io/muckrack/jobs/8523017002) | Muck Rack | Remote (Bulgaria, Ireland, United Kingdom) | 2026-08-13 |
+| [Senior Electrical Design Engineer](https://boards.greenhouse.io/redwoodmaterials/jobs/6115207004?gh_jid=6115207004) | Redwood Materials | McCarran, NV | 2026-08-13 |
+| [Staff Mechanical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5992283004?gh_jid=5992283004) | Redwood Materials | Carson City, NV | 2026-08-13 |
+| [Staff Mechanical Design Engineer, EPC](https://boards.greenhouse.io/redwoodmaterials/jobs/5992484004?gh_jid=5992484004) | Redwood Materials | San Francisco, California, United States | 2026-08-13 |
+| [Engineering Geologist / Geotechnical Engineer I VIC](https://jobs.smartrecruiters.com/aecom2/744000143402479) | AECOM | Docklands, au | 2026-08-13 |
+| [Software Engineering Director, Infrared Data Products](https://job-boards.greenhouse.io/muonspace/jobs/5178221007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Senior Fluids Engineer](https://stokespace.com/careers/current-openings?gh_jid=6104838004) | Stoke Space | Kent, Washington | 2026-08-13 |
+| [Staff Software Engineer, Flight Software](https://job-boards.greenhouse.io/muonspace/jobs/5025996007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Software Engineer, Simulation Infrastructure](https://job-boards.greenhouse.io/muonspace/jobs/5204530007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Software Engineer, IR Data Products](https://job-boards.greenhouse.io/muonspace/jobs/5205516007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Software Engineering Manager, Flight Software](https://job-boards.greenhouse.io/muonspace/jobs/5205006007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Software Engineer, Flight Software](https://job-boards.greenhouse.io/muonspace/jobs/5023371007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Software Engineer, Entry-Level](https://job-boards.greenhouse.io/muonspace/jobs/5204498007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Senior Software Engineer, Government Programs](https://job-boards.greenhouse.io/muonspace/jobs/5209954007) | Muon Space | Washington D.C. / Northern VA area | 2026-08-13 |
+| [Mechanical Engineer (Mid-Sr)](https://stokespace.com/careers/current-openings?gh_jid=6142212004) | Stoke Space | Kent, Washington | 2026-08-13 |
+| [Senior Software Engineer, Generalist](https://job-boards.greenhouse.io/muonspace/jobs/5095748007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Senior Technical Program Manager, Chemical Engineering](https://boards.greenhouse.io/redwoodmaterials/jobs/6142335004?gh_jid=6142335004) | Redwood Materials | McCarran, NV | 2026-08-13 |
+| [Senior Software Engineer, Flight Software](https://job-boards.greenhouse.io/muonspace/jobs/5026061007) | Muon Space | San Jose, CA | 2026-08-13 |
+| [Software Engineer - Imaging Systems](https://job-boards.greenhouse.io/verkada/jobs/4134234007) | Verkada | San Mateo, CA United States | 2026-08-13 |
+| [Senior Software Engineer, Backend (Infrastructure)](https://otter.ai/careers?gh_jid=7832658003) | Otter.ai | Seattle, Washington, United States | 2026-08-13 |
+| [Senior Software Engineer, Backend (Infrastructure)](https://otter.ai/careers?gh_jid=6531802003) | Otter.ai | Mountain View, CA | 2026-08-13 |
+| [Software Engineer, Backend (Infrastructure)](https://otter.ai/careers?gh_jid=6531803003) | Otter.ai | Mountain View, CA | 2026-08-13 |
+| [Senior Data Engineer](https://otter.ai/careers?gh_jid=7866132003) | Otter.ai | Mountain View, CA | 2026-08-13 |
+| [Staff Data Engineer](https://boards.greenhouse.io/rdccareers/jobs/7848816003?gh_jid=7848816003) | Realtor.com Careers | Austin, Texas, United States | 2026-08-13 |
+| [Cleared C# / .NET Developer (Washington, DC)](https://boards.greenhouse.io/accenturefederalservices/jobs/4691609006?gh_jid=4691609006) | Accenture Federal Services | Washington, DC | 2026-08-13 |
+| [Mission Software Engineer, Vehicle Software, Frontend](https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007) | Anduril Industries | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-08-13 |
+| [Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8096079) | Planet | San Francisco, CA | 2026-08-13 |
+| [Senior Spacecraft Qualification Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7963971) | Planet | Berlin, Germany | 2026-08-13 |
+| [Software Engineer - Platform, Mission Systems](https://job-boards.greenhouse.io/planetlabs/jobs/8022265) | Planet | United States, Remote; Canada, Remote | 2026-08-13 |
+| [Software Engineer, Platform Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7593419) | Planet | Canada, Remote | 2026-08-13 |
+| [Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence](https://job-boards.greenhouse.io/planetlabs/jobs/8013156) | Planet | APAC, Remote | 2026-08-13 |
+| [Senior Software Engineer, Storage Infrastructure](https://job-boards.greenhouse.io/planetlabs/jobs/7967527) | Planet | United States, Remote | 2026-08-13 |
+| [Senior Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7979255) | Planet | Ljubljana, Slovenia | 2026-08-13 |
+| [Senior Forward Deployed Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8011111) | Planet | United States, Remote | 2026-08-13 |
+| [Senior Engineering Manager, D&I Analytics](https://job-boards.greenhouse.io/planetlabs/jobs/8068089) | Planet | Washington, D.C. | 2026-08-13 |
+| [Senior Engineering Manager - AI Geospatial Assistant Team](https://job-boards.greenhouse.io/planetlabs/jobs/7603801) | Planet | San Francisco, CA | 2026-08-13 |
+| [Senior Data Engineer, Constellation Services](https://job-boards.greenhouse.io/planetlabs/jobs/8052727) | Planet | Berlin, Germany | 2026-08-13 |
+| [Software Engineer, Platform Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7555019) | Planet | United States, Remote | 2026-08-13 |
+| [Senior Data Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8016466) | Planet | Washington DC; Denver, CO | 2026-08-13 |
+| [Sr. Satcom Modem Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7524896) | Planet | San Francisco, CA | 2026-08-13 |
+| [Technical Support Engineer III](https://job-boards.greenhouse.io/planetlabs/jobs/8042428) | Planet | Berlin, Germany | 2026-08-13 |
+| [Software Engineer, Missions Software](https://job-boards.greenhouse.io/planetlabs/jobs/8008355) | Planet | United States, Remote; Canada, Remote | 2026-08-13 |
+| [Data Visualization Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8044691) | Planet | San Francisco, CA | 2026-08-13 |
+| [Pre-Sales Solutions Architect, LATAM](https://job-boards.greenhouse.io/planetlabs/jobs/8035138) | Planet | LATAM, Remote | 2026-08-13 |
+| [Opto-Mechanical Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7476623) | Planet | San Francisco, CA | 2026-08-13 |
+| [Manufacturing Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7976116) | Planet | Berlin, Germany | 2026-08-13 |
+| [Flight Dynamics Engineer, Orbits R&D](https://job-boards.greenhouse.io/planetlabs/jobs/8045328) | Planet | San Francisco, CA | 2026-08-13 |
+| [Engineering Program Manager — Special Projects](https://job-boards.greenhouse.io/planetlabs/jobs/7988579) | Planet | San Francisco, CA | 2026-08-13 |
+| [Senior Camera Systems Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7644560) | Planet | San Francisco, CA | 2026-08-13 |
 
 ---
 

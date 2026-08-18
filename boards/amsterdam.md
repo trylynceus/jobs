@@ -2,7 +2,7 @@
 
 Roles listing Amsterdam as their location.
 
-_1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
+_1,590 open · showing the 300 most recent · updated 2026-08-18 18:51 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -13,8 +13,8 @@ _1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Senior Security Certification Expert](https://job-boards.greenhouse.io/adyen/jobs/7993050) | Adyen | Amsterdam | 2026-08-13 |
 | [Major Account Executive, Benelux](https://www.wiz.io/careers/job/4701939006/:title?gh_jid=4701939006) | Wiz, Inc. | Amsterdam, Netherlands; Remote - Netherlands | 2026-08-13 |
 | [Field Marketing Manager - Northern Europe](https://job-boards.greenhouse.io/verkada/jobs/5017855007) | Verkada | Amsterdam | 2026-08-13 |
-| [Store Leader, Amsterdam](https://boards.greenhouse.io/onrunning/jobs/8078863?gh_jid=8078863) | On | Amsterdam | 2026-08-13 |
 | [Associate Store Leader, Amsterdam](https://boards.greenhouse.io/onrunning/jobs/8079104?gh_jid=8079104) | On | Amsterdam | 2026-08-13 |
+| [Store Leader, Amsterdam](https://boards.greenhouse.io/onrunning/jobs/8078863?gh_jid=8078863) | On | Amsterdam | 2026-08-13 |
 | [Mission Operations Engineer, Europe](https://boards.greenhouse.io/andurilindustries/jobs/5154301007?gh_jid=5154301007) | Anduril Industries | Amsterdam, North Holland, Netherlands | 2026-08-13 |
 | [Senior Robotics Software Engineer, Payload Integration](https://boards.greenhouse.io/andurilindustries/jobs/5201433007?gh_jid=5201433007) | Anduril Industries | Amsterdam, North Holland, Netherlands | 2026-08-13 |
 | [Deputy Director, Connected Warfare Europe](https://boards.greenhouse.io/andurilindustries/jobs/5100657007?gh_jid=5100657007) | Anduril Industries | Amsterdam, North Holland, Netherlands | 2026-08-13 |
@@ -38,21 +38,21 @@ _1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Senior Manager, Global Supply Chain Integration (Europe)](https://boards.greenhouse.io/andurilindustries/jobs/5211058007?gh_jid=5211058007) | Anduril Industries | Amsterdam, North Holland, Netherlands; London, England, United Kingdom | 2026-08-13 |
 | [Global Supply Chain Integration Lead, Europe](https://boards.greenhouse.io/andurilindustries/jobs/5178768007?gh_jid=5178768007) | Anduril Industries | Amsterdam, North Holland, Netherlands; London, England, United Kingdom | 2026-08-13 |
 | [Manager, Platform Offering Strategy](https://job-boards.greenhouse.io/adyen/jobs/8010419) | Adyen | Amsterdam | 2026-08-12 |
-| [Mid-Market Sales (Italy/Spain)](https://careers.datadoghq.com/detail/7530418/?gh_jid=7530418) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| [Mid-Market Account Executive - (Turkey)](https://careers.datadoghq.com/detail/8030635/?gh_jid=8030635) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| [Mid-Market Account Executive (DACH)](https://careers.datadoghq.com/detail/7476847/?gh_jid=7476847) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
-| [Real Estate Associate Project Manager](https://careers.datadoghq.com/detail/7732564/?gh_jid=7732564) | Datadog | Amsterdam, The Netherlands; London, United Kingdom; Paris, France | 2026-08-12 |
-| [Mid Market Account Executive - Benelux](https://careers.datadoghq.com/detail/8096105/?gh_jid=8096105) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| [Sales Development Representative (DACH)](https://careers.datadoghq.com/detail/6307160/?gh_jid=6307160) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| [Enterprise Sales Executive (Benelux)](https://careers.datadoghq.com/detail/6185452/?gh_jid=6185452) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| [Commercial Sales Engineer (Spanish-Speaking)](https://careers.datadoghq.com/detail/8080628/?gh_jid=8080628) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
-| [Commercial Sales Engineer - Amsterdam](https://careers.datadoghq.com/detail/8074211/?gh_jid=8074211) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| [Commercial Account Executive (Portugal)](https://careers.datadoghq.com/detail/8078805/?gh_jid=8078805) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
-| [Partner Solutions Architect (Pan-EMEA GSI)](https://careers.datadoghq.com/detail/7997198/?gh_jid=7997198) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
-| [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179) | Datadog | Amsterdam, The Netherlands; Germany, Remote | 2026-08-12 |
 | [Commercial Account Executive (France)](https://careers.datadoghq.com/detail/7824375/?gh_jid=7824375) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| [Commercial Account Executive (Portugal)](https://careers.datadoghq.com/detail/8078805/?gh_jid=8078805) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
 | [Commercial Account Executive (DACH)](https://careers.datadoghq.com/detail/5283132/?gh_jid=5283132) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
 | [Technical Enablement Manager 3 (Italian Speaking)](https://careers.datadoghq.com/detail/8046399/?gh_jid=8046399) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland; Paris, France | 2026-08-12 |
+| [Mid-Market Sales (Italy/Spain)](https://careers.datadoghq.com/detail/7530418/?gh_jid=7530418) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| [Sales Development Representative (DACH)](https://careers.datadoghq.com/detail/6307160/?gh_jid=6307160) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179) | Datadog | Amsterdam, The Netherlands; Germany, Remote | 2026-08-12 |
+| [Partner Solutions Architect (Pan-EMEA GSI)](https://careers.datadoghq.com/detail/7997198/?gh_jid=7997198) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
+| [Mid Market Account Executive - Benelux](https://careers.datadoghq.com/detail/8096105/?gh_jid=8096105) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| [Mid-Market Account Executive (DACH)](https://careers.datadoghq.com/detail/7476847/?gh_jid=7476847) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| [Mid-Market Account Executive - (Turkey)](https://careers.datadoghq.com/detail/8030635/?gh_jid=8030635) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| [Real Estate Associate Project Manager](https://careers.datadoghq.com/detail/7732564/?gh_jid=7732564) | Datadog | Amsterdam, The Netherlands; London, United Kingdom; Paris, France | 2026-08-12 |
+| [Commercial Sales Engineer - Amsterdam](https://careers.datadoghq.com/detail/8074211/?gh_jid=8074211) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| [Enterprise Sales Executive (Benelux)](https://careers.datadoghq.com/detail/6185452/?gh_jid=6185452) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| [Commercial Sales Engineer (Spanish-Speaking)](https://careers.datadoghq.com/detail/8080628/?gh_jid=8080628) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
 | [Regional IT Support Administrator (Amsterdam, NLD)](https://job-boards.greenhouse.io/blab/jobs/8688054002) | B Lab | Amsterdam, NL | 2026-08-12 |
 | [Data Analyst (Amsterdam, NLD)](https://job-boards.greenhouse.io/blab/jobs/8692302002) | B Lab | Amsterdam, NL | 2026-08-12 |
 | [Director, Growth (Amsterdam, NLD)](https://job-boards.greenhouse.io/blab/jobs/8692706002) | B Lab | Amsterdam, NL | 2026-08-12 |
@@ -60,8 +60,8 @@ _1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Engagement Manager (Services Sales)](https://www.mongodb.com/careers/job/?gh_jid=7996557) | MongoDB | Amsterdam; Germany | 2026-08-12 |
 | [Senior Product Manager - Credit and Data Platform](https://job-boards.greenhouse.io/adyen/jobs/8018202) | Adyen | Amsterdam | 2026-08-12 |
 | [AI Full-Stack Developer](https://careers.nebius.com/?gh_jid=4863862101) | Nebius | Amsterdam, Netherlands; Germany; Tel Aviv, Israel; United Kingdom | 2026-08-12 |
-| [Enterprise Account Executive](https://www.mongodb.com/careers/job/?gh_jid=7721659) | MongoDB | Amsterdam | 2026-08-12 |
 | [Public Sector Enterprise Account Executive, Growth](https://www.mongodb.com/careers/job/?gh_jid=6633264) | MongoDB | Amsterdam | 2026-08-12 |
+| [Enterprise Account Executive](https://www.mongodb.com/careers/job/?gh_jid=7721659) | MongoDB | Amsterdam | 2026-08-12 |
 | [HR Manager](https://jobs.smartrecruiters.com/WSHGroup/744000143127109) | WSH Group | Amsterdam, nl | 2026-08-12 |
 | [Senior Platform Engineer](https://jobs.ashbyhq.com/mollie/9fbfa9c6-e57c-43ab-b7c1-39cd7d7d801f) | Mollie | Amsterdam | 2026-08-12 |
 | [Product Adoption Strategist (Human-Led & Interactive) French speaking](https://jobs.ashbyhq.com/lightspeedhq/7fe28cf2-496a-4fc3-8af1-e4dda0b9b947) | Lightspeedhq | Amsterdam | 2026-08-12 |
@@ -91,36 +91,36 @@ _1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Senior Software Engineer, Core Experiences - Amsterdam, Netherlands](https://job-boards.greenhouse.io/speechify/jobs/5976162004) | Speechify | Amsterdam, Netherlands | 2026-08-11 |
 | [Senior Specialist Solutions Engineer - Platform Security and Cloud Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8687202002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Enterprise Hunter Account Executive, Benelux](https://databricks.com/company/careers/open-positions/job?gh_jid=8642499002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| [Solutions Architect (Benelux Hunter Pre-sales)](https://databricks.com/company/careers/open-positions/job?gh_jid=8609868002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Manager, Forward Deployed Engineering](https://databricks.com/company/careers/open-positions/job?gh_jid=8613192002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| [Enterprise Account Executive, Benelux](https://databricks.com/company/careers/open-positions/job?gh_jid=8589349002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| [Solutions Architect (Benelux Hunter Pre-sales)](https://databricks.com/company/careers/open-positions/job?gh_jid=8609868002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Sr. Manager, AI Forward Deployed Engineering (AI-FDE)](https://databricks.com/company/careers/open-positions/job?gh_jid=8574912002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| [Enterprise Account Executive, Benelux](https://databricks.com/company/careers/open-positions/job?gh_jid=8589349002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Senior Solutions Architect - Lakebase](https://databricks.com/company/careers/open-positions/job?gh_jid=8567991002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Lakebase Associate Director](https://databricks.com/company/careers/open-positions/job?gh_jid=8569524002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Forward Deployed Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Staff Product Manager - Technical](https://databricks.com/company/careers/open-positions/job?gh_jid=8394060002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Senior Staff Software Engineer - Unity Catalog Runtime Enforcement](https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| [Sr. Product Manager, Lakeflow](https://databricks.com/company/careers/open-positions/job?gh_jid=8186386002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Sr. Designated Support Engineer, Apache Spark™](https://databricks.com/company/careers/open-positions/job?gh_jid=8125173002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| [Principal Engineer - Privacy](https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| [Sr. Product Manager, Lakeflow](https://databricks.com/company/careers/open-positions/job?gh_jid=8186386002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| [Staff Product Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=8029677002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| [Principal Engineer - Privacy](https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Senior Staff Software Engineer - Delta](https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| [Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| [Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| [Staff Product Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=7649409002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Sr. Manager, Engineering](https://databricks.com/company/careers/open-positions/job?gh_jid=8540678002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Engineering Manager - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=5313313002) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | [Senior Manager, Obligations Management](https://jobs.ashbyhq.com/airwallex/ece86a2d-7c0d-48c8-89df-74046880433a) | Airwallex | NL - Amsterdam | 2026-08-11 |
-| [Specialist Remarketing Sales Operations](https://job-boards.greenhouse.io/lucidmotors/jobs/5193163007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
-| [IT Asset Management Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
-| [IT Asset Management Stagiair(e)](https://job-boards.greenhouse.io/lucidmotors/jobs/5172494007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
-| [Sr. Manager, Service Technical Operations & Quality Europe](https://job-boards.greenhouse.io/lucidmotors/jobs/5188407007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
 | [Business Operations Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5197324007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| [IT Asset Management Stagiair(e)](https://job-boards.greenhouse.io/lucidmotors/jobs/5172494007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| [IT Asset Management Intern](https://job-boards.greenhouse.io/lucidmotors/jobs/5185317007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
 | [Customer Care Representative – German Speaking](https://job-boards.greenhouse.io/lucidmotors/jobs/5185387007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
-| [Body Repair Operations Manager](https://job-boards.greenhouse.io/lucidmotors/jobs/5186251007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| [Specialist Remarketing Sales Operations](https://job-boards.greenhouse.io/lucidmotors/jobs/5193163007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| [Sr. Manager, Service Technical Operations & Quality Europe](https://job-boards.greenhouse.io/lucidmotors/jobs/5188407007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
 | [Manager, Service Supply Chain Operations Europe](https://job-boards.greenhouse.io/lucidmotors/jobs/5177797007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| [Body Repair Operations Manager](https://job-boards.greenhouse.io/lucidmotors/jobs/5186251007) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
 | [Senior Software Engineer (Capacity and Quota Management)](https://careers.nebius.com/?gh_jid=4950694101) | Nebius | Amsterdam, Netherlands; Berlin, Germany; United Kingdom | 2026-08-11 |
 | [Senior Manager, International Indirect Tax](https://job-boards.greenhouse.io/axon/jobs/7820073003) | Axon | Amsterdam, North Holland, Netherlands | 2026-08-11 |
 | [Senior Backend Software Engineer (Cloud Monetization Platform)](https://careers.nebius.com/?gh_jid=4950630101) | Nebius | Amsterdam, Netherlands; Berlin, Germany; United Kingdom | 2026-08-11 |
@@ -147,8 +147,8 @@ _1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Associate Partnerships Manager - Digital Agencies NL & BE](https://jobs.ashbyhq.com/mollie/81d92bbf-5641-4629-ad69-23034455ca3e) | Mollie | Amsterdam | 2026-08-11 |
 | [Junior Software Engineer, Elixir](https://job-boards.greenhouse.io/telnyx54/jobs/7751258003) | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
 | [Senior Software Engineer (Python)](https://job-boards.greenhouse.io/telnyx54/jobs/7723469003) | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
-| [Infrastructure Engineer (Core)](https://job-boards.greenhouse.io/telnyx54/jobs/7736034003) | Telnyx | Dublin, Ireland; Ho Chi Minh City, Vietnam; Bangalore, India; Warsaw, Poland; Amsterdam, Netherlands | 2026-08-11 |
 | [Software Engineer, Elixir](https://job-boards.greenhouse.io/telnyx54/jobs/7720937003) | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
+| [Infrastructure Engineer (Core)](https://job-boards.greenhouse.io/telnyx54/jobs/7736034003) | Telnyx | Dublin, Ireland; Ho Chi Minh City, Vietnam; Bangalore, India; Warsaw, Poland; Amsterdam, Netherlands | 2026-08-11 |
 | [Account Executive, EMEA (EU)](https://job-boards.greenhouse.io/telnyx54/jobs/7533595003) | Telnyx | London, UK; Amsterdam, Netherlands | 2026-08-11 |
 | [Business Development Representative, EMEA](https://job-boards.greenhouse.io/telnyx54/jobs/6267616003) | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
 | [Mobile Core Engineer (Remote)](https://job-boards.greenhouse.io/telnyx54/jobs/5869800003) | Telnyx | Dublin; Amsterdam; Krakow | 2026-08-11 |
@@ -180,8 +180,8 @@ _1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Field Data Collection Driver](https://apply.workable.com/j/73943CD97A) | RESILIV | Amsterdam, Netherlands | 2026-08-09 |
 | [Compliance Officer](https://job-boards.greenhouse.io/verifone/jobs/7814595003) | Verifone | Amsterdam, North Holland, Netherlands | 2026-08-08 |
 | [Product Manager (Finance & Support Automation)](https://job-boards.eu.greenhouse.io/workwize/jobs/4843837101) | Workwize | Amsterdam, Remote | 2026-08-07 |
-| [Software Engineer in Hardware Infrastructure](https://careers.nebius.com/?gh_jid=4424714101) | Nebius | Amsterdam, Netherlands; Remote - Europe | 2026-08-07 |
 | [Software Engineer in Hardware Infrastructure Observability](https://careers.nebius.com/?gh_jid=4720129101) | Nebius | Amsterdam, Netherlands; Remote - Europe | 2026-08-07 |
+| [Software Engineer in Hardware Infrastructure](https://careers.nebius.com/?gh_jid=4424714101) | Nebius | Amsterdam, Netherlands; Remote - Europe | 2026-08-07 |
 | [Sr. Solutions Engineer, EMEA](https://job-boards.greenhouse.io/lucidsoftware/jobs/5613877004) | Lucid Software | Amsterdam, NL | 2026-08-07 |
 | [Sr. Sales Engineer, EMEA](https://job-boards.greenhouse.io/lucidsoftware/jobs/5613876004) | Lucid Software | Amsterdam, NL | 2026-08-07 |
 | [Senior Account Manager](https://www.monks.com/careers/5807668004/job?gh_jid=5807668004) | Monks | Amsterdam | 2026-08-07 |
@@ -256,8 +256,8 @@ _1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Accountmanager Buitendienst](https://jobs.smartrecruiters.com/BSInternational/744000141650080) | B&S International | Amsterdam, nl | 2026-08-05 |
 | [Account Manager](https://apply.workable.com/j/CC3FADB793) | CPM Benelux | Amsterdam, Netherlands | 2026-08-05 |
 | [Opportunistic Applications](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4237953009) | Headlands Technologies LLC | Amsterdam; Chicago; London; New York; Singapore | 2026-08-04 |
-| [C++ Software Developer](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009) | Headlands Technologies LLC | Amsterdam; Chicago; London; New York | 2026-08-04 |
 | [FPGA Engineer](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4228114009) | Headlands Technologies LLC | Amsterdam; Chicago; London; New York | 2026-08-04 |
+| [C++ Software Developer](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227758009) | Headlands Technologies LLC | Amsterdam; Chicago; London; New York | 2026-08-04 |
 | [Java Software Developer](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227795009) | Headlands Technologies LLC | Amsterdam; Chicago; London; New York | 2026-08-04 |
 | [Quantitative Researcher](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009) | Headlands Technologies LLC | Amsterdam; Chicago; London; New York | 2026-08-04 |
 | [Quantitative Researcher – New Grad](https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009) | Headlands Technologies LLC | Amsterdam; Chicago; London; New York | 2026-08-04 |
@@ -280,17 +280,17 @@ _1,580 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 | [Commercial Sales Representative (META)](https://www.sentinelone.com/jobs/?gh_jid=7784234003) | SentinelOne | Amsterdam, North Holland, Netherlands | 2026-08-04 |
 | [Marketing Intern](https://www.sentinelone.com/jobs/?gh_jid=7767712003) | SentinelOne | Amsterdam, North Holland, Netherlands | 2026-08-04 |
 | [Future Opportunity: Sales Development Representative META (Arabic Speaker)](https://www.sentinelone.com/jobs/?gh_jid=7655654003) | SentinelOne | Amsterdam, North Holland, Netherlands | 2026-08-04 |
-| [Employee Experience Intern](https://www.sentinelone.com/jobs/?gh_jid=7569175003) | SentinelOne | Amsterdam, North Holland, Netherlands | 2026-08-04 |
 | [Future Opportunity: Sales Development Representative (German Speaker)](https://www.sentinelone.com/jobs/?gh_jid=5840637003) | SentinelOne | Amsterdam, North Holland, Netherlands | 2026-08-04 |
+| [Employee Experience Intern](https://www.sentinelone.com/jobs/?gh_jid=7569175003) | SentinelOne | Amsterdam, North Holland, Netherlands | 2026-08-04 |
 | [Account Manager, Enterprise](https://job-boards.greenhouse.io/showpad/jobs/8105005) | Showpad | Amsterdam | 2026-08-04 |
 | [AI/ML Specialist Solutions Architect](https://careers.nebius.com/?gh_jid=4523348101) | Nebius | Amsterdam, Netherlands; Finland; France; Germany; Netherlands; Remote - Europe; Spain; Sweden; United Kingdom | 2026-08-04 |
 | [Functioneel Beheerder - Devoteam Public Consulting](https://jobs.smartrecruiters.com/Devoteam/744000141445659) | Devoteam | Amsterdam, nl | 2026-08-04 |
 | [Senior Python Engineer (Billing)](https://boards.greenhouse.io/manychat/jobs/8480947002?gh_jid=8480947002) | Manychat | Amsterdam, North Holland, Netherlands | 2026-08-04 |
 | [AI Infrastructure Systems Engineer (Amsterdam & London)](https://job-boards.greenhouse.io/togetherai/jobs/4555544007) | Together AI | Amsterdam | 2026-08-04 |
-| [Operations Associate (Part-Time) - Wolvenstraat](https://boards.greenhouse.io/aloyoga/jobs/6130731004?gh_jid=6130731004) | ALO | Wolvenstraat 9 Streets, Amsterdam (50069) | 2026-08-04 |
 | [Sales Associate (Part-Time) - Wolvenstraat 9 Streets](https://boards.greenhouse.io/aloyoga/jobs/5761027004?gh_jid=5761027004) | ALO | Amsterdam, North Holland, Netherlands | 2026-08-04 |
-| [Frontend Developer Amsterdam (React)](https://apply.workable.com/j/333D1B355E) | AND Digital | Amsterdam, Netherlands | 2026-08-04 |
+| [Operations Associate (Part-Time) - Wolvenstraat](https://boards.greenhouse.io/aloyoga/jobs/6130731004?gh_jid=6130731004) | ALO | Wolvenstraat 9 Streets, Amsterdam (50069) | 2026-08-04 |
 | [Electrical Construction Manager - AMS 1246](https://apply.workable.com/j/D6448C5BAA) | Winthrop Technologies | Amsterdam, Netherlands | 2026-08-04 |
+| [Frontend Developer Amsterdam (React)](https://apply.workable.com/j/333D1B355E) | AND Digital | Amsterdam, Netherlands | 2026-08-04 |
 | [Development & Outreach Department Intern](https://job-boards.greenhouse.io/humanrightswatch/jobs/8674500002) | Human Rights Watch | Amsterdam | 2026-08-03 |
 | [Software Engineer - Database](https://jobs.ashbyhq.com/motherduck/2e2ea1b3-935f-425f-a608-038994ff72c9) | Motherduck | Amsterdam | 2026-08-03 |
 | [Hoofduitvoerder Wegenbouw (Regio Noord-Holland)](https://jobs.smartrecruiters.com/Boskalis/744000141288619) | Boskalis | Amsterdam, nl | 2026-08-03 |
