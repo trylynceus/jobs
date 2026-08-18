@@ -2,10 +2,67 @@
 
 Roles whose title reads as design.
 
-_12,141 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
+_12,809 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| [Kurator till Ungdoms- och vuxenhabilitering, Umeå](https://arbetsformedlingen.se/platsbanken/annonser/31362762) | REGION VÄSTERBOTTEN | Umeå, Västerbottens län, Sverige | 2026-08-18 |
+| [Skötare till Vuxenpsykiatrin, avdelning 95, Västerås](https://arbetsformedlingen.se/platsbanken/annonser/31362753) | REGION VÄSTMANLAND | Västerås, Västmanlands län, Sverige | 2026-08-18 |
+| [Bilförsäljare till Kamux - Karlskrona](https://arbetsformedlingen.se/platsbanken/annonser/31362048) | Kamux AB | Karlskrona, Blekinge län, Sverige | 2026-08-17 |
+| [Buyer - Production Equipment (CAPEX)](https://arbetsformedlingen.se/platsbanken/annonser/31361531) | Incluso AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
+| [Stödassistent till Vuxenkortids LSS](https://arbetsformedlingen.se/platsbanken/annonser/31361297) | GÄVLE KOMMUN | Gävle, Gävleborgs län, Sverige | 2026-08-17 |
+| [Sektionschef till Vuxenhabiliteringen](https://arbetsformedlingen.se/platsbanken/annonser/31361251) | REGION ÖREBRO LÄN | Örebro, Örebro län, Sverige | 2026-08-17 |
+| [Verksamhetsutvecklare till Studieförbundet Vuxenskolan i Ulricehamn](https://arbetsformedlingen.se/platsbanken/annonser/31360837) | Vega HR AB | Ulricehamn, Västra Götalands län, Sverige | 2026-08-17 |
+| [Verksamhetsutvecklare till Studieförbundet Vuxenskolan i Borås](https://arbetsformedlingen.se/platsbanken/annonser/31360677) | Vega HR AB | Borås, Västra Götalands län, Sverige | 2026-08-17 |
+| [Production Equipment Buyer (CAPEX)](https://arbetsformedlingen.se/platsbanken/annonser/31360611) | Avaron AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
+| [Vill du bli Höganäs nästa gatuingenjör?](https://arbetsformedlingen.se/platsbanken/annonser/31360523) | HÖGANÄS KOMMUN | Höganäs, Skåne län, Sverige | 2026-08-17 |
+| [Vårdlärare/Yrkeslärare till vuxenutbildningen i Tingsryds kommun](https://arbetsformedlingen.se/platsbanken/annonser/31360234) | TINGSRYDS KOMMUN | Tingsryd, Kronobergs län, Sverige | 2026-08-17 |
+| [Industrial Designer at Husqvarna Group](https://arbetsformedlingen.se/platsbanken/annonser/31360202) | ACADEMIC WORK SWEDEN AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Technical Support Engineer inom Linux och utvecklingsmiljöer](https://arbetsformedlingen.se/platsbanken/annonser/31360167) | Xamera AB | Järfälla, Stockholms län, Sverige | 2026-08-17 |
+| [Vi söker efter en Hårdvaruingenjör!](https://arbetsformedlingen.se/platsbanken/annonser/31360171) | ACADEMIC WORK SWEDEN AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Säkerhetskoordinator till Procruitment (vikariat)](https://arbetsformedlingen.se/platsbanken/annonser/31360115) | Procruitment AB | Karlstad, Värmlands län, Sverige | 2026-08-17 |
+| [Boat Builder - Assembly](https://arbetsformedlingen.se/platsbanken/annonser/31359819) | Candela Technology AB | Sollentuna, Stockholms län, Sverige | 2026-08-17 |
+| [Boat Builder - Composite](https://arbetsformedlingen.se/platsbanken/annonser/31359799) | Candela Technology AB | Sollentuna, Stockholms län, Sverige | 2026-08-17 |
+| [Boendestödjare för vuxna med funktionsvariationer - timanställning](https://arbetsformedlingen.se/platsbanken/annonser/31359791) | FÖRENINGEN SALTÅ BY | Södertälje, Stockholms län, Sverige | 2026-08-17 |
+| [Conceptual Designer](https://jobs.ashbyhq.com/KAYAK/0d5bb42d-0c77-46ce-b7e2-dc8bd2b68b24) | Kayak | London Office | 2026-08-17 |
+| [[UPLIVE Company] User Acquisition Marketing Manager (Sign-on Bonus)](https://jobs.lever.co/amanotes/a0cf60b3-0916-4eec-a6c4-dfecf7b494ea) | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-17 |
+| [Ausbildung zum Technischen Produktdesigner (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207551816-S) | Spiel-Bau GmbH | Brandenburg an der Havel, Brandenburg, Deutschland | 2026-08-17 |
+| [Bauingenieur / Geologe / Umweltwissenschaftler mit Schwerpunkt Baugrund und Umweltplanung (d/m/w)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207562609-S) | Ing.ges.Wehinger Egner mbH | Gomaringen, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Senior Softwareentwickler – .NET MAUI, Blazor & Cloud (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556278-S) | TÜV SÜD AG | München, Bayern, Deutschland | 2026-08-17 |
+| [BAD_2026_08 Mitarbeiter (m/w/d) Business Continuity Management und Operationelles Risikomanagement](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551262-S) | Generali Deutschland Services GmbH | Karlsruhe, Baden, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [IT Recruiter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513388_JB5222737-S) | FERCHAU Contract GmbH Zentrale | Ulm, Donau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Tiermedizinische Fachangestellte / TFA (m/w/d), Kleintierpraxis Raum Saarlouis, Vollzeit o. Teilzeit](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003554699-S) | Job Service Center Ines Schirra | Saarlouis, Saarland, Deutschland | 2026-08-17 |
+| [Bauingenieur kommunale Infrastruktur (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-504535_JB5222927-S) | FERCHAU GmbH Niederlassung Elmshorn | Itzehoe, Schleswig_Holstein, Deutschland | 2026-08-17 |
+| [Technischer Produktdesigner mechanische Konstruktion (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003553578-S) | WAGO GmbH & Co. KG | Minden, Westfalen, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Duales Studium Bauingenieurwesen/Projektmanagement 2027](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551385-S) | Fischer Weilheim GmbH & Co. KG | Weilheim an der Teck, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Bachelor of Engineering (m/w/d) – Bauingenieurwesen (Projektmanagement) Schwerpunkt Tiefbau](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207555554-S) | Stadtverwaltung Rottenburg | Rottenburg am Neckar, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Linux System Engineer & Automation (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916809567-S) | DIS AG Germany | Freiburg im Breisgau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Senior IT-Consultant Recruiting (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12787-267421170826-S) | dmTECH GmbH | Karlsruhe, Baden, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Engineer Test Equipment Development (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17732-0066768265-S) | Physik Instrumente (PI) GmbH & Co. KG | Rosenheim, Oberbayern, Bayern, Deutschland | 2026-08-17 |
+| [DevSecOps / Platform Engineer (m/w/d), ArcGIS, Kubernetes, Linux bei einem etablierten Technologieko](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916472714-S) | KA Resources | München, Bayern, Deutschland | 2026-08-17 |
+| [Maschinenbauingenieur (m/w/d) – Baurobotik / Mechanical Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556625-S) | Sitegeist GmbH | München, Bayern, Deutschland | 2026-08-17 |
+| [Werkstudent (w/m/d) Digital Innovation, UX/UI & AI Solutions](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1618406-1-S) | Siemens AG | München, Bayern, Deutschland | 2026-08-17 |
+| [Pflichtpraktikum im Recruiting (m/w/d) – Active Sourcing für IT & Engineering](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916474291-S) | Exclusive Associates | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Recruiting-Spezialist (m/w/d) für die Personalbeschaffung](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556675-S) | Yildiz Gruppe | Mannheim, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Linux System Administrator (gn)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12928-BOUWBJLI4KNXZHSB-S) | Experis GmbH | Freiburg im Breisgau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Produktdesigner Maschinenbau (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513754_JB5222993-S) | FERCHAU GmbH Niederlassung Lübeck | Lübeck, Schleswig_Holstein, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Talent Acquisition Specialist - Schwerpunk](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3035531784152800-S) | NTT DATA Business Solutions Global Managed Services GmbH | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Solution Architect Embedded Linux / Web (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4109-S) | recruitIT Consulting | Kempten (Allgäu), Bayern, Deutschland | 2026-08-17 |
+| [Duales Studium Bauingenieurwesen 2027 (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1619489-1-S) | Deutsche Bahn AG | München, Bayern, Deutschland | 2026-08-17 |
+| [Solution Architect Embedded Linux / Web (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4108-S) | recruitIT Consulting | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Werkstudent*in RD/UXA für das Teilemanagement der Testumgebungen und die Betreuung der Test-Bretter](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618993-1-S) | Mercedes-Benz Group AG | Sindelfingen, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Solution Architect Embedded Linux / Web (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15240-k50661.4110-S) | recruitIT Consulting | Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Technischer Produktdesigner Defence (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-476923_JB5222816-S) | FERCHAU GmbH Niederlassung Oldenburg | Lemwerder, Niedersachsen, Deutschland | 2026-08-17 |
+| [Pflichtpraktikum Customer Strategy & Experience – Technisches Akquisitionsmanagement (w/m/div.)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF294287E-e2a429b-S) | Robert Bosch GmbH | Leonberg, Württemberg, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Architekt/Architektin oder Bauingenieur/Bauingenieurin (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/20681-k62441.1020-S) | Studierendenwerk Bonn AöR Anstalt des öffentl. Rechts | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Produktdesigner Maschinenbau (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-516616_JB5222412-S) | FERCHAU GmbH Niederlassung Wuppertal | Monheim am Rhein, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Engineer for Mechanical Ground Support Equipment (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/18777-964238415-S) | OHB-System AG | Bremen, Deutschland | 2026-08-16 |
+| [Requirements & Dokumentationsmanager (alle Geschlechter)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19274-VS6AA0YJUASZJI9J-S) | men-in-motion GmbH | Nürnberg, Mittelfranken, Bayern, Deutschland | 2026-08-16 |
+| [Senior User Acquisition (Senior UA Marketing Game)](https://jobs.lever.co/amanotes/888bd5ff-55e8-4199-ac23-676313e0f992) | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-15 |
+| [User Acquisition (UA Marketing Game) - Junior/Middle](https://jobs.lever.co/amanotes/d61dacbe-bd43-4527-8c0b-679598c48cb4) | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-15 |
+| [Bauingenieur oder Projektleiter für den TGA Bereich gesucht (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12032-RG2E1A291-S) | DIEPA GmbH Filiale Berlin Südost | Berlin, Deutschland | 2026-08-15 |
+| [COMBASE AG: Linux Infrastructure Engineer (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3011471786744801-S) | COMBASE AG | Dresden, Sachsen, Deutschland | 2026-08-15 |
+| [(Senior) Systems Engineer Linux & Identity Services (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12586-44379230-814-S) | Bausparkasse Schwäbisch Hall AG | Schwäbisch Hall, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
 | [Senior Manager, Paid Acquisition](https://job-boards.greenhouse.io/apolloio/jobs/6143278004) | Apollo.io | Remote, United States | 2026-08-14 |
 | [Equipment Maintenance Technician](https://job-boards.greenhouse.io/aperiatechnologies/jobs/6144707004) | Aperia Technologies, Inc | Hayward, CA | 2026-08-14 |
 | [Forward Deployed Product Designer](https://job-boards.greenhouse.io/scaleai/jobs/4724276005) | Scale AI | New York, NY; Washington, DC | 2026-08-14 |
@@ -28,8 +85,31 @@ _12,141 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [Client Partner, Mid-Market Sales (Services - Acquisitions)](https://job-boards.greenhouse.io/reddit/jobs/8114666) | Reddit | New York City, NY | 2026-08-14 |
 | [Senior Recruiting Manager, Advanced Effects](https://boards.greenhouse.io/andurilindustries/jobs/5212029007?gh_jid=5212029007) | Anduril Industries | Remote | 2026-08-14 |
 | [Senior UI Engineer, EW](https://boards.greenhouse.io/andurilindustries/jobs/5187630007?gh_jid=5187630007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
-| [Semi-Senior Fullstack Developer (Nuxt VueJs / Blazor .NET) - Remote LATAM](https://apply.workable.com/j/0F7CAC7D23) | DaCodes | Mexico | 2026-08-14 |
+| [Recruiter / Sourcing Consultant (w/m/d) - Engineering und IT](https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-2026-531_620165LS-S) | Brunel GmbH | Augsburg, Bayern, Bayern, Deutschland | 2026-08-14 |
+| [Senior Bid & Pursuit Manager / Proposal Manager (m/w/d) – Cloud, Data & AI Consulting](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-2a0f0b45_JB5222175-S) | synvert | Hamburg, Deutschland | 2026-08-14 |
+| [UI/UX-Designer:in (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003545447-S) | PARAT Projektmanagement und Informationssysteme GmbH | Braunschweig, Niedersachsen, Deutschland | 2026-08-14 |
+| [Linux Administrator (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003545567-S) | NConsult GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-14 |
+| [Zahnarztpraxis Dr.Heike Lesch,Quierschied: Zahnmed. FA in Teilzeit unbefr. f.d.Anmeldung /Abrechnung](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207542885-S) | Dr. Heike Lesch | Quierschied, Saarland, Deutschland | 2026-08-14 |
+| [Senior Scientific Software Developer (Python/C++) – Scie. Equip. Integration & Exp. Control (TANGO C](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003546593-S) | Dt Elektronen-Synchrotron DESY Personalabteilung | Hamburg, Deutschland | 2026-08-14 |
+| [Software-Entwickler (m/w/d) Linux](https://www.arbeitsagentur.de/jobsuche/jobdetail/20225-9KLMX2B4Q3EF4M8A-S) | rocket Engineering GmbH | Kassel, Hessen, Hessen, Deutschland | 2026-08-14 |
+| [Airbus - Avionics Equipment Engineer - Aircraft General Systems (d/f/m)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4915695415-S) | Randstad Professional | Manching, Bayern, Deutschland | 2026-08-14 |
+| [Systemadministrator Linux / Kubernetes (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-509737_JB5221396-S) | FERCHAU GmbH Niederlassung Leipzig | Leipzig, Sachsen, Deutschland | 2026-08-14 |
+| [Ausbildung 2027: Technischer Produktdesigner/-in (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003549264-S) | SM Calvörde Sondermaschinenbau GmbH & Co. KG | Calvörde, Sachsen_Anhalt, Deutschland | 2026-08-14 |
+| [Linux System Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13669-J1VHWXVBTWUVLV8T-S) | puro Personaldienstleistung GmbH | Duisburg, Nordrhein_Westfalen, Deutschland | 2026-08-14 |
+| [Duales Studium Bauingenierwesen (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207542295-S) | WTU GmbH Weischlitzer Tiefbau u. Umweltschutz | Weischlitz, Sachsen, Deutschland | 2026-08-14 |
+| [Requirements Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-351460_JB5221611-S) | FERCHAU GmbH Niederlassung Paderborn | Paderborn, Nordrhein_Westfalen, Deutschland | 2026-08-14 |
+| [Technischer Produktdesigner m/w/d](https://www.arbeitsagentur.de/jobsuche/jobdetail/13586-13834621-S) | NIHS GmbH | Berne, Kreis Wesermarsch, Niedersachsen, Deutschland | 2026-08-14 |
+| [Technischer Produktdesigner m/w/d](https://www.arbeitsagentur.de/jobsuche/jobdetail/13586-13834538-S) | NIHS GmbH | Lemwerder, Niedersachsen, Deutschland | 2026-08-14 |
+| [Anforderungsmanager/Requirements Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-401734_JB5221659-S) | FERCHAU GmbH Niederlassung Kassel | Kassel, Hessen, Hessen, Deutschland | 2026-08-14 |
+| [Systems Engineer Linux & Automation (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-PR-294035_620472LS-S) | Brunel GmbH NL Köln | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-14 |
+| [IT Servicedesk Techniker (m/w/d) Linux & Netzwerke](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-444049_JB5221785-S) | FERCHAU GmbH Niederlassung Köln | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-14 |
+| [IT Recruiter (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-450478_JB5221488-S) | FERCHAU GmbH Niederlassung Hamburg-City | Hamburg, Deutschland | 2026-08-14 |
 | [Content Designer & Social Media Producer (AU or NZ Real Estate)](https://apply.workable.com/j/E5E0936139) | D2B | Manila, Philippines | 2026-08-14 |
+| [Technischer Produktdesigner (m/w/d) Schiffbau](https://www.arbeitsagentur.de/jobsuche/jobdetail/12634-BB-643411-7878-2136-S) | Akkodis Germany Tech Experts GmbH | Kiel, Schleswig_Holstein, Deutschland | 2026-08-14 |
+| [Softwareentwickler Embedded Linux (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-401059_JB5221654-S) | FERCHAU GmbH Niederlassung Friedrichshafen | Friedrichshafen, Baden_Wuerttemberg, Deutschland | 2026-08-14 |
+| [Civil & Building Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026279875-S) | Tesla Germany GmbH | Berlin, Deutschland | 2026-08-14 |
+| [Linux Systemtechniker / IT-Systemtechniker (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003545608-S) | cloud4you AG | Ellwangen (Jagst), Baden_Wuerttemberg, Deutschland | 2026-08-14 |
+| [Semi-Senior Fullstack Developer (Nuxt VueJs / Blazor .NET) - Remote LATAM](https://apply.workable.com/j/0F7CAC7D23) | DaCodes | Mexico | 2026-08-14 |
 | [Senior Ops Support Technician - Equipment Maintenance (EES)](https://job-boards.greenhouse.io/rocketlab/jobs/7867196003) | Rocket Lab Corporation | Albuquerque, NM | 2026-08-13 |
 | [Senior Brand Designer](https://job-boards.greenhouse.io/mochihealth/jobs/5324574008) | Mochi Health | San Francisco, CA | 2026-08-13 |
 | [Complex Adult Health/Critical Care Clinical Faculty (Part-Time)- St. Louis, Missouri](https://jobs.smartrecruiters.com/Covista/744000143404415) | Covista | St. Louis, us | 2026-08-13 |
@@ -38,18 +118,18 @@ _12,141 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [Capstone Clinical Faculty (part-time): St. Louis, MO](https://jobs.smartrecruiters.com/Covista/744000143404029) | Covista | St. Louis, us | 2026-08-13 |
 | [Senior Fluids Engineer](https://stokespace.com/careers/current-openings?gh_jid=6104838004) | Stoke Space | Kent, Washington | 2026-08-13 |
 | [Cleared UI/UX Designer (Washington, DC)](https://boards.greenhouse.io/accenturefederalservices/jobs/4691479006?gh_jid=4691479006) | Accenture Federal Services | Washington, DC | 2026-08-13 |
-| [Senior Product Designer](https://job-boards.greenhouse.io/planetlabs/jobs/8088256) | Planet | Berlin, Germany; Haarlem, Netherlands | 2026-08-13 |
-| [Senior Product Designer](https://job-boards.greenhouse.io/planetlabs/jobs/8126704) | Planet | Berlin, Germany; Haarlem, Netherlands | 2026-08-13 |
 | [Senior Director, Global Talent Acquisition](https://job-boards.greenhouse.io/planetlabs/jobs/8081498) | Planet | San Francisco, CA | 2026-08-13 |
+| [Senior Product Designer](https://job-boards.greenhouse.io/planetlabs/jobs/8126704) | Planet | Berlin, Germany; Haarlem, Netherlands | 2026-08-13 |
+| [Senior Product Designer](https://job-boards.greenhouse.io/planetlabs/jobs/8088256) | Planet | Berlin, Germany; Haarlem, Netherlands | 2026-08-13 |
 | [🎯Now Hiring - Security Officer (Open Availability Required)](https://job-boards.greenhouse.io/marksman/jobs/4369847009) | Marksman Security LLC | Culver City, CA | 2026-08-13 |
 | [Community & Patient Liaison - Louisville, GA](https://job-boards.greenhouse.io/mainstreethealth/jobs/4724110005) | Main Street Health | Louisville, GA | 2026-08-13 |
 | [NetSuite Administrator](https://job-boards.greenhouse.io/platformscience/jobs/7866799003) | Platform Science | Remote - US | 2026-08-13 |
 | [Participant Recruitment Analyst](https://jobs.smartrecruiters.com/M3USA/744000143397509) | M3USA | Raleigh, us | 2026-08-13 |
-| [Senior Brand Designer](https://job-boards.greenhouse.io/vercel/jobs/5579560004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Recruiting Coordinator (Contract)](https://job-boards.greenhouse.io/vercel/jobs/5686511004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Senior Product Designer, Growth](https://job-boards.greenhouse.io/vercel/jobs/6131210004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | [Visual Designer, Web](https://job-boards.greenhouse.io/vercel/jobs/6115991004) | Vercel | Remote - United States | 2026-08-13 |
 | [Presentation Designer](https://job-boards.greenhouse.io/vercel/jobs/6128387004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Senior Product Designer, Growth](https://job-boards.greenhouse.io/vercel/jobs/6131210004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Recruiting Coordinator (Contract)](https://job-boards.greenhouse.io/vercel/jobs/5686511004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Senior Brand Designer](https://job-boards.greenhouse.io/vercel/jobs/5579560004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | [Strategic Cuisines Account Executive - Spanish - Tri-Valley, CA](https://careers.toasttab.com/jobs?gh_jid=8129221) | Toast | Livermore, CA | 2026-08-13 |
 | [Strategic Cuisines Account Executive - Spanish - Santa Rosa, CA](https://careers.toasttab.com/jobs?gh_jid=8129217) | Toast | Santa Rosa, CA | 2026-08-13 |
 | [Strategic Cuisines Account Executive - Spanish - Central Valley, CA](https://careers.toasttab.com/jobs?gh_jid=8129211) | Toast | Monterey, CA | 2026-08-13 |
@@ -63,8 +143,8 @@ _12,141 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [Senior Piping Designer](https://boards.greenhouse.io/redwoodmaterials/jobs/6016243004?gh_jid=6016243004) | Redwood Materials | Carson City, NV | 2026-08-13 |
 | [Fluid Component Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7865904003) | Rocket Lab Corporation | Long Beach, CA | 2026-08-13 |
 | [Recruiting Coordinator (On-Site)](https://jobs.smartrecruiters.com/Gerresheimer/744000143392679) | Gerresheimer | Peachtree City, us | 2026-08-13 |
-| [Senior Product Designer](https://job-boards.greenhouse.io/abinbev/jobs/8631815002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
 | [Senior UX Writer](https://job-boards.greenhouse.io/abinbev/jobs/8637411002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| [Senior Product Designer](https://job-boards.greenhouse.io/abinbev/jobs/8631815002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
 | [Senior Service Designer](https://job-boards.greenhouse.io/abinbev/jobs/8653587002) | AB InBev \| Growth Group | São Paulo, Brazil | 2026-08-13 |
 | [OPERADOR AUXILIAR (USINAGEM E MONTAGEM)](https://jobs.smartrecruiters.com/BoschGroup/744000143391064) | Bosch Group | Sorocaba, br | 2026-08-13 |
 | [Staff Motion Designer, Design Innovation](https://www.pinterestcareers.com/jobs/?gh_jid=7770898) | Pinterest | San Francisco, CA, US; Remote, CA, US | 2026-08-13 |
@@ -120,15 +200,15 @@ _12,141 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [Senior Manager, Build Planning and Distribution](https://job-boards.greenhouse.io/lucidmotors/jobs/5211250007) | Lucid Motors | Phoenix, AZ | 2026-08-13 |
 | [Channels Partner Manager, Netsuite](https://paystand.com/job-listing/?gh_jid=7673999003) | Paystand | Austin, Texas, United States; Minneapolis, Minnesota, United States; Remote; Santa Cruz, California, United States | 2026-08-13 |
 | [Laboratory Analyst - PLM (TU - SA, 1PM - 9PM) Eurofins Built Environment Testing - Reservoirs, Arvada, CO](https://jobs.smartrecruiters.com/Eurofins/744000143365119) | Eurofins | Arvada, us | 2026-08-13 |
+| [Senior Specialist - Talent Acquisition Retail](https://boards.greenhouse.io/onrunning/jobs/7780026?gh_jid=7780026) | On | Shanghai | 2026-08-13 |
+| [Retail - Store Advisor（Taikoo Hui GUA）](https://boards.greenhouse.io/onrunning/jobs/5573097?gh_jid=5573097) | On | Guangzhou | 2026-08-13 |
+| [Senior Specialist - SMU Designer FTW](https://boards.greenhouse.io/onrunning/jobs/7765598?gh_jid=7765598) | On | Zurich | 2026-08-13 |
+| [Senior Lead - Computational Designer](https://boards.greenhouse.io/onrunning/jobs/7120658?gh_jid=7120658) | On | Zurich | 2026-08-13 |
+| [Retail - Store Advisor（Taikoo Hui SHA）](https://boards.greenhouse.io/onrunning/jobs/5815265?gh_jid=5815265) | On | Shanghai | 2026-08-13 |
 | [Senior Specialist - Color Designer Performance Footwear](https://boards.greenhouse.io/onrunning/jobs/8016535?gh_jid=8016535) | On | Zurich | 2026-08-13 |
 | [Senior Specialist - Talent Acquisition, Japan & KR](https://boards.greenhouse.io/onrunning/jobs/8068872?gh_jid=8068872) | On | Tokyo | 2026-08-13 |
-| [Senior Specialist - SMU Designer FTW](https://boards.greenhouse.io/onrunning/jobs/7765598?gh_jid=7765598) | On | Zurich | 2026-08-13 |
-| [Retail - Store Advisor（Taikoo Hui SHA）](https://boards.greenhouse.io/onrunning/jobs/5815265?gh_jid=5815265) | On | Shanghai | 2026-08-13 |
-| [Senior Lead - Computational Designer](https://boards.greenhouse.io/onrunning/jobs/7120658?gh_jid=7120658) | On | Zurich | 2026-08-13 |
-| [Retail - Store Advisor（Taikoo Hui GUA）](https://boards.greenhouse.io/onrunning/jobs/5573097?gh_jid=5573097) | On | Guangzhou | 2026-08-13 |
-| [Retail - Lead Store Advisor(Taikoo Hui SHA)](https://boards.greenhouse.io/onrunning/jobs/6628733?gh_jid=6628733) | On | Shanghai | 2026-08-13 |
-| [Senior Specialist - Talent Acquisition Retail](https://boards.greenhouse.io/onrunning/jobs/7780026?gh_jid=7780026) | On | Shanghai | 2026-08-13 |
 | [Lead - Footwear Material Designer](https://boards.greenhouse.io/onrunning/jobs/7742550?gh_jid=7742550) | On | Zurich | 2026-08-13 |
+| [Retail - Lead Store Advisor(Taikoo Hui SHA)](https://boards.greenhouse.io/onrunning/jobs/6628733?gh_jid=6628733) | On | Shanghai | 2026-08-13 |
 | [Senior Technical Designer, Socks](https://job-boards.greenhouse.io/bombas/jobs/8114263) | Bombas | New York, NY | 2026-08-13 |
 | [Talent Acquisition Partner](https://job-boards.greenhouse.io/merceradvisors/jobs/5388538008) | Mercer Advisors | Remote, USA | 2026-08-13 |
 | [Recruitment Care Professional Sheffield South_T040](https://jobs.smartrecruiters.com/HomeInsteadCare/744000143362739) | Home Instead | Care Professional General Enquiry, gb | 2026-08-13 |
@@ -172,8 +252,8 @@ _12,141 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [R4R Recruiter](https://boards.greenhouse.io/andurilindustries/jobs/5162366007?gh_jid=5162366007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | [Senior PCB Designer, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5118675007?gh_jid=5118675007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [PCB Designer, Air Dominance and Strike](https://boards.greenhouse.io/andurilindustries/jobs/5179593007?gh_jid=5179593007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
-| [Embedded Linux Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5100784007?gh_jid=5100784007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Embedded Linux Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5172006007?gh_jid=5172006007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
+| [Embedded Linux Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5100784007?gh_jid=5100784007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Senior Linux Systems Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5104433007?gh_jid=5104433007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Instructional Designer, AI-Augmented Learning Strategy](https://job-boards.greenhouse.io/redwoodsoftware/jobs/4252847009) | Redwood Software | Ontario, Canada | 2026-08-13 |
 | [Senior Electrical Engineer, Circuit Design](https://boards.greenhouse.io/andurilindustries/jobs/5179260007?gh_jid=5179260007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
@@ -184,21 +264,21 @@ _12,141 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [Senior Manager, Talent Acquisition, Mission Readiness](https://boards.greenhouse.io/andurilindustries/jobs/5056082007?gh_jid=5056082007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Recruiter (High Volume)](https://jobs.smartrecruiters.com/Evolution/744000143342568) | Evolution | Atlantic City, us | 2026-08-13 |
 | [Equipier commercial - Encaissement - CDI - H/F](https://jobs.smartrecruiters.com/METROMAKRO/744000143342509) | METRO/MAKRO | Souffelweyersheim, fr | 2026-08-13 |
-| [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5173534007?gh_jid=5173534007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
-| [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5173388007?gh_jid=5173388007) | Anduril Industries | Boston, Massachusetts, United States | 2026-08-13 |
 | [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5171942007?gh_jid=5171942007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
+| [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5173388007?gh_jid=5173388007) | Anduril Industries | Boston, Massachusetts, United States | 2026-08-13 |
+| [AI Solutions Engineer, Talent Acquisition](https://boards.greenhouse.io/andurilindustries/jobs/5173534007?gh_jid=5173534007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | [Operations Project Coordinator - Salesforce experience required - No 3rd party candidates](https://jobs.smartrecruiters.com/eversana1/744000143338919) | EVERSANA | Remote, us | 2026-08-13 |
 | [Senior Service Designer](https://jobs.smartrecruiters.com/NECSWS/744000143339105) | NECSWS | Remote, United Kingdom, gb | 2026-08-13 |
 | [Principal Service Designer](https://jobs.smartrecruiters.com/NECSWS/744000143340509) | NECSWS | Remote, United Kingdom, gb | 2026-08-13 |
 | [Equipier Vestiaire](https://jobs.smartrecruiters.com/barriere/744000143337615) | Barrière | LA BAULE, fr | 2026-08-13 |
-| [Senior Guidance, Navigation & Control (GNC) Engineer - Navigation and Estimation- Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5041330007?gh_jid=5041330007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Guidance, Navigation & Control (GNC) Engineer - Navigation and Estimation- Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5210670007?gh_jid=5210670007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
+| [Senior Guidance, Navigation & Control (GNC) Engineer - Navigation and Estimation- Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5041330007?gh_jid=5041330007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Senior Talent Acquisition Partner](https://jobs.smartrecruiters.com/aecom2/744000143339319) | AECOM | Dublin, ie | 2026-08-13 |
 | [Senior Electrical Engineer (Circuit Design)](https://boards.greenhouse.io/andurilindustries/jobs/5183497007?gh_jid=5183497007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | [Global Talent Acquisition Leader](https://job-boards.greenhouse.io/mitratech/jobs/8046771) | Mitratech | Mitratech US | 2026-08-13 |
 | [Instructional Designer](https://boards.greenhouse.io/andurilindustries/jobs/5093473007?gh_jid=5093473007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
-| [Senior Product Designer, Design Systems](https://boards.greenhouse.io/andurilindustries/jobs/5210843007?gh_jid=5210843007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | [Senior Product Designer, Design Systems](https://boards.greenhouse.io/andurilindustries/jobs/5129637007?gh_jid=5129637007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
+| [Senior Product Designer, Design Systems](https://boards.greenhouse.io/andurilindustries/jobs/5210843007?gh_jid=5210843007) | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | [Mobile Building Engineer](https://job-boards.greenhouse.io/lpc/jobs/5195247007) | Lincoln Property Company | Allen, TX | 2026-08-13 |
 | [Construction Delivery Manager - Nuclear New Build](https://jobs.smartrecruiters.com/ASSYSTEM/744000143331976) | ASSYSTEM | Bristol, gb | 2026-08-13 |
 | [Auxiliar de Vendas e Atendimento - Vitória/ES - (Exclusiva PCDs)](https://job-boards.greenhouse.io/agibank/jobs/5382046008) | Agibank | Vitória, Espírito Santo, Brasil | 2026-08-13 |
@@ -226,86 +306,6 @@ _12,141 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [eLearning Designer](https://jobs.smartrecruiters.com/Bet3651/744000143320108) | bet365 | Stoke-on-Trent, gb | 2026-08-13 |
 | [User Acquisition Manager (Ad Networks & DSP)](https://jobs.ashbyhq.com/kissmyapps/f8946628-a786-41de-8f64-7fb35826c2c5) | Kissmyapps | Ukraine | 2026-08-13 |
 | [Aide aux personnes âgées H/F](https://job-boards.greenhouse.io/ouihelp/jobs/7802358003) | Ouihelp | Beauvais | 2026-08-13 |
-| [Aide aux personnes âgées H/F](https://job-boards.greenhouse.io/ouihelp/jobs/7864419003) | Ouihelp | Beauvais | 2026-08-13 |
-| [Auxiliaire de vie H/F](https://job-boards.greenhouse.io/ouihelp/jobs/7802360003) | Ouihelp | Saint just en chaussée | 2026-08-13 |
-| [Auxiliaire de vie H/F](https://job-boards.greenhouse.io/ouihelp/jobs/7802361003) | Ouihelp | MERU | 2026-08-13 |
-| [Auxiliaire de vie H/F](https://job-boards.greenhouse.io/ouihelp/jobs/7802362003) | Ouihelp | Saint-Aubin-En-Bray | 2026-08-13 |
-| [Auxiliaire de vie H/F](https://job-boards.greenhouse.io/ouihelp/jobs/7864454003) | Ouihelp | Saint just en chaussée | 2026-08-13 |
-| [Auxiliaire de vie H/F](https://job-boards.greenhouse.io/ouihelp/jobs/7864460003) | Ouihelp | MERU | 2026-08-13 |
-| [Auxiliaire de vie H/F](https://job-boards.greenhouse.io/ouihelp/jobs/7864462003) | Ouihelp | Saint-Aubin-En-Bray | 2026-08-13 |
-| [Opérateur.trice de production (NUIT)](https://jobs.smartrecruiters.com/Pyrotek3/744000143313921) | Pyrotek | Drummondville, ca | 2026-08-13 |
-| [DevOps Engineer (AWS, Linux, Terraform, MongoDB)](https://job-boards.greenhouse.io/vonage/jobs/8464341002) | Vonage | Bangalore India | 2026-08-13 |
-| [Technical Lead - UI Programmer (Far Cry)](https://jobs.smartrecruiters.com/ubisoft2/744000143317439) | Ubisoft | Montreal, ca | 2026-08-13 |
-| [Senior Talent Acquisition Specialist](https://job-boards.greenhouse.io/lokainc/jobs/4526876007) | Loka, Inc | Colombia | 2026-08-13 |
-| [Staff UX Designer](https://job-boards.greenhouse.io/onetrust/jobs/8121683) | OneTrust | Bengaluru, India | 2026-08-13 |
-| [FR_Equipier Commercial - CDD F/H](https://jobs.smartrecruiters.com/METROMAKRO/744000143309970) | METRO/MAKRO | Vitry-sur-Seine, fr | 2026-08-13 |
-| [Creative Designer](https://jobs.smartrecruiters.com/sigmasoftware2/744000143314839) | Sigma Software | Kyiv, ua | 2026-08-13 |
-| [Manager Sustainability Requirements & Governance (m/f/d) - REF97905A](https://jobs.smartrecruiters.com/Continental/744000143313809) | Continental | Hannover, de | 2026-08-13 |
-| [Junior Designer (m/f/d)](https://job-boards.eu.greenhouse.io/arxroboticsgmbh/jobs/4951547101) | ARX Robotics GmbH | Munich | 2026-08-13 |
-| [Acquiring Risk Fraud Analyst](https://jobs.smartrecruiters.com/Wise/744000143313138) | Wise | Tallinn, ee | 2026-08-13 |
-| [Graphic Designer](https://jobs.smartrecruiters.com/aecom2/744000143312369) | AECOM | Ocoee, us | 2026-08-13 |
-| [Agent(e) de sécurité auxiliaire (Taxi- Landside) - Genève Aéroport](https://jobs.smartrecruiters.com/securitas/744000143312059) | Securitas | Geneva, ch | 2026-08-13 |
-| [Hospice Medical Social Worker (LMSW/LCSW Required)](https://job-boards.greenhouse.io/optimalcare/jobs/5293996008) | Optimal Care | Grand Rapids, MI | 2026-08-13 |
-| [Contrôleur aux entrées en charge de la sécurité (H/F) en CDD](https://jobs.smartrecruiters.com/barriere/744000143311071) | Barrière | LILLE, fr | 2026-08-13 |
-| [Senior Designer](https://job-boards.greenhouse.io/oliverseapac/jobs/8121381) | OLIVER Agency - APAC | Mumbai, India | 2026-08-13 |
-| [Senior Content Designer](https://jobs.ashbyhq.com/checkout.com/88b8b0d7-d76f-414b-9203-2765ecaf3eb3) | Checkout.Com | London | 2026-08-13 |
-| [Manager Sustainability Requirements & Governance (m/f/d) - REF97905A](https://jobs.smartrecruiters.com/Continental/744000143308565) | Continental | Hannover, de | 2026-08-13 |
-| [Spécialiste Produits Gastroentérologie, Auvergne/Rhône Alpes (42, 63, et 69)](https://jobs.smartrecruiters.com/abbvie/3743990014580126) | AbbVie | Lyon, fr | 2026-08-13 |
-| [Senior Instructional Designer](https://jobs.smartrecruiters.com/Endava/744000143306669) | Endava | Remote, us | 2026-08-13 |
-| [HR Payroll Specialist - German payroll experience required (remote)](https://jobs.smartrecruiters.com/Sutherland/744000143303120) | Sutherland | Sofia, Sofia City Province, Bulgaria, bg | 2026-08-13 |
-| [Care Professionals URGENTLY REQUIRED EARLY MORNINGS/EVENINGS](https://jobs.smartrecruiters.com/HomeInsteadCare/744000143302800) | Home Instead | Moseley, gb | 2026-08-13 |
-| [Care Professionals Required](https://jobs.smartrecruiters.com/HomeInsteadCare/744000143302839) | Home Instead | Bournville, gb | 2026-08-13 |
-| [Responsable Incinération - Traitement de déchets dangereux F/H](https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000143302659) | Veolia Environnement SA | Sandouville, fr | 2026-08-13 |
-| [Care Professionals Required](https://jobs.smartrecruiters.com/HomeInsteadCare/744000143300206) | Home Instead | Harborne, gb | 2026-08-13 |
-| [Customer Solutions Guide](https://job-boards.greenhouse.io/scoutmotors/jobs/5205687007) | Scout Motors | Chicago, Illinois, United States | 2026-08-13 |
-| [Engineer, Whole Vehicle Test Requirements and Validation – EE](https://job-boards.greenhouse.io/scoutmotors/jobs/5201288007) | Scout Motors | Novi, Michigan, United States | 2026-08-13 |
-| [Engineer, Whole Vehicle Test Requirements and Validation – Body Exterior](https://job-boards.greenhouse.io/scoutmotors/jobs/5200457007) | Scout Motors | Novi, Michigan, United States | 2026-08-13 |
-| [Engineer, Whole Vehicle Test Requirements and Validation – Propulsion](https://job-boards.greenhouse.io/scoutmotors/jobs/5200423007) | Scout Motors | Novi, Michigan, United States | 2026-08-13 |
-| [Customer Solutions Guide](https://job-boards.greenhouse.io/scoutmotors/jobs/5182804007) | Scout Motors | Northern California | 2026-08-13 |
-| [Customer Solutions Guide](https://job-boards.greenhouse.io/scoutmotors/jobs/5181857007) | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
-| [Specialist, OBD Requirements Engineer IUMPR](https://job-boards.greenhouse.io/scoutmotors/jobs/5167294007) | Scout Motors | Novi, Michigan, United States | 2026-08-13 |
-| [Specialist, OBD Requirements Engineer- Testing](https://job-boards.greenhouse.io/scoutmotors/jobs/5167280007) | Scout Motors | Novi, Michigan, United States | 2026-08-13 |
-| [OBD Requirements Engineer – Generic Scan Tool Lead](https://job-boards.greenhouse.io/scoutmotors/jobs/5167267007) | Scout Motors | Novi, Michigan, United States | 2026-08-13 |
-| [Requirements Senior Specialist](https://job-boards.greenhouse.io/scoutmotors/jobs/5163189007) | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
-| [Requirements Senior Specalist](https://job-boards.greenhouse.io/scoutmotors/jobs/5163173007) | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
-| [HiLand Requirements Coordinator – Drive Systems (BEV / REEV)](https://job-boards.greenhouse.io/scoutmotors/jobs/5160770007) | Scout Motors | Novi, Michigan, United States | 2026-08-13 |
-| [Engineer, Whole Vehicle Test Requirements and Validation – Body Interior](https://job-boards.greenhouse.io/scoutmotors/jobs/5160788007) | Scout Motors | Novi, Michigan, United States; Charlotte, North Carolina, United States | 2026-08-13 |
-| [Lead Engineer - Vehicle SW Package + SW Builds](https://job-boards.greenhouse.io/scoutmotors/jobs/5155604007) | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
-| [Sr. Specialist – Secondary ECU CICD Releases & Builds](https://job-boards.greenhouse.io/scoutmotors/jobs/5155598007) | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
-| [Engineer, Chassis Wheel Guidance (Front and Rear Control Arms)](https://job-boards.greenhouse.io/scoutmotors/jobs/5093266007) | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
-| [Business Unit Manager- Food Testing- Louisville, KY](https://jobs.smartrecruiters.com/Eurofins/744000143299279) | Eurofins | Louisville, us | 2026-08-13 |
-| [Morning and weekends Care Professionals Required](https://jobs.smartrecruiters.com/HomeInsteadCare/744000143299059) | Home Instead | Edgbaston, gb | 2026-08-13 |
-| [Senior Software Engineer - iOS with Swift UI](https://jobs.smartrecruiters.com/NECSWS/744000143297219) | NECSWS | Bengaluru, in | 2026-08-13 |
-| [Responsable d'Equipe CVC & Multitechnique H/F](https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000143293866) | Veolia Environnement SA | Nevers, fr | 2026-08-13 |
-| [Product Designer](https://jobs.ashbyhq.com/joinpogo/dd634278-bff8-4579-ae4e-4f611848423c) | Joinpogo | United States/Canada | 2026-08-13 |
-| [Second de cuisine service continue](https://jobs.smartrecruiters.com/barriere/744000143295199) | Barrière | LA BAULE, fr | 2026-08-13 |
-| [Senior Recruiter](https://jobs.ashbyhq.com/taktile/ad372106-059a-44c4-bb0a-33b68d2ab37b) | Taktile | New York Office | 2026-08-13 |
-| [Working Student for Automation of Circuit Diagram Creation Using Microsoft Visio (f/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000143293479) | Bosch Group | Reutlingen, de | 2026-08-13 |
-| [Care Professionals URGENTLY REQUIRED EARLY MORNINGS](https://jobs.smartrecruiters.com/HomeInsteadCare/744000143293299) | Home Instead | Birmingham, gb | 2026-08-13 |
-| [BUILDING SUPERINTENDENT](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578936) | City of New York | Brooklyn, us | 2026-08-13 |
-| [Rotating Equipment Principal Engineer](https://jobs.smartrecruiters.com/SGS/744000143292568) | SGS | Sur, om | 2026-08-13 |
-| [Rotating Equipment Senior Manager](https://jobs.smartrecruiters.com/SGS/744000143292159) | SGS | Sur, om | 2026-08-13 |
-| [Computational Designer](https://jobs.smartrecruiters.com/Boskalis/744000143291365) | Boskalis | Papendrecht, nl | 2026-08-13 |
-| [Recruiter](https://jobs.smartrecruiters.com/JuniorAdventuresGroup/6000000001312950) | Junior Adventures Group | Dublin, ie | 2026-08-13 |
-| [Software Developer, UI Core](https://jobs.smartrecruiters.com/Bet3651/744000143289618) | bet365 | Manchester, gb | 2026-08-13 |
-| [Responsable d'Equipe - F/H](https://jobs.smartrecruiters.com/Courir/744000143288855) | Courir | LIEGE, be | 2026-08-13 |
-| [Assistant Resident Buildings Superintendent](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578596) | City of New York | New York City, us | 2026-08-13 |
-| [Resident Buildings Superintendent](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578546) | City of New York | New York City, us | 2026-08-13 |
-| [Assistant Resident Buildings Superintendent](https://jobs.smartrecruiters.com/CityOfNewYork/3743990014578506) | City of New York | Brooklyn, us | 2026-08-13 |
-| [Lead Systems Designer - Star Trek Fleet Command](https://job-boards.greenhouse.io/scopely/jobs/5388807008?gh_jid=5388807008) | Scopely | IE - Dublin, Ireland | 2026-08-13 |
-| [Agent(e) de sûreté aéroportuaire auxiliaire](https://jobs.smartrecruiters.com/securitas/744000143284779) | Securitas | Geneva, ch | 2026-08-13 |
-| [Lead Systems Designer - Star Trek Fleet Command](https://job-boards.greenhouse.io/scopely/jobs/5388806008?gh_jid=5388806008) | Scopely | ES - Barcelona, Spain | 2026-08-13 |
-| [Lead Systems Designer - Star Trek Fleet Command](https://job-boards.greenhouse.io/scopely/jobs/5379017008?gh_jid=5379017008) | Scopely | GB - United Kingdom | 2026-08-13 |
-| [Building Physics Consultant](https://jobs.smartrecruiters.com/EgisGroup/744000143282352) | Egis Group | Bengaluru, in | 2026-08-13 |
-| [Senior Recruiter (Engineering)](https://jobs.smartrecruiters.com/asos/744000143282309) | ASOS | London, gb | 2026-08-13 |
-| [Senior Technical Recruiter](https://jobs.ashbyhq.com/getground/24d1962e-af7f-4bc1-a6ad-bc68c790ba86) | Getground | London | 2026-08-13 |
-| [Corporate Account Executive - Benelux](https://jobs.ashbyhq.com/camunda/14fdb43f-4c20-4ae2-add0-b57830041d2c) | Camunda | Remote | 2026-08-13 |
-| [Administrateur·trice DevOps Linux](https://jobs.smartrecruiters.com/ubisoft2/744000143280119) | Ubisoft | Paris, fr | 2026-08-13 |
-| [DevOps Linux Administrator](https://jobs.smartrecruiters.com/ubisoft2/744000143279033) | Ubisoft | Paris, fr | 2026-08-13 |
-| [Scope, Baseline & Requirements Lead (PMO) - Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143278409) | Turner & Townsend | Dublin, ie | 2026-08-13 |
-| [Monikohdetiimiläisiä aulapalveluihin pääkaupunkiseudulle](https://jobs.smartrecruiters.com/securitas/744000143277119) | Securitas | Helsinki, fi | 2026-08-13 |
-| [Talent Acquisition Partner, GTM](https://jobs.ashbyhq.com/legora/75d7038a-d571-4166-b665-7d90181e963b) | Legora | Chicago | 2026-08-13 |
-| [Auxiliaire de vie - job d'été (H/F)](https://job-boards.greenhouse.io/ouihelp/jobs/7863518003) | Ouihelp | Évry-Courcouronnes | 2026-08-13 |
 
 ---
 

@@ -2,13 +2,211 @@
 
 Roles whose title reads as data & ai.
 
-_31,963 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
+_33,326 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| [Coordinator BigData Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44384402-817-S) | Vodafone GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-18 |
+| [Expert Cloud Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44384568-817-S) | Vodafone GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-18 |
+| [Sachbearbeiter:in Data Operations](https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44383281-817-S) | HDI AG | Hannover, Niedersachsen, Deutschland | 2026-08-18 |
+| [Data Scientist: Advanced Analytics & AI Engineer in Insurance](https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44383301-817-S) | HDI AG | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-18 |
+| [Sachbearbeiter Data Management (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44384448-817-S) | Bechtle AG | Gaildorf, Baden_Wuerttemberg, Deutschland | 2026-08-18 |
+| [Entwickler/in KI & Machine Learning](https://www.arbeitsagentur.de/jobsuche/jobdetail/15861-44384744-817-S) | Fraunhofer-Gesellschaft e.V. Zentrale München | Dresden, Sachsen, Deutschland | 2026-08-18 |
+| [Spotters for Datacenter Construction Site in Eskilstuna](https://arbetsformedlingen.se/platsbanken/annonser/31362539) | NorthLane Group AB | Eskilstuna, Södermanlands län, Sverige | 2026-08-17 |
+| [Data Scientist med AI kompetens till Agio](https://arbetsformedlingen.se/platsbanken/annonser/31362414) | 2Complete AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Thaimassage - Utbildad thaimassör sökes till vår salong i Viared i Borås.](https://arbetsformedlingen.se/platsbanken/annonser/31362343) | On Thaimassage Handelsbolag | Borås, Västra Götalands län, Sverige | 2026-08-17 |
+| [Thaimassage - Utbildad thaimassör sökes till vår salong i Viared i Borås.](https://arbetsformedlingen.se/platsbanken/annonser/31362304) | On Thaimassage Handelsbolag | Borås, Västra Götalands län, Sverige | 2026-08-17 |
+| [Köksbiträde till Restaurang Himlen](https://arbetsformedlingen.se/platsbanken/annonser/31362233) | Sjöstadsgruppen AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Metadataspecialist med ansvar för förstudieledning](https://arbetsformedlingen.se/platsbanken/annonser/31362146) | Avaron AB | Kungsbacka, Hallands län, Sverige | 2026-08-17 |
+| [Produktdataingenjör inom artikelberedning](https://arbetsformedlingen.se/platsbanken/annonser/31362143) | Avaron AB | Halmstad, Hallands län, Sverige | 2026-08-17 |
+| [Senior specialist inom AI-compliance](https://arbetsformedlingen.se/platsbanken/annonser/31362140) | Avaron AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
+| [Commercial & Marketing Lead Kappahl Retail Sweden](https://arbetsformedlingen.se/platsbanken/annonser/31362101) | Kappahl Sverige AB | Mölndal, Västra Götalands län, Sverige | 2026-08-17 |
+| [Industriarbetare Värmland](https://arbetsformedlingen.se/platsbanken/annonser/31362001) | INDUSTRI SUPPORT VÄRMLAND AB | Grums, Värmlands län, Sverige | 2026-08-17 |
+| [Teamledare trafikledning](https://arbetsformedlingen.se/platsbanken/annonser/31361852) | Bravura Sverige AB | Umeå, Västerbottens län, Sverige | 2026-08-17 |
+| [Trainee-sjuksköterska inom intensivvård](https://arbetsformedlingen.se/platsbanken/annonser/31361753) | REGION JÖNKÖPINGS LÄN | Jönköping, Jönköpings län, Sverige | 2026-08-17 |
+| [Teamledare \| Lernia \| Åmål](https://arbetsformedlingen.se/platsbanken/annonser/31361631) | LERNIA BEMANNING AB | Åmål, Västra Götalands län, Sverige | 2026-08-17 |
+| [Timlärare till Receptarieprogrammet](https://arbetsformedlingen.se/platsbanken/annonser/31361614) | MALMÖ UNIVERSITET | Malmö, Skåne län, Sverige | 2026-08-17 |
+| [Trainee Sjuksköterska till Operation, Gällivare sjukhus](https://arbetsformedlingen.se/platsbanken/annonser/31361541) | REGION NORRBOTTEN | Gällivare, Norrbottens län, Sverige | 2026-08-17 |
+| [Redaktör Skolverkets författningssamling](https://arbetsformedlingen.se/platsbanken/annonser/31361035) | STATENS SKOLVERK | Solna, Stockholms län, Sverige | 2026-08-17 |
+| [AI utvecklare](https://arbetsformedlingen.se/platsbanken/annonser/31361018) | Infinity IT Consulting AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Database Engineer](https://arbetsformedlingen.se/platsbanken/annonser/31360960) | Friday Väst AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Paid Media Analyst](https://arbetsformedlingen.se/platsbanken/annonser/31360906) | H & M Hennes & Mauritz GBC AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Kumla skola söker vikarierande lärare i matematik och Teknik åk 7](https://arbetsformedlingen.se/platsbanken/annonser/31360919) | TYRESÖ KOMMUN | Tyresö, Stockholms län, Sverige | 2026-08-17 |
+| [Data Engineer: Cloud Data Platforms & Pipelines](https://arbetsformedlingen.se/platsbanken/annonser/31360752) | Cyber Instincts AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
+| [Nyexad AI-ingenjör till Fordonsindustrin!](https://arbetsformedlingen.se/platsbanken/annonser/31360702) | Friday Väst AB | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
+| [Lösningsarkitekt Datalager](https://arbetsformedlingen.se/platsbanken/annonser/31360584) | SVENSKA KRAFTNÄT | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [AI-utvecklare projektanställning för lokal FAQ-/RAG-lösning](https://arbetsformedlingen.se/platsbanken/annonser/31360409) | Vizzit International AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Timlärare sökes till våra skolor](https://arbetsformedlingen.se/platsbanken/annonser/31360372) | EDA KOMMUN | Eda, Värmlands län, Sverige | 2026-08-17 |
+| [Skogsmaskinförare till Värmland, Stora Enso Skog](https://arbetsformedlingen.se/platsbanken/annonser/31360239) | STORA ENSO SKOG AKTIEBOLAG | Forshaga, Värmlands län, Sverige | 2026-08-17 |
+| [Skogsmaskinförare till Värmland, Stora Enso Skog](https://arbetsformedlingen.se/platsbanken/annonser/31360230) | STORA ENSO SKOG AKTIEBOLAG | Sunne, Värmlands län, Sverige | 2026-08-17 |
+| [Skogsmaskinförare till Värmland, Stora Enso Skog](https://arbetsformedlingen.se/platsbanken/annonser/31360206) | STORA ENSO SKOG AKTIEBOLAG | Torsby, Värmlands län, Sverige | 2026-08-17 |
+| [Servitris/Servitör till Sabai Soong (Deltid)](https://arbetsformedlingen.se/platsbanken/annonser/31360175) | Khao San AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Teamledare med utgångspunkt i Malmö](https://arbetsformedlingen.se/platsbanken/annonser/31360014) | Boost Marketing Group Nordic AB | Malmö, Skåne län, Sverige | 2026-08-17 |
+| [Chaufför till framtidens avfallsinsamling på Renova](https://arbetsformedlingen.se/platsbanken/annonser/31359968) | RENOVA AKTIEBOLAG | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
+| [Junior konsult till Supply Chain Management](https://arbetsformedlingen.se/platsbanken/annonser/31359954) | AFRY AB | Örnsköldsvik, Västernorrlands län, Sverige | 2026-08-17 |
+| [Chaufför till framtidens avfallsinsamling på Renova](https://arbetsformedlingen.se/platsbanken/annonser/31359812) | RENOVA AKTIEBOLAG | Göteborg, Västra Götalands län, Sverige | 2026-08-17 |
+| [Bartender på vin- & cocktailbar](https://arbetsformedlingen.se/platsbanken/annonser/31359676) | Davids Döttrar AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Senior Product Manager (Platform & AI)](https://job-boards.greenhouse.io/wrike/jobs/4613402005) | Wrike | Bangalore | 2026-08-17 |
 | [AI / ML Data Scientist I](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014617255) | The Nielsen Company | Bengaluru, in | 2026-08-17 |
 | [Senior Data Operations Coordinator I](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014617236) | The Nielsen Company | Remote City, id | 2026-08-17 |
+| [Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12438-13835640-S) | expertum GmbH | Hamburg, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Talent Acquisition Specialist - Schwerpunk](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3035531784152800-S) | NTT DATA Business Solutions Global Managed Services GmbH | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Sustainable Reporting Consultant (m/w/d) RIB iTWO - im Bereich Bau](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003555569-S) | Halbauer GmbH | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Research Group Leader for the Research Group “Computational Dependencies and Cultural Data Studies”](https://www.arbeitsagentur.de/jobsuche/jobdetail/17793-j119S6864-13728-S) | Rheinische Friedrich Wilhelms Universität Bonn | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Duales Studium Data Science und Künstliche Intelligenz 2027 (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207556059-S) | Schwarz Corporate Solutions KG | Bad Friedrichshall, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Werkstudent*in (w/m/d) HR Data & Digital Solutions](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1618396-1-S) | Siemens AG | Erlangen, Bayern, Deutschland | 2026-08-17 |
+| [Werkstudent*in Data Analyst im Bereich HR](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618921-1-S) | Mercedes-Benz Group AG | Rastatt, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Airbus - Loads Engineer (d/f/m)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4917089428-S) | Randstad Professional | Manching, Bayern, Deutschland | 2026-08-17 |
+| [QA-Engineer (m/w/d) ? AI focus](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-SCEZ96-IHU-S) | Scopevisio AG | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [IT-Architekt - Teamlead im Applications Management (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13643-1L_618673-S) | Michael Page GmbH | Hamburg, Deutschland | 2026-08-17 |
+| [IBM Client Innovation Center Germany GmbH: Data Scientist (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3017861780956000-S) | IBM Client Innovation Center Germany GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
+| [Senior Berater (m/w/d) SAP Data Migration](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916488163-S) | Leuchtmehr GmbH | Essen, Ruhr, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [AI Configuration & Implementation Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916496872-S) | Liebherr-IT Services GmbH | Kirchdorf an der Iller, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Senior Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917142173-S) | hyrUP GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Data Handling System Engineer (d/m/w)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-964334604-S) | Airbus Defence and Space GmbH | Immenstaad am Bodensee, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Planning and Manufacturing Data steward SAP (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916817742-S) | Adaptive Technology Insights | Leverkusen, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Lead Cloud Integration Architect - Data Fusion Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13509-000021110c3001-S) | BWI GmbH | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Praktikum](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2979881784584801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Data Analyst (m/w/d) im Omnikanalen Kunden und Produktmanagement](https://www.arbeitsagentur.de/jobsuche/jobdetail/18024-10Q4L0000621b-S) | Volksbank eG - Die Gestalterbank | Offenburg, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Teamleitung Digitalisierung und IT (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551730-S) | Stadtverwaltung Augsburg Personalamt | Augsburg, Bayern, Bayern, Deutschland | 2026-08-17 |
+| [Senior SAP Consultant Data Migration & Landscape Transformation (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916496065-S) | Leuchtmehr GmbH | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Junior SAP AMS Berater:in Logistik](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2965821782165601-S) | NTT DATA Business Solutions Global Managed Services GmbH | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Lead Consultant Manufacturing und Vari](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2982041786917601-S) | NTT DATA Business Solutions Global Managed Services GmbH | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19821-7IQSP5BA710A7P14-S) | Schmitt GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
+| [Industrial Engineer (m/w/d) - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964323974-S) | AERO HighProfessionals GmbH | Augsburg, Bayern, Bayern, Deutschland | 2026-08-17 |
+| [Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003552327-S) | ADS Allg Deutsche Steuerberatung mbH | Hamburg, Deutschland | 2026-08-17 |
+| [Data Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/11949-17320577-S) | Bundesministerium für Inneres | Wien,Innere Stadt, Wien, Oesterreich | 2026-08-17 |
+| [AI/ML Engineer – Generative AI + Legal AI (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14922-139916-S) | YPOG | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Data Analyst Consultant (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1618401-1-S) | Siemens AG | Mannheim, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Werkstudent:in Social Media Creator](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2964721782165601-S) | NTT DATA Business Solutions Global Managed Services GmbH | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Data Analyst / Daten-Tüftler (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13884-342495-S) | campoint AG | Seligenstadt, Hessen, Hessen, Deutschland | 2026-08-17 |
+| [AI und Data Science Engineer - EUV Metrology (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-889340/1_620499LS-S) | Hays Professional Solutions GmbH | Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Manager, Analytics Engineer - Mercari](https://apply.workable.com/j/0CFBF11B9E) | Mercari | Minato City, Japan | 2026-08-17 |
+| [Duales Masterprogramm (M. Sc.) im Bereich Big Data Engineering 2027](https://www.arbeitsagentur.de/jobsuche/jobdetail/12608-1440166-28043-1-S) | REWE Group | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Sovereign Cloud Expert DevOps Engineer (f/m/d) - SAP Business Data Cloud (BDC)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11070-1619270-1-S) | SAP | St. Leon-Rot, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Teamleitung Warengruppen- und Supportmanagement](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207557870-S) | Universität Hamburg | Hamburg, Deutschland | 2026-08-17 |
+| [Working Student Procurement Air Power Commodity IT & Ground Systems (d/f/m)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-964332465-S) | Airbus Defence and Space GmbH | München, Bayern, Deutschland | 2026-08-17 |
+| [Teamleitung Structural & Mechanical Engineering (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/18777-964308462-S) | OHB-System AG | Mainz am Rhein, Rheinland_Pfalz, Deutschland | 2026-08-17 |
+| [Chief Engineering PMO (m/w/d) H135/H145 - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964323090-S) | AERO HighProfessionals GmbH | Donauwörth, Bayern, Deutschland | 2026-08-17 |
+| [Mitarbeiter\*in (m/w/d) für Administration, Betrieb und Weiterentwicklung der CAFM-Systemlandschaft](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207562102-S) | Bundesstadt Bonn | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Operations & Projekt Manager (m/w/d) – Tech, Data & Infrastructure](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556915-S) | RE-Managers GmbH | Bad Grönenbach, Allgäu, Bayern, Deutschland | 2026-08-17 |
+| [Backoffice Supply Chain (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-503944_JB5222776-S) | FERCHAU GmbH Niederlassung Freiburg | Freiburg im Breisgau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Werkstudent Machine Learning Engineering (d/m/w/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1619152-1-S) | Mercedes-Benz Group AG | Karlsruhe, Baden, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [(Senior) Development & Training Specialist w/m/d](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551778-S) | Heuking Kühn Lüer Wojtek PartGmbB | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Teamleiter (m/w/d) Instandhaltung - in Direktvermittlung](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-504244_JB5222909-S) | FERCHAU GmbH Niederlassung Hamburg-City | Großenkneten, Niedersachsen, Deutschland | 2026-08-17 |
+| [Projektassistenz - Data Analytics & KI (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003553845-S) | m-result, the data company GmbH | Mainz am Rhein, Rheinland_Pfalz, Deutschland | 2026-08-17 |
+| [Werkstudent*in Data & AI Solutions Engineering im Bereich Transformation & Strategie](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618926-1-S) | Mercedes-Benz Group AG | Berlin, Deutschland | 2026-08-17 |
+| [Software Engineer - AI Powered Development (m/w/d), Würzburg](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2315386-S) | WSW Software GmbH | Würzburg, Bayern, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: PreSales Architect für SAP Lösungen im Rah](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2970891784584801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Heidelberg, Neckar, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Java Backend Software Entwickler:in (m/w/d) ? AI focus](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-FN4USU-XCD-S) | Scopevisio AG | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [AI Agent Engineer/ AI Expert (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-e8dfb295_JB5222262-S) | Xantaro Group | Münster, Westfalen, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Junior SAP Berater:in Rechnungswesen (FI/C](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2968821786917601-S) | NTT DATA Business Solutions Global Managed Services GmbH | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Berater:in Manufacturing Execution - S](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2969451786917601-S) | NTT DATA Business Solutions Global Managed Services GmbH | Jena, Thueringen, Deutschland | 2026-08-17 |
+| [Manager Electrical Engineering (m/w/d) Energietechnik / Teamleitung (1685)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003550920-S) | Brüggen Engineering GmbH | Mannheim, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Auftragssteuerer Manufacturing Engineering Tornado (m/w/d) für AIRBUS Defence & Space](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-494440_JB5222890-S) | FERCHAU GmbH Niederlassung Augsburg | Manching, Bayern, Deutschland | 2026-08-17 |
+| [Technical Data Engineer (m/w/d) - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964322255-S) | AERO HighProfessionals GmbH | Donauwörth, Bayern, Deutschland | 2026-08-17 |
+| [Mechanical Engineer (m/w/d) Helicopter Maintenance Design - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964319687-S) | AERO HighProfessionals GmbH | Donauwörth, Bayern, Deutschland | 2026-08-17 |
+| [Data Scientist (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-816237f4_JB5223271-S) | CKM Group | Berlin, Deutschland | 2026-08-17 |
+| [Generative AI/Agentic AI Engineer (m/w/d) für AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18874-S) | Orizon GmbH, Unit Aviation | Ulm, Donau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Airbus - System Safety Engineer (f/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4917080838-S) | Randstad Professional | Manching, Bayern, Deutschland | 2026-08-17 |
+| [Data Center Technician / Rechenzentrumstechniker (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-516568_JB5222399-S) | FERCHAU Contract GmbH Mannheim CONTRACT | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
+| [Data Platform Engineer / Kubernetes (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207556805-S) | HUK-COBURG VVaG | Coburg, Bayern, Deutschland | 2026-08-17 |
+| [#14784 Senior Data Engineer AWS (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15220-2026-14784-S) | Constaff GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-17 |
+| [Werkstudent Data & AI gestützte Informationsverarbeitung (w/m/div.)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15986-REF294246D-db7d8fd-S) | Robert Bosch GmbH | Lohr am Main, Bayern, Deutschland | 2026-08-17 |
+| [Fachassistent Digitalisierung und IT-Prozesse FAIT (m/w/d), Ecovis Augsburg](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2315189-S) | Ecovis Deutschland | Augsburg, Bayern, Bayern, Deutschland | 2026-08-17 |
+| [PLM Data Classification Manager (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513385_JB5222736-S) | FERCHAU GmbH Niederlassung Dortmund | Duisburg, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Teamleitung Software Algorithm Engineering Computed Tomography (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619015-1-S) | Siemens AG | Forchheim, Oberfranken, Bayern, Deutschland | 2026-08-17 |
+| [Software Developer (m/w/d) Test and Simulation Framework AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18886-S) | Orizon GmbH, Unit Aviation | Manching, Bayern, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Teamleitung Solution Advisory (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2998141777586400-S) | NTT DATA Business Solutions Global Managed Services GmbH | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Teamleiter Vertrieb Carrier & Public Utilities (m/w/d) - I-00674](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003555612-S) | telent GmbH | Backnang, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Teamleiter Vertrieb Carrier & Public Utilities (m/w/d) - I-00674](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003555507-S) | telent GmbH | Backnang, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Werkstudent (d/m/w/x) AI Agents & Robotics Platform](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618906-1-S) | Mercedes-Benz Group AG | Ulm, Donau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Teamleitung Liegenschaftsvermessung/Bodenordnung](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003552062-S) | Landeshauptstadt Magdeburg Die Oberbürgermeisterin Gebietskörperschaft | Magdeburg, Sachsen_Anhalt, Deutschland | 2026-08-17 |
+| [Data Professional (f/m/d) Digital Twin Product](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1618418-1-S) | Siemens AG | Leipzig, Sachsen, Deutschland | 2026-08-17 |
+| [Scientist QA Product Change Management (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15533-477586487-S) | QIAGEN GmbH | Hilden, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Teamleitung in der Anlagenbuchhaltung (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/18974-01471967-S) | Bundesanstalt für Immobilienaufgaben | Potsdam, Brandenburg, Deutschland | 2026-08-17 |
+| [AI-Driven Test Manager (d/f/m)](https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-964352213-S) | Airbus Operations GmbH Werk Bremen | Hamburg, Deutschland | 2026-08-17 |
+| [Reporting & Data Specialist (d/m/f) for AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/14751-417A18883-S) | Orizon GmbH, Unit Aviation | Hamburg, Deutschland | 2026-08-17 |
+| [Senior Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12826-SA0145069_JB5223753-S) | expertplace professionals GmbH | Dresden, Sachsen, Deutschland | 2026-08-17 |
+| [AI Engineer/ Specialist (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-9d18d743_JB5223493-S) | Rottendorf Pharma GmbH | Ennigerloh, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [AI & Automation Manager / Founder's Associate AI (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003556792-S) | Domini Hausverwaltungen GmbH | Eschweiler, Rheinland, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Werkstudent:in Sales Service](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3027411785535201-S) | NTT DATA Business Solutions Global Managed Services GmbH | Pforzheim, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Controller (m/w/d) im Bereich Einkauf Airbus](https://www.arbeitsagentur.de/jobsuche/jobdetail/12438-13835319-S) | expertum GmbH | Manching, Bayern, Deutschland | 2026-08-17 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Werkstudent:in Prozessmanagement & KI](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3027481782770400-S) | NTT DATA Business Solutions Global Managed Services GmbH | Jena, Thueringen, Deutschland | 2026-08-17 |
+| [Praktikant/Werkstudent (m/w/d) AI Systems & Generative AI](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003553407-S) | ETG-Elektronik GmbH | Weiterstadt, Hessen, Deutschland | 2026-08-17 |
+| [Produkttrainer (gn) – Robotik & Bildverarbeitung](https://www.arbeitsagentur.de/jobsuche/jobdetail/12928-A3GCBVKLSYV1KW12-S) | Experis GmbH | Freiburg im Breisgau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Airbus - Software Developer for Test and Simulation Framework (d/m/w)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11119-4917079262-S) | Randstad Professional | Manching, Bayern, Deutschland | 2026-08-17 |
+| [Lead Softwarearchitekt Big Data (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4916495791-S) | FALKEN Group | München, Bayern, Deutschland | 2026-08-17 |
+| [Softwarearchitekt*in als Teamleitung (all genders) im Bereich BigData](https://www.arbeitsagentur.de/jobsuche/jobdetail/18024-10Q6Q00000b14-S) | LexCom Informationssysteme GmbH | München, Bayern, Deutschland | 2026-08-17 |
+| [IT-Administrator für Datenbank-Infrastrukturen (m/w/d) Airbus](https://www.arbeitsagentur.de/jobsuche/jobdetail/12438-13835301-S) | expertum GmbH | Taufkirchen, Kreis München, Bayern, Deutschland | 2026-08-17 |
+| [Teamleitung (m/w/d) SAP Entwicklung & Architektur (ABAP / Cloud / BTP)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12415-DVQ75NU7F3WOVA6K-S) | Charisma-Tec GmbH | Stolberg (Rheinland), Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Lead / Principal Consultant (m/w/d) Databricks](https://www.arbeitsagentur.de/jobsuche/jobdetail/16585-k26155.1605-S) | Windhoff Software Services GmbH | Gescher, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Teamleiter Konstruktion (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-503965_JB5222777-S) | FERCHAU GmbH Niederlassung Wuppertal | Remscheid, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Teamlead Supply Chain Management / Einkauf PKW-Reifen (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003552172-S) | RSU GmbH | Ulm, Donau, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Team Lead Data Engineering (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14774-BB-563927-12683-260-S) | Deichmann SE | Essen, Ruhr, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [AI-Engineer Agentic Development and Enablement (all gender)](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003551759-S) | ALTEN GmbH München | Nürnberg, Mittelfranken, Bayern, Deutschland | 2026-08-17 |
+| [Werkstudent*in FinOps, Cloud & AI Security](https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1618564-1-S) | Mercedes-Benz Group AG | Böblingen, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [SPIR-Specialist (d/m/w) - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964323987-S) | AERO HighProfessionals GmbH | Taufkirchen, Kreis München, Bayern, Deutschland | 2026-08-17 |
+| [Spacecraft Operations Engineer (m/w/d) - AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/20282-964323976-S) | AERO HighProfessionals GmbH | Taufkirchen, Kreis München, Bayern, Deutschland | 2026-08-17 |
+| [Finanzbuchhalter (w/m/d) - Digitalisierung & IT-Prozesse (FAIT) in Filderstadt, Filderstadt](https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2315587-S) | ECOVIS RTS BW Steuerberatungsgesellschaft GmbH & Co. KG | Filderstadt, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Junior Information Scientist (m/w/d) komplexe IT-Systeme](https://www.arbeitsagentur.de/jobsuche/jobdetail/12288-4917139544-S) | expertum GmbH | Biberach an der Riß, Baden_Wuerttemberg, Deutschland | 2026-08-17 |
+| [Werkstudent (w/m/d) AI & Sales Transformation](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1618405-1-S) | Siemens AG | Erlangen, Bayern, Deutschland | 2026-08-17 |
+| [Teamleitung - SAP](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003555808-S) | F&W Fördern & Wohnen AöR | Hamburg, Deutschland | 2026-08-17 |
+| [Prozessexperte (w/m/d) Supply Chain Management](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619753-1-S) | Siemens AG | München, Bayern, Deutschland | 2026-08-17 |
+| [Teamleiter Digital Solution Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-513661_JB5222974-S) | FERCHAU GmbH Niederlassung Wuppertal | Remscheid, Nordrhein_Westfalen, Deutschland | 2026-08-17 |
+| [Werkstudent (w/m/d) Digital Innovation, UX/UI & AI Solutions](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1618406-1-S) | Siemens AG | München, Bayern, Deutschland | 2026-08-17 |
+| [Mechanical AIT Engineer (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/18777-964229404-S) | OHB-System AG | Bremen, Deutschland | 2026-08-16 |
+| [NTT DATA Deutschland SE: Lead Cloud Software Architect für Google Cloud Platform (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3001021786831201-S) | NTT DATA Deutschland SE | Ettlingen, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
+| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Defense Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-2999731786831201-S) | NTT DATA Deutschland SE | München, Bayern, Deutschland | 2026-08-16 |
+| [Operation and Maintenance Engineer – Cloud Operation Services (m/f/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13433-5FTZGIXVII85RMNV-S) | Da Vinci Engineering GmbH | Frankfurt am Main, Hessen, Deutschland | 2026-08-16 |
+| [NTT DATA Deutschland SE: Lead Cloud Platform Architect für Microsoft Azure (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3048201786831200-S) | NTT DATA Deutschland SE | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: (Senior) SAP Berater:in HCM - SAP SuccessF](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2969271784584801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Bielefeld, Nordrhein_Westfalen, Deutschland | 2026-08-16 |
+| [Cloud & Data Platform Architect (gn)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12928-BGM5I6Z15VOI7LO5-S) | Experis GmbH | München, Bayern, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Berater:in S/4 HANA PP/DS](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2965731784671201-S) | NTT DATA Business Solutions Global Managed Services GmbH | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Berater:in Electronic Data Interchange](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2965401773270000-S) | NTT DATA Business Solutions Global Managed Services GmbH | Oldenburg (Oldb), Niedersachsen, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Public Cloud Berater:in - Schwerpunkt](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2966671777500001-S) | NTT DATA Business Solutions Global Managed Services GmbH | Jena, Thueringen, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Senior SAP Consultant (w/m/d) - SAP EPPM (](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2967731785708001-S) | NTT DATA Business Solutions Global Managed Services GmbH | Radebeul, Sachsen, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Berater:in PM / CS](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2965541785880801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Hamburg, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: (Senior-) Product Sales Manager für NTT DA](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2977101781474401-S) | NTT DATA Business Solutions Global Managed Services GmbH | Jena, Thueringen, Deutschland | 2026-08-16 |
+| [NTT DATA Deutschland SE: Lead Consultant AI & Cloud Development (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3000711786831201-S) | NTT DATA Deutschland SE | Erfurt, Thueringen, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Junior AMS Berater:in SAP HCM / SuccessFac](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2968311784757601-S) | NTT DATA Business Solutions Global Managed Services GmbH | Heidelberg, Neckar, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
+| [NTT DATA Deutschland SE: (Managing) Lead Consultant (w/m/x) Enterprise IAM mit Fokus auf Okta Workfo](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3021381786831201-S) | NTT DATA Deutschland SE | Erfurt, Thueringen, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: (Senior) SAP Berater:in IBP - Integrated B](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2968431781128801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Ismaning, Bayern, Deutschland | 2026-08-16 |
+| [Teamleiter In Regulatory Affairs m/w/d](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003550170-S) | TeamPower Personaldienstleistungs GmbH | Pforzheim, Baden_Wuerttemberg, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Werkstudent:in Compliance](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3009291779487200-S) | NTT DATA Business Solutions Global Managed Services GmbH | Köln, Nordrhein_Westfalen, Deutschland | 2026-08-16 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Technical Lead / Teilprojektleitung SAP De](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2969541779919201-S) | NTT DATA Business Solutions Global Managed Services GmbH | Jena, Thueringen, Deutschland | 2026-08-16 |
+| [Förskolärare till Föräldrakooperativet Humlan, Sollentuna.](https://arbetsformedlingen.se/platsbanken/annonser/31356201) | FÖRÄLDRAKOOPERATIVET HUMLAN | Sollentuna, Stockholms län, Sverige | 2026-08-15 |
 | [Regional Business Director, Long Term Care (Great Plains)](https://job-boards.greenhouse.io/axsometherapeutics/jobs/6144499004) | Axsome Therapeutics | St. Louis, MO | 2026-08-15 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Senior Managing Consultant SAP Enterprise](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2968121784412001-S) | NTT DATA Business Solutions Global Managed Services GmbH | Dortmund, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP E-Invoice Berater:in](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2967661784584801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Jena, Thueringen, Deutschland | 2026-08-15 |
+| [NTT DATA Deutschland SE: AI Senior Consultant (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3048051786744800-S) | NTT DATA Deutschland SE | Berlin, Deutschland | 2026-08-15 |
+| [Senior Data Analyst (f/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13644-311317-S) | AppLike Group | Hamburg, Deutschland | 2026-08-15 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Enterprise IT Architect - SAP (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2970801786312801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Dortmund, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [Data Entry (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-YTQCXZ-Z2I-S) | Movie Park Germany GmbH | Bottrop, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [Inhouse SAP S/4HANA Consultant Master Data & Logistics (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44380791-814-S) | Bechtle AG | Neckarsulm, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
+| [NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3001451786744801-S) | NTT DATA Deutschland SE | Hamburg, Deutschland | 2026-08-15 |
+| [Fiskal Entwickler (m/w/d) ? AI experienced](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-6Z2QMO-7NK-S) | Scopevisio AG | Halle (Westfalen), Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Manufacturing & Dual Use Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3001691786744801-S) | NTT DATA Deutschland SE | Frankfurt am Main, Hessen, Deutschland | 2026-08-15 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Senior Account Manager Large Enterprise (w](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-3004561778623200-S) | NTT DATA Business Solutions Global Managed Services GmbH | Dortmund, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Retail & Consumer Goods Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-2999611786744801-S) | NTT DATA Deutschland SE | München, Bayern, Deutschland | 2026-08-15 |
+| [Data Engineer](https://www.arbeitsagentur.de/jobsuche/jobdetail/11949-17285743-S) | KPMG Services GmbH | Linz, Oberoesterreich, Oesterreich | 2026-08-15 |
+| [Senior Application Engineer (Java, Cloud & AI) (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19376-44380377-814-S) | HDI AG | Hannover, Niedersachsen, Deutschland | 2026-08-15 |
+| [(Junior) Produktmanager (m/w/d) AI Chatbot Mietwagen](https://www.arbeitsagentur.de/jobsuche/jobdetail/20208-9c7423a19e434bbeb32-S) | CHECK24 Services Personal GmbH | Augsburg, Bayern, Bayern, Deutschland | 2026-08-15 |
+| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Transport & Logistics Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-2999971786744801-S) | NTT DATA Deutschland SE | München, Bayern, Deutschland | 2026-08-15 |
+| [Senior Expert Cloud Data Engineer (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/17102-44380032-814-S) | Vodafone GmbH | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Public Cloud Berater:in - Schwerpunkt](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2970551785535201-S) | NTT DATA Business Solutions Global Managed Services GmbH | Dortmund, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [Senior Data Architect - Data Fusion Platform (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12336-a26f539j0452086-S) | BWI GmbH | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Projektleiter:in mit Schwerpunkt S/4HA](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2967161777413601-S) | NTT DATA Business Solutions Global Managed Services GmbH | Dortmund, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [Technical Data Engineering Specialist (d/m/w) AIRBUS Helicopters](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003549510-S) | SimpleXX GmbH | Donauwörth, Bayern, Deutschland | 2026-08-15 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: SAP Berater:in für Business Analytics - Fo](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2966401784584801-S) | NTT DATA Business Solutions Global Managed Services GmbH | Berlin, Deutschland | 2026-08-15 |
+| [NTT DATA Business Solutions Global Managed Services GmbH: Junior SAP Berater:in zum 01.10.2026](https://www.arbeitsagentur.de/jobsuche/jobdetail/11956-2965311785621601-S) | NTT DATA Business Solutions Global Managed Services GmbH | Berlin, Deutschland | 2026-08-15 |
+| [Senior Messaging Engineer (M365 / Email Infrastructure) (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12908-063597832-S) | STRABAG BRVZ GMBH & CO.KG | Stuttgart, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
+| [Senior Data Analyst (m/w/d) - Bereich Marketing](https://www.arbeitsagentur.de/jobsuche/jobdetail/12518-L7HWN3-KXZ-S) | Motel One Head Office | München, Bayern, Deutschland | 2026-08-15 |
+| [Inhouse Developer „SAP Datawarehouse (SAP BW/4HANA)" (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/14662-44380904-814-S) | NRW.BANK AdöR | Düsseldorf, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
+| [NTT DATA Deutschland SE: Lead Cloud Software Architect für Microsoft Azure (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3001141786744801-S) | NTT DATA Deutschland SE | Ettlingen, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
+| [Postdoctoral Researcher - Probabilistic Deep Learning for Urban Air Quality (AEON-UP)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19209-44380258-814-S) | Helmholtz-Zentrum hereon GmbH | Geesthacht, Schleswig_Holstein, Deutschland | 2026-08-15 |
+| [NTT DATA Deutschland SE: Lead Cloud Software Architect - Pharma Solutions (w/m/x)](https://www.arbeitsagentur.de/jobsuche/jobdetail/19913-3000471786744801-S) | NTT DATA Deutschland SE | Ettlingen, Baden_Wuerttemberg, Deutschland | 2026-08-15 |
+| [Senior Consultant Datacenter & Backup Solutions (w/m/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/15086-44380710-814-S) | Bechtle AG | Bonn, Nordrhein_Westfalen, Deutschland | 2026-08-15 |
 | [Research Scientist, Life Sciences (Chemistry)](https://job-boards.greenhouse.io/anthropic/jobs/5387564008) | Anthropic | San Francisco, CA | 2026-08-14 |
 | [Staff+ Software Engineer, Safeguards Data](https://job-boards.greenhouse.io/anthropic/jobs/5379140008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
 | [Enterprise Integrated Campaign Manager](https://job-boards.greenhouse.io/anthropic/jobs/5391995008) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
@@ -29,6 +227,7 @@ _31,963 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [Play Based Therapist (Paid Training)](https://job-boards.greenhouse.io/allcareers/jobs/8706842002) | Cortica - Neurodevelopmental | Plainfield, IL | 2026-08-14 |
 | [Environmental Scientist 1](https://job-boards.greenhouse.io/apexcompanies/jobs/5386188008) | Apex Companies | Rockville, MD | 2026-08-14 |
 | [Maintenance Technician - Snoqualmie, WA](https://job-boards.greenhouse.io/berkshiregroupllc/jobs/4368453009) | Berkshire Group, LLC | Echo Ridge | 2026-08-14 |
+| [Dataadministratör till Insamlingsenheten SCB](https://arbetsformedlingen.se/platsbanken/annonser/31354973) | STATISTISKA CENTRALBYRÅN | Örebro, Örebro län, Sverige | 2026-08-14 |
 | [ML Platform Engineer](https://www.stitchfix.com/careers/jobs?gh_jid=8014448&gh_jid=8014448) | Stitch Fix | Remote, USA | 2026-08-14 |
 | [Emergency Veterinary Nursing Trainer - Virginia Beach, VA](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6143590004?gh_jid=6143590004) | Veterinary Emergency Group (VEG) | Virginia Beach, Virginia, United States | 2026-08-14 |
 | [AI Security Specialist](https://boards.greenhouse.io/accenturefederalservices/jobs/4705324006?gh_jid=4705324006) | Accenture Federal Services | Arlington, VA | 2026-08-14 |
@@ -37,6 +236,7 @@ _31,963 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [Data Ingestion Engineer (ADF+Dbt+Snowflake)](https://jobs.smartrecruiters.com/eversana1/744000143503054) | EVERSANA | Pune, in | 2026-08-14 |
 | [Data Platform Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4701476006?gh_jid=4701476006) | Accenture Federal Services | Suitland, MD | 2026-08-14 |
 | [Medical Science Liaison (CNS-Neuro/Radio) - Northeast](https://job-boards.greenhouse.io/azuritypharmaceuticals/jobs/4722166005) | Azurity Pharmaceuticals - US | Remote - US | 2026-08-14 |
+| [Executive Director - AI Consultancy](https://job-boards.greenhouse.io/goodnotes/jobs/6142940004) | Goodnotes | London | 2026-08-14 |
 | [[Supply EM] Account Manager, MEA (Turkish Speaker - Cairo based)](https://job-boards.greenhouse.io/agoda/jobs/8129815) | Agoda | Cairo | 2026-08-14 |
 | [AI Compliance Officer](https://jobs.smartrecruiters.com/Aumovio/744000143467085) | Aumovio | Porto, pt | 2026-08-14 |
 | [Senior / Staff Data Engineer (BI) – CEG Team](https://job-boards.greenhouse.io/agoda/jobs/7529815) | Agoda | Bangkok | 2026-08-14 |
@@ -70,242 +270,42 @@ _31,963 open · showing the 300 most recent · updated 2026-08-17 20:25 UTC_
 | [Maintenance Technician](https://boards.greenhouse.io/redwoodmaterials/jobs/6120064004?gh_jid=6120064004) | Redwood Materials | McCarran, NV | 2026-08-14 |
 | [Data Scientist – Analytics](https://boards.greenhouse.io/applovin/jobs/4705263006?gh_jid=4705263006) | AppLovin | Palo Alto, CA | 2026-08-14 |
 | [Senior Data Platform Engineer (Cloud-Native)](https://jobs.smartrecruiters.com/Sandisk/744000143408559) | Sandisk | Batu Kawan, my | 2026-08-14 |
-| [Senior Manager, Large Customer Sales (Entertainment)](https://job-boards.greenhouse.io/reddit/jobs/8010607) | Reddit | Los Angeles, CA | 2026-08-14 |
 | [Client Account Manager, Large Customer Sales (Retail Beauty)](https://job-boards.greenhouse.io/reddit/jobs/8052432) | Reddit | New York City, NY | 2026-08-14 |
+| [Senior Manager, Large Customer Sales (Entertainment)](https://job-boards.greenhouse.io/reddit/jobs/8010607) | Reddit | Los Angeles, CA | 2026-08-14 |
 | [Sr. Manager, Large Customer Sales (Big Box Retail)](https://job-boards.greenhouse.io/reddit/jobs/7947897) | Reddit | Chicago, IL | 2026-08-14 |
 | [Sustainment Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5041084007?gh_jid=5041084007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
-| [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Machine Learning Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8084032) | Reddit | Remote - United States | 2026-08-14 |
 | [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8103594) | Reddit | Toronto, Canada | 2026-08-14 |
+| [Sr. Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072046) | Reddit | Remote - United States | 2026-08-14 |
 | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8103609) | Reddit | Toronto, Canada | 2026-08-14 |
 | [Staff Data Scientist - Ads Measurement, Signals, Privacy](https://job-boards.greenhouse.io/reddit/jobs/8072076) | Reddit | Remote - United States | 2026-08-14 |
-| [Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)](https://job-boards.greenhouse.io/reddit/jobs/8010403) | Reddit | Toronto, Canada | 2026-08-14 |
 | [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022942) | Reddit | Remote - The Netherlands | 2026-08-14 |
 | [Machine Learning Engineer, Ads Optimization](https://job-boards.greenhouse.io/reddit/jobs/8029120) | Reddit | Remote - United States | 2026-08-14 |
-| [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Reddit | Remote - United Kingdom | 2026-08-14 |
+| [Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment)](https://job-boards.greenhouse.io/reddit/jobs/8010403) | Reddit | Toronto, Canada | 2026-08-14 |
 | [Engineering Manager, Ads ML Efficiency](https://job-boards.greenhouse.io/reddit/jobs/8022366) | Reddit | Remote - United States | 2026-08-14 |
-| [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
+| [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) | Reddit | Remote - United Kingdom | 2026-08-14 |
 | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7931000) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
-| [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Reddit | Remote - United States | 2026-08-14 |
-| [Staff Technical Product Manager, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/7954001) | Reddit | Remote - United States | 2026-08-14 |
 | [Staff Data Scientist, Marketing](https://job-boards.greenhouse.io/reddit/jobs/7445240) | Reddit | Remote - United States | 2026-08-14 |
-| [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Reddit | Remote - United States | 2026-08-14 |
-| [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974507) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
+| [Staff Technical Product Manager, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/7954001) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Staff Data Scientist - Consumer Experimentation](https://job-boards.greenhouse.io/reddit/jobs/7974504) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Data Scientist - Consumer](https://job-boards.greenhouse.io/reddit/jobs/8126946) | Reddit | Remote - United States | 2026-08-14 |
-| [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
+| [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/6745284) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721787) | Reddit | Remote - United States | 2026-08-14 |
 | [Staff Data Scientist, Consumer](https://job-boards.greenhouse.io/reddit/jobs/7931007) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
-| [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Reddit | Remote - United States | 2026-08-14 |
+| [Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/7721851) | Reddit | Remote - Ontario, Canada | 2026-08-14 |
 | [Staff Machine Learning Engineer, Shopping Ads](https://job-boards.greenhouse.io/reddit/jobs/8115838) | Reddit | Remote - United States | 2026-08-14 |
+| [Senior Machine Learning Systems Engineer, Ads ML Experience Platform](https://job-boards.greenhouse.io/reddit/jobs/8112967) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/8104403) | Reddit | Remote - United States | 2026-08-14 |
 | [Senior Sustainment Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5076626007?gh_jid=5076626007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
-| [Manager, Learning Management Operations (EAII Advisors)](https://apply.workable.com/j/EC7D5A368A) | Evidence Action | New Delhi, India | 2026-08-14 |
-| [Senior Manager, People & Culture (EAII Advisors)](https://apply.workable.com/j/1E1E091C21) | Evidence Action | New Delhi, India | 2026-08-14 |
-| [Senior Ops Support Technician - Equipment Maintenance (EES)](https://job-boards.greenhouse.io/rocketlab/jobs/7867196003) | Rocket Lab Corporation | Albuquerque, NM | 2026-08-13 |
-| [Database Reliability Engineer](https://jobs.smartrecruiters.com/LLNL/3743990014596596) | LLNL | Livermore, us | 2026-08-13 |
-| [Lead Maintenance Technician](https://boards.greenhouse.io/redwoodmaterials/jobs/5838270004?gh_jid=5838270004) | Redwood Materials | McCarran, NV | 2026-08-13 |
-| [Senior Maintenance Technician](https://boards.greenhouse.io/andurilindustries/jobs/5008965007?gh_jid=5008965007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
-| [Senior Maintenance Technician, 2nd Shift](https://boards.greenhouse.io/andurilindustries/jobs/5209899007?gh_jid=5209899007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
-| [Manager, Production Maintenance](https://boards.greenhouse.io/andurilindustries/jobs/5098726007?gh_jid=5098726007) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
-| [Maintenance Supervisor](https://boards.greenhouse.io/redwoodmaterials/jobs/6123021004?gh_jid=6123021004) | Redwood Materials | Ridgeville, South Carolina, United States | 2026-08-13 |
-| [Strategy Data Scientist - Compliance](https://www.bill.com/job?6142609004&gh_jid=6142609004) | BILL | United States | 2026-08-13 |
-| [Staff Machine Learning Engineer, Traffic Intelligence](https://careers.airbnb.com/positions/8129371?gh_jid=8129371) | Airbnb | United States | 2026-08-13 |
-| [Data Analyst, Manufacturing](https://boards.greenhouse.io/andurilindustries/jobs/5198002007?gh_jid=5198002007) | Anduril Industries | Santa Ana, California, United States | 2026-08-13 |
-| [Manager, Client Services, AI, CX](https://boards.eu.greenhouse.io/nice/jobs/4854899101?gh_jid=4854899101) | NICE | USA - Remote | 2026-08-13 |
-| [Research Scientist](https://job-boards.greenhouse.io/oura/jobs/4239300009) | Ōura | Remote - United States | 2026-08-13 |
-| [Truck Team and Sales Training](https://job-boards.greenhouse.io/1800gotjunk/jobs/4369913009) | 1-800-GOT-JUNK? | Sparks, NV | 2026-08-13 |
-| [Veterinary Nurse - Greencross Aitkenvale](https://jobs.smartrecruiters.com/GreencrossPetWellnessCompany/744000143403759) | Greencross Pet Wellness Company | Aitkenvale, au | 2026-08-13 |
-| [Registered Nurse - Mental Health - Full-Time & Part-Time positions available](https://jobs.smartrecruiters.com/HealthcareAustralia1/6000000001313487) | Healthcare Australia | Villawood, au | 2026-08-13 |
-| [Truck Team and Sales Training](https://job-boards.greenhouse.io/1800gotjunk/jobs/4369886009) | 1-800-GOT-JUNK? | Calgary, AB | 2026-08-13 |
-| [Consultant – Compliance Data Science & AI](https://jobs.smartrecruiters.com/Sia/744000143402439) | Sia | San Francisco, us | 2026-08-13 |
-| [Associate Consultant, Generative AI](https://jobs.smartrecruiters.com/Sia/744000143402399) | Sia | San Francisco, us | 2026-08-13 |
-| [Consultant- Marketing Data Science & AI](https://jobs.smartrecruiters.com/Sia/744000143402358) | Sia | San Francisco, us | 2026-08-13 |
-| [Consultant- Marketing Data Science & AI](https://jobs.smartrecruiters.com/Sia/744000143402329) | Sia | New York, us | 2026-08-13 |
-| [Associate Consultant, Generative AI](https://jobs.smartrecruiters.com/Sia/744000143402249) | Sia | New York, us | 2026-08-13 |
-| [Consultant – Compliance Data Science & AI](https://jobs.smartrecruiters.com/Sia/744000143402199) | Sia | New York, us | 2026-08-13 |
-| [Software Engineering Director, Infrared Data Products](https://job-boards.greenhouse.io/muonspace/jobs/5178221007) | Muon Space | San Jose, CA | 2026-08-13 |
-| [Senior Remote Sensing Data Scientist, Cal/Val](https://job-boards.greenhouse.io/muonspace/jobs/5186091007) | Muon Space | Remote | 2026-08-13 |
-| [Software Engineer, IR Data Products](https://job-boards.greenhouse.io/muonspace/jobs/5205516007) | Muon Space | San Jose, CA | 2026-08-13 |
-| [DATA MANAGEMENT SENIOR ANALYST](https://jobs.smartrecruiters.com/experian/744000143401909) | Experian | Bogotá, co | 2026-08-13 |
-| [Data Science Institute Administrative Support](https://jobs.smartrecruiters.com/LLNL/3743990014595947) | LLNL | Livermore, us | 2026-08-13 |
-| [Maintenance Technician](https://boards.greenhouse.io/redwoodmaterials/jobs/6128382004?gh_jid=6128382004) | Redwood Materials | McCarran, NV | 2026-08-13 |
-| [Senior Data Engineer](https://otter.ai/careers?gh_jid=7866132003) | Otter.ai | Mountain View, CA | 2026-08-13 |
-| [DATA GOVERNANCE MANAGER](https://jobs.smartrecruiters.com/experian/744000143401509) | Experian | Bogotá, co | 2026-08-13 |
-| [Staff Data Engineer](https://boards.greenhouse.io/rdccareers/jobs/7848816003?gh_jid=7848816003) | Realtor.com Careers | Austin, Texas, United States | 2026-08-13 |
-| [Senior Retention Campaign Manager](https://job-boards.greenhouse.io/manscaped/jobs/5389809008) | MANSCAPED | United States - Remote | 2026-08-13 |
-| [Senior Data Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8016466) | Planet | Washington DC; Denver, CO | 2026-08-13 |
-| [Product Marketing Manager, AI Solutions](https://job-boards.greenhouse.io/planetlabs/jobs/7964648) | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
-| [Data Visualization Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8044691) | Planet | San Francisco, CA | 2026-08-13 |
-| [Senior Product Manager, Analysis Ready Data Products](https://job-boards.greenhouse.io/planetlabs/jobs/7967529) | Planet | San Francisco, CA; Arlington, VA | 2026-08-13 |
-| [Senior Engineering Manager, D&I Analytics](https://job-boards.greenhouse.io/planetlabs/jobs/8068089) | Planet | Washington, D.C. | 2026-08-13 |
-| [Senior Data Engineer, Constellation Services](https://job-boards.greenhouse.io/planetlabs/jobs/8052727) | Planet | Berlin, Germany | 2026-08-13 |
-| [Knowledge & AI Agent Manager](https://job-boards.greenhouse.io/planetlabs/jobs/8038788) | Planet | Berlin, Germany; Haarlem, Netherlands | 2026-08-13 |
-| [Senior Engineering Manager - AI Geospatial Assistant Team](https://job-boards.greenhouse.io/planetlabs/jobs/7603801) | Planet | San Francisco, CA | 2026-08-13 |
-| [Patient Liaison Cardiology EP Full time](https://jobs.smartrecruiters.com/northwesternmedicine/744000143401139) | Northwestern Memorial Healthcare | Geneva, us | 2026-08-13 |
-| [🎯Now Hiring - Security Officer (Open Availability Required)](https://job-boards.greenhouse.io/marksman/jobs/4369847009) | Marksman Security LLC | Culver City, CA | 2026-08-13 |
-| [Principal, Air Quality](https://jobs.smartrecruiters.com/Ramboll3/744000143399144) | Ramboll | Baton Rouge, Louisiana, us | 2026-08-13 |
-| [Specialist Account Executive, Data Security - Enterprise, East](https://job-boards.greenhouse.io/zscaler/jobs/5179466007) | Zscaler | Remote - Massachusetts, USA; Remote - New York, USA | 2026-08-13 |
-| [Community & Patient Liaison - Louisville, GA](https://job-boards.greenhouse.io/mainstreethealth/jobs/4724110005) | Main Street Health | Louisville, GA | 2026-08-13 |
-| [Pediatric Clinical Faculty (Part Time): Honolulu, Hawaii](https://jobs.smartrecruiters.com/Covista/744000143399274) | Covista | Honolulu, us | 2026-08-13 |
-| [Principal Specialist Sales Engineer - Data Security - West/South](https://job-boards.greenhouse.io/zscaler/jobs/5132564007) | Zscaler | Remote - USA | 2026-08-13 |
-| [Senior Quality Engineer, Findata](https://job-boards.greenhouse.io/alphasense/jobs/8649680002) | AlphaSense | Remote - United States | 2026-08-13 |
-| [Mental Health Clinical Faculty (Part-Time): Honolulu, Hawaii](https://jobs.smartrecruiters.com/Covista/744000143400079) | Covista | Honolulu, us | 2026-08-13 |
-| [Operations Associate (Full-Time) - Vail Village](https://boards.greenhouse.io/aloyoga/jobs/6143602004?gh_jid=6143602004) | ALO | Vail Village, Vail, CO (10167) | 2026-08-13 |
-| [Senior Quality Engineer, Findata](https://job-boards.greenhouse.io/alphasense/jobs/8628293002) | AlphaSense | Remote - Canada | 2026-08-13 |
-| [Research Data Analyst](https://job-boards.greenhouse.io/naughtydog/jobs/6139154004) | Naughty Dog | United States, Santa Monica, CA | 2026-08-13 |
-| [Operations Lead - Vail Village](https://boards.greenhouse.io/aloyoga/jobs/6143597004?gh_jid=6143597004) | ALO | Vail Village, Vail, CO (10167) | 2026-08-13 |
-| [AI Operations Associate](https://job-boards.greenhouse.io/accordion/jobs/7867202) | Accordion | Atlanta; Boston; Charlotte; Chicago; Dallas; Los Angeles; New York; San Francisco | 2026-08-13 |
-| [Senior Machine Learning Engineer, Recommendations](https://app.careerpuck.com/job-board/lyft/job/8603653002?gh_jid=8603653002) | Lyft | Toronto, Canada | 2026-08-13 |
-| [Nail Technician (Casual)](https://jobs.smartrecruiters.com/AccorHotel/744000143397311) | AccorHotel | Kohala Coast, us | 2026-08-13 |
-| [Customer Service and Exit Booth Agent (Pittsburgh Airport)](https://jobs.smartrecruiters.com/SIXT/744000143397280) | SIXT | Pittsburgh, us | 2026-08-13 |
-| [Data Architect](https://jobs.smartrecruiters.com/PriviaHealth/744000143398599) | Privia Health | Remote, us | 2026-08-13 |
-| [Project Coordinator - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143397639) | Turner & Townsend | Indianapolis, us | 2026-08-13 |
-| [Enterprise Account Executive, Retail](https://job-boards.greenhouse.io/vercel/jobs/6112143004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Software Engineer, AI Gateway](https://job-boards.greenhouse.io/vercel/jobs/5798406004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Senior Integrated Campaigns Manager](https://job-boards.greenhouse.io/vercel/jobs/6122619004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Software Engineer, AI SDK](https://job-boards.greenhouse.io/vercel/jobs/5474915004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Customer Return Agent (Baltimore Airport)](https://jobs.smartrecruiters.com/SIXT/744000143397289) | SIXT | Baltimore, us | 2026-08-13 |
-| [📢 Hiring Now! Part-Time Unarmed Retail Security Officers🎉](https://job-boards.greenhouse.io/marksman/jobs/4320668009) | Marksman Security LLC | Wauwatosa, WI 53226 | 2026-08-13 |
-| [📢 Welcome to Marksman Security Retail Security Job Fair! 🎉, Wauwatosa, WI](https://job-boards.greenhouse.io/marksman/jobs/4358202009) | Marksman Security LLC | Wauwatosa, WI 53226 | 2026-08-13 |
-| [Associate Director - Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143396539) | Turner & Townsend | Seattle, us | 2026-08-13 |
-| [Senior Cost Manager - Manufacturing / Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143396459) | Turner & Townsend | Philadelphia, us | 2026-08-13 |
-| [GERENTE DE REMUNERACAO E INFORMACOES GERENCIAIS](https://jobs.smartrecruiters.com/SGS/744000143396179) | SGS | Barueri, br | 2026-08-13 |
-| [Retail Assistant Store Manager, Community Focus (Citadel Outlets)](https://jobs.smartrecruiters.com/VuoriInc/744000143395903) | Vuori, Inc | Commerce, us | 2026-08-13 |
-| [Staff Enterprise AI Engineer](https://boards.greenhouse.io/6sense/jobs/8002993?gh_jid=8002993) | 6sense | San Francisco, California, United States | 2026-08-13 |
-| [ML Engineer III](https://boards.greenhouse.io/6sense/jobs/8106123?gh_jid=8106123) | 6sense | Bengaluru, Karnataka, India | 2026-08-13 |
-| [Sr. Data Scientist](https://boards.greenhouse.io/6sense/jobs/7974951?gh_jid=7974951) | 6sense | San Francisco, California, United States | 2026-08-13 |
-| [Product Lead, AI Platform](https://boards.greenhouse.io/6sense/jobs/7994495?gh_jid=7994495) | 6sense | United States, Remote | 2026-08-13 |
-| [Lead, Advanced Analytics, Community Support](https://careers.airbnb.com/positions/8125981?gh_jid=8125981) | Airbnb | United States | 2026-08-13 |
-| [Tailored Day Service Floater](https://job-boards.greenhouse.io/abilitypath/jobs/5193769007) | AbilityPath | Burlingame, California, United States, Redwood City, California, United States, | 2026-08-13 |
-| [Data Analyst - Revenue Management](https://jobs.smartrecruiters.com/PublicStorage/744000143395139) | Public Storage | Glendale, us | 2026-08-13 |
-| [Senior Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143394740) | Turner & Townsend | Dallas, us | 2026-08-13 |
-| [Senior Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143394714) | Turner & Townsend | Fort Worth, us | 2026-08-13 |
-| [Sales Trainee](https://jobs.smartrecruiters.com/RedBull/744000143394639) | Red Bull | Santa Maria, us | 2026-08-13 |
-| [Maintenance Tech II](https://jobs.smartrecruiters.com/AsburyCommunities/744000143394279) | Asbury Communities | Gaithersburg, us | 2026-08-13 |
-| [Sr. Director, UX Research - AI](https://jobs.smartrecruiters.com/ServiceNow/744000143393175) | ServiceNow | Santa Clara, us | 2026-08-13 |
-| [Hospice Certified Home Health Aide (CHHA/CNA)](https://job-boards.greenhouse.io/missionhealthcare/jobs/4341002009) | Mission Healthcare | Ventura, CA | 2026-08-13 |
-| [Hospice Certified Home Health Aide (CHHA/CNA)](https://job-boards.greenhouse.io/missionhealthcare/jobs/4329100009) | Mission Healthcare | San Bernardino, CA | 2026-08-13 |
-| [Home Health Certified Home Health Aide (CHHA/CNA)](https://job-boards.greenhouse.io/missionhealthcare/jobs/4317462009) | Mission Healthcare | Sacramento, CA | 2026-08-13 |
-| [Hospice Chaplain](https://job-boards.greenhouse.io/missionhealthcare/jobs/4353204009) | Mission Healthcare | Murrieta, CA | 2026-08-13 |
-| [Principal Data Engineer (Remote)](https://job-boards.greenhouse.io/8thlightrebuild/jobs/7866487003) | 8th Light | United States | 2026-08-13 |
-| [Staff Product Manager - Enterprise AI](https://job-boards.greenhouse.io/twilio/jobs/7918885) | Twilio | Remote - US | 2026-08-13 |
-| [Retail Inventory Lead (Manhattan Beach)](https://jobs.smartrecruiters.com/VuoriInc/744000143393289) | Vuori, Inc | Manhattan Beach, us | 2026-08-13 |
-| [Participant Experience Liaison](https://job-boards.greenhouse.io/welbehealth/jobs/8696989002) | WelbeHealth | Rosemead, CA, USA | 2026-08-13 |
-| [Tyler Union: Maintenance Planner](https://jobs.smartrecruiters.com/McWaneInc/3743990014594656) | McWane, Inc. | Anniston, us | 2026-08-13 |
-| [Lead Data Engineer (Remote)](https://job-boards.greenhouse.io/8thlightrebuild/jobs/7866429003) | 8th Light | United States | 2026-08-13 |
-| [Senior Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143392639) | Turner & Townsend | USA wide, us | 2026-08-13 |
-| [Account Executive, Med Affairs](https://job-boards.greenhouse.io/realchemistry/jobs/5385244008) | Real Chemistry | Remote - USA | 2026-08-13 |
-| [Technical Trainer, VCE](https://job-boards.greenhouse.io/verkada/jobs/5138344007) | Verkada | Remote | 2026-08-13 |
-| [Sr. Full-Stack Developer, AI Design-to-Dev](https://job-boards.greenhouse.io/appnovation/jobs/8435267002) | Appnovation Technologies | San José, Costa Rica | 2026-08-13 |
-| [Sr. Full-Stack Developer, AI Design-to-Dev](https://job-boards.greenhouse.io/appnovation/jobs/8435250002) | Appnovation Technologies | São Paulo | 2026-08-13 |
-| [Sr. Full-Stack Developer, AI Design-to-Dev](https://job-boards.greenhouse.io/appnovation/jobs/8708667002) | Appnovation Technologies | Toronto | 2026-08-13 |
-| [Behavioral Technician Trainee](https://jobs.bayada.com/en/jobs?gh_jid=8708658002) | BAYADA Home Health Care | Kihei, HI 96753 \| 20.734777167 \| -156.44797302 | 2026-08-13 |
-| [Platform Engineer – Data Science & AI Platform](https://jobs.smartrecruiters.com/asos/744000143391739) | ASOS | London, gb | 2026-08-13 |
-| [Manager In Training/Sales Representative](https://job-boards.greenhouse.io/mississippititleloansinc/jobs/8121787) | Mississippi Title Loans, Inc | 2241 Hwy. 80 West | 2026-08-13 |
-| [Senior Manager - Data & AI Governance](https://job-boards.greenhouse.io/mercury/jobs/6142625004) | Mercury | San Francisco, CA, New York, NY, Portland, OR, or Remote within United States | 2026-08-13 |
-| [Senior Director/SME, Integration & Data Management Strategy](https://job-boards.greenhouse.io/m9solutions/jobs/5211384007) | M9 Solutions | Remote - Public Trust clearance required | 2026-08-13 |
-| [Peloton Expert (Part-Time) - PSNY Retail](https://careers.onepeloton.com/en/all-jobs/?gh_jid=7980450) | Peloton | New York, New York | 2026-08-13 |
-| [Senior Analytics Engineer](https://job-boards.greenhouse.io/twilio/jobs/8044650) | Twilio | Remote - US | 2026-08-13 |
-| [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8675757002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Data Product Manager - Machine Learning & Computer Vision](https://job-boards.greenhouse.io/abinbev/jobs/8672703002) | AB InBev \| Growth Group | Sao Paulo | 2026-08-13 |
-| [Manager Machine Learning Platform - Bees Data](https://job-boards.greenhouse.io/abinbev/jobs/8620873002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Senior Machine Learning Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8646318002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8147553002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Mid Level Machine Learning Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8645026002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Mid Level Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8675651002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Senior People Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8631716002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Mid Level Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8590377002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Senior Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8638804002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Ads Growth & Insights Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8647555002) | AB InBev \| Growth Group | São Paulo, Brazil | 2026-08-13 |
-| [Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8422274002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Chapter Lead Data Analytics](https://job-boards.greenhouse.io/abinbev/jobs/8437704002) | AB InBev \| Growth Group | São Paulo (SP) OR Campinas (SP) | 2026-08-13 |
-| [Senior Data Scientist - Bees Frontline](https://job-boards.greenhouse.io/abinbev/jobs/8616933002) | AB InBev \| Growth Group | Remote | 2026-08-13 |
-| [Senior Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/8592620002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Senior Data Scientist - BEES Logistics](https://job-boards.greenhouse.io/abinbev/jobs/8601336002) | AB InBev \| Growth Group | Remote | 2026-08-13 |
-| [Intermediate Data Analyst](https://job-boards.greenhouse.io/abinbev/jobs/8630971002) | AB InBev \| Growth Group | São Paulo, SP | 2026-08-13 |
-| [Data Product Manager \| Machine Learning Platform](https://job-boards.greenhouse.io/abinbev/jobs/8586652002) | AB InBev \| Growth Group | Remote, Brazil | 2026-08-13 |
-| [Data Product Manager - RTM & Contact Strategy](https://job-boards.greenhouse.io/abinbev/jobs/8583901002) | AB InBev \| Growth Group | Sao Paulo - SP | 2026-08-13 |
-| [Intermediate Data Science\| Anti-Fraud](https://job-boards.greenhouse.io/abinbev/jobs/8672562002) | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
-| [Intermediate Data Engineer](https://job-boards.greenhouse.io/abinbev/jobs/7598518002) | AB InBev \| Growth Group | Brazil, Remote | 2026-08-13 |
-| [Retail General Manager, Lynnfield](https://jobs.smartrecruiters.com/VuoriInc/744000143391219) | Vuori, Inc | Lynnfield, us | 2026-08-13 |
-| [Sr Specialist, Supply Chain](https://jobs.smartrecruiters.com/PilotCompany/744000143391179) | Pilot Company | Knoxville, us | 2026-08-13 |
-| [Title 1 Aide](https://job-boards.greenhouse.io/accelschools/jobs/7866355003) | ACCEL Schools | Youngstown Academy of Excellence | 2026-08-13 |
-| [Senior Electronic Repair Technician](https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4662562006) | Advanced Technology Services | United States- Peoria, Illinois | 2026-08-13 |
-| [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866350003) | ACCEL Schools | Wright Preparatory Academy | 2026-08-13 |
-| [Instructional Aide](https://job-boards.greenhouse.io/accelschools/jobs/7866346003) | ACCEL Schools | Western Toledo Preparatory Academy | 2026-08-13 |
-| [Senior Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143390559) | Turner & Townsend | Peoria, us | 2026-08-13 |
-| [Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143390359) | Turner & Townsend | Peoria, us | 2026-08-13 |
-| [Medical Director (Medical Affairs)](https://job-boards.greenhouse.io/realchemistry/jobs/5254166008) | Real Chemistry | Remote - USA | 2026-08-13 |
-| [Senior Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143390269) | Turner & Townsend | Glendale, us | 2026-08-13 |
-| [Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143390004) | Turner & Townsend | Glendale, us | 2026-08-13 |
-| [Director, Integration & Data Migration](https://job-boards.greenhouse.io/m9solutions/jobs/5211383007) | M9 Solutions | Remote - Public Trust clearance required | 2026-08-13 |
-| [Instructional Aide](https://job-boards.greenhouse.io/accelschools/jobs/7866341003) | ACCEL Schools | STEAM Academy of Warren | 2026-08-13 |
-| [Senior Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143390059) | Turner & Townsend | Phoenix, us | 2026-08-13 |
-| [Lead AI Engineer](https://jobs.smartrecruiters.com/blend360/744000143390049) | Blend360 | Columbia, us | 2026-08-13 |
-| [Lead-Workforce Analytics](https://jobs.smartrecruiters.com/Sutherland/744000143389848) | Sutherland | Barranquilla, co | 2026-08-13 |
-| [Entry-Level In Vivo Scientist](https://jobs.smartrecruiters.com/Eurofins/744000143389749) | Eurofins | South Brunswick Township, us | 2026-08-13 |
-| [Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143388354) | Turner & Townsend | Phoenix, us | 2026-08-13 |
-| [Instructional Aide](https://job-boards.greenhouse.io/accelschools/jobs/7866335003) | ACCEL Schools | Monroe Preparatory Academy | 2026-08-13 |
-| [Janitorial Maintenance](https://jobs.smartrecruiters.com/PilotCompany/744000143387680) | Pilot Company | Villa Ridge, us | 2026-08-13 |
-| [Terrain Park Lead - Buttermilk WINTER 26-27](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000143388980) | Aspen Skiing Company | Aspen, us | 2026-08-13 |
-| [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866279003) | ACCEL Schools | Lorain Preparatory High School | 2026-08-13 |
-| [AI Systems Integration Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7821498003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [Dataflow Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7793277003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [AI Software Engineer-Principal](https://netsage.com/careers/current-openings/job?gh_jid=7821504003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [AI Systems Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7821495003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [AI Analytic Software Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7693005003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [AI Software Engineer-Senior](https://netsage.com/careers/current-openings/job?gh_jid=7686786003) | NetSage | Annapolis Junction, Maryland, United States | 2026-08-13 |
-| [Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143388620) | Turner & Townsend | West Palm Beach, us | 2026-08-13 |
-| [Federal HR Domain SME](https://job-boards.greenhouse.io/m9solutions/jobs/5211381007) | M9 Solutions | Remote - Public Trust clearance required | 2026-08-13 |
-| [Cost Manager / Quantity Surveyor - Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143388509) | Turner & Townsend | Indiantown, us | 2026-08-13 |
-| [Culinary Server / Wait Staff](https://boards.greenhouse.io/otterbein/jobs/7793231003?gh_jid=7793231003) | Otterbein SeniorLife | Sylvania, Ohio | 2026-08-13 |
-| [Instructional Aide](https://job-boards.greenhouse.io/accelschools/jobs/7866267003) | ACCEL Schools | Foundation Academy | 2026-08-13 |
-| [Medical Science Liaison](https://job-boards.greenhouse.io/natera/jobs/6141141004) | Natera | US Remote | 2026-08-13 |
-| [Data Annotator / Geospatial Annotation Specialist](https://job-boards.greenhouse.io/aechelontechnology/jobs/5078955008) | Aechelon Technology | South San Francisco | 2026-08-13 |
-| [Instructional Aide](https://job-boards.greenhouse.io/accelschools/jobs/7866265003) | ACCEL Schools | Case Preparatory Academy | 2026-08-13 |
-| [Branch Manager (Newark Airport)](https://jobs.smartrecruiters.com/SIXT/744000143386814) | SIXT | Newark, us | 2026-08-13 |
-| [Cost Manager / Quantity Surveyor – Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143388049) | Turner & Townsend | St Louis, us | 2026-08-13 |
-| [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866262003) | ACCEL Schools | Case Preparatory Academy | 2026-08-13 |
-| [Cost Manager / Quantity Surveyor – Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143387959) | Turner & Townsend | Chicago, us | 2026-08-13 |
-| [Senior Cost Manager / Quantity Surveyor – Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143387535) | Turner & Townsend | Albuquerque, us | 2026-08-13 |
-| [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866261003) | ACCEL Schools | Canton College Preparatory School | 2026-08-13 |
-| [AI SOC Solutions Architect - Professional Services - Costa Rica](https://job-boards.greenhouse.io/torq/jobs/6142481004) | Torq | Costa Rica | 2026-08-13 |
-| [Senior Cost Manager / Quantity Surveyor – Data Center Construction](https://jobs.smartrecruiters.com/TurnerTownsend/744000143387639) | Turner & Townsend | El Paso, us | 2026-08-13 |
-| [1:1 Instructional Aide](https://job-boards.greenhouse.io/accelschools/jobs/7866235003) | ACCEL Schools | Canton College Preparatory School | 2026-08-13 |
-| [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866203003) | ACCEL Schools | Bridges Preparatory Academy | 2026-08-13 |
-| [Instructional Aide](https://job-boards.greenhouse.io/accelschools/jobs/7866198003) | ACCEL Schools | Akron Preparatory School | 2026-08-13 |
-| [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866197003) | ACCEL Schools | Akron Preparatory School | 2026-08-13 |
-| [Maintenance Technician III](https://jobs.smartrecruiters.com/abbvie/3743990014593236) | AbbVie | Waco, us | 2026-08-13 |
-| [Retail Assistant Manager](https://jobs.smartrecruiters.com/BoydGaming/3743990014593186) | Boyd Gaming | Las Vegas, us | 2026-08-13 |
-| [Instructional Aide (Part-Time)](https://job-boards.greenhouse.io/accelschools/jobs/7866193003) | ACCEL Schools | Academy of Arts & Technology | 2026-08-13 |
-| [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866192003) | ACCEL Schools | Academy of Arts & Technology | 2026-08-13 |
-| [Designer - Graphic, Digital, AI (On-Site, NYC)](https://job-boards.greenhouse.io/matteprojects/jobs/6143419004) | MATTE PROJECTS | New York, New York | 2026-08-13 |
-| [Data Migration/ETL Engineer](https://job-boards.greenhouse.io/m9solutions/jobs/5211379007) | M9 Solutions | Remote - Public Trust clearance required | 2026-08-13 |
-| [Primary Care Physician - Sign-On Bonus Available](http://www.onemedical.com/careers/all-departments/8128835?gh_jid=8128835) | One Medical | San Jose, CA | 2026-08-13 |
-| [Primary Care Physician - Sign-On Bonus Available](http://www.onemedical.com/careers/all-departments/8128832?gh_jid=8128832) | One Medical | Redwood City, CA | 2026-08-13 |
-| [Staff Data Engineer, Core Migrations](https://job-boards.greenhouse.io/machinifyinc/jobs/4303034009) | Machinify | Remote - US | 2026-08-13 |
-| [Nurse Aide – Full-Time Days \| Illinois Residents Only](https://job-boards.greenhouse.io/bethesdahealthgroup/jobs/4369498009) | Bethesda Health Group | Memorial Care Center | 2026-08-13 |
-| [Cleared Instructional Training Consultant](https://boards.greenhouse.io/accenturefederalservices/jobs/4692034006?gh_jid=4692034006) | Accenture Federal Services | Washington, DC | 2026-08-13 |
-| [Janitorial Maintenance](https://jobs.smartrecruiters.com/PilotCompany/744000143385619) | Pilot Company | Albuquerque, us | 2026-08-13 |
-| [Overnight Customer Service Return Agent (Miami International Airport)](https://jobs.smartrecruiters.com/SIXT/744000143385579) | SIXT | Miami, us | 2026-08-13 |
-| [Solution Development Architect: Presales, AI/GPU Infrastructure](https://boards.greenhouse.io/myriad360/jobs/8706977002?gh_jid=8706977002) | Myriad360 | Remote | 2026-08-13 |
-| [Datacom Product Specialist](https://jobs.smartrecruiters.com/REXEL1/744000143385188) | REXEL | Carrollton, us | 2026-08-13 |
-| [Staff AI Scientist](https://job-boards.greenhouse.io/oura/jobs/4364155009) | Ōura | Remote - United States | 2026-08-13 |
-| [Commis.e aux réservations, temporaire, temps plein (H/F/D)](https://jobs.smartrecruiters.com/AccorHotel/744000143384409) | AccorHotel | Montebello, ca | 2026-08-13 |
-| [Restaurant Manager - Trainee](https://jobs.smartrecruiters.com/PilotCompany/744000143384219) | Pilot Company | Jacksonville, us | 2026-08-13 |
-| [AI Agent Experience Designer](https://www.observe.ai/position?gh_jid=5389451008) | Observe.AI | Canada | 2026-08-13 |
-| [Senior Technical Director, Release Management & Automation (AI)](https://job-boards.greenhouse.io/scopely/jobs/5238541008?gh_jid=5238541008) | Scopely | ES - Barcelona, Spain | 2026-08-13 |
-| [Senior Maintenance Technician - East Portland](https://job-boards.greenhouse.io/mgproperties/jobs/5202008007) | MG Properties | Portland, OR | 2026-08-13 |
-| [Data Platform Architect](https://boards.greenhouse.io/accenturefederalservices/jobs/4696629006?gh_jid=4696629006) | Accenture Federal Services | Suitland, MD | 2026-08-13 |
-| [Data Governance Specialist](https://boards.greenhouse.io/accenturefederalservices/jobs/4698742006?gh_jid=4698742006) | Accenture Federal Services | Suitland, MD | 2026-08-13 |
-| [Senior Data Loss Prevention Analyst](https://jobs.smartrecruiters.com/abbvie/3743990014592476) | AbbVie | Chicago, us | 2026-08-13 |
-| [Data Science Practitioner](https://boards.greenhouse.io/accenturefederalservices/jobs/4671340006?gh_jid=4671340006) | Accenture Federal Services | Suitland, MD | 2026-08-13 |
-| [Aide-opérateur en traitement des eaux](https://jobs.smartrecruiters.com/GroupeHelios/3743990014592435) | Groupe Helios | La Prairie, ca | 2026-08-13 |
-| [Principal Analytics Business Partner](https://job-boards.greenhouse.io/zscaler/jobs/5210023007) | Zscaler | Escazu, CRI | 2026-08-13 |
-| [Senior Software Engineer- Data Engineering](https://job-boards.greenhouse.io/noctuatechnology/jobs/4300257009) | Noctua Technology | DC, MD, VA, CA | 2026-08-13 |
-| [Maintenance Inventory Specialist - Day](https://job-boards.greenhouse.io/oldcastlebuildingenvelope/jobs/4369353009) | Oldcastle BuildingEnvelope | Terrell, TX | 2026-08-13 |
-| [Maintenance Assistant (Part Time)](https://jobs.smartrecruiters.com/TheracareINC/744000143381925) | Theracare INC | Walkerton, us | 2026-08-13 |
-| [Daily Substitute Teacher](https://job-boards.greenhouse.io/accelschools/jobs/7866079003) | ACCEL Schools | South Columbus Preparatory Academy - Southfield | 2026-08-13 |
-| [Transportation Drainage Engineer](https://jobs.smartrecruiters.com/aecom2/744000143382809) | AECOM | Murray, us | 2026-08-13 |
+| [Senior Scientific Software Developer for Beamline Control Systems for PETRA IV](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003546483-S) | Dt Elektronen-Synchrotron DESY Personalabteilung | Hamburg, Deutschland | 2026-08-14 |
+| [AI Adoption Trainer & Enablement Professional (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/12265-516496_JB5221008-S) | FERCHAU GmbH Niederlassung Nürnberg City | Forchheim, Oberfranken, Bayern, Deutschland | 2026-08-14 |
+| [Senior Engagement and Innovation Manager (f/m/d) - Industrial AI](https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1619022-1-S) | Siemens AG | München, Bayern, Deutschland | 2026-08-14 |
+| [SAP User (m/w/d) // AIRBUS](https://www.arbeitsagentur.de/jobsuche/jobdetail/12931-10519-1790331-0-S) | KMS Personaldienstleistungen GmbH | Taufkirchen, Kreis München, Bayern, Deutschland | 2026-08-14 |
+| [Marketing Analytics Consultant (f/m/d) - fixed term of one year](https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003548117-S) | 1 & 1 Mail & Media Applications SE | Karlsruhe, Baden, Baden_Wuerttemberg, Deutschland | 2026-08-14 |
+| [Working Student (d/f/m) - Community Management & Training Support](https://www.arbeitsagentur.de/jobsuche/jobdetail/16947-963921348-S) | Airbus Operations GmbH Werk Bremen | Hamburg, Deutschland | 2026-08-14 |
+| [Duales Studium 2027 BWL - Supply Chain Management](https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1207540279-S) | BIRCO GmbH | Baden-Baden, Baden_Wuerttemberg, Deutschland | 2026-08-14 |
+| [AI & Application Security Consultant (m/w/d)](https://www.arbeitsagentur.de/jobsuche/jobdetail/13319-889268/1_620009LS-S) | Hays AG | Deutschland | 2026-08-14 |
 
 ---
 
