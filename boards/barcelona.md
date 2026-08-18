@@ -2,7 +2,7 @@
 
 Roles listing Barcelona as their location.
 
-_957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
+_957 open · showing the 300 most recent · updated 2026-08-18 00:52 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -31,8 +31,8 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Account Manager (German Speaker - Offering Relocation Support to London)](https://job-boards.greenhouse.io/mixpanel/jobs/8021869) | Mixpanel | Barcelona, Spain (Hybrid) | 2026-08-12 |
 | [Customer Success Architect](https://job-boards.greenhouse.io/mixpanel/jobs/8044053) | Mixpanel | Barcelona, Spain (Hybrid) | 2026-08-12 |
 | [Senior Solutions Engineer](https://job-boards.greenhouse.io/keyfactorinc/jobs/6141971004) | Keyfactor, Inc. | Spain; Barcelona or Madrid | 2026-08-12 |
-| [Senior Specialist, Industry Solutions](https://www.mongodb.com/careers/job/?gh_jid=8045879) | MongoDB | Barcelona | 2026-08-12 |
 | [Enterprise Account Executive](https://www.mongodb.com/careers/job/?gh_jid=7921450) | MongoDB | Barcelona | 2026-08-12 |
+| [Senior Specialist, Industry Solutions](https://www.mongodb.com/careers/job/?gh_jid=8045879) | MongoDB | Barcelona | 2026-08-12 |
 | [Account Manager SMB - Benelux & Nordics](https://jobs.ashbyhq.com/perk/7839af61-c0d9-49d8-96ae-a6bd87a2d85b) | Perk | Barcelona | 2026-08-12 |
 | [Performance Marketing Director](https://job-boards.greenhouse.io/scopely/jobs/5282076008?gh_jid=5282076008) | Scopely | ES - Barcelona, Spain | 2026-08-12 |
 | [Director of Product - Monopoly GO!](https://job-boards.greenhouse.io/scopely/jobs/5294094008?gh_jid=5294094008) | Scopely | ES - Barcelona, Spain | 2026-08-12 |
@@ -58,8 +58,8 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Auditor/a de Energía, Cambio Climático y Sostenibilidad](https://jobs.smartrecruiters.com/SGS/744000143050179) | SGS | Barcelona, es | 2026-08-12 |
 | [Senior Security Compliance Engineer](https://job-boards.greenhouse.io/scopely/jobs/5181482008?gh_jid=5181482008) | Scopely | ES - Barcelona, Spain | 2026-08-12 |
 | [Director, Senior Employment Counsel (Global)](https://job-boards.greenhouse.io/scopely/jobs/5287064008?gh_jid=5287064008) | Scopely | ES - Barcelona, Spain | 2026-08-12 |
-| [Support Specialist (French Speaker)](https://job-boards.greenhouse.io/hudl/jobs/8102508) | Hudl | Barcelona, Spain | 2026-08-11 |
 | [HR Operations Lead (9-month fixed-term contract )](https://job-boards.greenhouse.io/hudl/jobs/8067331) | Hudl | Barcelona, Spain | 2026-08-11 |
+| [Support Specialist (French Speaker)](https://job-boards.greenhouse.io/hudl/jobs/8102508) | Hudl | Barcelona, Spain | 2026-08-11 |
 | [Senior Software Engineer, Core Experiences - Barcelona, Spain](https://job-boards.greenhouse.io/speechify/jobs/5974597004) | Speechify | Barcelona, Spain | 2026-08-11 |
 | [CS Learning and Development Specialist](https://job-boards.greenhouse.io/quince/jobs/5377093008) | Quince | Barcelona, Spain | 2026-08-11 |
 | [Product Analyst - Star Trek Fleet Command](https://job-boards.greenhouse.io/scopely/jobs/5283492008?gh_jid=5283492008) | Scopely | ES - Barcelona, Spain; ES - Spain | 2026-08-11 |
@@ -96,10 +96,10 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Sales Strategy & Operations Specialist](https://jobs.elastic.co/jobs?gh_jid=8046246&gh_jid=8046246) | Elastic | Barcelona, Spain | 2026-08-11 |
 | [Solution Architect (Pre-sales)](https://jobs.elastic.co/jobs?gh_jid=7811850&gh_jid=7811850) | Elastic | Barcelona, Spain | 2026-08-11 |
 | [Sales Development Representative - Barcelona (Hybrid)](https://jobs.elastic.co/jobs?gh_jid=8055111&gh_jid=8055111) | Elastic | Barcelona, Spain | 2026-08-11 |
-| [Customer Service Agent (Night Shift)](https://apply.workable.com/j/C1569E4D9E) | Exoticca | Barcelona, Spain | 2026-08-11 |
 | [Prácticas remuneradas en departamento comercial - Septiembre 2026](https://apply.workable.com/j/42DEA3D13C) | Treatwell | Barcelona, Spain | 2026-08-11 |
 | [Head of Corporate Real Estate](https://apply.workable.com/j/382C94E9B1) | Unilabs | Barcelona, Spain | 2026-08-11 |
 | [Trade Marketing Intern](https://apply.workable.com/j/9BC8CE66BC) | Exoticca | Barcelona, Spain | 2026-08-11 |
+| [Customer Service Agent (Night Shift)](https://apply.workable.com/j/C1569E4D9E) | Exoticca | Barcelona, Spain | 2026-08-11 |
 | [Senior Data Engineer - Data Platform team (100% Remote within Spain)](https://jobs.ashbyhq.com/docplanner/6ecba692-9bd0-4227-8304-c7d15c1db9ff) | Docplanner | Barcelona | 2026-08-10 |
 | [Senior Full-stack Engineer (backend-heavy)](https://jobs.ashbyhq.com/preply/775094bc-d735-4d6f-bc21-3d2e7b1f2ff5) | Preply | Barcelona | 2026-08-10 |
 | [Account Manager Support - DACH](https://jobs.ashbyhq.com/perk/a2f447b1-f732-4487-aebc-edb2a0491adb) | Perk | Barcelona | 2026-08-10 |
@@ -118,10 +118,10 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Information Security Analyst II](https://apply.workable.com/j/B9CFDB914B) | Proficio | Barcelona, Spain | 2026-08-10 |
 | [Senior Project Manager](https://apply.workable.com/j/D66B9073B5) | Unilabs | Barcelona, Spain | 2026-08-10 |
 | [Digital PR Growth Manager](https://jobs.ashbyhq.com/preply/62c6b16d-1308-46ec-a2bb-ec06ccd347be) | Preply | Barcelona | 2026-08-07 |
-| [Senior Data Insights Consultant](https://job-boards.greenhouse.io/map/jobs/8603930002) | MAP | Barcelona, Catalonia, Spain | 2026-08-07 |
-| [Senior Developer - Salesforce Marketing Cloud](https://job-boards.greenhouse.io/map/jobs/8561861002) | MAP | Barcelona, Catalonia, Spain | 2026-08-07 |
-| [Senior Technical Project Manager - Martech](https://job-boards.greenhouse.io/map/jobs/8580492002) | MAP | Barcelona, Catalonia, Spain | 2026-08-07 |
 | [Manager - Salesforce Marketing Cloud Development](https://job-boards.greenhouse.io/map/jobs/8542743002) | MAP | Barcelona, Catalonia, Spain | 2026-08-07 |
+| [Senior Technical Project Manager - Martech](https://job-boards.greenhouse.io/map/jobs/8580492002) | MAP | Barcelona, Catalonia, Spain | 2026-08-07 |
+| [Senior Developer - Salesforce Marketing Cloud](https://job-boards.greenhouse.io/map/jobs/8561861002) | MAP | Barcelona, Catalonia, Spain | 2026-08-07 |
+| [Senior Data Insights Consultant](https://job-boards.greenhouse.io/map/jobs/8603930002) | MAP | Barcelona, Catalonia, Spain | 2026-08-07 |
 | [DEI Partner](https://job-boards.greenhouse.io/scopely/jobs/5180550008?gh_jid=5180550008) | Scopely | ES - Barcelona, Spain | 2026-08-07 |
 | [Account Executive, Customer Growth - Italian & Spanish or French](https://jobs.smartrecruiters.com/ecovadis/744000142102719) | EcoVadis | Barcelona, es | 2026-08-07 |
 | [Sales Lead France](https://jobs.ashbyhq.com/fonio/95a1041e-d966-44f3-9fb7-f7df132121a8) | Fonio | Barcelona | 2026-08-07 |
@@ -139,12 +139,12 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Business Development Representative (BDR), EMEA](https://job-boards.greenhouse.io/topsort/jobs/5251372008) | Topsort | Barcelona, Barcelona, Spain | 2026-08-06 |
 | [Client Engineer](https://job-boards.greenhouse.io/scopely/jobs/5342840008?gh_jid=5342840008) | Scopely | ES - Barcelona, Spain | 2026-08-06 |
 | [Professional Services Manager](https://jobs.ashbyhq.com/abacum/5ce3f4e8-7112-42d0-9258-85c8b0d4d7ea) | Abacum | Barcelona | 2026-08-06 |
+| [Product Director (Hybrid Casual)](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4939366101) | Tripledot Studios | Barcelona | 2026-08-06 |
+| [User Acquisition Manager](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4939633101) | Tripledot Studios | Barcelona | 2026-08-06 |
+| [Senior Product Manager](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4941941101) | Tripledot Studios | Barcelona | 2026-08-06 |
+| [Senior Machine Learning Engineer](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4929463101) | Tripledot Studios | Barcelona | 2026-08-06 |
 | [Privacy Counsel](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4928778101) | Tripledot Studios | Barcelona | 2026-08-06 |
 | [Product Artist](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4864504101) | Tripledot Studios | Barcelona | 2026-08-06 |
-| [Product Director (Hybrid Casual)](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4939366101) | Tripledot Studios | Barcelona | 2026-08-06 |
-| [Senior Machine Learning Engineer](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4929463101) | Tripledot Studios | Barcelona | 2026-08-06 |
-| [Senior Product Manager](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4941941101) | Tripledot Studios | Barcelona | 2026-08-06 |
-| [User Acquisition Manager](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4939633101) | Tripledot Studios | Barcelona | 2026-08-06 |
 | [Data Engineer](https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4941466101) | Tripledot Studios | Barcelona | 2026-08-06 |
 | [Senior AI Engineer_FLAMED](https://job-boards.greenhouse.io/scopely/jobs/5342333008?gh_jid=5342333008) | Scopely | ES - Barcelona, Spain | 2026-08-06 |
 | [Risk Assurance Manager](https://job-boards.greenhouse.io/monzo/jobs/8096406) | Monzo | Barcelona | 2026-08-06 |
@@ -167,33 +167,33 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Luxury Reservation Consultant (French Speaker)](https://jobs.smartrecruiters.com/AccorCorpo/744000141723065) | AccorCorpo | Barcelona, es | 2026-08-05 |
 | [Senior DevOps Engineer (Kubernetes & GitOps)](https://jobs.smartrecruiters.com/Miratech1/744000141709529) | Miratech | Barcelona, es | 2026-08-05 |
 | [Senior Data Platform Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/4917440101) | Proton | Geneva; Barcelona; | 2026-08-05 |
-| [Senior CRM Manager, Star Trek Fleet Command](https://job-boards.greenhouse.io/scopely/jobs/5212406008?gh_jid=5212406008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Systems Administrator, Enterprise Applications, IT](https://job-boards.greenhouse.io/scopely/jobs/5262676008?gh_jid=5262676008) | Scopely | ES - Barcelona, Spain; GB - United Kingdom; IE - Dublin, Ireland; PT - Portugal | 2026-08-05 |
-| [Senior Accounting Associate](https://job-boards.greenhouse.io/scopely/jobs/5255570008?gh_jid=5255570008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Senior Producer](https://job-boards.greenhouse.io/scopely/jobs/5343533008?gh_jid=5343533008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Partner Success Manager - Unannounced Project](https://job-boards.greenhouse.io/scopely/jobs/5343699008?gh_jid=5343699008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Lead Product Manager - LiveOps Automation](https://job-boards.greenhouse.io/scopely/jobs/5116904008?gh_jid=5116904008) | Scopely | ES - Barcelona, Spain; ES - Spain | 2026-08-05 |
+| [Accounting Associate](https://job-boards.greenhouse.io/scopely/jobs/5290844008?gh_jid=5290844008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Talent Tech Analyst](https://job-boards.greenhouse.io/scopely/jobs/5255592008?gh_jid=5255592008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Staff Engineer, Server](https://job-boards.greenhouse.io/scopely/jobs/4958835008?gh_jid=4958835008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Sr Manager CRM, Marvel Strike Force](https://job-boards.greenhouse.io/scopely/jobs/5200216008?gh_jid=5200216008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Sr. Development Manager, LiveOps QA](https://job-boards.greenhouse.io/scopely/jobs/5210907008?gh_jid=5210907008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [General Ledger Accountant](https://job-boards.greenhouse.io/scopely/jobs/5255568008?gh_jid=5255568008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Engineering Manager](https://job-boards.greenhouse.io/scopely/jobs/5282364008?gh_jid=5282364008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Associate Global Mobility Partner](https://job-boards.greenhouse.io/scopely/jobs/5233319008?gh_jid=5233319008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Senior Game Producer - Yahtzee!](https://job-boards.greenhouse.io/scopely/jobs/5354142008?gh_jid=5354142008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Senior Game Designer - Unannounced Project](https://job-boards.greenhouse.io/scopely/jobs/5237641008?gh_jid=5237641008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Senior Game Designer - Stumble Guys!](https://job-boards.greenhouse.io/scopely/jobs/5342027008?gh_jid=5342027008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Senior Engineer, Graphics - Unannounced Project](https://job-boards.greenhouse.io/scopely/jobs/5368795008?gh_jid=5368795008) | Scopely | ES - Barcelona, Spain; ES - Spain; GB - United Kingdom; IE - Ireland; PT - Portugal | 2026-08-05 |
+| [Senior Director, Marketing – New Game Launch](https://job-boards.greenhouse.io/scopely/jobs/5123217008?gh_jid=5123217008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Senior Combat Designer](https://job-boards.greenhouse.io/scopely/jobs/5284001008?gh_jid=5284001008) | Scopely | ES - Barcelona, Spain; GB - London, United Kingdom; IE - Dublin, Ireland | 2026-08-05 |
 | [People Technology Project Manager](https://job-boards.greenhouse.io/scopely/jobs/5255594008?gh_jid=5255594008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
 | [Performance Marketing Manager](https://job-boards.greenhouse.io/scopely/jobs/5216080008?gh_jid=5216080008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Senior Combat Designer](https://job-boards.greenhouse.io/scopely/jobs/5284001008?gh_jid=5284001008) | Scopely | ES - Barcelona, Spain; GB - London, United Kingdom; IE - Dublin, Ireland | 2026-08-05 |
-| [Senior Director, Marketing – New Game Launch](https://job-boards.greenhouse.io/scopely/jobs/5123217008?gh_jid=5123217008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Senior Engineer, Graphics - Unannounced Project](https://job-boards.greenhouse.io/scopely/jobs/5368795008?gh_jid=5368795008) | Scopely | ES - Barcelona, Spain; ES - Spain; GB - United Kingdom; IE - Ireland; PT - Portugal | 2026-08-05 |
-| [Senior Game Designer - Stumble Guys!](https://job-boards.greenhouse.io/scopely/jobs/5342027008?gh_jid=5342027008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Senior Game Designer - Unannounced Project](https://job-boards.greenhouse.io/scopely/jobs/5237641008?gh_jid=5237641008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Senior Game Producer - Yahtzee!](https://job-boards.greenhouse.io/scopely/jobs/5354142008?gh_jid=5354142008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
 | [Senior Producer - Star Trek Fleet Command](https://job-boards.greenhouse.io/scopely/jobs/5191920008?gh_jid=5191920008) | Scopely | ES - Barcelona, Spain; GB - London, United Kingdom; IE - Dublin, Ireland | 2026-08-05 |
-| [Accounting Associate](https://job-boards.greenhouse.io/scopely/jobs/5290844008?gh_jid=5290844008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Associate Global Mobility Partner](https://job-boards.greenhouse.io/scopely/jobs/5233319008?gh_jid=5233319008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Sr. Development Manager, LiveOps QA](https://job-boards.greenhouse.io/scopely/jobs/5210907008?gh_jid=5210907008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Talent Tech Analyst](https://job-boards.greenhouse.io/scopely/jobs/5255592008?gh_jid=5255592008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Sr Manager CRM, Marvel Strike Force](https://job-boards.greenhouse.io/scopely/jobs/5200216008?gh_jid=5200216008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Lead Product Manager - LiveOps Automation](https://job-boards.greenhouse.io/scopely/jobs/5116904008?gh_jid=5116904008) | Scopely | ES - Barcelona, Spain; ES - Spain | 2026-08-05 |
-| [Engineering Manager](https://job-boards.greenhouse.io/scopely/jobs/5282364008?gh_jid=5282364008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [Staff Engineer, Server](https://job-boards.greenhouse.io/scopely/jobs/4958835008?gh_jid=4958835008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
-| [General Ledger Accountant](https://job-boards.greenhouse.io/scopely/jobs/5255568008?gh_jid=5255568008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Partner Success Manager - Unannounced Project](https://job-boards.greenhouse.io/scopely/jobs/5343699008?gh_jid=5343699008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Senior Producer](https://job-boards.greenhouse.io/scopely/jobs/5343533008?gh_jid=5343533008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Senior Accounting Associate](https://job-boards.greenhouse.io/scopely/jobs/5255570008?gh_jid=5255570008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Senior CRM Manager, Star Trek Fleet Command](https://job-boards.greenhouse.io/scopely/jobs/5212406008?gh_jid=5212406008) | Scopely | ES - Barcelona, Spain | 2026-08-05 |
+| [Systems Administrator, Enterprise Applications, IT](https://job-boards.greenhouse.io/scopely/jobs/5262676008?gh_jid=5262676008) | Scopely | ES - Barcelona, Spain; GB - United Kingdom; IE - Dublin, Ireland; PT - Portugal | 2026-08-05 |
 | [Senior Sponsorship Sales Manager (based in Madrid)](https://job-boards.eu.greenhouse.io/feverup/jobs/4938402101) | FeverUp | Barcelona | 2026-08-05 |
-| [Marketing Automation Manager](https://apply.workable.com/j/D90CF21BDA) | Kahoot! | Barcelona, Spain | 2026-08-05 |
 | [Product Owner](https://apply.workable.com/j/F26FFB32F5) | Kantox | Barcelona, Spain | 2026-08-05 |
 | [Sr. Solutions Architect](https://apply.workable.com/j/FF747682FE) | Tiger Analytics Inc. | Barcelona, Spain | 2026-08-05 |
+| [Marketing Automation Manager](https://apply.workable.com/j/D90CF21BDA) | Kahoot! | Barcelona, Spain | 2026-08-05 |
 | [Senior Product Manager - AI Learning (Lesson Insights)](https://jobs.ashbyhq.com/preply/0d29394d-9dcf-497b-8f4e-5fd5bf187097) | Preply | Barcelona | 2026-08-04 |
 | [New Business Account Executive](https://jobs.ashbyhq.com/siteminder/7c5d4e49-e862-45fa-9d1c-d49267495582) | Siteminder | Barcelona | 2026-08-04 |
 | [Account Executive (Spanish)](https://jobs.ashbyhq.com/siteminder/14803f20-a7cc-463b-830e-a0606e1480ae) | Siteminder | Barcelona | 2026-08-04 |
@@ -229,8 +229,8 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Trade Marketing Specialist](https://apply.workable.com/j/468F62BB73) | Exoticca | Barcelona, Spain | 2026-08-03 |
 | [Trade Marketing Designer (B2B Travel industry)](https://apply.workable.com/j/8A8B53DA72) | Exoticca | Barcelona, Spain | 2026-08-03 |
 | [Senior Key Accounts Manager](https://careers.airbnb.com/positions/7916840?gh_jid=7916840) | Airbnb | Paris, France, Barcelona, Spain | 2026-07-31 |
-| [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982) | Okta | Barcelona, Spain | 2026-07-31 |
 | [Staff Product Security Engineer, PSIRT](https://www.okta.com/company/careers/opportunity/8087739?gh_jid=8087739) | Okta | Barcelona, Spain | 2026-07-31 |
+| [Senior Site Reliability Engineer (Auth0)](https://www.okta.com/company/careers/opportunity/7418982?gh_jid=7418982) | Okta | Barcelona, Spain | 2026-07-31 |
 | [Senior Engineering Manager - Practice Management Platform (100% Remote within Spain)](https://jobs.ashbyhq.com/docplanner/5c0fe3ff-4049-4d20-a40c-531f2f482a6f) | Docplanner | Barcelona | 2026-07-31 |
 | [Senior Risk & Compliance Officer](https://job-boards.greenhouse.io/monzo/jobs/8098655) | Monzo | Barcelona | 2026-07-31 |
 | [Regional Sales Director, Barcelona](https://www.catonetworks.com/careers/careers-post/4923551101?gh_jid=4923551101) | Cato Networks | Barcelona, Barcelona, Spain | 2026-07-31 |
@@ -274,8 +274,8 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Director of Product - Roadmap](https://job-boards.greenhouse.io/scopely/jobs/4592697008?gh_jid=4592697008) | Scopely | ES - Barcelona, Spain; IL - Tel Aviv, Israel | 2026-07-29 |
 | [Senior Software Engineer, Windows/Desktop Applications - Barcelona, Spain](https://job-boards.greenhouse.io/speechify/jobs/5974918004) | Speechify | Barcelona, Spain | 2026-07-29 |
 | [Site Manager / Construction Project Manager](https://apply.workable.com/j/604A368165) | Utopia | Barcelona, Spain | 2026-07-29 |
-| [Senior Data & BI Business Analyst (Finance)](https://apply.workable.com/j/250BA7DBF5) | Visium SA | Barcelona, Spain | 2026-07-29 |
 | [Account Executive - DACH Market](https://apply.workable.com/j/976A51B7B0) | Kantox | Barcelona, Spain | 2026-07-29 |
+| [Senior Data & BI Business Analyst (Finance)](https://apply.workable.com/j/250BA7DBF5) | Visium SA | Barcelona, Spain | 2026-07-29 |
 | [Senior Data & BI Business Analyst (Industrial / Supply Chain)](https://apply.workable.com/j/344D70401D) | Visium SA | Barcelona, Spain | 2026-07-29 |
 | [Full-Stack Software Architect](https://jobs.ashbyhq.com/onhires/6e31879e-64d6-46f4-bf6d-aab34df29f58) | Onhires | Barcelona \| Spain | 2026-07-28 |
 | [Sales Engineering, Senior Specialist (Spanish Speaking)](https://jobs.ashbyhq.com/checkout.com/310eec35-05b1-41c6-888e-e2a2371bd742) | Checkout.Com | Barcelona | 2026-07-28 |
@@ -294,8 +294,8 @@ _957 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Jefe/a de proyecto senior (m/f/d)](https://jobs.smartrecruiters.com/T-SystemsIberia/744000140182869) | T-Systems Iberia | Barcelona, es | 2026-07-28 |
 | [Freelance Concept Artist - Paper.io 2](https://jobs.ashbyhq.com/voodoo/008fb2f6-0dbe-457c-acaa-9989c9ae5f9f) | Voodoo | Barcelona | 2026-07-28 |
 | [Business Segment Lead](https://jobs.ashbyhq.com/alan/9147983e-5cbb-40af-a8dd-03491a0f56b7) | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-07-28 |
-| [Senior Data Modeler (Barcelona - Data Vault)](https://apply.workable.com/j/C0A447708C) | Visium SA | Barcelona, Spain | 2026-07-28 |
 | [Senior UX/UI Designer](https://apply.workable.com/j/AAF835C938) | Exoticca | Barcelona, Spain | 2026-07-28 |
+| [Senior Data Modeler (Barcelona - Data Vault)](https://apply.workable.com/j/C0A447708C) | Visium SA | Barcelona, Spain | 2026-07-28 |
 | [Senior Product Manager, Mobile Subscriptions](https://jobs.ashbyhq.com/codeway/535c2343-2a0e-4dc1-8ab5-69fcc347a645) | Codeway | Barcelona | 2026-07-27 |
 | [KAM Haematology & Nephrology (Barcelona, Girona, Aragón)](https://jobs.smartrecruiters.com/Sobi/744000140023449) | Sobi | Barcelona, es | 2026-07-27 |
 | [Product Manager, Utility Apps (Mid-Level)](https://jobs.ashbyhq.com/codeway/53faa334-41a4-4432-8bbb-a8f7205e8e9c) | Codeway | Barcelona | 2026-07-27 |

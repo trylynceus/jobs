@@ -2,7 +2,7 @@
 
 Roles listing Stockholm as their location.
 
-_861 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
+_861 open · showing the 300 most recent · updated 2026-08-18 00:52 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -19,8 +19,8 @@ _861 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Lagermedarbetare sökes till 123ink.se i Jordbro - HELTID](https://arbetsformedlingen.se/platsbanken/annonser/31346900) | 123ink AB | Haninge, Stockholms län, Sverige | 2026-08-18 |
 | [Personlig assistent](https://arbetsformedlingen.se/platsbanken/annonser/31362732) | Agneta Assistans AB | Botkyrka, Stockholms län, Sverige | 2026-08-18 |
 | [Ambitiösa säljare sökes – gör skillnad för barn med Rädda Barnen](https://arbetsformedlingen.se/platsbanken/annonser/31359097) | Fundraising Byrån Stockholm AB | Stockholm, Stockholms län, Sverige | 2026-08-18 |
-| [Glas Montage Bygg Service](https://arbetsformedlingen.se/platsbanken/annonser/31362575) | GMBS glas montage bygg service AB | Nykvarn, Stockholms län, Sverige | 2026-08-18 |
 | [Ditzinger PopUp Store Stockholm City](https://arbetsformedlingen.se/platsbanken/annonser/31359559) | TEXTIL IN WEST AKTIEBOLAG | Stockholm, Stockholms län, Sverige | 2026-08-18 |
+| [Glas Montage Bygg Service](https://arbetsformedlingen.se/platsbanken/annonser/31362575) | GMBS glas montage bygg service AB | Nykvarn, Stockholms län, Sverige | 2026-08-18 |
 | [Köksbiträde sökes](https://arbetsformedlingen.se/platsbanken/annonser/31362737) | SHF Stockholm 03 AB | Solna, Stockholms län, Sverige | 2026-08-17 |
 | [Installation Lead](https://arbetsformedlingen.se/platsbanken/annonser/31362735) | Briljantin Consulting AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Car Mechanic](https://arbetsformedlingen.se/platsbanken/annonser/31362674) | Expeditious AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
@@ -142,8 +142,8 @@ _861 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Trivs du ute bland folk? Vi har jobbet för dig](https://arbetsformedlingen.se/platsbanken/annonser/31362103) | H & K Entreprenad AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Social, driven och redo för nästa steg?](https://arbetsformedlingen.se/platsbanken/annonser/31362099) | H & K Entreprenad AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Bild/konstpedagog till Metapontums Kulturskola](https://arbetsformedlingen.se/platsbanken/annonser/31362069) | METAPONTUM AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Gillar du att möta människor? Sök idag](https://arbetsformedlingen.se/platsbanken/annonser/31362044) | H & K Entreprenad AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Allakando läxhjälp Ingarö, privatlärare, Generellt studiestöd](https://arbetsformedlingen.se/platsbanken/annonser/31362127) | Allakando AB | Värmdö, Stockholms län, Sverige | 2026-08-17 |
+| [Gillar du att möta människor? Sök idag](https://arbetsformedlingen.se/platsbanken/annonser/31362044) | H & K Entreprenad AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Receptionist/Boknings koordinator](https://arbetsformedlingen.se/platsbanken/annonser/31362118) | Swemedeq AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Operatörer till läkemedelsindustri](https://arbetsformedlingen.se/platsbanken/annonser/31362122) | Jobandtalent Sweden AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [AcadeMedia söker en skolbibliotekarie inom gymnasiet i Stockholm](https://arbetsformedlingen.se/platsbanken/annonser/31362007) | AcadeMedia Support AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
@@ -168,8 +168,8 @@ _861 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Area Sales Manager till Univox](https://arbetsformedlingen.se/platsbanken/annonser/31361847) | Performiq AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Bryggare](https://arbetsformedlingen.se/platsbanken/annonser/31361826) | Afzaal, Muhammad | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Norsktalande kundtjänstmedarbetare](https://arbetsformedlingen.se/platsbanken/annonser/31361835) | ADECCO SWEDEN AKTIEBOLAG | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [Erfarna VVS-Montörer sökes för omgående uppdrag!](https://arbetsformedlingen.se/platsbanken/annonser/31361833) | NN Bemanning & Rekrytering AB | Södertälje, Stockholms län, Sverige | 2026-08-17 |
 | [Brevbärare](https://arbetsformedlingen.se/platsbanken/annonser/31361818) | Afzaal, Muhammad | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Erfarna VVS-Montörer sökes för omgående uppdrag!](https://arbetsformedlingen.se/platsbanken/annonser/31361833) | NN Bemanning & Rekrytering AB | Södertälje, Stockholms län, Sverige | 2026-08-17 |
 | [Informationsarkitekt](https://arbetsformedlingen.se/platsbanken/annonser/31361831) | Avaron AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Erfarna VVS-Montörer sökes för omgående uppdrag!](https://arbetsformedlingen.se/platsbanken/annonser/31361829) | NN Bemanning & Rekrytering AB | Norrtälje, Stockholms län, Sverige | 2026-08-17 |
 | [Erfarna VVS-Montörer sökes för omgående uppdrag!](https://arbetsformedlingen.se/platsbanken/annonser/31361803) | NN Bemanning & Rekrytering AB | Huddinge, Stockholms län, Sverige | 2026-08-17 |
@@ -207,8 +207,8 @@ _861 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Skadeaktuarie till område Försäkring på Finansinspektionen](https://arbetsformedlingen.se/platsbanken/annonser/31361549) | FINANSINSPEKTIONEN | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Sjukhusfysiker med röntgenerfarenhet](https://arbetsformedlingen.se/platsbanken/annonser/31361524) | STRÅLSÄKERHETSMYNDIGHETEN | Solna, Stockholms län, Sverige | 2026-08-17 |
 | [Grävmaskinist Senior Stockholm](https://arbetsformedlingen.se/platsbanken/annonser/31361522) | Bemanning Sverige Byrå AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
-| [McDonald's söker nya arbetsledare :) 75%, varierande arbetstider och](https://arbetsformedlingen.se/platsbanken/annonser/31361506) | Food Folk Sverige AB | Huddinge, Stockholms län, Sverige | 2026-08-17 |
 | [Drifttekniker till Solna](https://arbetsformedlingen.se/platsbanken/annonser/31361520) | COOR SERVICE MANAGEMENT AKTIEBOLAG | Solna, Stockholms län, Sverige | 2026-08-17 |
+| [McDonald's söker nya arbetsledare :) 75%, varierande arbetstider och](https://arbetsformedlingen.se/platsbanken/annonser/31361506) | Food Folk Sverige AB | Huddinge, Stockholms län, Sverige | 2026-08-17 |
 | [Brandman](https://arbetsformedlingen.se/platsbanken/annonser/31361499) | Afzaal, Muhammad | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Sektionschef för grundflygplansystem](https://arbetsformedlingen.se/platsbanken/annonser/31361514) | FÖRSVARETS MATERIELVERK | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Specialistutredare till Barn och ungdomsenheten](https://arbetsformedlingen.se/platsbanken/annonser/31361492) | EKERÖ KOMMUN | Ekerö, Stockholms län, Sverige | 2026-08-17 |
@@ -227,8 +227,8 @@ _861 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [Female personal assistant for 40% (Hammarby Sjöstad) Fixed 1 year position.](https://arbetsformedlingen.se/platsbanken/annonser/31361385) | Fri Assistans STHLM AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Betongarbetare](https://arbetsformedlingen.se/platsbanken/annonser/31361380) | Afzaal, Muhammad | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Systemförvaltare till Samhällsutvecklingskontoret](https://arbetsformedlingen.se/platsbanken/annonser/31361376) | TÄBY KOMMUN | Täby, Stockholms län, Sverige | 2026-08-17 |
-| [Engagerad SVA-lärare sökes till Internationella Engelska Skolan i Tyresö](https://arbetsformedlingen.se/platsbanken/annonser/31361369) | Internationella Engelska Skolan i Sverige AB | Tyresö, Stockholms län, Sverige | 2026-08-17 |
 | [Sektionschef för taktiska system](https://arbetsformedlingen.se/platsbanken/annonser/31361371) | FÖRSVARETS MATERIELVERK | Stockholm, Stockholms län, Sverige | 2026-08-17 |
+| [Engagerad SVA-lärare sökes till Internationella Engelska Skolan i Tyresö](https://arbetsformedlingen.se/platsbanken/annonser/31361369) | Internationella Engelska Skolan i Sverige AB | Tyresö, Stockholms län, Sverige | 2026-08-17 |
 | [Operatör till Sweden Biomanufacturing Center (SBC)](https://arbetsformedlingen.se/platsbanken/annonser/31361321) | ADECCO SWEDEN AKTIEBOLAG | Södertälje, Stockholms län, Sverige | 2026-08-17 |
 | [Hund och barnvakt sökes på Östermalm](https://arbetsformedlingen.se/platsbanken/annonser/31361306) | Vivbon AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Finance Manager to Öhlins Group](https://arbetsformedlingen.se/platsbanken/annonser/31361299) | Gazella AB | Upplands Väsby, Stockholms län, Sverige | 2026-08-17 |
@@ -296,8 +296,8 @@ _861 open · showing the 300 most recent · updated 2026-08-18 00:47 UTC_
 | [E-arkivarie till Rättsmedicinalverket i Stockholm](https://arbetsformedlingen.se/platsbanken/annonser/31360738) | RÄTTSMEDICINALVERKET | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Vill du jobba med en 8 årig tjej? -sök tjänsten som personlig assistent hos](https://arbetsformedlingen.se/platsbanken/annonser/31360759) | BAMBI EKONOMISK FÖRENING | Huddinge, Stockholms län, Sverige | 2026-08-17 |
 | [Personlig assistent sökes till 18-årig kille i Linköping](https://arbetsformedlingen.se/platsbanken/annonser/31360728) | Harmoni Omsorg Norden AB | Järfälla, Stockholms län, Sverige | 2026-08-17 |
-| [Säljare vik - Sergel](https://arbetsformedlingen.se/platsbanken/annonser/31360726) | Scorett Footwear AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [ViGör Scenglädje söker en sångpedagog till hösten 2026 i Riksten, Tullinge](https://arbetsformedlingen.se/platsbanken/annonser/31360643) | VIGÖR (VIGÖRGRUPPEN) | Botkyrka, Stockholms län, Sverige | 2026-08-17 |
+| [Säljare vik - Sergel](https://arbetsformedlingen.se/platsbanken/annonser/31360726) | Scorett Footwear AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [HR-generalist till spännande tillväxtresa!](https://arbetsformedlingen.se/platsbanken/annonser/31360724) | ACADEMIC WORK SWEDEN AB | Stockholm, Stockholms län, Sverige | 2026-08-17 |
 | [Kommunikatör till Huddinge kommun (vikariat)](https://arbetsformedlingen.se/platsbanken/annonser/31360715) | HUDDINGE KOMMUN | Huddinge, Stockholms län, Sverige | 2026-08-17 |
 | [Kommunikatör till Huddinge kommun](https://arbetsformedlingen.se/platsbanken/annonser/31360706) | HUDDINGE KOMMUN | Huddinge, Stockholms län, Sverige | 2026-08-17 |
