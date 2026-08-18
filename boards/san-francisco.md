@@ -2,7 +2,7 @@
 
 Roles listing San Francisco as their location.
 
-_11,193 open · showing the 300 most recent · updated 2026-08-18 00:52 UTC_
+_11,219 open · showing the 300 most recent · updated 2026-08-18 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -110,97 +110,97 @@ _11,193 open · showing the 300 most recent · updated 2026-08-18 00:52 UTC_
 | [Consultant- Marketing Data Science & AI](https://jobs.smartrecruiters.com/Sia/744000143402358) | Sia | San Francisco, us | 2026-08-13 |
 | [Lead Counsel, Corporate](https://jobs.smartrecruiters.com/Canva/6000000001313423) | Canva | San Francisco, us | 2026-08-13 |
 | [Manager of the Technical Staff - Next.js](https://job-boards.greenhouse.io/vercel/jobs/6140055004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Technical Program Manager, GTM Ops](https://job-boards.greenhouse.io/planetlabs/jobs/7979301) | Planet | San Francisco, CA | 2026-08-13 |
-| [Data Visualization Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8044691) | Planet | San Francisco, CA | 2026-08-13 |
-| [Director, Sales Development](https://job-boards.greenhouse.io/planetlabs/jobs/8055706) | Planet | San Francisco, CA | 2026-08-13 |
-| [Senior Director, Global Talent Acquisition](https://job-boards.greenhouse.io/planetlabs/jobs/8081498) | Planet | San Francisco, CA | 2026-08-13 |
-| [Senior Engineering Manager - AI Geospatial Assistant Team](https://job-boards.greenhouse.io/planetlabs/jobs/7603801) | Planet | San Francisco, CA | 2026-08-13 |
-| [Analyst, International Trade Compliance](https://job-boards.greenhouse.io/planetlabs/jobs/8077154) | Planet | San Francisco, CA | 2026-08-13 |
+| [Engineering Program Manager — Special Projects](https://job-boards.greenhouse.io/planetlabs/jobs/7988579) | Planet | San Francisco, CA | 2026-08-13 |
 | [Senior Manager, Talent Operations](https://job-boards.greenhouse.io/planetlabs/jobs/7740653) | Planet | San Francisco, CA | 2026-08-13 |
 | [Senior Marketing Business Ops Manager](https://job-boards.greenhouse.io/planetlabs/jobs/7964626) | Planet | San Francisco, CA | 2026-08-13 |
 | [Senior Product Manager, Analysis Ready Data Products](https://job-boards.greenhouse.io/planetlabs/jobs/7967529) | Planet | San Francisco, CA; Arlington, VA | 2026-08-13 |
 | [Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8096079) | Planet | San Francisco, CA | 2026-08-13 |
 | [Sr. Satcom Modem Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7524896) | Planet | San Francisco, CA | 2026-08-13 |
 | [Technical Marketing Manager, Earth Observation](https://job-boards.greenhouse.io/planetlabs/jobs/7946662) | Planet | San Francisco, CA | 2026-08-13 |
+| [Technical Program Manager, GTM Ops](https://job-boards.greenhouse.io/planetlabs/jobs/7979301) | Planet | San Francisco, CA | 2026-08-13 |
 | [Vice President & Chief Information Security Officer](https://job-boards.greenhouse.io/planetlabs/jobs/8014499) | Planet | San Francisco, CA; Washington, DC | 2026-08-13 |
-| [Engineering Program Manager — Special Projects](https://job-boards.greenhouse.io/planetlabs/jobs/7988579) | Planet | San Francisco, CA | 2026-08-13 |
-| [Executive Communications Manager](https://job-boards.greenhouse.io/planetlabs/jobs/7967533) | Planet | San Francisco, CA | 2026-08-13 |
-| [Flight Dynamics Engineer, Orbits R&D](https://job-boards.greenhouse.io/planetlabs/jobs/8045328) | Planet | San Francisco, CA | 2026-08-13 |
-| [Internal Audit Senior Analyst](https://job-boards.greenhouse.io/planetlabs/jobs/7988581) | Planet | San Francisco, CA | 2026-08-13 |
-| [Manager, Customer Success - Commercial Markets](https://job-boards.greenhouse.io/planetlabs/jobs/8088251) | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
-| [Opto-Mechanical Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7476623) | Planet | San Francisco, CA | 2026-08-13 |
-| [Product Marketing Manager, AI Solutions](https://job-boards.greenhouse.io/planetlabs/jobs/7964648) | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
-| [Sales Development Representative, Market Development](https://job-boards.greenhouse.io/planetlabs/jobs/7916941) | Planet | San Francisco, CA | 2026-08-13 |
-| [Sales Development Representative, North America Civil Government](https://job-boards.greenhouse.io/planetlabs/jobs/8094173) | Planet | San Francisco, CA | 2026-08-13 |
-| [Senior Analyst, International Trade Compliance](https://job-boards.greenhouse.io/planetlabs/jobs/8069677) | Planet | San Francisco, CA | 2026-08-13 |
-| [Senior Camera Systems Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7644560) | Planet | San Francisco, CA | 2026-08-13 |
+| [Senior Engineering Manager - AI Geospatial Assistant Team](https://job-boards.greenhouse.io/planetlabs/jobs/7603801) | Planet | San Francisco, CA | 2026-08-13 |
+| [Senior Director, Global Talent Acquisition](https://job-boards.greenhouse.io/planetlabs/jobs/8081498) | Planet | San Francisco, CA | 2026-08-13 |
 | [Senior Contracts Manager](https://job-boards.greenhouse.io/planetlabs/jobs/7979253) | Planet | San Francisco, CA | 2026-08-13 |
+| [Senior Camera Systems Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7644560) | Planet | San Francisco, CA | 2026-08-13 |
+| [Senior Analyst, International Trade Compliance](https://job-boards.greenhouse.io/planetlabs/jobs/8069677) | Planet | San Francisco, CA | 2026-08-13 |
+| [Sales Development Representative, North America Civil Government](https://job-boards.greenhouse.io/planetlabs/jobs/8094173) | Planet | San Francisco, CA | 2026-08-13 |
+| [Sales Development Representative, Market Development](https://job-boards.greenhouse.io/planetlabs/jobs/7916941) | Planet | San Francisco, CA | 2026-08-13 |
+| [Product Marketing Manager, AI Solutions](https://job-boards.greenhouse.io/planetlabs/jobs/7964648) | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
+| [Opto-Mechanical Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7476623) | Planet | San Francisco, CA | 2026-08-13 |
 | [Head of Creative](https://job-boards.greenhouse.io/planetlabs/jobs/7938235) | Planet | San Francisco, CA | 2026-08-13 |
+| [Manager, Customer Success - Commercial Markets](https://job-boards.greenhouse.io/planetlabs/jobs/8088251) | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
+| [Analyst, International Trade Compliance](https://job-boards.greenhouse.io/planetlabs/jobs/8077154) | Planet | San Francisco, CA | 2026-08-13 |
+| [Internal Audit Senior Analyst](https://job-boards.greenhouse.io/planetlabs/jobs/7988581) | Planet | San Francisco, CA | 2026-08-13 |
+| [Data Visualization Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8044691) | Planet | San Francisco, CA | 2026-08-13 |
+| [Flight Dynamics Engineer, Orbits R&D](https://job-boards.greenhouse.io/planetlabs/jobs/8045328) | Planet | San Francisco, CA | 2026-08-13 |
+| [Director, Sales Development](https://job-boards.greenhouse.io/planetlabs/jobs/8055706) | Planet | San Francisco, CA | 2026-08-13 |
+| [Executive Communications Manager](https://job-boards.greenhouse.io/planetlabs/jobs/7967533) | Planet | San Francisco, CA | 2026-08-13 |
 | [Accountant I](https://www.pinterestcareers.com/jobs/?gh_jid=8066850) | Pinterest | San Francisco, CA, US; Remote, US | 2026-08-13 |
 | [AI Operations Associate](https://job-boards.greenhouse.io/accordion/jobs/7867202) | Accordion | Atlanta; Boston; Charlotte; Chicago; Dallas; Los Angeles; New York; San Francisco | 2026-08-13 |
 | [Global Crop Product Manager](https://job-boards.greenhouse.io/ohalogenetics/jobs/4716851005) | Ohalo | South San Francisco, CA | 2026-08-13 |
 | [Technical Deployment Lead](https://job-boards.greenhouse.io/anthropic/jobs/5017903008) | Anthropic | Austin, TX; Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA | 2026-08-13 |
 | [Engineering Manager, Enterprise Product](https://job-boards.greenhouse.io/airtable/jobs/8397665002) | Airtable | San Francisco, CA; New York, NY | 2026-08-13 |
+| [Senior Security Software Engineer, v0](https://job-boards.greenhouse.io/vercel/jobs/6117209004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Recruiting Coordinator (Contract)](https://job-boards.greenhouse.io/vercel/jobs/5686511004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Manager, Solutions Architecture](https://job-boards.greenhouse.io/vercel/jobs/5806456004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [People Operations Integrations Developer](https://job-boards.greenhouse.io/vercel/jobs/6137983004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Product Strategy & Operations](https://job-boards.greenhouse.io/vercel/jobs/6011651004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Media Engineer, Social](https://job-boards.greenhouse.io/vercel/jobs/5980197004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Scaled Commercial Account Executive, Install base](https://job-boards.greenhouse.io/vercel/jobs/6142097004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Security Engineer, Detection Response](https://job-boards.greenhouse.io/vercel/jobs/6111332004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Performance Marketing Manager](https://job-boards.greenhouse.io/vercel/jobs/6011904004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Senior Brand Designer](https://job-boards.greenhouse.io/vercel/jobs/5579560004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Product Security Engineer](https://job-boards.greenhouse.io/vercel/jobs/6102343004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| [Senior HRBP - G&A](https://job-boards.greenhouse.io/vercel/jobs/6090854004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Senior Integrated Campaigns Manager](https://job-boards.greenhouse.io/vercel/jobs/6122619004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Senior Legal Counsel, Product](https://job-boards.greenhouse.io/vercel/jobs/5691965004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Senior Partner Manager, AWS](https://job-boards.greenhouse.io/vercel/jobs/5825469004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Product Communications Manager, OSS](https://job-boards.greenhouse.io/vercel/jobs/6121474004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Senior Payroll Analyst](https://job-boards.greenhouse.io/vercel/jobs/6006148004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Senior Technical Account Manager](https://job-boards.greenhouse.io/vercel/jobs/6112845004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Senior Product Designer, Growth](https://job-boards.greenhouse.io/vercel/jobs/6131210004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [IT Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/6020852004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
+| [Presentation Designer](https://job-boards.greenhouse.io/vercel/jobs/6128387004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | [Partner Operations Lead](https://job-boards.greenhouse.io/vercel/jobs/6087001004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Vercel Development Representative, Startups](https://job-boards.greenhouse.io/vercel/jobs/5815357004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Strategic Finance Manager, Product](https://job-boards.greenhouse.io/vercel/jobs/5855000004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
 | [Startups Program Lead](https://job-boards.greenhouse.io/vercel/jobs/5971203004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Sr. Commercial Counsel](https://job-boards.greenhouse.io/vercel/jobs/6006500004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/5806749004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [IT Systems Engineer](https://job-boards.greenhouse.io/vercel/jobs/6020852004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| [Senior Technical Account Manager](https://job-boards.greenhouse.io/vercel/jobs/6112845004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior Security Software Engineer, v0](https://job-boards.greenhouse.io/vercel/jobs/6117209004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Senior Product Designer, Growth](https://job-boards.greenhouse.io/vercel/jobs/6131210004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Senior Payroll Analyst](https://job-boards.greenhouse.io/vercel/jobs/6006148004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Manager, Solutions Architecture](https://job-boards.greenhouse.io/vercel/jobs/5806456004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior Partner Manager, AWS](https://job-boards.greenhouse.io/vercel/jobs/5825469004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior Legal Counsel, Product](https://job-boards.greenhouse.io/vercel/jobs/5691965004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Senior Integrated Campaigns Manager](https://job-boards.greenhouse.io/vercel/jobs/6122619004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Senior HRBP - G&A](https://job-boards.greenhouse.io/vercel/jobs/6090854004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Senior Brand Designer](https://job-boards.greenhouse.io/vercel/jobs/5579560004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Security Engineer, Detection Response](https://job-boards.greenhouse.io/vercel/jobs/6111332004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Scaled Commercial Account Executive, Install base](https://job-boards.greenhouse.io/vercel/jobs/6142097004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Recruiting Coordinator (Contract)](https://job-boards.greenhouse.io/vercel/jobs/5686511004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Product Strategy & Operations](https://job-boards.greenhouse.io/vercel/jobs/6011651004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Product Security Engineer](https://job-boards.greenhouse.io/vercel/jobs/6102343004) | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| [Product Communications Manager, OSS](https://job-boards.greenhouse.io/vercel/jobs/6121474004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Presentation Designer](https://job-boards.greenhouse.io/vercel/jobs/6128387004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Performance Marketing Manager](https://job-boards.greenhouse.io/vercel/jobs/6011904004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [People Operations Integrations Developer](https://job-boards.greenhouse.io/vercel/jobs/6137983004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Media Engineer, Social](https://job-boards.greenhouse.io/vercel/jobs/5980197004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, Dashboard](https://job-boards.greenhouse.io/vercel/jobs/5808568004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, AI SDK](https://job-boards.greenhouse.io/vercel/jobs/5474915004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Strategic Finance Manager, Product](https://job-boards.greenhouse.io/vercel/jobs/5855000004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
 | [Software Engineer, CDN](https://job-boards.greenhouse.io/vercel/jobs/5179639004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Enterprise Account Executive, Retail](https://job-boards.greenhouse.io/vercel/jobs/6112143004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Software Engineer, AI Gateway](https://job-boards.greenhouse.io/vercel/jobs/5798406004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, Deployment Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/5633880004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Software Engineer, Observability](https://job-boards.greenhouse.io/vercel/jobs/5428982004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| [Software Engineer, CDN Content](https://job-boards.greenhouse.io/vercel/jobs/6105394004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Software Engineer, Workflows](https://job-boards.greenhouse.io/vercel/jobs/5798416004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Forward-Deployed Engineer](https://job-boards.greenhouse.io/vercel/jobs/5752684004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Software Engineer, AI SDK](https://job-boards.greenhouse.io/vercel/jobs/5474915004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [DevRel Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6122437004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Commercial Account Executive, Greenfield](https://job-boards.greenhouse.io/vercel/jobs/5042166004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Commercial Account Executive, Install Base](https://job-boards.greenhouse.io/vercel/jobs/6123443004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Head of Field Engineering Operations](https://job-boards.greenhouse.io/vercel/jobs/5979111004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
 | [GTM Acceleration, Technical Solutions](https://job-boards.greenhouse.io/vercel/jobs/5984039004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [GTM Acceleration Lead, Value Selling](https://job-boards.greenhouse.io/vercel/jobs/6119471004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Business Development Representative, Majors](https://job-boards.greenhouse.io/vercel/jobs/5039945004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Commercial Account Executive, Greenfield](https://job-boards.greenhouse.io/vercel/jobs/5042166004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Commercial Account Executive, Install Base](https://job-boards.greenhouse.io/vercel/jobs/6123443004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Community Engineer](https://job-boards.greenhouse.io/vercel/jobs/5832366004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [DevRel Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6122437004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Director of Forward Deployed Engineering](https://job-boards.greenhouse.io/vercel/jobs/6120051004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Director, Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/6119846004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Growth Marketing Manager, Discoverability](https://job-boards.greenhouse.io/vercel/jobs/6119988004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Global Benefits Lead](https://job-boards.greenhouse.io/vercel/jobs/6123758004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| [Engineering Manager, CDN](https://job-boards.greenhouse.io/vercel/jobs/5701765004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| [Enterprise Account Executive](https://job-boards.greenhouse.io/vercel/jobs/5042174004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Growth Marketing Manager, Agent Stack](https://job-boards.greenhouse.io/vercel/jobs/6016765004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| [Enterprise Account Executive, Retail](https://job-boards.greenhouse.io/vercel/jobs/6112143004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/5806749004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Global Benefits Lead](https://job-boards.greenhouse.io/vercel/jobs/6123758004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Community Engineer](https://job-boards.greenhouse.io/vercel/jobs/5832366004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Forward-Deployed Engineer](https://job-boards.greenhouse.io/vercel/jobs/5752684004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Executive Business Center Marketing Lead](https://job-boards.greenhouse.io/vercel/jobs/6119765004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Sr. Commercial Counsel](https://job-boards.greenhouse.io/vercel/jobs/6006500004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Enterprise Account Executive](https://job-boards.greenhouse.io/vercel/jobs/5042174004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Engineering Manager, CDN](https://job-boards.greenhouse.io/vercel/jobs/5701765004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Director, Solutions Architect](https://job-boards.greenhouse.io/vercel/jobs/6119846004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Director of Forward Deployed Engineering](https://job-boards.greenhouse.io/vercel/jobs/6120051004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| [Software Engineer, CDN Content](https://job-boards.greenhouse.io/vercel/jobs/6105394004) | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| [Software Engineer, Dashboard](https://job-boards.greenhouse.io/vercel/jobs/5808568004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Deployment Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/5633880004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Software Engineer, Observability](https://job-boards.greenhouse.io/vercel/jobs/5428982004) | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
+| [Software Engineer, Workflows](https://job-boards.greenhouse.io/vercel/jobs/5798416004) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| [Business Development Representative, Majors](https://job-boards.greenhouse.io/vercel/jobs/5039945004) | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | [Technical sourcer (hyrbrid, contract)](https://jobs.smartrecruiters.com/jobmobz1/744000143396037) | Job Mobz | San Francisco, us | 2026-08-13 |
 | [Senior UX Researcher, Human Care](https://job-boards.greenhouse.io/oura/jobs/4313292009) | Ōura | Hybrid - San Francisco, California | 2026-08-13 |
+| [Sr. Software Engineer](https://boards.greenhouse.io/6sense/jobs/7834739?gh_jid=7834739) | 6sense | San Francisco, California, United States | 2026-08-13 |
 | [Sr. Data Scientist](https://boards.greenhouse.io/6sense/jobs/7974951?gh_jid=7974951) | 6sense | San Francisco, California, United States | 2026-08-13 |
 | [Staff Enterprise AI Engineer](https://boards.greenhouse.io/6sense/jobs/8002993?gh_jid=8002993) | 6sense | San Francisco, California, United States | 2026-08-13 |
-| [Sr. Software Engineer](https://boards.greenhouse.io/6sense/jobs/7834739?gh_jid=7834739) | 6sense | San Francisco, California, United States | 2026-08-13 |
 | [Staff Software Engineer- UI Foundations Team](https://job-boards.greenhouse.io/amplitude/jobs/8709009002) | Amplitude | San Francisco, CA | 2026-08-13 |
 | [Senior Investigator & Legal Analyst - SF Ethics Commission (TEX 1823)](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990014595466) | City and County of San Francisco | San Francisco, us | 2026-08-13 |
 | [Partner Marketing Manager (5-month Contract)](https://jobs.smartrecruiters.com/Sia/744000143395179) | Sia | San Francisco, us | 2026-08-13 |
