@@ -2,43 +2,55 @@
 
 Roles whose title reads as engineering.
 
-_55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
+_55,649 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| Senior Ruby Developer | Perrystreet | Remote | 2026-08-18 |
+| Software Architect | Taskrabbit | San Francisco, California, United States | 2026-08-18 |
+| Senior Data Engineer | Taskrabbit | San Francisco, California, United States | 2026-08-18 |
+| Senior Software Engineer | Taskrabbit | San Francisco, California, United States | 2026-08-18 |
+| Senior Software Engineer | Taskrabbit | San Francisco, California, United States | 2026-08-18 |
 | Senior DevOps Engineer / Ruby | Perrystreet | Remote | 2026-08-18 |
+| Senior Ruby Developer | Perrystreet | Remote | 2026-08-18 |
 | Senior Mobile Developer (iOS/Android) | Perrystreet | Remote | 2026-08-18 |
+| Senior / Lead Data Software Engineer (Analytics & AI) | Regent | Tulsa, OK | 2026-08-18 |
+| Senior Platform/DevOps Engineer | Regent | Tulsa, OK | 2026-08-18 |
 | Solution Architect (.NET/C#) | Gorillalogic | CO, CR | 2026-08-18 |
+| Full-stack Software Engineer III/Senior | Ngrok | San Francisco, CA | 2026-08-18 |
 | Principal UX Engineer, Ads | Redditinc | United States | 2026-08-18 |
 | AI Quality Engineer | Xapien | London | 2026-08-18 |
 | Marketing Specialist I - SEO Architect | The Nielsen Company | Mumbai, in | 2026-08-18 |
-| Senior Machine Learning Engineer | Redditinc | Remote - United States | 2026-08-18 |
 | Staff Frontend Engineer, Ads Creative | Redditinc | United States | 2026-08-18 |
-| Engineering Manager, Ads ML Efficiency | Redditinc | Remote - United States | 2026-08-18 |
-| Machine Learning Systems Engineer, Ads ML Platform | Redditinc | United Kingdom | 2026-08-18 |
+| Senior Machine Learning Engineer | Redditinc | Remote - United States | 2026-08-18 |
 | Machine Learning Systems Engineer, Ads ML Platform | Redditinc | The Netherlands | 2026-08-18 |
+| Machine Learning Systems Engineer, Ads ML Platform | Redditinc | United Kingdom | 2026-08-18 |
 | Machine Learning Engineer, Ads Optimization | Redditinc | Remote - United States | 2026-08-18 |
+| Engineering Manager, Ads ML Efficiency | Redditinc | Remote - United States | 2026-08-18 |
 | Engineering Manager, Advanced Signals (SWE) | Redditinc | Remote - United States | 2026-08-18 |
-| Staff Engineer, Ads Business Manager | Redditinc | United States | 2026-08-18 |
 | Senior Business Engineer | Redditinc | Remote - British Columbia, Canada | 2026-08-18 |
 | Senior Business Engineer | Redditinc | Remote - United States | 2026-08-18 |
+| Staff Engineer, Ads Business Manager | Redditinc | United States | 2026-08-18 |
 | Staff Android Engineer, Brand Ad Formats | Redditinc | United States | 2026-08-18 |
-| Senior Machine Learning Systems Engineer | Redditinc | Remote - United States | 2026-08-18 |
 | Staff Machine Learning Engineer | Redditinc | United States | 2026-08-18 |
+| Senior Machine Learning Systems Engineer | Redditinc | Remote - United States | 2026-08-18 |
 | Automation QA Engineer \| Mid - Senior \| NordVPN \| Android team | Writesaas | Vilnius | 2026-08-18 |
 | Senior Backend Engineer (Foundation) | Proton | Barcelona; Geneva | 2026-08-18 |
 | Enterprise Migrations Engineer | Gitbook | Europe (+/- 3 hours) | 2026-08-18 |
 | Data Engineer | Obligo | Tel Aviv | 2026-08-18 |
-| Product Engineer, Backend(Shops) - Mercari | Mercari | Minato City, Japan | 2026-08-18 |
+| Product Engineer, Backend(Shops) | 株式会社メルカリ | Minato City, Japan | 2026-08-18 |
 | Senior Software Engineer - Messaging | Redditinc | Remote | 2026-08-17 |
+| Senior Software Engineer, Streaming Platform | Sentry | San Francisco, California | 2026-08-17 |
+| Hardware Reliability Engineer | Ouraring | San Francisco, California | 2026-08-17 |
 | Software Engineer, Engineering Systems | Outsidersfund | Los Angeles | 2026-08-17 |
 | Full Stack Developer, Business Systems | Outsidersfund | Los Angeles | 2026-08-17 |
+| Hardware Signal Quality Test Engineer | Ouraring | San Francisco, California | 2026-08-17 |
 | Quality Assurance Engineer- Program & Project Delivery | Thenuclearcompany | Columbia, SC | 2026-08-17 |
 | Senior Software Engineer, Ads Creative Effectiveness | Redditinc | Remote | 2026-08-17 |
+| Engineering Manager (DevEx) | Nextinsurance | Boston, MA | 2026-08-17 |
+| Senior Platform Engineer (SRE) | Scoreplay | Western Europe | 2026-08-17 |
 | Senior DevOps Engineer - Platform | Proton | Paris;Geneva | 2026-08-17 |
 | Director, MTS (DevOps) | The Nielsen Company | Bengaluru, in | 2026-08-17 |
-| Manager, Analytics Engineer - Mercari | Mercari | Minato City, Japan | 2026-08-17 |
+| Manager, Analytics Engineer | 株式会社メルカリ | Minato City, Japan | 2026-08-17 |
 | Senior/Staff Software Engineer, Machine Control Systems | Atomic Machines | Emeryville, California or Santa Clara, California | 2026-08-15 |
 | Backend Engineer - Marketing Technology | Proton | London; Paris; Prague | 2026-08-15 |
 | Senior Electrical Engineer | Axon | Kassel, Hesse, Germany | 2026-08-15 |
@@ -53,8 +65,6 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | CAD Engineer/Librarian Intern (Summer 2027) | Astranis | San Francisco | 2026-08-15 |
 | CAD Engineer/Librarian Intern (Spring 2027) | Astranis | San Francisco | 2026-08-15 |
 | CAD Engineer/Librarian Intern (Winter 2027) | Astranis | San Francisco | 2026-08-15 |
-| Principal Software Engineer- Embedded OS | ALTEN Technology USA | Denver, Colorado, United States | 2026-08-14 |
-| Senior DevSecOps Engineer | ALTEN Technology USA | Denver, Colorado, United States | 2026-08-14 |
 | Staff+ Software Engineer, Safeguards Data | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
 | Staff+ Software Engineer, GRC Platform | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-14 |
 | Sr Software Engineer II | Axon | Sterling, Virginia, United States | 2026-08-14 |
@@ -63,7 +73,7 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Sr. Manufacturing Design Engineer - eMotor | Archer | San Jose, California, United States | 2026-08-14 |
 | Staff Software Engineer | Redditinc | Remote - United States | 2026-08-14 |
 | Technical Support Engineer - Temp Employment | BeyondTrust | Remote Canada | 2026-08-14 |
-| ADAS Performance Engineer | ALTEN Technology USA | Auburn Hills, Michigan, United States | 2026-08-14 |
+| ADAS Performance Engineer | ALTEN Technology USA | Auburn Hills | 2026-08-14 |
 | Senior Machine Learning Engineer, Trust | Airbnb | San Francisco, CA | 2026-08-14 |
 | Developer, Rust | 1Password | Remote (United States \| Canada) | 2026-08-14 |
 | [Internal] Developer, Rust | 1Password | Remote (United States \| Canada) | 2026-08-14 |
@@ -85,8 +95,9 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Senior Project Engineer - Water | Apex Companies | Denver, CO | 2026-08-14 |
 | Senior Machine Learning Engineer | Axon | Seattle, Washington, United States | 2026-08-14 |
 | Senior Full Stack Engineer - BitGo Labs | BitGo | Palo Alto, California, United States | 2026-08-14 |
-| Design Engineer III - Private Land Development | Apex Companies | Denver, CO | 2026-08-14 |
 | Civil Engineers & Project Managers | Apex Companies | Boise, ID; Fort Myers, FL; Marathon, FL; Portland, OR; Providence, RI; Punta Gorda, FL; Quincy, MA; Reno, NV; Richland, WA; Salt Lake City, UT; Seattle, WA; Tampa, FL; Vancouver, WA; Walla Walla, WA; Woburn, MA | 2026-08-14 |
+| Design Engineer III - Private Land Development | Apex Companies | Denver, CO | 2026-08-14 |
+| Infrastructure & DevOps Engineer | Nextinsurance | Kfar Saba, Israel | 2026-08-14 |
 | Civil Engineer, EIT - Land Development | Atwell, LLC | Reno, Nevada, United States | 2026-08-14 |
 | Forward Deployed Engineer | Asset Living | Remote | 2026-08-14 |
 | Staff Machine Learning Engineer | Redditinc | The Netherlands | 2026-08-14 |
@@ -100,6 +111,7 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Software Engineer I, Privacy | Axon | Seattle, Washington, United States | 2026-08-14 |
 | Graduate Frontend Engineer - React/TypeScript | Bitpanda | București, Bucharest, Romania | 2026-08-14 |
 | DevOps Engineer - Technology R&D Lab | Avaloq | Makati City, ph | 2026-08-14 |
+| Senior Process Engineer | Ouraring | Oulu, North Ostrobothnia | 2026-08-14 |
 | AI Workflows Engineer | Neuralconcept | Lausanne | 2026-08-14 |
 | Software Engineer, Backend (5-7 years) | PhonePe | Bangalore | 2026-08-14 |
 | Data Ingestion Engineer (ADF+Dbt+Snowflake) | EVERSANA | Pune, in | 2026-08-14 |
@@ -132,6 +144,7 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Principal / Senior Engineer, Data Analytics & Management, Technical Operations Management | Aumovio | Singapore, sg | 2026-08-14 |
 | Senior Cloud Network Engineer, Infrastructure | Airwallex | SG - Singapore | 2026-08-14 |
 | Senior Data Engineer, BizTech | Airbnb | Bangalore, India | 2026-08-14 |
+| Backend Engineer | Nextinsurance | Boston, MA | 2026-08-14 |
 | Principal QA Engineer | Backbase | Ho Chi Minh | 2026-08-14 |
 | Senior Software Engineer - OT | Tenable, Inc. | Israel - Office - Tel Aviv | 2026-08-14 |
 | Battery Software Integration Engineer, Energy Storage | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
@@ -143,9 +156,9 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Senior Software Engineer, Energy Storage | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
 | Staff Chemical Engineer | Redwood Materials | McCarran, NV | 2026-08-14 |
 | Systems Engineer, Energy Storage | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
-| Staff Electrical Design Engineer, EPC | Redwood Materials | McCarran, NV | 2026-08-14 |
-| Staff Electrical Design Engineer, EPC | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
 | Staff Electrical Design Engineer, EPC | Redwood Materials | Carson City, NV | 2026-08-14 |
+| Staff Electrical Design Engineer, EPC | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| Staff Electrical Design Engineer, EPC | Redwood Materials | McCarran, NV | 2026-08-14 |
 | Production Engineering Manager | Redwood Materials | McCarran, NV | 2026-08-14 |
 | Cathode Design Engineer | Redwood Materials | McCarran, NV | 2026-08-14 |
 | Software Engineer - ML/Computer Vision (Battery Sorting) | Redwood Materials | McCarran, NV; San Francisco, California, United States | 2026-08-14 |
@@ -203,32 +216,31 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Senior Machine Learning Engineer, Ads ML Platform | Reddit | Remote - United States | 2026-08-14 |
 | Machine Learning Engineer, Ads Optimization | Reddit | Remote - United States | 2026-08-14 |
 | Machine Learning Systems Engineer, Ads ML Platform | Reddit | Remote - The Netherlands | 2026-08-14 |
-| Senior Business Engineer - Ads | Reddit | Remote - British Columbia, Canada | 2026-08-14 |
 | Senior Business Engineer - Ads | Reddit | Remote - United States | 2026-08-14 |
 | Machine Learning Systems Engineer, Ads ML Platform | Reddit | Remote - United Kingdom | 2026-08-14 |
+| Senior Business Engineer - Ads | Reddit | Remote - British Columbia, Canada | 2026-08-14 |
 | Engineering Manager, Ads ML Efficiency | Reddit | Remote - United States | 2026-08-14 |
-| Engineering Manager, Advanced Signals (SWE) | Reddit | Remote - United States | 2026-08-14 |
 | Staff Engineer, Ads Business Manager | Reddit | Remote - United States | 2026-08-14 |
+| Engineering Manager, Advanced Signals (SWE) | Reddit | Remote - United States | 2026-08-14 |
 | Staff Android Engineer, Brand Ad Formats | Reddit | Remote - United States | 2026-08-14 |
-| Staff Machine Learning Engineer, Shopping Ads | Reddit | Remote - United States | 2026-08-14 |
 | Senior Machine Learning Systems Engineer, Ads ML Experience Platform | Reddit | Remote - United States | 2026-08-14 |
+| Staff Machine Learning Engineer, Shopping Ads | Reddit | Remote - United States | 2026-08-14 |
 | Senior Sustainment Systems Engineer | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
 | Electrical Systems Engineer | LLNL | Livermore, us | 2026-08-14 |
 | Senior UI Engineer, EW | Anduril Industries | Costa Mesa, California, United States | 2026-08-14 |
 | Mechanical Test Engineer | ALTEN Technology USA | Mukilteo, Washington | 2026-08-14 |
 | Semi-Senior Fullstack Developer (Nuxt VueJs / Blazor .NET) - Remote LATAM | DaCodes | Mexico | 2026-08-14 |
-| Telecom Billing Software Engineer - Lisbon Based | 1GLOBAL | Lisbon, Portugal | 2026-08-14 |
 | .NET Software Engineer | 1GLOBAL | São Paulo, Brazil | 2026-08-14 |
-| Senior Software engineer, Android (Mobile Enablement) - Mercari | Mercari | Minato City, Japan | 2026-08-14 |
-| Software Engineer - Experimentation System - Mercari | Mercari | Minato City, Japan | 2026-08-14 |
-| Senior Mechanical Design Engineer | ALTEN Technology USA | Mukilteo, Washington | 2026-08-13 |
+| Software Engineer - Experimentation System | 株式会社メルカリ | Minato City, Japan | 2026-08-14 |
+| Senior Software engineer, Android (Mobile Enablement) | 株式会社メルカリ | Minato City, Japan | 2026-08-14 |
+| Telecom Billing Software Engineer - Lisbon Based | 1GLOBAL | Lisbon, Portugal | 2026-08-14 |
 | Principal Security Operations Engineer | Axon | Atlanta, Georgia, United States; Boston, Massachusetts, United States; San Francisco, California, United States; Scottsdale, Arizona, United States; Seattle, Washington, United States | 2026-08-13 |
 | Senior Android Engineer | Ōura | Remote - United States | 2026-08-13 |
+| Senior Android Engineer | Ouraring | United States | 2026-08-13 |
 | Database Reliability Engineer | LLNL | Livermore, us | 2026-08-13 |
 | Resident Engineer | Luster National | Fresno, California, United States; Los Angeles, California, United States; Sacramento, California, United States; San Francisco Bay Area; Seattle, Washington, United States | 2026-08-13 |
 | Entry Level Support Engineer | New Era Technology | New Zealand - Manukau | 2026-08-13 |
 | Entry Level Support Engineer | New Era Technology | New Zealand - Henderson | 2026-08-13 |
-| Structural Analysis Engineer - Aerospace | ALTEN Technology USA | Fully Remote | 2026-08-13 |
 | Integration and Test Engineer | Anduril Industries | Melbourne, Victoria, Australia | 2026-08-13 |
 | Senior Associate Support Engineer | Parachute Health | U.S. Remote | 2026-08-13 |
 | Senior Backend Software Engineer (Java/Node.JS) | pureIntegration | Reston, us | 2026-08-13 |
@@ -250,11 +262,12 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Technical Support Engineer - University Graduate 2026 | Verkada | New York City, NY United States | 2026-08-13 |
 | Technical Support Engineer - University Graduate 2026 | Verkada | San Mateo, CA United States | 2026-08-13 |
 | Senior Software Engineer, Revenue Engineering | Muck Rack | Remote (Ireland, Bulgaria) | 2026-08-13 |
+| Backend Software Engineer | Philzcoffee | California - Los Angeles Market | 2026-08-13 |
 | Sr. Software Engineer - Backend | Lively | Denver, CO | 2026-08-13 |
 | Senior Software Engineer, DevOps | Muck Rack | Remote (Bulgaria, Ireland, United Kingdom) | 2026-08-13 |
 | Senior Electrical Design Engineer | Redwood Materials | McCarran, NV | 2026-08-13 |
-| Staff Mechanical Design Engineer, EPC | Redwood Materials | Carson City, NV | 2026-08-13 |
 | Staff Mechanical Design Engineer, EPC | Redwood Materials | San Francisco, California, United States | 2026-08-13 |
+| Staff Mechanical Design Engineer, EPC | Redwood Materials | Carson City, NV | 2026-08-13 |
 | Engineering Geologist / Geotechnical Engineer I VIC | AECOM | Docklands, au | 2026-08-13 |
 | Software Engineering Director, Infrared Data Products | Muon Space | San Jose, CA | 2026-08-13 |
 | Senior Fluids Engineer | Stoke Space | Kent, Washington | 2026-08-13 |
@@ -270,42 +283,29 @@ _55,556 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Senior Technical Program Manager, Chemical Engineering | Redwood Materials | McCarran, NV | 2026-08-13 |
 | Senior Software Engineer, Flight Software | Muon Space | San Jose, CA | 2026-08-13 |
 | Software Engineer - Imaging Systems | Verkada | San Mateo, CA United States | 2026-08-13 |
-| Senior Software Engineer, Backend (Infrastructure) | Otter.ai | Mountain View, CA | 2026-08-13 |
 | Senior Software Engineer, Backend (Infrastructure) | Otter.ai | Seattle, Washington, United States | 2026-08-13 |
+| Senior Software Engineer, Backend (Infrastructure) | Otter.ai | Mountain View, CA | 2026-08-13 |
 | Software Engineer, Backend (Infrastructure) | Otter.ai | Mountain View, CA | 2026-08-13 |
 | Senior Data Engineer | Otter.ai | Mountain View, CA | 2026-08-13 |
 | Staff Data Engineer | Realtor.com Careers | Austin, Texas, United States | 2026-08-13 |
 | Cleared C# / .NET Developer (Washington, DC) | Accenture Federal Services | Washington, DC | 2026-08-13 |
 | Mission Software Engineer, Vehicle Software, Frontend | Anduril Industries | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-08-13 |
-| Technical Support Engineer III | Planet | Berlin, Germany | 2026-08-13 |
-| Software Engineer, Missions Software | Planet | United States, Remote; Canada, Remote | 2026-08-13 |
-| Software Engineer | Planet | San Francisco, CA | 2026-08-13 |
-| Software Engineer - Platform, Mission Systems | Planet | United States, Remote; Canada, Remote | 2026-08-13 |
 | Software Engineer, Platform Operations | Planet | United States, Remote | 2026-08-13 |
 | Sr. Satcom Modem Engineer | Planet | San Francisco, CA | 2026-08-13 |
-| Flight Dynamics Engineer, Orbits R&D | Planet | San Francisco, CA | 2026-08-13 |
-| Pre-Sales Solutions Architect, LATAM | Planet | LATAM, Remote | 2026-08-13 |
-| Manufacturing Engineer | Planet | Berlin, Germany | 2026-08-13 |
-| Senior Software Engineer | Planet | Ljubljana, Slovenia | 2026-08-13 |
-| Senior Forward Deployed Engineer | Planet | United States, Remote | 2026-08-13 |
-| Senior Engineering Manager, D&I Analytics | Planet | Washington, D.C. | 2026-08-13 |
-| Software Engineer, Platform Operations | Planet | Canada, Remote | 2026-08-13 |
-| Senior Engineering Manager - AI Geospatial Assistant Team | Planet | San Francisco, CA | 2026-08-13 |
-| Senior Data Engineer, Constellation Services | Planet | Berlin, Germany | 2026-08-13 |
-| PreSales Sr. Solutions Architect - French Defense and Intelligence | Planet | United Kingdom, Remote | 2026-08-13 |
-| Senior Data Engineer | Planet | Washington DC; Denver, CO | 2026-08-13 |
-| Senior Camera Systems Engineer | Planet | San Francisco, CA | 2026-08-13 |
-| Quality Engineer Lead | Planet | Berlin, Germany | 2026-08-13 |
-| PreSales Sr. Solutions Architect - French Defense and Intelligence | Planet | France, Remote | 2026-08-13 |
+| Technical Support Engineer III | Planet | Berlin, Germany | 2026-08-13 |
 | Data Visualization Engineer | Planet | San Francisco, CA | 2026-08-13 |
-| Senior Spacecraft Qualification Engineer | Planet | Berlin, Germany | 2026-08-13 |
-| Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence | Planet | APAC, Remote | 2026-08-13 |
-| Opto-Mechanical Engineer | Planet | San Francisco, CA | 2026-08-13 |
-| Senior Software Engineer, Storage Infrastructure | Planet | United States, Remote | 2026-08-13 |
 | Engineering Program Manager — Special Projects | Planet | San Francisco, CA | 2026-08-13 |
-| Principal Sales Engineer - Majors, South | Zscaler | Remote - Alabama, USA; Remote - Arkansas, USA; Remote - Florida, USA; Remote - Georgia, USA; Remote - Louisiana, USA; Remote - Mississippi, USA; Remote - North Carolina, USA; Remote - Oklahoma, USA; Remote - South Carolina, USA; Remote - Texas, USA | 2026-08-13 |
-| Senior Sales Engineer - Enterprise, Carolinas/Georgia | Zscaler | Remote - Georgia, USA; Remote - North Carolina, USA; Remote - South Carolina, USA | 2026-08-13 |
-| Software Engineer III | Rent the Runway | Galway, Ireland | 2026-08-13 |
+| Flight Dynamics Engineer, Orbits R&D | Planet | San Francisco, CA | 2026-08-13 |
+| Manufacturing Engineer | Planet | Berlin, Germany | 2026-08-13 |
+| Opto-Mechanical Engineer | Planet | San Francisco, CA | 2026-08-13 |
+| Pre-Sales Solutions Architect, LATAM | Planet | LATAM, Remote | 2026-08-13 |
+| Senior Camera Systems Engineer | Planet | San Francisco, CA | 2026-08-13 |
+| Senior Data Engineer | Planet | Washington DC; Denver, CO | 2026-08-13 |
+| Senior Data Engineer, Constellation Services | Planet | Berlin, Germany | 2026-08-13 |
+| Senior Engineering Manager - AI Geospatial Assistant Team | Planet | San Francisco, CA | 2026-08-13 |
+| Senior Engineering Manager, D&I Analytics | Planet | Washington, D.C. | 2026-08-13 |
+| Senior Forward Deployed Engineer | Planet | United States, Remote | 2026-08-13 |
+| Senior Software Engineer | Planet | Ljubljana, Slovenia | 2026-08-13 |
 
 ---
 

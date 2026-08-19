@@ -2,7 +2,7 @@
 
 Roles listing Dublin as their location.
 
-_971 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
+_972 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -55,91 +55,63 @@ _971 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | GTM Systems & Automation Lead (Remote) | Telnyx | Brazil; LATAM; Argentina; Canada; Dublin, IE | 2026-08-13 |
 | Senior Research Engineer | Tenable, Inc. | Ireland - Office - Dublin | 2026-08-13 |
 | Software Engineer, Platform - Dublin, Ireland | Speechify | Dublin, Ireland | 2026-08-13 |
-| Dividend Associate - 6 month FTC | Davy | Dublin, Ireland | 2026-08-13 |
-| Electrical Construction Manager | Designer Group | Dublin, Ireland | 2026-08-13 |
 | Business Analyst - 12m FTC | Davy | Dublin, Ireland | 2026-08-13 |
 | Systems Administrator | DeSilva Gates Construction | Dublin, United States | 2026-08-13 |
+| Dividend Associate - 6 month FTC | Davy | Dublin, Ireland | 2026-08-13 |
+| Electrical Construction Manager | Designer Group | Dublin, Ireland | 2026-08-13 |
 | Vendor Manager | Harvey | Dublin | 2026-08-12 |
-| Network Operations Technician (SpaceXAI / Starlink) | SpaceXAI | Dublin, Ireland | 2026-08-12 |
-| Software Engineer - Network Software and Services | SpaceXAI | Dublin, Ireland | 2026-08-12 |
 | Technical Solutions Specialist- FTC | SpaceXAI | Dublin, Ireland | 2026-08-12 |
+| Software Engineer - Network Software and Services | SpaceXAI | Dublin, Ireland | 2026-08-12 |
+| Network Operations Technician (SpaceXAI / Starlink) | SpaceXAI | Dublin, Ireland | 2026-08-12 |
 | Staff Security Engineer | Ripple | Dublin, Ireland | 2026-08-12 |
-| Commercial Sales Engineer - Dublin | Datadog | Dublin, Ireland | 2026-08-12 |
-| Deal Desk Analyst - Dublin | Datadog | Dublin, Ireland | 2026-08-12 |
 | Enterprise Customer Success Manager (German Speaking) | Datadog | Dublin, Ireland | 2026-08-12 |
-| Senior AI Engineer – Notebooks | Datadog | Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote | 2026-08-12 |
-| Director, Technical Account Management | Datadog | Dublin, Ireland; London, United Kingdom; Paris, France | 2026-08-12 |
+| Commercial Sales Engineer - Dublin | Datadog | Dublin, Ireland | 2026-08-12 |
 | Commercial Sales Engineer (Spanish-Speaking) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Deal Desk Analyst - Dublin | Datadog | Dublin, Ireland | 2026-08-12 |
+| Director, Technical Account Management | Datadog | Dublin, Ireland; London, United Kingdom; Paris, France | 2026-08-12 |
 | Staff Engineer - Data Platform Experience | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| Senior Software Engineer - REDAPL Graph Engine | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| Senior Security Engineer - Cloud SIEM | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| Senior Revenue Accountant - Dublin | Datadog | Dublin, Ireland | 2026-08-12 |
-| Sales Development Representative (UKI) | Datadog | Dublin, Ireland | 2026-08-12 |
-| Mid-Market Account Executive (DACH) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
-| Technical Support Engineer 2, Premier - EMEA | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
-| Sales Development Representative - Turkey | Datadog | Dublin, Ireland | 2026-08-12 |
 | Sales Development Representative (Nordics) - Dublin | Datadog | Dublin, Ireland | 2026-08-12 |
-| Sales Development Representative (France) | Datadog | Dublin, Ireland | 2026-08-12 |
 | Sales Development Representative (Benelux) | Datadog | Dublin, Ireland | 2026-08-12 |
-| Technical Escalations Engineer 2 (Network Monitoring) - EMEA | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
-| Commercial Customer Success Manager (DACH; German-Speaking) | Datadog | Dublin, Ireland | 2026-08-12 |
-| Commercial Account Executive UKI/Nordics | Datadog | Dublin, Ireland | 2026-08-12 |
-| Commercial Account Executive (Portugal) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
-| Commercial Account Executive (France) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Sales Development Representative (France) | Datadog | Dublin, Ireland | 2026-08-12 |
 | Commercial Account Executive (DACH) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Senior AI Engineer – Notebooks | Datadog | Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote | 2026-08-12 |
+| Commercial Account Executive (France) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Commercial Customer Success Manager (DACH; German-Speaking) | Datadog | Dublin, Ireland | 2026-08-12 |
+| Mid-Market Account Executive (DACH) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Commercial Account Executive (Portugal) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Commercial Account Executive UKI/Nordics | Datadog | Dublin, Ireland | 2026-08-12 |
+| Sales Development Representative - Turkey | Datadog | Dublin, Ireland | 2026-08-12 |
+| Senior Security Engineer - Cloud SIEM | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| Senior Software Engineer - REDAPL Graph Engine | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| Sales Development Representative (UKI) | Datadog | Dublin, Ireland | 2026-08-12 |
+| Technical Support Engineer 2, Premier - EMEA | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
 | Technical Support Engineer 3, Premier - EMEA | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
 | Technical Enablement Manager 3 (Italian Speaking) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland; Paris, France | 2026-08-12 |
-| Associate Operations Manager, Service Operations, Labs | DoorDash USA | Dublin, CA; Sunnyvale, CA; San Jose, CA | 2026-08-12 |
+| Senior Revenue Accountant - Dublin | Datadog | Dublin, Ireland | 2026-08-12 |
+| Technical Escalations Engineer 2 (Network Monitoring) - EMEA | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
+| Service Technician, Service Operations, Labs | DoorDash USA | Sunnyvale, CA; Dublin, CA | 2026-08-12 |
+| Senior Service Technician, Service Operations, Labs | DoorDash USA | Dublin, CA | 2026-08-12 |
+| Operations Specialist, Remote Assistance | DoorDash USA | San Francisco, CA; Dublin, CA; Oakland, CA | 2026-08-12 |
 | Senior Operations Specialist, Robot | DoorDash USA | Fremont, CA; Sunnyvale, CA; San Jose, CA; Dublin, CA | 2026-08-12 |
 | Operations Specialist, Robot | DoorDash USA | Dublin, CA; San Francisco, CA | 2026-08-12 |
-| Operations Specialist, Remote Assistance | DoorDash USA | San Francisco, CA; Dublin, CA; Oakland, CA | 2026-08-12 |
-| Senior Service Technician, Service Operations, Labs | DoorDash USA | Dublin, CA | 2026-08-12 |
-| Service Technician, Service Operations, Labs | DoorDash USA | Sunnyvale, CA; Dublin, CA | 2026-08-12 |
+| Associate Operations Manager, Service Operations, Labs | DoorDash USA | Dublin, CA; Sunnyvale, CA; San Jose, CA | 2026-08-12 |
 | Regional Sales Manager, New Business Sales - LinkedIn Sales Solutions | LinkedIn | Dublin, ie | 2026-08-12 |
 | 2027 Internship - FPGA Engineer | Virtu Financial | Dublin, Ireland | 2026-08-12 |
 | Head of Merchandising | Primark | Dublin 1, ie | 2026-08-12 |
 | IT Support Engineer | Anthropic | Dublin, IE | 2026-08-12 |
-| Senior Software Engineer, Observability | MongoDB | Dublin | 2026-08-12 |
-| Technical Services Engineer - Partners | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Account Development Representative, Spanish Speaking | MongoDB | Dublin | 2026-08-12 |
-| Associate TSE II | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Cloud Operations Engineer | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Cloud Operations Engineer | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Cloud Operations Engineer | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Commercial Growth Account Executive (Arabic Speaker) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Commercial Growth Account Executive (German Speaker) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Commercial Growth Account Executive - Turkish Speaker | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Contract Sourcer | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Director, Escalation Management | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Director, International Financial Compliance | MongoDB | Dublin | 2026-08-12 |
-| Director, Web Platform & Technology | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Engineering Manager, Atlas Clusters Fleet Signal Management | MongoDB | Dublin | 2026-08-12 |
-| Engineering Manager, Server Networking Security (Rust) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Program Manager 3 | MongoDB | Dublin | 2026-08-12 |
-| Renewals Manager | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Renewals Manager - French Speaker | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Security Software Engineer, Infrastructure Security (Staff or Senior) | MongoDB | Dublin; Ireland | 2026-08-12 |
-| Senior Developer Advocate | MongoDB | Dublin | 2026-08-12 |
-| Senior Software Engineer, Atlas API Experience | MongoDB | Dublin | 2026-08-12 |
-| Senior Software Engineer, Atlas Clusters | MongoDB | Dublin | 2026-08-12 |
-| Senior Software Engineer, Forward Deployed AI Engineer | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Senior Software Engineer, Server Networking Security (Rust) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Senior Staff Engineer | MongoDB | Dublin | 2026-08-12 |
-| Senior Technical Program Manager Atlas Clusters | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Software Engineer 2 | MongoDB | Dublin | 2026-08-12 |
-| Staff Technical Product Marketing Manager, Context Engineering | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Technical Lead Manager | MongoDB | Dublin, Ireland | 2026-08-12 |
 | Account Development Representative | MongoDB | Dublin, Ireland | 2026-08-12 |
 | Account Development Representative, Arabic Speaking | MongoDB | Dublin | 2026-08-12 |
 | Account Development Representative, French Speaking | MongoDB | Dublin | 2026-08-12 |
 | Account Development Representative, German Speaking | MongoDB | Dublin | 2026-08-12 |
 | Account Development Representative, Italian Speaking | MongoDB | Dublin | 2026-08-12 |
-| Escalation Manager | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Head of Partner Enablement | MongoDB | Dublin, Ireland; London | 2026-08-12 |
-| Lead, Cloud Operations Engineering | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Manager, Engineering | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Manager, Sales Development - French | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Manager, Site Reliability Engineering - Storage Layer Service | MongoDB | Dublin | 2026-08-12 |
+| Technical Services Engineer - Partners | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Account Development Representative, Spanish Speaking | MongoDB | Dublin | 2026-08-12 |
+| Program Manager 3 | MongoDB | Dublin | 2026-08-12 |
+| Renewals Manager | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Renewals Manager - French Speaker | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Security Software Engineer, Infrastructure Security (Staff or Senior) | MongoDB | Dublin; Ireland | 2026-08-12 |
+| Senior Developer Advocate | MongoDB | Dublin | 2026-08-12 |
 | Software Engineer 3, Atlas Growth 2 | MongoDB | Dublin, Ireland | 2026-08-12 |
 | Software Engineer 3, Query Execution | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
 | Solutions Architect - French Speaking | MongoDB | Dublin, Ireland; Ireland | 2026-08-12 |
@@ -148,18 +120,46 @@ _971 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Staff Engineer | MongoDB | Dublin | 2026-08-12 |
 | Staff Engineer, Observability | MongoDB | Dublin, Ireland | 2026-08-12 |
 | Staff Software Engineer, Server Networking Security (Rust) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Staff Technical Product Marketing Manager, Context Engineering | MongoDB | Dublin, Ireland | 2026-08-12 |
 | Staff Technical Program Manager | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
 | Staff Technical Program Manager | MongoDB | Dublin, Ireland | 2026-08-12 |
 | Staff Technical Program Manager, Site Reliability Engineering | MongoDB | Cork, Ireland; Dublin, Ireland; Ireland | 2026-08-12 |
-| Technical Lead Manager | MongoDB | Dublin, Ireland | 2026-08-12 |
 | Technical Services Engineer | MongoDB | Dublin | 2026-08-12 |
 | Technical Services Engineer | MongoDB | Dublin, Ireland | 2026-08-12 |
 | Technical Services Engineer | MongoDB | Dublin | 2026-08-12 |
-| Senior Manager, EMEA Payroll | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Senior Manager, Martech Transformation | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
-| Senior Manager, Sales Operations | MongoDB | Dublin, Ireland | 2026-08-12 |
-| Senior Product Security Engineer, Server | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Senior Software Engineer, Server Networking Security (Rust) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Escalation Manager | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Head of Partner Enablement | MongoDB | Dublin, Ireland; London | 2026-08-12 |
+| Lead, Cloud Operations Engineering | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Manager, Engineering | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Manager, Sales Development - French | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Manager, Site Reliability Engineering - Storage Layer Service | MongoDB | Dublin | 2026-08-12 |
+| Senior Software Engineer, Atlas API Experience | MongoDB | Dublin | 2026-08-12 |
+| Senior Software Engineer, Atlas Clusters | MongoDB | Dublin | 2026-08-12 |
+| Senior Software Engineer, Forward Deployed AI Engineer | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Senior Software Engineer, Observability | MongoDB | Dublin | 2026-08-12 |
+| Senior Staff Engineer | MongoDB | Dublin | 2026-08-12 |
+| Senior Technical Program Manager Atlas Clusters | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Software Engineer 2 | MongoDB | Dublin | 2026-08-12 |
 | Senior Manager, Financial Planning & Analysis | MongoDB | Dublin | 2026-08-12 |
+| Senior Manager, EMEA Payroll | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Cloud Operations Engineer | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Associate TSE II | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Cloud Operations Engineer | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Senior Manager, Martech Transformation | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Engineering Manager, Server Networking Security (Rust) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Engineering Manager, Atlas Clusters Fleet Signal Management | MongoDB | Dublin | 2026-08-12 |
+| Director, Web Platform & Technology | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Senior Product Security Engineer, Server | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Director, International Financial Compliance | MongoDB | Dublin | 2026-08-12 |
+| Director, Escalation Management | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Senior Manager, Sales Operations | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Contract Sourcer | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Commercial Growth Account Executive - Turkish Speaker | MongoDB | Dublin, Ireland | 2026-08-12 |
+| Commercial Growth Account Executive (German Speaker) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Commercial Growth Account Executive (Arabic Speaker) | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
+| Cloud Operations Engineer | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-08-12 |
 | Kubernetes Engineer | InterSystems | Dublin | 2026-08-12 |
 | Senior Cloud & Kubernetes Engineer | InterSystems | Dublin | 2026-08-12 |
 | Technical Support Engineer, Metronome | Stripe | Dublin, Ireland | 2026-08-12 |
@@ -178,36 +178,36 @@ _971 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Senior IT Internal Audit role | Primark | Dublin, ie | 2026-08-12 |
 | Staff Product Manager, Stripe Tax | Stripe | Dublin, Ireland | 2026-08-12 |
 | Business Development Representative - DACH | Fivetran | Dublin, Dublin, Ireland, EMEA | 2026-08-12 |
+| Estimation Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
+| BIM Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
 | Finance Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
 | Environmental, Health and Safety Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
-| Planner Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
-| Estimation Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
 | IT Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
-| BIM Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
+| Planner Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
 | Human Resources Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
-| Procurement Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
-| Quality Assurance Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
 | Talent Acquisition Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
 | Quantity Surveying Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
+| Quality Assurance Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
+| Procurement Graduate | Designer Group | Dublin, Ireland | 2026-08-12 |
 | Director, Technical Revenue Accounting | Snowflake | US-CA-Dublin | 2026-08-11 |
 | Environment, Health and Safety Specialist | Anthropic | Dublin, IE | 2026-08-11 |
 | Recruiter | Anduril Industries | Dublin, Dublin, Ireland | 2026-08-11 |
 | Physical Therapist | Upstream Rehabilitation | Dublin, GA | 2026-08-11 |
 | Regional Brand Creative Lead- EMEA | ServiceNow | Dublin, ie | 2026-08-11 |
-| Product Engineering - Future Opportunities | Tenable, Inc. | Maryland HQ + Boston Office + California - Remote - Bay Area + Ireland - Office - Dublin + Israel - Office - Tel-Aviv | 2026-08-11 |
-| PCI Analyst | Tenable, Inc. | Ireland - Office - Dublin | 2026-08-11 |
 | Senior Localization Engineer, Applied AI | Tenable, Inc. | Ireland - Office - Dublin | 2026-08-11 |
+| PCI Analyst | Tenable, Inc. | Ireland - Office - Dublin | 2026-08-11 |
+| Product Engineering - Future Opportunities | Tenable, Inc. | Maryland HQ + Boston Office + California - Remote - Bay Area + Ireland - Office - Dublin + Israel - Office - Tel-Aviv | 2026-08-11 |
 | Account Executive - Small Business - Ireland OR UK Based (Office, Flex or Remote) | HubSpot | Dublin, Ireland | 2026-08-11 |
 | Small Business Account Executive DACH (German speaker) | HubSpot | Dublin, Ireland | 2026-08-11 |
 | Senior Account Executive - Specialisation - UKI - (Ireland Based) | HubSpot | Flex - Dublin, Ireland | 2026-08-11 |
 | Senior Account Executive, Mid-Market UKI | HubSpot | Dublin, Ireland | 2026-08-11 |
 | Vertriebsmitarbeiter/in \| Sales Manager - Mittelstand, DACH (Ireland Basierend) | HubSpot | Dublin, Ireland | 2026-08-11 |
 | Mid-Market Account Executive, DACH (German Speaker - Ireland Based) | HubSpot | Dublin, Ireland | 2026-08-11 |
-| Lead Account Executive, Specialisation - Corporate - DACH (Ireland Based) | HubSpot | Flex - Dublin, Ireland | 2026-08-11 |
 | Lead Account Executive, Specialisation - Corporate - UKI (Ireland Based) | HubSpot | Flex - Dublin, Ireland | 2026-08-11 |
+| Lead Account Executive, Specialisation - Corporate - DACH (Ireland Based) | HubSpot | Flex - Dublin, Ireland | 2026-08-11 |
 | Senior Account Executive, Mid-Market -France | HubSpot | Dublin, Ireland | 2026-08-11 |
-| Account Executive, Small Business - Nordics (English Speaking) | HubSpot | Dublin, Ireland | 2026-08-11 |
 | Account Executive, Small Business - Nordics (English Speaking) | HubSpot | Flex - Dublin, Ireland | 2026-08-11 |
+| Account Executive, Small Business - Nordics (English Speaking) | HubSpot | Dublin, Ireland | 2026-08-11 |
 | Account Executive, Small Business - Benelux (English Speaking) | HubSpot | Dublin, Ireland | 2026-08-11 |
 | Senior Account Executive, Mid Market - Nordics (English Speaking) | HubSpot | Dublin, Ireland | 2026-08-11 |
 | German Customer Support Specialist | HubSpot | Dublin, Ireland | 2026-08-11 |
@@ -231,42 +231,42 @@ _971 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Senior Azure Administrator | Version 1 | Dublin, ie | 2026-08-11 |
 | Frontend Software Engineer II - Technical Operations | Toast | Dublin, Ireland | 2026-08-11 |
 | Senior Software Engineer - Technical Operations | Toast | Dublin, Ireland | 2026-08-11 |
+| Director, Game Science & Insights | 2K | Dublin, Ireland | 2026-08-11 |
 | Sr Applied Scientist | 2K | Dublin, Ireland | 2026-08-11 |
 | Director of Data Engineering | 2K | Dublin, Ireland | 2026-08-11 |
-| Director, Game Science & Insights | 2K | Dublin, Ireland | 2026-08-11 |
 | Privacy Associate (Dublin / London) | KBRA | Dublin, Ireland or London, England | 2026-08-11 |
 | Assistant General Counsel (Dublin / London) | KBRA | Dublin, Ireland or London, England | 2026-08-11 |
 | Corporate Credit Assessment - Director / Senior Director (Dublin) | KBRA | Dublin, Ireland | 2026-08-11 |
 | Funds Ratings - Associate / Associate Director (Dublin) | KBRA | Dublin, Ireland | 2026-08-11 |
 | Funds Ratings - Director (Dublin) | KBRA | Dublin, Ireland | 2026-08-11 |
 | Junior Software Engineer, Elixir | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
+| Software Engineer, Elixir | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
 | Senior Software Engineer (Python) | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
 | Infrastructure Engineer (Core) | Telnyx | Dublin, Ireland; Ho Chi Minh City, Vietnam; Bangalore, India; Warsaw, Poland; Amsterdam, Netherlands | 2026-08-11 |
-| Software Engineer, Elixir | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
 | Business Development Representative, EMEA | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
 | Mobile Core Engineer (Remote) | Telnyx | Dublin; Amsterdam; Krakow | 2026-08-11 |
+| Project Development Lead - NI & ROI | Fuse Energy | Dublin, Ireland | 2026-08-11 |
 | Pension Support Senior Associate | Davy | Dublin, Ireland | 2026-08-11 |
 | Cabin Crew Assessment Day - Dublin 14 August 2026 | Crewlink | Dublin, Ireland | 2026-08-11 |
-| Project Development Lead - NI & ROI | Fuse Energy | Dublin, Ireland | 2026-08-11 |
-| Account Executive Small Business Italy | HubSpot | Dublin, Ireland | 2026-08-10 |
-| BDR Manager | HubSpot | Dublin, Ireland | 2026-08-10 |
-| Sales Development Representative - EMEA UKI | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
-| DACH Senior Customer Onboarding Specialist | HubSpot | Dublin, Ireland | 2026-08-10 |
-| Business Development Representative - UKI | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
-| Business Development Representative - Nordics | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
-| Business Development Representative - Benelux | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
-| Senior Solutions Engineer - Polish speaking | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
 | SDR Manager (Sales Development Manager) | HubSpot | Dublin, Ireland | 2026-08-10 |
+| Senior Solutions Engineer - Polish speaking | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
+| Sales Development Representative - EMEA UKI | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
+| Business Development Representative - Benelux | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
+| BDR Manager | HubSpot | Dublin, Ireland | 2026-08-10 |
+| Account Executive Small Business Italy | HubSpot | Dublin, Ireland | 2026-08-10 |
+| Business Development Representative - Nordics | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
+| Business Development Representative - UKI | HubSpot | Flex - Dublin, Ireland | 2026-08-10 |
+| DACH Senior Customer Onboarding Specialist | HubSpot | Dublin, Ireland | 2026-08-10 |
 | Sales Development Representative - German | LinkedIn | Dublin, ie | 2026-08-10 |
 | Sales Development Representative - French and Arabic Speaking | LinkedIn | Dublin, ie | 2026-08-10 |
 | Backend Engineer, Core Technology | Stripe | Dublin | 2026-08-10 |
 | Senior Technical Consultant | Asana | Dublin | 2026-08-10 |
 | Solutions Engineer, Command | Asana | Dublin | 2026-08-10 |
 | Enterprise Solutions Engineer, Service Management | Asana | Dublin | 2026-08-10 |
-| Product Support Specialist - French Speaking | Asana | Dublin | 2026-08-10 |
 | Enterprise Account Executive - Dutch Speaking | Asana | Dublin | 2026-08-10 |
-| Business Development Representative, German Speaking | Asana | Dublin | 2026-08-10 |
+| Product Support Specialist - French Speaking | Asana | Dublin | 2026-08-10 |
 | Senior Solutions Architect | Asana | Dublin | 2026-08-10 |
+| Business Development Representative, German Speaking | Asana | Dublin | 2026-08-10 |
 | Global Benefits and Leaves Analyst, EMEA | Harvey | Dublin | 2026-08-10 |
 | International Indirect Tax, VAT/GST | Anthropic | Dublin, IE | 2026-08-10 |
 | Capital Markets Surveyor | Colliers International EMEA | Dublin , ie | 2026-08-10 |
@@ -289,8 +289,8 @@ _971 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Group Accounting Manager | Inizio | Dublin, Ireland | 2026-08-10 |
 | Product Manager, Marketing Technology & Innovation | Take-Two Interactive Software, Inc. | Dublin, Ireland | 2026-08-10 |
 | Commercial Sales Director (Benelux) | Fivetran | Dublin, Dublin, Ireland, EMEA | 2026-08-10 |
-| Marketing Executive | LEAP Legal Software | Dublin, Ireland | 2026-08-10 |
 | Senior Electrical Commissioning Engineer | Winthrop Technologies | Dublin, Ireland | 2026-08-10 |
+| Marketing Executive | LEAP Legal Software | Dublin, Ireland | 2026-08-10 |
 | Reach Truck Driver / General Operative - Dublin 22 | REXEL | Dublin, ie | 2026-08-09 |
 | Senior C++ Software Engineer - Ireland, Greece, Spain, Hungary or Romania | Arista Networks | Dublin, ie | 2026-08-09 |
 | Technical Solutions Engineer | Arista Networks | Dublin, ie | 2026-08-09 |
@@ -299,8 +299,8 @@ _971 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Customer Support Specialist, German (Weekend Shift) | Klaviyo | Dublin, IE | 2026-08-08 |
 | Sales Development Representative (EMEA) | Clickup | Ireland - Dublin Office | 2026-08-08 |
 | Senior Analyst, Regulatory Reporting (English & French Fluency) | GoFundMe | Dublin, Ireland | 2026-08-07 |
-| Junior Electronic Trading Support Engineer | Hudson River Trading | Austin, TX, United States; Dublin, Ireland; New York, NY, United States | 2026-08-07 |
 | Electronic Trading Support Engineer | Hudson River Trading | Austin, TX, United States; Chicago, Illinois, United States; Dublin, Ireland; New York, NY, United States | 2026-08-07 |
+| Junior Electronic Trading Support Engineer | Hudson River Trading | Austin, TX, United States; Dublin, Ireland; New York, NY, United States | 2026-08-07 |
 | Technical Account Manager (NEU) | AlertMedia | Remote, Dublin, Dublin County, Ireland | 2026-08-07 |
 | Business Development Representative - EMEA | Omni | Dublin, Ireland | 2026-08-07 |
 | Senior Director, Security Architecture | ZoomInfo Technologies LLC | Dublin | 2026-08-07 |

@@ -2,25 +2,26 @@
 
 Roles listing London as their location.
 
-_7,180 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
+_7,195 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | AI Quality Engineer | Xapien | London | 2026-08-18 |
 | B2C Lifecycle Marketing Lead | Proton | London, Barcelona | 2026-08-18 |
 | Sales Manager, Mid-Market | Redditinc | London, United Kingdom | 2026-08-18 |
-| Analytics Manager | Wppmedia | London, United Kingdom | 2026-08-18 |
+| Manager | Wppmedia | London, United Kingdom | 2026-08-18 |
 | Analytics Senior Executive | Wppmedia | London, United Kingdom | 2026-08-18 |
 | Senior Client Account Manager | Redditinc | London, United Kingdom | 2026-08-18 |
 | Senior Client Partner | Redditinc | London, United Kingdom | 2026-08-18 |
 | Manager, Large Customer Sales | Redditinc | London, United Kingdom | 2026-08-18 |
 | Associate Director, Commerce | Wppmedia | London, United Kingdom | 2026-08-18 |
+| Associate, OOH - Trading | Wppmedia | London, United Kingdom | 2026-08-18 |
 | Customer Marketing Manager | Pigment | London | 2026-08-17 |
 | Director, Global Field & Partner Marketing | DeepL | London | 2026-08-17 |
 | Associate Director, Solutions Planning | Wppmedia | London, United Kingdom | 2026-08-17 |
 | Conceptual Designer | Kayak | London Office | 2026-08-17 |
 | Conceptual Designer | Kayak | London Office | 2026-08-17 |
-| Mid-level Conceptual Copywriter | Kayak | London Office | 2026-08-17 |
+| Mid-level Conceptual Copywriter | Kayak | London | 2026-08-17 |
 | Mid-level Conceptual Copywriter | Kayak | London Office | 2026-08-17 |
 | Backend Engineer - Marketing Technology | Proton | London; Paris; Prague | 2026-08-15 |
 | Senior GTM Enablement Manager | Apollo.io | Hybrid, London | 2026-08-14 |
@@ -42,24 +43,24 @@ _7,180 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Senior Client Account Manager, Global Strategic Accounts (UK) | Reddit | London, United Kingdom | 2026-08-14 |
 | Senior Client Partner, Global Strategic Accounts (UK) | Reddit | London, United Kingdom | 2026-08-14 |
 | Customer Success Manager, Commercial Markets | Planet | Berlin, Germany; Haarlem, Netherlands; London, UK | 2026-08-13 |
-| Director, People Business Partners EMEA | Planet | Berlin, Germany; Haarlem, Netherlands; London, United Kingdom | 2026-08-13 |
 | Senior Program Manager, Professional Services for Defense and Intelligence | Planet | Berlin, Germany; Haarlem, Netherlands; London, UK | 2026-08-13 |
+| Director, People Business Partners EMEA | Planet | Berlin, Germany; Haarlem, Netherlands; London, United Kingdom | 2026-08-13 |
 | General Counsel International | NICE | United Kingdom - London | 2026-08-13 |
-| Sales Development Representative, UK&I | Vercel | Hybrid - London | 2026-08-13 |
 | Security Engineer, Detection Response | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| Security Software Engineer, Open Source Frameworks | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| Account Executive, Majors | Vercel | Hybrid - London | 2026-08-13 |
-| Account Executive, Commercial | Vercel | Hybrid - London | 2026-08-13 |
-| Partner Solutions Engineer, EMEA | Vercel | Hybrid - London, Berlin | 2026-08-13 |
-| Senior Security Software Engineer, v0 | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| Sales Development Representative, UK&I | Vercel | Hybrid - London | 2026-08-13 |
+| Head of Southern Europe, Enterprise / Majors | Vercel | Hybrid - London | 2026-08-13 |
+| Product Security Engineer | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| Forward-Deployed Engineer | Vercel | Hybrid - London, Berlin | 2026-08-13 |
 | Partner Lead, EMEA | Vercel | Hybrid - London, Berlin | 2026-08-13 |
 | IT Systems Engineer | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| Product Security Engineer | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| Head of Southern Europe, Enterprise / Majors | Vercel | Hybrid - London | 2026-08-13 |
 | Director, Commercial Sales, EMEA | Vercel | Hybrid - London | 2026-08-13 |
-| Forward-Deployed Engineer | Vercel | Hybrid - London, Berlin | 2026-08-13 |
 | Technical Account Manager | Vercel | Hybrid - London, Berlin | 2026-08-13 |
+| Senior Security Software Engineer, v0 | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| Security Software Engineer, Open Source Frameworks | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
+| Partner Solutions Engineer, EMEA | Vercel | Hybrid - London, Berlin | 2026-08-13 |
 | Software Engineer, Compute | Vercel | Hybrid - London | 2026-08-13 |
+| Account Executive, Commercial | Vercel | Hybrid - London | 2026-08-13 |
+| Account Executive, Majors | Vercel | Hybrid - London | 2026-08-13 |
 | Software Engineer, Observability | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
 | Platform Engineer – Data Science & AI Platform | ASOS | London, gb | 2026-08-13 |
 | Account Executive, NeoCloud | MinIO | Remote - London | 2026-08-13 |
@@ -72,30 +73,30 @@ _7,180 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Regional Director, Sales (UKI) | Mixpanel | London, UK (Hybrid) | 2026-08-13 |
 | 1412 - Senior Lead - Art Director (Brand Assets – Athlete & Editorial) | On | London; Zurich | 2026-08-13 |
 | Agentic AI Platform Engineer | On | London | 2026-08-13 |
-| Lead Streaming Platform Engineer | On | London | 2026-08-13 |
-| Lead - Software Engineer (DevEx) | On | London | 2026-08-13 |
-| Lead - Project Manager, Brand & Product Assets | On | Berlin; London; Zurich | 2026-08-13 |
-| Lead - DTC & DMS Retail Marketing, EMEA | On | London; Zurich | 2026-08-13 |
-| Lead - D365 Engineer (Finance) | On | London | 2026-08-13 |
-| Lead - Construction Project Management | On | London; Zurich | 2026-08-13 |
+| Senior Software Engineer | On | London | 2026-08-13 |
+| Senior Specialist- Retail Campaign Production, EMEA | On | London; Zurich | 2026-08-13 |
+| Senior Specialist- B2B Retail Developer, EMEA | On | London | 2026-08-13 |
+| Senior Lead - Key Accounts, Department Stores | On | London | 2026-08-13 |
+| Senior Lead - Global Creator Marketing | On | London; Zurich | 2026-08-13 |
 | Lead Backend Engineer (Typescript) | On | London | 2026-08-13 |
-| Principal Data Scientist | On | London; Zurich | 2026-08-13 |
+| Lead - D365 Engineer (Finance) | On | London | 2026-08-13 |
+| Lead - DTC & DMS Retail Marketing, EMEA | On | London; Zurich | 2026-08-13 |
+| Lead - Construction Project Management | On | London; Zurich | 2026-08-13 |
 | Lead Backend Engineer – POS Platforms Integration | On | London | 2026-08-13 |
+| Lead - Project Manager, Brand & Product Assets | On | Berlin; London; Zurich | 2026-08-13 |
+| Lead - Software Engineer (DevEx) | On | London | 2026-08-13 |
+| Lead Streaming Platform Engineer | On | London | 2026-08-13 |
+| Principal Data Scientist | On | London; Zurich | 2026-08-13 |
 | Principal Engineer - Operations Technology | On | London | 2026-08-13 |
 | Retail - Store Advisor, Brompton Road | On | London | 2026-08-13 |
 | Senior Backend Engineer - Commercial Technology | On | London | 2026-08-13 |
-| Senior Software Engineer | On | London | 2026-08-13 |
-| Senior Lead - Key Accounts, Department Stores | On | London | 2026-08-13 |
-| Senior Specialist- Retail Campaign Production, EMEA | On | London; Zurich | 2026-08-13 |
-| Senior Specialist- B2B Retail Developer, EMEA | On | London | 2026-08-13 |
-| Senior Lead - Global Creator Marketing | On | London; Zurich | 2026-08-13 |
 | Partner Development Manager, EMEA | Mixpanel | London, UK (Hybrid) | 2026-08-13 |
 | Account Director, Programmatic | Wppmedia | London, United Kingdom | 2026-08-13 |
 | Senior Business Development Manager - France | Wise | London, gb | 2026-08-13 |
 | Sales Development Representative - French Speaking | Varicent | London, UK | 2026-08-13 |
 | Business Development Representative - French Speaking | Varicent | London, UK | 2026-08-13 |
-| Senior Product Security Engineer | Anduril Industries | London, England, United Kingdom | 2026-08-13 |
 | Staff Product Security Engineer | Anduril Industries | London, England, United Kingdom | 2026-08-13 |
+| Senior Product Security Engineer | Anduril Industries | London, England, United Kingdom | 2026-08-13 |
 | Senior Java Software Engineer- Platform Engineering | Wise | London, gb | 2026-08-13 |
 | Technical Recruiter (London, Serbia) | Perplexity | London | 2026-08-13 |
 | Financial Accountant | Anduril Industries | London, England, United Kingdom | 2026-08-13 |
@@ -105,8 +106,8 @@ _7,180 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Specialist Account Executive, Sec Ops | Zscaler | City of London Corporation, GBR | 2026-08-13 |
 | Senior Reward Partner | Wise | London, gb | 2026-08-13 |
 | Senior Data Engineer - Data Science Platform | ASOS | London, gb | 2026-08-13 |
-| Mission Software Engineer | Anduril Industries | London, England, United Kingdom | 2026-08-13 |
 | Senior Mission Software Engineer | Anduril Industries | London, England, United Kingdom | 2026-08-13 |
+| Mission Software Engineer | Anduril Industries | London, England, United Kingdom | 2026-08-13 |
 | Head of Channel UKI | Verkada | London | 2026-08-13 |
 | Senior Software Engineer | AECOM | London, gb | 2026-08-13 |
 | Senior Frontend Engineer | AECOM | London, gb | 2026-08-13 |
@@ -261,51 +262,50 @@ _7,180 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Senior Manager, Global Supply Chain Integration (Europe) | Anduril Industries | Amsterdam, North Holland, Netherlands; London, England, United Kingdom | 2026-08-13 |
 | Global Supply Chain Integration Lead, Europe | Anduril Industries | Amsterdam, North Holland, Netherlands; London, England, United Kingdom | 2026-08-13 |
 | Senior E-commerce Manager | Nothing | London, England, United Kingdom | 2026-08-13 |
-| Senior Lead - Data Governance & Transformation | Bridewell | London, United Kingdom | 2026-08-13 |
+| FP&A Lead | ITRS | London, United Kingdom | 2026-08-13 |
+| M&I Sales Team Lead - Events | Wwideevents | London, United Kingdom | 2026-08-13 |
+| Salesforce Technical Project Manager (FTC) | Wwideevents | London, United Kingdom | 2026-08-13 |
+| Graduate Consultant, Cyber Incident Response: One Year Fixed Term Contract | Control Risks | London, United Kingdom | 2026-08-13 |
+| Portfolio Assurance Manager - 18 Month FTC | Rail Delivery Group | London, United Kingdom | 2026-08-13 |
+| Solution Architect (EMV) | Rail Delivery Group | London, United Kingdom | 2026-08-13 |
+| Index Options Trader | G-20 Group | London, United Kingdom | 2026-08-13 |
+| Gold and Precious Metals Options Trader | G-20 Group | London, United Kingdom | 2026-08-13 |
+| Equity Options Trader | G-20 Group | London, United Kingdom | 2026-08-13 |
+| Manager, Transaction Services - Financial Services | Interpath Advisory | London, United Kingdom | 2026-08-13 |
+| Support Worker - Supported Living Service, London E10 | Outward | London, United Kingdom | 2026-08-13 |
+| Brand & Communications Executive | Two Circles | London, United Kingdom | 2026-08-13 |
+| PCB Development Engineer | IONATE | London, United Kingdom | 2026-08-13 |
+| Power Electronics Engineer | IONATE | London, United Kingdom | 2026-08-13 |
+| Manager (Insights) | Moonshot | London, United Kingdom | 2026-08-13 |
+| M&I Sales Team Lead - Events | M&I | London, United Kingdom | 2026-08-13 |
 | Salesforce Technical Project Manager (FTC) | M&I | London, United Kingdom | 2026-08-13 |
 | Claims Executive | Steamship Insurance Management Services Ltd | London, United Kingdom | 2026-08-13 |
-| Multidrop Courier Opportunities - London Park Royal - £200 Per Day | National Network Logistics | London Park Royal, United Kingdom | 2026-08-13 |
-| M&I Sales Team Lead - Events | M&I | London, United Kingdom | 2026-08-13 |
 | Housing Paralegal | Hodge Jones & Allen LLP | London, United Kingdom | 2026-08-13 |
-| Sales Executive, Live Events | Immediate Media Co | London, United Kingdom | 2026-08-13 |
-| Senior Lifestyle Writer | The Telegraph | London, United Kingdom | 2026-08-13 |
-| Portfolio Assurance Manager - 18 Month FTC | Rail Delivery Group | London, United Kingdom | 2026-08-13 |
-| Senior Lecturer - School of Audio & Music Production - INTERNAL ONLY | AD Education | London, United Kingdom | 2026-08-13 |
-| Graduate Consultant, Cyber Incident Response: One Year Fixed Term Contract | Control Risks | London, United Kingdom | 2026-08-13 |
-| Solution Architect (EMV) | Rail Delivery Group | London, United Kingdom | 2026-08-13 |
-| Art Director | tmp | London, United Kingdom | 2026-08-13 |
-| Senior AWS Connect Developer (contract) | AND Digital | London, United Kingdom | 2026-08-13 |
-| Graduate Operations Analyst - London Market Insurance | G MASS | London, United Kingdom | 2026-08-13 |
-| Window Cleaner | ABM UK | London, United Kingdom | 2026-08-13 |
-| Full Stack Software Engineer (Python) | Validus Risk Management | London, United Kingdom | 2026-08-13 |
-| Equity Options Trader | G-20 Group | London, United Kingdom | 2026-08-13 |
-| Salesforce Technical Project Manager (FTC) | Private Luxury Events | London, United Kingdom | 2026-08-13 |
-| Gold and Precious Metals Options Trader | G-20 Group | London, United Kingdom | 2026-08-13 |
-| M&I Sales Team Lead - Events | Wwideevents | London, United Kingdom | 2026-08-13 |
-| Index Options Trader | G-20 Group | London, United Kingdom | 2026-08-13 |
-| Junior Creative | Future Publishing | London, United Kingdom | 2026-08-13 |
-| Support Worker - Supported Living Service, London E10 | Outward | London, United Kingdom | 2026-08-13 |
-| Salesforce Technical Project Manager (FTC) | Wwideevents | London, United Kingdom | 2026-08-13 |
-| FP&A Lead | ITRS | London, United Kingdom | 2026-08-13 |
-| 2026 Athlete programme | Two Circles | London, United Kingdom | 2026-08-13 |
-| Manager (Insights) | Moonshot | London, United Kingdom | 2026-08-13 |
-| Executive Assistant | Bauer Media Outdoor | London, United Kingdom | 2026-08-13 |
-| Business Development Manager - Restaurants (London) | EatClub | London, United Kingdom | 2026-08-13 |
-| Workplace Technology Engineer | Two Circles | London, United Kingdom | 2026-08-13 |
-| Brand & Communications Executive | Two Circles | London, United Kingdom | 2026-08-13 |
 | Senior Rigging Artist | One Of Us | London, United Kingdom | 2026-08-13 |
+| Business Development Manager - Restaurants (London) | EatClub | London, United Kingdom | 2026-08-13 |
+| Window Cleaner | ABM UK | London, United Kingdom | 2026-08-13 |
 | People Operations Advisor | Q5 | London, United Kingdom | 2026-08-13 |
-| Manager, Transaction Services - Financial Services | Interpath Advisory | London, United Kingdom | 2026-08-13 |
-| Power Electronics Engineer | IONATE | London, United Kingdom | 2026-08-13 |
-| PCB Development Engineer | IONATE | London, United Kingdom | 2026-08-13 |
 | OSINT Analyst | Moonshot | London, United Kingdom | 2026-08-13 |
+| Senior Lead - Data Governance & Transformation | Bridewell | London, United Kingdom | 2026-08-13 |
+| Full Stack Software Engineer (Python) | Validus Risk Management | London, United Kingdom | 2026-08-13 |
+| Salesforce Technical Project Manager (FTC) | Private Luxury Events | London, United Kingdom | 2026-08-13 |
+| 2026 Athlete programme | Two Circles | London, United Kingdom | 2026-08-13 |
+| Senior Lecturer - School of Audio & Music Production - INTERNAL ONLY | AD Education | London, United Kingdom | 2026-08-13 |
+| Executive Assistant | Bauer Media Outdoor | London, United Kingdom | 2026-08-13 |
+| Junior Creative | Future Publishing | London, United Kingdom | 2026-08-13 |
+| Sales Executive, Live Events | Immediate Media Co | London, United Kingdom | 2026-08-13 |
+| Senior AWS Connect Developer (contract) | AND Digital | London, United Kingdom | 2026-08-13 |
+| Senior Lifestyle Writer | The Telegraph | London, United Kingdom | 2026-08-13 |
+| Multidrop Courier Opportunities - London Park Royal - £200 Per Day | National Network Logistics | London Park Royal, United Kingdom | 2026-08-13 |
+| Workplace Technology Engineer | Two Circles | London, United Kingdom | 2026-08-13 |
+| Art Director | tmp | London, United Kingdom | 2026-08-13 |
+| Graduate Operations Analyst - London Market Insurance | G MASS | London, United Kingdom | 2026-08-13 |
 | Vendor Manager | Harvey | London | 2026-08-12 |
 | Software Engineer - X Money | SpaceXAI | London, England, United Kingdom | 2026-08-12 |
 | Sr. Security Engineer - GRC EU/UK Regulation & Data Protection | SpaceXAI | London, England, United Kingdom | 2026-08-12 |
-| Backend Engineer - API | SpaceXAI | London, England, United Kingdom | 2026-08-12 |
+| Infrastructure Security Engineer | SpaceXAI | Austin, Texas; London, England, United Kingdom; New York, New York; Palo Alto, California; Washington, D.C. | 2026-08-12 |
 | Mobile iOS Engineer | SpaceXAI | London, England, United Kingdom | 2026-08-12 |
-| Mobile Android Engineer | SpaceXAI | London, England, United Kingdom | 2026-08-12 |
-| Member of Technical Staff - Sandbox Service | SpaceXAI | London, England, United Kingdom | 2026-08-12 |
+| KYC Specialist | SpaceXAI | London, England, United Kingdom | 2026-08-12 |
 
 ---
 

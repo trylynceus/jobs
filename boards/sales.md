@@ -2,16 +2,19 @@
 
 Roles whose title reads as sales.
 
-_21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
+_21,141 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Solutions Sales Executive (Healthcare Software & AI) | Wrshealth | Remote | 2026-08-19 |
 | Director, Account Executive | The Nielsen Company | New York, us | 2026-08-18 |
+| Regional Sales Account Executive | Indigenouspact | Washington/Montana region | 2026-08-18 |
 | Senior Solutions Consultant (Post-Sales) I | The Nielsen Company | New York, us | 2026-08-18 |
 | Sales Tax Accountant | Thetaxvalet | United States | 2026-08-18 |
+| Business Development Representative | Reachdesk | New York, NY, USA | 2026-08-18 |
 | Sales Manager, Mid-Market | Redditinc | London, United Kingdom | 2026-08-18 |
-| Senior Manager, Large Customer Sales (Entertainment) | Redditinc | New York City, NY | 2026-08-18 |
 | Senior Manager, Large Customer Sales (Entertainment) | Redditinc | Los Angeles, CA | 2026-08-18 |
+| Senior Manager, Large Customer Sales (Entertainment) | Redditinc | New York City, NY | 2026-08-18 |
 | Sr. Manager, Large Customer Sales | Redditinc | Chicago, IL | 2026-08-18 |
 | Senior Client Account Executive | Redditinc | San Francisco, CA | 2026-08-18 |
 | Manager, Large Customer Sales | Redditinc | London, United Kingdom | 2026-08-18 |
@@ -27,6 +30,7 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Sales Associate (Part-Time) - Waikiki | ALO | Center of Waikiki, Honolulu,, HI (10142) | 2026-08-14 |
 | Sales Associate (Part-Time) - Bloor Street | ALO | Bloor Street, Toronto, ON (10026) | 2026-08-14 |
 | Sales & Service Lead - Santa Monica | ALO | Santa Monica, California, United States | 2026-08-14 |
+| RCM Sales Director | Assembly | Remote | 2026-08-14 |
 | SMB Account Executive - Remote | Block | Atlanta, GA, United States of America | 2026-08-14 |
 | Strategic Account Executive, Industries | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
 | Western Regional Sales Director | Alarm.com | REMOTE | 2026-08-14 |
@@ -55,19 +59,19 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Account Executive, K-8 Education Partnerships | Galileo Learning | Oakland, us | 2026-08-14 |
 | Outbound Sales Representative \| Call Center | BathWorks Michigan | Grand Rapids | 2026-08-14 |
 | Enterprise Account Executive (NY/NJ) | AppViewX | US | 2026-08-14 |
-| Senior Agile Client Partner, Large Customer Sales | Reddit | New York City, NY | 2026-08-14 |
-| Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks) | Reddit | New York City, NY | 2026-08-14 |
-| Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks) | Reddit | Chicago, IL | 2026-08-14 |
 | Senior Client Partner, Large Customer Sales, Pharma | Reddit | New York City, NY | 2026-08-14 |
-| Senior Manager, Large Customer Sales (Entertainment) | Reddit | Los Angeles, CA | 2026-08-14 |
-| Client Account Manager, Large Customer Sales (Tech) | Reddit | San Francisco, CA | 2026-08-14 |
+| Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks) | Reddit | Chicago, IL | 2026-08-14 |
+| Senior Client Account Manager, Large Customer Sales (Restaurants and Drinks) | Reddit | New York City, NY | 2026-08-14 |
 | Client Account Manager, Large Customer Sales (Retail Beauty) | Reddit | New York City, NY | 2026-08-14 |
 | Client Account Manager, Large Customer Sales (Tech) | Reddit | Los Angeles, CA | 2026-08-14 |
-| Client Account Manager, Large Customer Sales (Financial Services) | Reddit | New York City, NY | 2026-08-14 |
-| Sr. Manager, Large Customer Sales (Big Box Retail) | Reddit | Chicago, IL | 2026-08-14 |
-| Senior Client Account Manager, Large Customer Sales (Pharma) | Reddit | Chicago, IL | 2026-08-14 |
-| Senior Client Account Manager, Large Customer Sales (Pharma) | Reddit | New York City, NY | 2026-08-14 |
+| Client Account Manager, Large Customer Sales (Tech) | Reddit | San Francisco, CA | 2026-08-14 |
+| Senior Agile Client Partner, Large Customer Sales | Reddit | New York City, NY | 2026-08-14 |
+| Senior Manager, Large Customer Sales (Entertainment) | Reddit | Los Angeles, CA | 2026-08-14 |
 | Senior Client Account Manager, Large Customer Sales (CPG) | Reddit | New York City, NY | 2026-08-14 |
+| Senior Client Account Manager, Large Customer Sales (Pharma) | Reddit | New York City, NY | 2026-08-14 |
+| Client Account Manager, Large Customer Sales (Financial Services) | Reddit | New York City, NY | 2026-08-14 |
+| Senior Client Account Manager, Large Customer Sales (Pharma) | Reddit | Chicago, IL | 2026-08-14 |
+| Sr. Manager, Large Customer Sales (Big Box Retail) | Reddit | Chicago, IL | 2026-08-14 |
 | Senior Client Account Executive, Mid-Market Sales (B2B Services) | Reddit | San Francisco, CA | 2026-08-14 |
 | Senior Client Account Manager, Large Customer Sales (Telco, Media & Entertainment) | Reddit | Toronto, Canada | 2026-08-14 |
 | Client Partner, Mid-Market Sales (Services - Acquisitions) | Reddit | New York City, NY | 2026-08-14 |
@@ -90,18 +94,18 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Principal Sales Account Executive, Enterprise | Behavox | Houston, Texas, United States | 2026-08-13 |
 | Sr Enterprise Account Executive - SLED | ServiceNow | Raleigh, us | 2026-08-13 |
 | Sales Associate (Part-Time) - Utica Square | ALO | Tulsa, Oklahoma, United States | 2026-08-13 |
-| Pre-Sales Solutions Architect, LATAM | Planet | LATAM, Remote | 2026-08-13 |
-| Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence | Planet | APAC, Remote | 2026-08-13 |
-| Account Executive, Defence & Intelligence, France | Planet | France, Remote | 2026-08-13 |
-| Account Executive, Defence & Intelligence | Planet | Japan, Remote | 2026-08-13 |
-| US Army Account Executive | Planet | Washington, D.C. | 2026-08-13 |
-| Account Executive, Defence & Intelligence, Sweden | Planet | Sweden, Remote | 2026-08-13 |
 | PreSales Sr. Solutions Architect - French Defense and Intelligence | Planet | France, Remote | 2026-08-13 |
-| Sales Development Representative, Market Development | Planet | San Francisco, CA | 2026-08-13 |
+| US Army Account Executive | Planet | Washington, D.C. | 2026-08-13 |
+| Account Executive, Defence & Intelligence | Planet | Japan, Remote | 2026-08-13 |
+| PreSales Sr. Solutions Architect - French Defense and Intelligence | Planet | United Kingdom, Remote | 2026-08-13 |
+| Pre-Sales Solutions Architect, LATAM | Planet | LATAM, Remote | 2026-08-13 |
+| Industry Account Executive, United States | Planet | US, Remote | 2026-08-13 |
+| Senior Solutions Architect I, Pre-Sales - South Korea Defense & Intelligence | Planet | APAC, Remote | 2026-08-13 |
 | Sales Development Representative, North America Civil Government | Planet | San Francisco, CA | 2026-08-13 |
 | Director, Sales Development | Planet | San Francisco, CA | 2026-08-13 |
-| Industry Account Executive, United States | Planet | US, Remote | 2026-08-13 |
-| PreSales Sr. Solutions Architect - French Defense and Intelligence | Planet | United Kingdom, Remote | 2026-08-13 |
+| Account Executive, Defence & Intelligence, Sweden | Planet | Sweden, Remote | 2026-08-13 |
+| Account Executive, Defence & Intelligence, France | Planet | France, Remote | 2026-08-13 |
+| Sales Development Representative, Market Development | Planet | San Francisco, CA | 2026-08-13 |
 | Channel Sales Manager | Netskope | Florida, United States; Georgia, United States | 2026-08-13 |
 | Principal Sales Engineer - Majors, South | Zscaler | Remote - Alabama, USA; Remote - Arkansas, USA; Remote - Florida, USA; Remote - Georgia, USA; Remote - Louisiana, USA; Remote - Mississippi, USA; Remote - North Carolina, USA; Remote - Oklahoma, USA; Remote - South Carolina, USA; Remote - Texas, USA | 2026-08-13 |
 | Senior Sales Engineer - Enterprise, Carolinas/Georgia | Zscaler | Remote - Georgia, USA; Remote - North Carolina, USA; Remote - South Carolina, USA | 2026-08-13 |
@@ -123,28 +127,28 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Sales Specialist | Lucid Motors | McLean, VA | 2026-08-13 |
 | Mid-Market Account Executive, Australia | Block | Melbourne, Australia | 2026-08-13 |
 | Sales Specialist | Lucid Motors | Miami, FL | 2026-08-13 |
-| Director, Major Sales | Vercel | Hybrid - New York City | 2026-08-13 |
-| Director, Commercial Sales, EMEA | Vercel | Hybrid - London | 2026-08-13 |
-| Sales Development Representative, UK&I | Vercel | Hybrid - London | 2026-08-13 |
+| Account Executive, Commercial | Vercel | Hybrid - London | 2026-08-13 |
 | Account Executive, Majors | Vercel | Hybrid - London | 2026-08-13 |
 | Account Executive, Majors (APAC) | Vercel | Hybrid - Sydney | 2026-08-13 |
-| Enterprise Account Executive, Retail | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Enterprise Account Executive | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Sales Development Representative, UK&I | Vercel | Hybrid - London | 2026-08-13 |
 | Business Development Representative, Majors | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Account Executive, Majors- Install Base (APAC) | Vercel | Hybrid - Sydney | 2026-08-13 |
-| Scaled Commercial Account Executive, Install base | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Commercial Account Executive, Install Base | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | Commercial Account Executive, Greenfield | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Account Executive, Commercial | Vercel | Hybrid - London | 2026-08-13 |
+| Commercial Account Executive, Install Base | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Director, Commercial Sales, EMEA | Vercel | Hybrid - London | 2026-08-13 |
+| Director, Major Sales | Vercel | Hybrid - New York City | 2026-08-13 |
+| Enterprise Account Executive | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Enterprise Account Executive, Retail | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Scaled Commercial Account Executive, Install base | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Account Executive, Majors- Install Base (APAC) | Vercel | Hybrid - Sydney | 2026-08-13 |
 | Strategic Cuisines Account Executive - Spanish - Tri-Valley, CA | Toast | Livermore, CA | 2026-08-13 |
 | Strategic Cuisines Account Executive - Spanish - Santa Rosa, CA | Toast | Santa Rosa, CA | 2026-08-13 |
 | Strategic Cuisines Account Executive - Spanish - Central Valley, CA | Toast | Monterey, CA | 2026-08-13 |
 | Sales Advisor - Yorkdale | ANINE BING | Toronto, ON | 2026-08-13 |
+| Business Development Representative - Enterprise | 6sense | Austin, Texas, United States | 2026-08-13 |
 | Head of Sales, East | 6sense | United States, Remote | 2026-08-13 |
 | Senior Account Executive | 6sense | United States, Remote | 2026-08-13 |
 | Strategic Account Executive | 6sense | United States, Remote | 2026-08-13 |
 | Head of Sales, South | 6sense | Austin, Texas, United States | 2026-08-13 |
-| Business Development Representative - Enterprise | 6sense | Austin, Texas, United States | 2026-08-13 |
 | Director, Sales - New Client Acquisition (Bev/Al Vertical) | NielsenIQ | Chicago, us | 2026-08-13 |
 | Client Account Executive | Dialpad | Sydney, Australia | 2026-08-13 |
 | Sales & Resident Experience Consultant - South Austin, TX | Berkshire Group, LLC | Reveal at Onion Creek | 2026-08-13 |
@@ -166,8 +170,8 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Sales Representative | Ingram Content Group | Boston, us | 2026-08-13 |
 | Federal Account Executive, Federal Civilian | Wiz, Inc. | Washington, D.C. | 2026-08-13 |
 | Rental Sales Agent (Battery Park) | SIXT | New York, us | 2026-08-13 |
-| Enterprise Account Executive - US Army | Appian Corporation | Huntsville, Alabama | 2026-08-13 |
 | Enterprise Account Executive - Intelligence Community | Appian Corporation | Dallas, Texas | 2026-08-13 |
+| Enterprise Account Executive - US Army | Appian Corporation | Huntsville, Alabama | 2026-08-13 |
 | Enterprise Account Executive - Federal Health | Appian Corporation | Atlanta, Georgia | 2026-08-13 |
 | Enterprise Account Executive - Department of Homeland Security | Appian Corporation | New York, New York | 2026-08-13 |
 | Enterprise Account Executive - Aerospace and Defense | Appian Corporation | New York, New York | 2026-08-13 |
@@ -195,27 +199,27 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Business Development Representative | ServiceNow | West Palm Beach, us | 2026-08-13 |
 | Business Development Representative | ServiceNow | Boston, us | 2026-08-13 |
 | Regional Sales Director, Enterprise - Texas | Zscaler | Dallas, Texas, USA | 2026-08-13 |
+| Senior Software Engineer-Salesforce | Monster Energy | USA - Corona, CA | 2026-08-13 |
+| Salesforce Engineering Manager | Monster Energy | USA - Corona, CA | 2026-08-13 |
 | FSOP Field Sales Representative | Monster Energy | USA - Cincinnati, OH; USA - Columbus, OH; USA - Indianapolis, IN | 2026-08-13 |
-| FSOP Field Sales Representative | Monster Energy | USA - Charlotte, NC; USA - Greenville, SC | 2026-08-13 |
 | FSOP Field Sales Representative | Monster Energy | USA - San Leandro, CA | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Fort Myers, FL | 2026-08-13 |
-| Product Owner, Salesforce Trade Promotion Management | Monster Energy | USA - Corona, CA | 2026-08-13 |
-| Director of Sales | Monster Energy | USA - Minneapolis, MN | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Cincinnati, OH | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Indianapolis, IN | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Saint Charles, MO; USA - St. Louis, MO | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Chicago, IL | 2026-08-13 |
+| FSOP Field Sales Representative | Monster Energy | USA - Charlotte, NC; USA - Greenville, SC | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Gainesville, FL; USA - Ocala, FL | 2026-08-13 |
 | Field Sales Representative | Monster Energy | USA - Traverse City, MI | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Barrington, IL; USA - Buffalo Grove, IL; USA - Cary, IL; USA - McHenry, IL; USA - Mundelein, IL; USA - Round Lake Beach, IL; USA - Vernon Hills, IL | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Idaho Falls, ID | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Fort Myers, FL | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Chicago, IL | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Healdsburg, CA; USA - Petaluma, CA; USA - Rohnert Park, CA; USA - Santa Rosa, CA | 2026-08-13 |
+| Product Owner, Salesforce Trade Promotion Management | Monster Energy | USA - Corona, CA | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Saint Charles, MO; USA - St. Louis, MO | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Indianapolis, IN | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Cincinnati, OH | 2026-08-13 |
 | Field Sales Representative | Monster Energy | USA - Wilmington, NC | 2026-08-13 |
+| Director of Sales | Monster Energy | USA - Minneapolis, MN | 2026-08-13 |
 | Field Sales Representative | Monster Energy | USA - Providence, RI | 2026-08-13 |
+| Field Sales Representative | Monster Energy | USA - Barrington, IL; USA - Buffalo Grove, IL; USA - Cary, IL; USA - McHenry, IL; USA - Mundelein, IL; USA - Round Lake Beach, IL; USA - Vernon Hills, IL | 2026-08-13 |
 | Field Sales Representative | Monster Energy | USA - Greensboro, NC | 2026-08-13 |
 | Field Sales Representative | Monster Energy | USA - Burlington, VT; USA - Plattsburg, NY | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Gainesville, FL; USA - Ocala, FL | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Idaho Falls, ID | 2026-08-13 |
-| Field Sales Representative | Monster Energy | USA - Healdsburg, CA; USA - Petaluma, CA; USA - Rohnert Park, CA; USA - Santa Rosa, CA | 2026-08-13 |
-| Salesforce Engineering Manager | Monster Energy | USA - Corona, CA | 2026-08-13 |
-| Senior Software Engineer-Salesforce | Monster Energy | USA - Corona, CA | 2026-08-13 |
 | Business Development Representative | ServiceNow | San Diego, us | 2026-08-13 |
 | Manager, Sales - Special Events - Resorts World Theatre (Las Vegas) | AEG Worldwide | Las Vegas, NV | 2026-08-13 |
 | Strategic Account Executive (Chicagoland) | NetBrain | Chicagoland \| Remote | 2026-08-13 |
@@ -240,32 +244,32 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Regional Director, Sales (UKI) | Mixpanel | London, UK (Hybrid) | 2026-08-13 |
 | Account Sales Manager | Red Bull | Waddell, us | 2026-08-13 |
 | Senior Account Executive, Vehicle Intelligence | Axon | Atlanta, Georgia, United States | 2026-08-13 |
-| Senior Manager, Strategic Sales South | Twilio | Remote - United Kingdom | 2026-08-13 |
 | New Business Account Executive | Twilio | Remote - Japan | 2026-08-13 |
+| Senior Manager, Strategic Sales South | Twilio | Remote - United Kingdom | 2026-08-13 |
 | Principal Presales Engineer | Twilio | Remote - US | 2026-08-13 |
-| Strategic Account Executive | Twilio | Remote - Japan | 2026-08-13 |
-| Strategic Account Executive 4 | Twilio | Remote - US | 2026-08-13 |
 | Senior Presales Engineer | Twilio | Remote - Mexico | 2026-08-13 |
-| Manager, Sales Development-LATAM / NAMER Hybrid | Twilio | Remote - US | 2026-08-13 |
-| Presales Architect | Twilio | Remote - US | 2026-08-13 |
-| Sales Director, Strategic Accounts DACH & Benelux | Twilio | Remote - United Kingdom | 2026-08-13 |
-| Senior Strategic Account Executive | Twilio | Remote - US | 2026-08-13 |
 | Strategic Account Executive 4 | Twilio | Remote - US | 2026-08-13 |
-| Strategic Account Executive 4 | Twilio | Remote - US | 2026-08-13 |
-| Presales Engineer | Twilio | Remote - United Kingdom | 2026-08-13 |
-| Enterprise Account Executive | Twilio | Remote - United Kingdom | 2026-08-13 |
+| Strategic Account Executive | Twilio | Remote - Japan | 2026-08-13 |
 | Senior Account Executive | Twilio | Remote - Ireland | 2026-08-13 |
+| Presales Architect | Twilio | Remote - US | 2026-08-13 |
+| Presales Engineer | Twilio | Remote - United Kingdom | 2026-08-13 |
+| Sales Director, Strategic Accounts DACH & Benelux | Twilio | Remote - United Kingdom | 2026-08-13 |
+| Strategic Account Executive 4 | Twilio | Remote - US | 2026-08-13 |
+| Strategic Account Executive 4 | Twilio | Remote - US | 2026-08-13 |
+| Manager, Sales Development-LATAM / NAMER Hybrid | Twilio | Remote - US | 2026-08-13 |
+| Enterprise Account Executive | Twilio | Remote - United Kingdom | 2026-08-13 |
+| Senior Strategic Account Executive | Twilio | Remote - US | 2026-08-13 |
 | Senior Manager, Presales Engineering | Twilio | Remote - United Kingdom | 2026-08-13 |
+| Strategic Account Executive | Twilio | Remote - Mexico | 2026-08-13 |
 | Director, EMEA Strategic Sales North | Twilio | Remote - United Kingdom | 2026-08-13 |
-| Principal Presales Engineer (German Speaking) | Twilio | Remote - United Kingdom | 2026-08-13 |
-| Account Executive New Business | Twilio | Remote - Australia | 2026-08-13 |
 | Senior Presales Engineer | Twilio | Remote - US | 2026-08-13 |
 | Account Executive 4 | Twilio | Remote - Mexico | 2026-08-13 |
 | Senior Strategic Account Executive | Twilio | Remote - US | 2026-08-13 |
-| Strategic Account Executive | Twilio | Remote - Mexico | 2026-08-13 |
+| Account Executive New Business | Twilio | Remote - Australia | 2026-08-13 |
+| Principal Presales Engineer (German Speaking) | Twilio | Remote - United Kingdom | 2026-08-13 |
 | Strategic Account Executive (German Speaking) | Twilio | Remote - Spain | 2026-08-13 |
-| Account Executive 4 | Twilio | Remote - Singapore | 2026-08-13 |
 | Strategic Account Executive 4 | Twilio | Remote - US | 2026-08-13 |
+| Account Executive 4 | Twilio | Remote - Singapore | 2026-08-13 |
 | Strategic Account Executive (German Speaking) | Twilio | Remote - United Kingdom | 2026-08-13 |
 | New Business Account Executive | Twilio | Remote - Singapore | 2026-08-13 |
 | New Business Account Executive | Twilio | Remote - Japan | 2026-08-13 |
@@ -283,15 +287,15 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Strategic Retail Media Account Executive | TripleLift | Chicago, IL, United States; New York, New York, United States | 2026-08-13 |
 | Commerce Media Account Executive | TripleLift | Chicago, IL, United States; New York, New York, United States | 2026-08-13 |
 | Sales Manager (Canada) | TripleLift | Toronto, Ontario, Canada | 2026-08-13 |
+| Senior Specialist - Sales Representative, Japan | On | Tokyo | 2026-08-13 |
+| Senior Lead - Sales Planning | On | Shanghai | 2026-08-13 |
 | Senior Specialist - Sales Representative | On | Stockholm | 2026-08-13 |
 | Senior Specialist - Sales Operations, Japan & South Korea | On | Tokyo | 2026-08-13 |
-| Senior Specialist - Regional Sales Representative, Pacific Northwest | On | Portland | 2026-08-13 |
 | Senior Lead - Sales Planning | On | New York City | 2026-08-13 |
-| Senior Lead - Sales Planning | On | Shanghai | 2026-08-13 |
-| Senior Specialist - Sales Representative, Japan | On | Tokyo | 2026-08-13 |
+| Senior Specialist - Regional Sales Representative, Pacific Northwest | On | Portland | 2026-08-13 |
 | Lead, Sales China | On | Shanghai | 2026-08-13 |
-| Lead - Digital Sales Planning, SEA, HK, TW & Oceania | On | Hong Kong | 2026-08-13 |
 | Lead - Sales Planning | On | New York City | 2026-08-13 |
+| Lead - Digital Sales Planning, SEA, HK, TW & Oceania | On | Hong Kong | 2026-08-13 |
 | Sales Operations Partner | OpenSesame | Remote | 2026-08-13 |
 | Sales Operations Manager | OpenSesame | Remote | 2026-08-13 |
 | Sales Development Representative | OpenSesame | Remote | 2026-08-13 |
@@ -302,10 +306,6 @@ _21,105 open · showing the 300 most recent · updated 2026-08-18 22:42 UTC_
 | Administrative Assistant, Event Sales - Toronto (1 year contract) | Oliver & Bonacini | Toronto, ca | 2026-08-13 |
 | Hydraulic Sales Specialist - Canada | Continental Group Sector ContiTech | Guelph, ca | 2026-08-13 |
 | Account Executive, Galileo X Partnerships | Galileo Learning | Oakland, us | 2026-08-13 |
-| Business Development Representative (BDR) | Sequence | New York City | 2026-08-13 |
-| Country Sales Head | Branch AI | Jakarta, Jakarta, Indonesia; Singapore | 2026-08-13 |
-| Sales Engineer- APAC Enterprise Business | Branch AI | Bengaluru, Karnataka, India; Remote - India | 2026-08-13 |
-| Sales Engineer- Malaysia/Indonesia | Branch AI | Jakarta, Jakarta, Indonesia; Kuala Lumpur, Malaysia | 2026-08-13 |
 
 ---
 
