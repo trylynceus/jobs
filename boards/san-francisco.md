@@ -2,10 +2,14 @@
 
 Roles listing San Francisco as their location.
 
-_11,217 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
+_11,256 open · showing the 300 most recent · updated 2026-08-20 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Software Engineer II, Fulfillment | Taskrabbit | San Francisco, California, United States | 2026-08-19 |
+| Creative Director (IC) | Mercor | San Francisco | 2026-08-19 |
+| Product Manager, APEX | Mercor | San Francisco | 2026-08-19 |
+| Product Operations Manager, Research Services | Mercor | San Francisco | 2026-08-19 |
 | Software Architect | Taskrabbit | San Francisco, California, United States | 2026-08-18 |
 | Senior Data Engineer | Taskrabbit | San Francisco, California, United States | 2026-08-18 |
 | Senior Software Engineer | Taskrabbit | San Francisco, California, United States | 2026-08-18 |
@@ -16,6 +20,7 @@ _11,217 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Senior Client Account Executive | Redditinc | San Francisco, CA | 2026-08-18 |
 | Senior Product Manager, GTM Automation | Redditinc | San Francisco, CA | 2026-08-18 |
 | Manager, Technical Solutions | Redditinc | San Francisco, CA | 2026-08-18 |
+| Research Engineer – Benchmarking | Mercor | San Francisco | 2026-08-18 |
 | Senior Software Engineer, Streaming Platform | Sentry | San Francisco, California | 2026-08-17 |
 | Hardware Reliability Engineer | Ouraring | San Francisco, California | 2026-08-17 |
 | Hardware Signal Quality Test Engineer | Ouraring | San Francisco, California | 2026-08-17 |
@@ -24,7 +29,9 @@ _11,217 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Partnerships Business Operations Manager | Anthropic | San Francisco, CA | 2026-08-15 |
 | Assistant General Manager | Philzcoffee | San Francisco, CA | 2026-08-15 |
 | Assistant General Manager | Philzcoffee | San Francisco, CA | 2026-08-15 |
+| Head of Talent | Phylo | South San Francisco | 2026-08-15 |
 | Executive Support Senior Program Manager, Tech Advisor | Anthropic | Boston, MA; Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY; Washington, DC | 2026-08-15 |
+| Member of Technical Staff, Enterprise Evals Platform | Mercor | San Francisco | 2026-08-15 |
 | Strategic Finance Manager, Corporate | Scale AI | San Francisco, CA | 2026-08-15 |
 | Manager, Corporate Network Engineering | Anthropic | San Francisco, CA | 2026-08-15 |
 | Mechanical Associate Engineer (Spring 2027) | Astranis | San Francisco | 2026-08-15 |
@@ -56,6 +63,7 @@ _11,217 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Forecast Analyst Demand Planning | Ouraring | San Francisco, California | 2026-08-14 |
 | Technical Specialist, Claude Code | Anthropic | San Francisco, CA | 2026-08-14 |
 | Finance Systems Engineer, Finance and Strategy | Anthropic | San Francisco, CA | 2026-08-14 |
+| Member of Technical Staff, Mercor Enterprise Platform | Mercor | San Francisco | 2026-08-14 |
 | Strategic Account Executive, Industries | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-14 |
 | IP Counsel, Patents | Anthropic | San Francisco, CA | 2026-08-14 |
 | Head of Technical Revenue Accounting | Asana | San Francisco | 2026-08-14 |
@@ -108,15 +116,16 @@ _11,217 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Senior Product Manager, GTM Automation | Reddit | San Francisco, CA | 2026-08-14 |
 | Manager, Technical Solutions | Reddit | San Francisco, CA | 2026-08-14 |
 | Business Development Analyst, Energy Storage | Redwood Materials | San Francisco, California, United States | 2026-08-14 |
+| Software Engineer | Mercor | San Francisco | 2026-08-14 |
 | Principal Security Operations Engineer | Axon | Atlanta, Georgia, United States; Boston, Massachusetts, United States; San Francisco, California, United States; Scottsdale, Arizona, United States; Seattle, Washington, United States | 2026-08-13 |
 | Senior Brand Designer | Mochi Health | San Francisco, CA | 2026-08-13 |
 | Resident Engineer | Luster National | Fresno, California, United States; Los Angeles, California, United States; Sacramento, California, United States; San Francisco Bay Area; Seattle, Washington, United States | 2026-08-13 |
 | 3630-Librarian I | City and County of San Francisco | San Francisco, us | 2026-08-13 |
 | IT Support Specialist | Redwood Materials | San Francisco, California, United States | 2026-08-13 |
+| Sr. GTM Recruiter | Linqia | San Francisco, California, United States | 2026-08-13 |
 | Partner 22, Speedrun Growth | a16z | San Francisco, California, United States | 2026-08-13 |
 | Senior HR Business Partner | Redwood Materials | San Francisco, California, United States | 2026-08-13 |
 | SENIOR SAP COMMERCE CLOUD (HYBRIS) DEVELOPER - L3 CONSULTANT | Bosch Group | San Francisco, cr | 2026-08-13 |
-| Majors Account Executive, Bay Area | Wiz, Inc. | San Francisco Bay Area | 2026-08-13 |
 | Senior Hardware Test Engineer | Ōura | Hybrid - San Francisco, California | 2026-08-13 |
 | Partner Enablement Lead, System Integrators | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-13 |
 | Senior Manager, Supplier Enablement & Spend Conversion | Brex | San Francisco, California, United States | 2026-08-13 |
@@ -128,98 +137,98 @@ _11,217 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Consultant- Marketing Data Science & AI | Sia | San Francisco, us | 2026-08-13 |
 | Lead Counsel, Corporate | Canva | San Francisco, us | 2026-08-13 |
 | Manager of the Technical Staff - Next.js | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Manager, Customer Success - Commercial Markets | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
-| Senior Manager, Talent Operations | Planet | San Francisco, CA | 2026-08-13 |
-| Senior Engineering Manager - AI Geospatial Assistant Team | Planet | San Francisco, CA | 2026-08-13 |
-| Technical Program Manager, GTM Ops | Planet | San Francisco, CA | 2026-08-13 |
-| Vice President & Chief Information Security Officer | Planet | San Francisco, CA; Washington, DC | 2026-08-13 |
-| Senior Director, Global Talent Acquisition | Planet | San Francisco, CA | 2026-08-13 |
-| Senior Contracts Manager | Planet | San Francisco, CA | 2026-08-13 |
-| Senior Camera Systems Engineer | Planet | San Francisco, CA | 2026-08-13 |
-| Internal Audit Senior Analyst | Planet | San Francisco, CA | 2026-08-13 |
-| Analyst, International Trade Compliance | Planet | San Francisco, CA | 2026-08-13 |
-| Flight Dynamics Engineer, Orbits R&D | Planet | San Francisco, CA | 2026-08-13 |
+| Head of Creative | Planet | San Francisco, CA | 2026-08-13 |
 | Sales Development Representative, North America Civil Government | Planet | San Francisco, CA | 2026-08-13 |
-| Executive Communications Manager | Planet | San Francisco, CA | 2026-08-13 |
-| Engineering Program Manager — Special Projects | Planet | San Francisco, CA | 2026-08-13 |
-| Director, Sales Development | Planet | San Francisco, CA | 2026-08-13 |
-| Sr. Satcom Modem Engineer | Planet | San Francisco, CA | 2026-08-13 |
-| Data Visualization Engineer | Planet | San Francisco, CA | 2026-08-13 |
-| Sales Development Representative, Market Development | Planet | San Francisco, CA | 2026-08-13 |
-| Product Marketing Manager, AI Solutions | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
-| Opto-Mechanical Engineer | Planet | San Francisco, CA | 2026-08-13 |
+| Analyst, International Trade Compliance | Planet | San Francisco, CA | 2026-08-13 |
+| Vice President & Chief Information Security Officer | Planet | San Francisco, CA; Washington, DC | 2026-08-13 |
+| Technical Program Manager, GTM Ops | Planet | San Francisco, CA | 2026-08-13 |
 | Technical Marketing Manager, Earth Observation | Planet | San Francisco, CA | 2026-08-13 |
+| Sr. Satcom Modem Engineer | Planet | San Francisco, CA | 2026-08-13 |
 | Software Engineer | Planet | San Francisco, CA | 2026-08-13 |
 | Senior Product Manager, Analysis Ready Data Products | Planet | San Francisco, CA; Arlington, VA | 2026-08-13 |
 | Senior Marketing Business Ops Manager | Planet | San Francisco, CA | 2026-08-13 |
+| Senior Manager, Talent Operations | Planet | San Francisco, CA | 2026-08-13 |
+| Senior Engineering Manager - AI Geospatial Assistant Team | Planet | San Francisco, CA | 2026-08-13 |
+| Senior Director, Global Talent Acquisition | Planet | San Francisco, CA | 2026-08-13 |
+| Senior Contracts Manager | Planet | San Francisco, CA | 2026-08-13 |
+| Senior Camera Systems Engineer | Planet | San Francisco, CA | 2026-08-13 |
 | Senior Analyst, International Trade Compliance | Planet | San Francisco, CA | 2026-08-13 |
-| Head of Creative | Planet | San Francisco, CA | 2026-08-13 |
+| Sales Development Representative, Market Development | Planet | San Francisco, CA | 2026-08-13 |
+| Product Marketing Manager, AI Solutions | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
+| Opto-Mechanical Engineer | Planet | San Francisco, CA | 2026-08-13 |
+| Manager, Customer Success - Commercial Markets | Planet | San Francisco, CA; Washington, D.C. | 2026-08-13 |
+| Internal Audit Senior Analyst | Planet | San Francisco, CA | 2026-08-13 |
+| Flight Dynamics Engineer, Orbits R&D | Planet | San Francisco, CA | 2026-08-13 |
+| Executive Communications Manager | Planet | San Francisco, CA | 2026-08-13 |
+| Engineering Program Manager — Special Projects | Planet | San Francisco, CA | 2026-08-13 |
+| Director, Sales Development | Planet | San Francisco, CA | 2026-08-13 |
+| Data Visualization Engineer | Planet | San Francisco, CA | 2026-08-13 |
 | Accountant I | Pinterest | San Francisco, CA, US; Remote, US | 2026-08-13 |
 | AI Operations Associate | Accordion | Atlanta; Boston; Charlotte; Chicago; Dallas; Los Angeles; New York; San Francisco | 2026-08-13 |
 | Global Crop Product Manager | Ohalo | South San Francisco, CA | 2026-08-13 |
 | Technical Deployment Lead | Anthropic | Austin, TX; Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA | 2026-08-13 |
 | Engineering Manager, Enterprise Product | Airtable | San Francisco, CA; New York, NY | 2026-08-13 |
-| Head of Field Engineering Operations | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| GTM Acceleration, Technical Solutions | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| GTM Acceleration Lead, Value Selling | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Executive Business Center Marketing Lead | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| Growth Marketing Manager, Agent Stack | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Forward-Deployed Engineer | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Growth Marketing Manager, Discoverability | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Enterprise Account Executive | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Enterprise Account Executive, Retail | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Global Benefits Lead | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Business Development Representative, Majors | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Commercial Account Executive, Greenfield | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Commercial Account Executive, Install Base | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Software Engineer, CDN | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Software Engineer, eve | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Software Engineer, Deployment Infrastructure | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Software Engineer, Observability | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
+| Software Engineer, Dashboard | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Software Engineer, AI Gateway | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Software Engineer, CDN Content | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| Software Engineer, AI SDK | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Software Engineer, Workflows | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | Community Engineer | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| DevRel Engineer, Agentic Infrastructure | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Director of Forward Deployed Engineering | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | Director, Solutions Architect | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | Engineering Manager, CDN | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| Startups Program Lead | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Strategic Finance Manager, Product | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| Enterprise Account Executive | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Commercial Account Executive, Install Base | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Enterprise Account Executive, Retail | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | Vercel Development Representative, Startups | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| People Operations Integrations Developer | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Executive Business Center Marketing Lead | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| Forward-Deployed Engineer | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Global Benefits Lead | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Strategic Finance Manager, Product | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| DevRel Engineer, Agentic Infrastructure | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Director of Forward Deployed Engineering | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Startups Program Lead | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Sr. Commercial Counsel | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| Solutions Architect | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Growth Marketing Manager, Agent Stack | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Growth Marketing Manager, Discoverability | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| GTM Acceleration Lead, Value Selling | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Commercial Account Executive, Greenfield | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Head of Field Engineering Operations | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| GTM Acceleration, Technical Solutions | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Business Development Representative, Majors | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Recruiting Coordinator (Contract) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Product Strategy & Operations | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| Product Security Engineer | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
 | Senior Security Software Engineer, v0 | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| Senior Product Designer, Growth | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | Senior Payroll Analyst | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Senior Partner Manager, AWS | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Presentation Designer | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | Senior Technical Account Manager | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Performance Marketing Manager | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| People Operations Integrations Developer | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Partner Operations Lead | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| Media Engineer, Social | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Manager, Solutions Architecture | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
+| IT Systems Engineer | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
+| Product Communications Manager, OSS | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| Senior Partner Manager, AWS | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | Senior Legal Counsel, Product | Vercel | Hybrid - San Francisco | 2026-08-13 |
+| Senior Product Designer, Growth | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | Senior Integrated Campaigns Manager | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
 | Senior HRBP - G&A | Vercel | Hybrid - San Francisco | 2026-08-13 |
 | Senior Brand Designer | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | Security Software Engineer, Open Source Frameworks | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
 | Security Engineer, Detection Response | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
 | Scaled Commercial Account Executive, Install base | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Recruiting Coordinator (Contract) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Product Strategy & Operations | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| Product Security Engineer | Vercel | Hybrid - San Francisco, New York City, London, Berlin | 2026-08-13 |
-| Product Communications Manager, OSS | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| Presentation Designer | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Performance Marketing Manager | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Partner Operations Lead | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Software Engineer, AI Gateway | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Media Engineer, Social | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Manager, Solutions Architecture | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Software Engineer, AI SDK | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Software Engineer, CDN | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| IT Systems Engineer | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| Software Engineer, CDN Content | Vercel | Hybrid - San Francisco | 2026-08-13 |
-| Software Engineer, Dashboard | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Software Engineer, Deployment Infrastructure | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Software Engineer, eve | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Software Engineer, Observability | Vercel | Hybrid - San Francisco, New York City, London | 2026-08-13 |
-| Software Engineer, Workflows | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Solutions Architect | Vercel | Hybrid - San Francisco, New York City, Austin | 2026-08-13 |
-| Sr. Commercial Counsel | Vercel | Hybrid - San Francisco | 2026-08-13 |
 | Technical sourcer (hyrbrid, contract) | Job Mobz | San Francisco, us | 2026-08-13 |
 | Senior UX Researcher, Human Care | Ōura | Hybrid - San Francisco, California | 2026-08-13 |
 | Senior UX Researcher | Ouraring | San Francisco, California | 2026-08-13 |
+| Staff Enterprise AI Engineer | 6sense | San Francisco, California, United States | 2026-08-13 |
 | Sr. Software Engineer | 6sense | San Francisco, California, United States | 2026-08-13 |
 | Sr. Data Scientist | 6sense | San Francisco, California, United States | 2026-08-13 |
-| Staff Enterprise AI Engineer | 6sense | San Francisco, California, United States | 2026-08-13 |
 | Staff Software Engineer- UI Foundations Team | Amplitude | San Francisco, CA | 2026-08-13 |
 | Senior Investigator & Legal Analyst - SF Ethics Commission (TEX 1823) | City and County of San Francisco | San Francisco, us | 2026-08-13 |
 | Partner Marketing Manager (5-month Contract) | Sia | San Francisco, us | 2026-08-13 |
@@ -274,13 +283,16 @@ _11,217 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Senior Machine Learning Engineer I, AI & ML Platform | Spring Health | San Francisco, CA (Hybrid) | 2026-08-13 |
 | Harness Engineer | Virio | San Francisco | 2026-08-13 |
 | GTM Specialist, North America | AppsFlyer | San Francisco | 2026-08-13 |
-| Lead Store Advisor, SF Chestnut St. | On | San Francisco | 2026-08-13 |
 | Part-Time Store Advisor, SF Chestnut St. | On | San Francisco | 2026-08-13 |
+| Lead Store Advisor, SF Chestnut St. | On | San Francisco | 2026-08-13 |
 | Software Engineer | Watney | San Francisco | 2026-08-13 |
 | Director of Technical Accounting | Together AI | San Francisco | 2026-08-13 |
 | Software Engineer, Infrastructure, Interpretability | Anthropic | San Francisco, CA | 2026-08-13 |
 | Strategic Finance Senior Associate - Revenue | Together AI | San Francisco | 2026-08-13 |
 | Software Engineer - Product | Mercury | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 2026-08-13 |
+| Senior Analytics Engineering Manager | Nextdoor | San Francisco, CA | 2026-08-13 |
+| Privacy Counsel | Nextdoor | San Francisco, CA | 2026-08-13 |
+| Senior Software Engineer - Backend | Nextdoor | San Francisco, CA | 2026-08-13 |
 | Senior Manager, AI Engineering | Acadia Pharmaceuticals Inc. | Princeton, New Jersey, United States; San Diego, California, United States; South San Francisco, California, United States | 2026-08-13 |
 | Staff Site Reliability Engineer (FedRAMP) | Okta | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Washington, DC | 2026-08-13 |
 | Full Stack Software Engineer - Codex for Finance | Openai | San Francisco | 2026-08-13 |
@@ -294,18 +306,6 @@ _11,217 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Functional Safety Engineer, Energy Storage | Redwood Materials | San Francisco, California, United States | 2026-08-13 |
 | Senior Product Designer - Accounting Integrations | Mercury | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 2026-08-13 |
 | Shift Supervisor | Philzcoffee | San Francisco, CA | 2026-08-13 |
-| Data Scientist, B2B Growth - San Francisco | Plaud | San Francisco, CA | 2026-08-13 |
-| Marketing Strategy & Operations Manager | Notion | San Francisco, California | 2026-08-13 |
-| Exempt to Permanent – Clerk (1404) Citywide (164678) | City and County of San Francisco | San Francisco, us | 2026-08-13 |
-| Sr. Digital Marketing Manager II, Web Platform Optimization, SEO & AI Search | LinkedIn | San Francisco, us | 2026-08-13 |
-| Senior Manager, Site Reliability Engineering - Infrastructure Platform | Okta | San Francisco, California | 2026-08-13 |
-| Supply Chain Manager, Industrial Compute | Openai | San Francisco | 2026-08-13 |
-| Technical Program Manager, Infrastructure Delivery Operations | Openai | San Francisco | 2026-08-13 |
-| Director of Engineering - MetaDefender Managed File Transfer | OPSWAT | AMER - Remote; San Francisco, California, United States | 2026-08-13 |
-| Implementation Consultant, Advisory | Fieldguide | San Francisco, CA or Remote (USA) | 2026-08-13 |
-| Senior Software Engineer, Infrastructure (SRE & Security Focused) | Nimble Robotics | San Francisco, CA | 2026-08-13 |
-| Software Engineer II | Hinge Health | San Francisco-HQ | 2026-08-13 |
-| Senior Revenue Accountant | Wiz, Inc. | Chicago, Illinois; New York City; San Francisco Bay Area | 2026-08-13 |
 
 ---
 

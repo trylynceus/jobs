@@ -2,24 +2,36 @@
 
 Roles whose title reads as design.
 
-_12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
+_12,228 open · showing the 300 most recent · updated 2026-08-20 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Linux Systems Engineer | Wrshealth | Remote | 2026-08-20 |
+| Senior Product Manager (Commerce Platform Building) | Glance | Bengaluru | 2026-08-19 |
+| Senior Product Manager (Commerce Platform Building) | Glance | Bengaluru | 2026-08-19 |
+| Technical Owner - Fluid Components | Ngpcap | Bordeaux, France | 2026-08-19 |
+| Senior Commercial Account Executive, Acquisition | Grafana Labs | Singapore | 2026-08-19 |
 | Brand Designer | Ambrook | New York | 2026-08-18 |
 | Senior UI Designer | Perrystreet | Remote | 2026-08-18 |
 | Graphic Designer | Regent | Tulsa, OK | 2026-08-18 |
+| Senior Product Designer | Tilt | US | 2026-08-18 |
+| Technical Talent Acquisition Partner | Red Cell Partners | Remote, USA | 2026-08-18 |
+| Enterprise Account Executive, Acquisition | Grafana Labs | United States | 2026-08-18 |
 | Staff Product Designer | Redditinc | Remote - United States | 2026-08-18 |
 | Principal UX Engineer, Ads | Redditinc | United States | 2026-08-18 |
+| Enterprise Account Executive, Acquisition | Grafana Labs | Sweden | 2026-08-18 |
+| UI/UX Designer | Luxcapital | 港区麻布台1-3-1 麻布台ヒルズ森JPタワー22F, Japan | 2026-08-18 |
 | UX Designer | Outsidersfund | Los Angeles | 2026-08-17 |
-| Lead Product Designer | Gohighlevel | United States | 2026-08-17 |
+| Senior UX Designer | Civilgrid | Boston | 2026-08-17 |
 | Conceptual Designer | Kayak | London Office | 2026-08-17 |
 | Conceptual Designer | Kayak | London Office | 2026-08-17 |
-| [UPLIVE Company] User Acquisition Marketing Manager (Sign-on Bonus) | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-17 |
-| Lead Product Designer | Gohighlevel | India | 2026-08-17 |
-| Lead Product Designer - Builder | Gohighlevel | India | 2026-08-17 |
-| [UPLIVE Company] Senior User Acquisition (Senior UA Marketing Game) | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-15 |
-| [UPLIVE Company] User Acquisition (UA Marketing Game) - Junior/Middle | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-15 |
+| Conceptual Designer | Kayak | London Office | 2026-08-17 |
+| Conceptual Designer | Kayak | London Office | 2026-08-17 |
+| Conceptual Designer | Kayak | London Office | 2026-08-17 |
+| User Acquisition Marketing Manager | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-17 |
+| Talent Acquisition Specialist | CloudFactory | Nairobi, Kenya | 2026-08-17 |
+| Senior User Acquisition (Senior UA Marketing Game) | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-15 |
+| User Acquisition (UA Marketing Game) - Junior/Middle | Amanotes | Ho Chi Minh City, Vietnam | 2026-08-15 |
 | Senior Manager, Paid Acquisition | Apollo.io | Remote, United States | 2026-08-14 |
 | Equipment Maintenance Technician | Aperia Technologies, Inc | Hayward, CA | 2026-08-14 |
 | Senior Product Designer | GoGuardian | United States | 2026-08-14 |
@@ -31,6 +43,7 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Designer | OLIVER Agency - APAC | Mumbai, India | 2026-08-14 |
 | Motion Designer | OLIVER Agency - APAC | Mumbai, India | 2026-08-14 |
 | Designer / Retoucher | OLIVER Agency - APAC | Mumbai, India | 2026-08-14 |
+| Production Designer | Smartly | Philippines | 2026-08-14 |
 | Senior Business Recruiter (12-Month Contract) | Ripple | London, UK | 2026-08-14 |
 | Senior Business Recruiter (12-Month Contract) | Ripple | London, UK | 2026-08-14 |
 | Delivery Driver(06276) - 1407 W 84th Avenue, Suite D3B | Domino's | Federal Heights, us | 2026-08-14 |
@@ -47,6 +60,7 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Content Designer & Social Media Producer (AU or NZ Real Estate) | D2B | Manila, Philippines | 2026-08-14 |
 | Senior Ops Support Technician - Equipment Maintenance (EES) | Rocket Lab Corporation | Albuquerque, NM | 2026-08-13 |
 | Senior Brand Designer | Mochi Health | San Francisco, CA | 2026-08-13 |
+| Sr. GTM Recruiter | Linqia | San Francisco, California, United States | 2026-08-13 |
 | Complex Adult Health/Critical Care Clinical Faculty (Part-Time)- St. Louis, Missouri | Covista | St. Louis, us | 2026-08-13 |
 | Maternal Child Clinical Faculty (Part-Time/BSNOL Program): St. Louis, Missouri | Covista | St. Louis, us | 2026-08-13 |
 | 🎯Hiring Security Officer – Mesquite, TX | Marksman Security LLC | Mesquite, TX 75150 | 2026-08-13 |
@@ -54,17 +68,17 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Senior Fluids Engineer | Stoke Space | Kent, Washington | 2026-08-13 |
 | Cleared UI/UX Designer (Washington, DC) | Accenture Federal Services | Washington, DC | 2026-08-13 |
 | Senior Product Designer | Planet | Berlin, Germany; Haarlem, Netherlands | 2026-08-13 |
-| Senior Director, Global Talent Acquisition | Planet | San Francisco, CA | 2026-08-13 |
 | Senior Product Designer | Planet | Berlin, Germany; Haarlem, Netherlands | 2026-08-13 |
+| Senior Director, Global Talent Acquisition | Planet | San Francisco, CA | 2026-08-13 |
 | 🎯Now Hiring - Security Officer (Open Availability Required) | Marksman Security LLC | Culver City, CA | 2026-08-13 |
 | Community & Patient Liaison - Louisville, GA | Main Street Health | Louisville, GA | 2026-08-13 |
 | NetSuite Administrator | Platform Science | Remote - US | 2026-08-13 |
 | Participant Recruitment Analyst | M3USA | Raleigh, us | 2026-08-13 |
-| Visual Designer, Web | Vercel | Remote - United States | 2026-08-13 |
 | Senior Brand Designer | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
-| Presentation Designer | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | Recruiting Coordinator (Contract) | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Presentation Designer | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
 | Senior Product Designer, Growth | Vercel | Hybrid - San Francisco, New York City | 2026-08-13 |
+| Visual Designer, Web | Vercel | Remote - United States | 2026-08-13 |
 | Strategic Cuisines Account Executive - Spanish - Tri-Valley, CA | Toast | Livermore, CA | 2026-08-13 |
 | Strategic Cuisines Account Executive - Spanish - Santa Rosa, CA | Toast | Santa Rosa, CA | 2026-08-13 |
 | Strategic Cuisines Account Executive - Spanish - Central Valley, CA | Toast | Monterey, CA | 2026-08-13 |
@@ -79,9 +93,9 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Senior Piping Designer | Redwood Materials | Carson City, NV | 2026-08-13 |
 | Fluid Component Engineer II | Rocket Lab Corporation | Long Beach, CA | 2026-08-13 |
 | Recruiting Coordinator (On-Site) | Gerresheimer | Peachtree City, us | 2026-08-13 |
-| Senior Service Designer | AB InBev \| Growth Group | São Paulo, Brazil | 2026-08-13 |
-| Senior Product Designer | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
 | Senior UX Writer | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| Senior Product Designer | AB InBev \| Growth Group | Campinas, Brazil | 2026-08-13 |
+| Senior Service Designer | AB InBev \| Growth Group | São Paulo, Brazil | 2026-08-13 |
 | OPERADOR AUXILIAR (USINAGEM E MONTAGEM) | Bosch Group | Sorocaba, br | 2026-08-13 |
 | Staff Motion Designer, Design Innovation | Pinterest | San Francisco, CA, US; Remote, CA, US | 2026-08-13 |
 | Director, New Build & Project Procurement - Aspen Hospitality | Aspen Skiing Company | New York, us | 2026-08-13 |
@@ -115,7 +129,6 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Manchester Tank Quincy Assembler | McWane, Inc. | Quincy, us | 2026-08-13 |
 | Senior Technical Recruiter | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | Senior Technical Recruiter | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
-| Major Account Executive, Benelux | Wiz, Inc. | Amsterdam, Netherlands; Remote - Netherlands | 2026-08-13 |
 | Owner & Medical Director Veterinarian - Build Your Dream Practice | Veterinary Practice Partners | United States | 2026-08-13 |
 | Senior Human Factors Engineering (UX/HCI, GUI Design) | General Dynamics Missions System International | Calgary, ca | 2026-08-13 |
 | Senior Human Factors Engineering (UX/HCI, GUI Design) | General Dynamics Missions System International | Ottawa, ca | 2026-08-13 |
@@ -125,8 +138,8 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Saisonnier·ère, Équipier·ère de l’entretien ménager, temps plein (H/F/D) | AccorHotel | Montebello, ca | 2026-08-13 |
 | Product designer | Watershed | San Francisco | 2026-08-13 |
 | Principal Product Manager: Talent Acquisition & Management Applications | Twilio | Remote - US | 2026-08-13 |
-| Staff Product Designer | Twilio | Remote - US | 2026-08-13 |
 | Sales Director, Strategic Accounts DACH & Benelux | Twilio | Remote - United Kingdom | 2026-08-13 |
+| Staff Product Designer | Twilio | Remote - US | 2026-08-13 |
 | Lead Product Designer | Twilio | Remote - US | 2026-08-13 |
 | Biomedical Technician / Equipment Support Specialist - Information Systems | Blue Water Thinking | Onsite - Iowa City, IA | 2026-08-13 |
 | Auxiliar de Limpeza | AccorHotel | Guarulhos, br | 2026-08-13 |
@@ -136,15 +149,15 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Senior Manager, Build Planning and Distribution | Lucid Motors | Phoenix, AZ | 2026-08-13 |
 | Channels Partner Manager, Netsuite | Paystand | Austin, Texas, United States; Minneapolis, Minnesota, United States; Remote; Santa Cruz, California, United States | 2026-08-13 |
 | Laboratory Analyst - PLM (TU - SA, 1PM - 9PM) Eurofins Built Environment Testing - Reservoirs, Arvada, CO | Eurofins | Arvada, us | 2026-08-13 |
-| Senior Specialist - Talent Acquisition Retail | On | Shanghai | 2026-08-13 |
+| Retail - Lead Store Advisor(Taikoo Hui SHA) | On | Shanghai | 2026-08-13 |
+| Senior Lead - Computational Designer | On | Zurich | 2026-08-13 |
+| Retail - Store Advisor（Taikoo Hui SHA） | On | Shanghai | 2026-08-13 |
+| Lead - Footwear Material Designer | On | Zurich | 2026-08-13 |
+| Retail - Store Advisor（Taikoo Hui GUA） | On | Guangzhou | 2026-08-13 |
 | Senior Specialist - Color Designer Performance Footwear | On | Zurich | 2026-08-13 |
 | Senior Specialist - SMU Designer FTW | On | Zurich | 2026-08-13 |
 | Senior Specialist - Talent Acquisition, Japan & KR | On | Tokyo | 2026-08-13 |
-| Senior Lead - Computational Designer | On | Zurich | 2026-08-13 |
-| Retail - Lead Store Advisor(Taikoo Hui SHA) | On | Shanghai | 2026-08-13 |
-| Retail - Store Advisor（Taikoo Hui GUA） | On | Guangzhou | 2026-08-13 |
-| Retail - Store Advisor（Taikoo Hui SHA） | On | Shanghai | 2026-08-13 |
-| Lead - Footwear Material Designer | On | Zurich | 2026-08-13 |
+| Senior Specialist - Talent Acquisition Retail | On | Shanghai | 2026-08-13 |
 | Senior Technical Designer, Socks | Bombas | New York, NY | 2026-08-13 |
 | Talent Acquisition Partner | Mercer Advisors | Remote, USA | 2026-08-13 |
 | Recruitment Care Professional Sheffield South_T040 | Home Instead | Care Professional General Enquiry, gb | 2026-08-13 |
@@ -165,8 +178,8 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Designer UX senior | Ubisoft | Montreal, ca | 2026-08-13 |
 | Business Analysis, Acquisitions - Principal Analyst / Manager | Mission Lane | Remote, United States | 2026-08-13 |
 | Senior Recruiting Manager, Advanced Effects | Anduril Industries | Huntsville, Alabama, United States | 2026-08-13 |
-| CW Production Recruiting Lead | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | CW Production Recruiting Lead | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
+| CW Production Recruiting Lead | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | Registered Nurse - Birthing Suite | Halton Healthcare | Oakville, ca | 2026-08-13 |
 | Registered Nurse - Birthing Suite | Halton Healthcare | Oakville, ca | 2026-08-13 |
 | Chef de Partie Cuisine H/F CDI | Barrière | RIBEAUVILLE, fr | 2026-08-13 |
@@ -200,21 +213,21 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Senior Manager, Talent Acquisition, Mission Readiness | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | Recruiter (High Volume) | Evolution | Atlantic City, us | 2026-08-13 |
 | Equipier commercial - Encaissement - CDI - H/F | METRO/MAKRO | Souffelweyersheim, fr | 2026-08-13 |
-| AI Solutions Engineer, Talent Acquisition | Anduril Industries | Boston, Massachusetts, United States | 2026-08-13 |
 | AI Solutions Engineer, Talent Acquisition | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
+| AI Solutions Engineer, Talent Acquisition | Anduril Industries | Boston, Massachusetts, United States | 2026-08-13 |
 | AI Solutions Engineer, Talent Acquisition | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | Operations Project Coordinator - Salesforce experience required - No 3rd party candidates | EVERSANA | Remote, us | 2026-08-13 |
 | Senior Service Designer | NECSWS | Remote, United Kingdom, gb | 2026-08-13 |
 | Principal Service Designer | NECSWS | Remote, United Kingdom, gb | 2026-08-13 |
 | Equipier Vestiaire | Barrière | LA BAULE, fr | 2026-08-13 |
-| Guidance, Navigation & Control (GNC) Engineer - Navigation and Estimation- Air Dominance & Strike | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | Senior Guidance, Navigation & Control (GNC) Engineer - Navigation and Estimation- Air Dominance & Strike | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
+| Guidance, Navigation & Control (GNC) Engineer - Navigation and Estimation- Air Dominance & Strike | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | Senior Talent Acquisition Partner | AECOM | Dublin, ie | 2026-08-13 |
 | Senior Electrical Engineer (Circuit Design) | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
 | Global Talent Acquisition Leader | Mitratech | Mitratech US | 2026-08-13 |
 | Instructional Designer | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
-| Senior Product Designer, Design Systems | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | Senior Product Designer, Design Systems | Anduril Industries | Costa Mesa, California, United States | 2026-08-13 |
+| Senior Product Designer, Design Systems | Anduril Industries | Seattle, Washington, United States | 2026-08-13 |
 | Mobile Building Engineer | Lincoln Property Company | Allen, TX | 2026-08-13 |
 | Construction Delivery Manager - Nuclear New Build | ASSYSTEM | Bristol, gb | 2026-08-13 |
 | Auxiliar de Vendas e Atendimento - Vitória/ES - (Exclusiva PCDs) | Agibank | Vitória, Espírito Santo, Brasil | 2026-08-13 |
@@ -289,23 +302,10 @@ _12,152 open · showing the 300 most recent · updated 2026-08-19 04:17 UTC_
 | Lead Engineer - Vehicle SW Package + SW Builds | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
 | Sr. Specialist – Secondary ECU CICD Releases & Builds | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
 | Sr UX Designer | Glance | Bangalore | 2026-08-13 |
+| Sr UX Designer | Glance | Bangalore | 2026-08-13 |
 | Engineer, Chassis Wheel Guidance (Front and Rear Control Arms) | Scout Motors | Charlotte, North Carolina, United States | 2026-08-13 |
 | Business Unit Manager- Food Testing- Louisville, KY | Eurofins | Louisville, us | 2026-08-13 |
 | Morning and weekends Care Professionals Required | Home Instead | Edgbaston, gb | 2026-08-13 |
-| Senior Software Engineer - iOS with Swift UI | NECSWS | Bengaluru, in | 2026-08-13 |
-| Responsable d'Equipe CVC & Multitechnique H/F | Veolia Environnement SA | Nevers, fr | 2026-08-13 |
-| Product Designer | Joinpogo | United States/Canada | 2026-08-13 |
-| Second de cuisine service continue | Barrière | LA BAULE, fr | 2026-08-13 |
-| Senior Recruiter | Taktile | New York Office | 2026-08-13 |
-| Working Student for Automation of Circuit Diagram Creation Using Microsoft Visio (f/m/div.) | Bosch Group | Reutlingen, de | 2026-08-13 |
-| Care Professionals URGENTLY REQUIRED EARLY MORNINGS | Home Instead | Birmingham, gb | 2026-08-13 |
-| BUILDING SUPERINTENDENT | City of New York | Brooklyn, us | 2026-08-13 |
-| Rotating Equipment Principal Engineer | SGS | Sur, om | 2026-08-13 |
-| Rotating Equipment Senior Manager | SGS | Sur, om | 2026-08-13 |
-| Computational Designer | Boskalis | Papendrecht, nl | 2026-08-13 |
-| Recruiter | Junior Adventures Group | Dublin, ie | 2026-08-13 |
-| Software Developer, UI Core | bet365 | Manchester, gb | 2026-08-13 |
-| Responsable d'Equipe - F/H | Courir | LIEGE, be | 2026-08-13 |
 
 ---
 
