@@ -2,16 +2,31 @@
 
 Roles listing Berlin as their location.
 
-_3,012 open · showing the 300 most recent · updated 2026-08-22 04:15 UTC_
+_3,077 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | Account Sales Manager | Red Bull | Berlin Heights, us | 2026-08-21 |
+| Customer Success Manager | Clera | Berlin | 2026-08-21 |
+| Founding GTM Engineer | Clera | Berlin | 2026-08-21 |
+| Founding Engineer | Clera | Berlin | 2026-08-21 |
+| Founding Engineer | Clera | Berlin | 2026-08-21 |
+| Founding Marketer (Growth, GTM) | Clera | Berlin | 2026-08-21 |
+| Software Engineer | Clera | Berlin | 2026-08-21 |
+| Backend Engineer | Clera | Berlin | 2026-08-21 |
 | Customer Service - Self Storage Manager | Public Storage | Berlin, us | 2026-08-21 |
+| Founding GTM (B2B Sales) | Clera | Berlin | 2026-08-21 |
+| Business Development Representative | Clera | Berlin | 2026-08-21 |
+| Customer Engineer | Clera | Berlin | 2026-08-21 |
+| Head of Marketing | Clera | Berlin | 2026-08-21 |
+| Founder's Associate Intern / Working Student | Clera | Berlin | 2026-08-21 |
+| Founding Account Executive / SDR | Clera | Berlin | 2026-08-21 |
 | Accountant (Freelance/Temporary) | Yepoda | Berlin | 2026-08-21 |
 | (Associate) Product Manager (m/f/x) | Scalable GmbH | Berlin, de | 2026-08-21 |
 | Product Manager - Lion Studios | Tripledot Studios | Berlin | 2026-08-21 |
+| Category manager Food, International Procurement (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-08-21 |
 | Field Marketing Manager | Black Forest Labs | San Francisco (USA), Seattle (USA), Los Angeles (USA), Austin (USA), Freiburg (Germany), Berlin (Germany), Munich (Germany), Frankfurt (Germany), Paris (France), Amsterdam (Netherlands), London (United Kingdom) | 2026-08-21 |
+| Bank Relationship and Analytics Manager (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-08-21 |
 | Bank Relationship and Analytics Manager (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-08-21 |
 | Mitarbeiter in der telefonischen Kundenbetreuung (m/w/div.) | Bosch Group | Berlin, de | 2026-08-21 |
 | Product & AI Security Engineer | Talon.One | Berlin | 2026-08-21 |
@@ -20,23 +35,24 @@ _3,012 open · showing the 300 most recent · updated 2026-08-22 04:15 UTC_
 | Security Engineer - Product | Wiz, Inc. | Berlin, Germany; Remote - Germany | 2026-08-21 |
 | Account Executive - Enterprise Sales | New Relic | Berlin, Germany; Munich, Germany | 2026-08-21 |
 | (Senior) Product Manager - Business Automation | Delivery Hero | Berlin, de | 2026-08-21 |
+| Account Executive Enterprise | Braze | Berlin | 2026-08-21 |
+| Account Executive | Braze | Berlin | 2026-08-21 |
 | Field Marketing Lead (12 Month Fixed Term) | Braze | Berlin | 2026-08-21 |
 | Senior Business Development Representative | Braze | Berlin | 2026-08-21 |
 | Senior Business Development Representative | Braze | Berlin | 2026-08-21 |
-| Account Executive | Braze | Berlin | 2026-08-21 |
-| Account Executive Enterprise | Braze | Berlin | 2026-08-21 |
 | Berater / Projektmanager (w/m/d) Bundesbau und Industrie | Drees & Sommer SE | Berlin, de | 2026-08-21 |
 | Senior IT Engineer, MDM Tech (f/m/x) | HelloFresh | Berlin, Berlin, Germany | 2026-08-21 |
+| Finance Manager - AI Native (m/f/d) | voize | Berlin | 2026-08-21 |
 | Finance Manager - AI Native (m/f/d) | Voize | Berlin | 2026-08-21 |
 | Strategic Account Manager - Hospitals (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-08-21 |
 | Mitarbeiter (m/w/d) Vertriebsinnendienst | Eurofins | Berlin, de | 2026-08-21 |
 | AI Research Engineer - GPU Simulation | Helsing | Munich - Berlin - London - Paris | 2026-08-21 |
 | Software Engineer II (Golang), Promo Cart - Quick Commerce | Delivery Hero | Berlin, de | 2026-08-21 |
-| Senior Consultant (m/w/d) Daten- & KI-Strategie | Artefact | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-08-21 |
-| Senior Consultant (m/f/d) Data & AI Strategy | Artefact | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-08-21 |
-| Consulting Manager (m/f/d) Data & AI Strategy | Artefact | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-08-21 |
-| Senior AI Engineer (m/f/d) | Artefact | Berlin, Berlin, Germany; Hamburg, Hamburg, Germany; München, Bavaria, Germany | 2026-08-21 |
 | Consulting Manager (m/f/d) Daten- & KI-Strategie | Artefact | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-08-21 |
+| Consulting Manager (m/f/d) Data & AI Strategy | Artefact | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-08-21 |
+| Senior Consultant (m/f/d) Data & AI Strategy | Artefact | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-08-21 |
+| Senior Consultant (m/w/d) Daten- & KI-Strategie | Artefact | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-08-21 |
+| Senior AI Engineer (m/f/d) | Artefact | Berlin, Berlin, Germany; Hamburg, Hamburg, Germany; München, Bavaria, Germany | 2026-08-21 |
 | Technical Due Diligence Consultant (m/w/d) | Turner & Townsend | Berlin, de | 2026-08-21 |
 | Zahnmedizinische Abrechnungskraft / ZMV (m/w/d) - Hybrid möglich Berlin | DEIN DENTAL / EDG | Berlin, de | 2026-08-21 |
 | Senior Workplace Specialist | Snowflake | DE-Berlin-Das Center | 2026-08-21 |
@@ -73,9 +89,9 @@ _3,012 open · showing the 300 most recent · updated 2026-08-22 04:15 UTC_
 | Praktikant Product Management & Product Operations (m/w/d) | ENERTRAG SE | Berlin, de | 2026-08-20 |
 | Senior ML Ops Engineer | Kayak | Berlin Office | 2026-08-20 |
 | Senior ML Ops Engineer | Kayak | Berlin Office | 2026-08-20 |
+| Senior ML Ops Engineer | Kayak | Berlin Office | 2026-08-20 |
+| Senior ML Ops Engineer | Kayak | Berlin Office | 2026-08-20 |
 | Senior ML Ops Engineer | Kayak | Berlin | 2026-08-20 |
-| Senior ML Ops Engineer | Kayak | Berlin Office | 2026-08-20 |
-| Senior ML Ops Engineer | Kayak | Berlin Office | 2026-08-20 |
 | Senior Cost Accountant | Planet | Berlin, Germany | 2026-08-20 |
 | Praktikum Recruiting (m/w/d) | ENERTRAG SE | Berlin, de | 2026-08-20 |
 | Senior Data Scientist | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-08-20 |
@@ -107,11 +123,11 @@ _3,012 open · showing the 300 most recent · updated 2026-08-22 04:15 UTC_
 | Founders Associate - Sales | Clera | Berlin | 2026-08-20 |
 | Data Engineer | Clera | Berlin | 2026-08-20 |
 | Fullstack Engineer (m/f/d) | Visiolab | Berlin | 2026-08-20 |
+| Specialist Tax (all genders) | Q ENERGY | Berlin, Germany | 2026-08-20 |
 | Influencer / Brand Relations & Content Creator (m/w/d) gesucht | Soulhouse | Berlin, Germany | 2026-08-20 |
 | Specialist Finance - Accounting (all genders) | Q ENERGY | Berlin, Germany | 2026-08-20 |
-| Influencer / Brand Relations & Content Creator (m/w/d) | Soulhouse | Berlin, Germany | 2026-08-20 |
 | Project Manager (m/f/d) - ADAM Audio GmbH | The Focusrite Group | Berlin, Germany | 2026-08-20 |
-| Specialist Tax (all genders) | Q ENERGY | Berlin, Germany | 2026-08-20 |
+| Influencer / Brand Relations & Content Creator (m/w/d) | Soulhouse | Berlin, Germany | 2026-08-20 |
 | Sales Internship | Clera | Berlin | 2026-08-19 |
 | Agent Deployment Manager | Clera | Berlin | 2026-08-19 |
 | Founders Associate (Intern) | Clera | Berlin | 2026-08-19 |
@@ -169,6 +185,7 @@ _3,012 open · showing the 300 most recent · updated 2026-08-22 04:15 UTC_
 | Senior Strategic Project Manager | FeverUp | Berlin | 2026-08-19 |
 | CS Enablement Manager (d/f/m) | Leapsome | Berlin | 2026-08-19 |
 | Events Intern (September - December) or Working Student | Langdock | Berlin | 2026-08-19 |
+| Events Intern (September - December) or Working Student | Langdock | Berlin | 2026-08-19 |
 | Account Executive (Enterprise) (Fluent In German) (Remote in Germany) | KnowBe4 | Berlin, Germany | 2026-08-19 |
 | Campaign Manager (FTC) (div/f/m) | DEPT® | Berlin; Germany | 2026-08-19 |
 | CRM Project Manager (FTC) (div/f/m) | DEPT® | Berlin; Germany | 2026-08-19 |
@@ -191,6 +208,7 @@ _3,012 open · showing the 300 most recent · updated 2026-08-22 04:15 UTC_
 | Senior Software Engineer, Core Experiences - Berlin, Germany | Speechify | Berlin, Germany | 2026-08-19 |
 | Head of Performance Marketing (m/f/d) | Hilo By Aktiia | Berlin, Germany | 2026-08-19 |
 | Generalist Operator (Early-Stage) | Clera | Berlin | 2026-08-18 |
+| Freelance Senior Backend Engineer - Kotlin (m/f/d) | voize | Berlin | 2026-08-18 |
 | Sales Manager, Funded Startups | Stripe | Berlin | 2026-08-18 |
 | Senior Kundenbetreuer:in (m/w/d) – Support im TeleHealth-Startup | Careers at Eucalyptus | DE - HQ - Berlin | 2026-08-18 |
 | Senior Patient Support Specialist | Careers at Eucalyptus | DE - HQ - Berlin | 2026-08-18 |
@@ -205,7 +223,7 @@ _3,012 open · showing the 300 most recent · updated 2026-08-22 04:15 UTC_
 | Lead, Photography (x/f/m) | HelloFresh | Berlin, Berlin, Germany | 2026-08-18 |
 | (Senior) Performance Marketing Manager – App Growth (m/w/d) | AVIV Group | Berlin, de | 2026-08-18 |
 | Operations & Strategy Internship (m/f/d) | Bunch | Berlin | 2026-08-18 |
-| Product Manager, Agents | Peec | Berlin | 2026-08-18 |
+| Product Manager, Agents | Peec AI | Berlin | 2026-08-18 |
 | Senior Director of Product, Consumer (d/f/m) | Taxfix.Com | Berlin | 2026-08-18 |
 | Studentische Aushilfe im Retail Bereich - gerne Quereinsteiger (m/w/d) | Tipico | Berlin, de | 2026-08-18 |
 | Shopmitarbeiter in Teilzeit - gerne Quereinsteiger (m/w/d) | Tipico | Berlin, de | 2026-08-18 |
@@ -288,24 +306,6 @@ _3,012 open · showing the 300 most recent · updated 2026-08-22 04:15 UTC_
 | Growth Lead - Berlin | Almedia | Berlin | 2026-08-17 |
 | Workplace & Engagement Lead | Gigs | Berlin | 2026-08-17 |
 | Senior ML Research Scientist – AI & Generative Recommendation (m/f/d) | Adjoe | Berlin | 2026-08-17 |
-| Staff ML Research Scientist (m/f/d) | Adjoe | Berlin | 2026-08-17 |
-| Client Service Manager (m/f/x) | Scalable GmbH | Berlin, de | 2026-08-17 |
-| Brand Partnership & On Trade Manager (m/w/d) | Krombacher | Berlin, de | 2026-08-17 |
-| Initiativbewerbung Drinks & More | Krombacher | Berlin, de | 2026-08-17 |
-| Accountant (all genders) | Sunday Natural | Berlin | 2026-08-17 |
-| Software Engineering Evaluation Specialist | Mindrift | Berlin, Germany | 2026-08-17 |
-| (Senior) Content Creator (m/w/d) | We Are Social | Berlin, Germany | 2026-08-17 |
-| Full-Stack Software Engineer | Clera | Berlin | 2026-08-16 |
-| Product Engineer | Clera | Berlin | 2026-08-16 |
-| Backend Engineer | Clera | Berlin | 2026-08-16 |
-| Forward Deployed Engineer | Clera | Berlin | 2026-08-16 |
-| Finance Engineer | Clera | Berlin | 2026-08-16 |
-| Software Engineer (PL/SQL) | Avaloq | Berlin, de | 2026-08-16 |
-| Visiting Finance Analyst | Clera | Berlin | 2026-08-15 |
-| Enterprise Account Manager | Clera | Berlin | 2026-08-15 |
-| Product Engineer (Full-Stack) | Clera | Berlin | 2026-08-15 |
-| Platform Engineer | Clera | Berlin | 2026-08-15 |
-| Product Engineer | Clera | Berlin | 2026-08-15 |
 
 ---
 
