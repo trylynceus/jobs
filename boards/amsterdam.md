@@ -2,12 +2,20 @@
 
 Roles listing Amsterdam as their location.
 
-_1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
+_1,629 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Body Repair Operations Manager | Lucid | Amsterdam, NH | 2026-08-23 |
+| Sr. Manager, Service Technical Operations & Quality Europe | Lucid | Amsterdam, NH | 2026-08-23 |
+| Software Engineer, iOS Core Product - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
+| Senior Software Engineer, Core Experiences - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
+| Senior Software Engineer, Windows/Desktop Applications - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
 | Lead Back-end Engineer | Sjef | Amsterdam, Netherlands | 2026-08-22 |
+| Customer Care Representative – German Speaking | Lucid | Amsterdam, NH | 2026-08-22 |
 | Senior Infrastructure Engineer | Stream | Amsterdam office | 2026-08-21 |
+| Staff General Ledger Accountant | Lucid | Amsterdam, NH | 2026-08-21 |
 | Sales Development Representative (Israel) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-21 |
 | YouTube Creator | Creative Fabrica | Amsterdam, North Holland, Netherlands | 2026-08-21 |
 | X (Twitter) Channel Manager | Creative Fabrica | Amsterdam, North Holland, Netherlands | 2026-08-21 |
@@ -35,7 +43,6 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Software Engineer (Java) - Unified Platform | Adyen | Amsterdam | 2026-08-21 |
 | Communications Specialist | Flow Traders | Amsterdam | 2026-08-21 |
 | Global SVP of Marketing | DEPT® | Amsterdam; Netherlands | 2026-08-21 |
-| Chef de Partie - Breman Brasserie | AccorHotel | Amsterdam, nl | 2026-08-21 |
 | Event Specialist | Flow Traders | Amsterdam | 2026-08-21 |
 | SaaS Account Executive - Benelux | Mollie | Amsterdam | 2026-08-21 |
 | Product Engineer (Remote EU/UK Based) | Workwize | Amsterdam | 2026-08-21 |
@@ -89,7 +96,7 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Founding AI Engineer | Clera | Amsterdam | 2026-08-19 |
 | Senior Field Marketing Manager | Appian Corporation | Amsterdam, Netherlands | 2026-08-19 |
 | Field Marketing Specialist | Red Bull | Amsterdam, nl | 2026-08-19 |
-| Senior Sales Enablement Manager EMEA | Horizon3Ai | Amsterdam, Netherlands | 2026-08-19 |
+| Senior Sales Enablement Manager EMEA | Horizon3 | Amsterdam, Netherlands | 2026-08-19 |
 | Staff Software Engineer, Inference / Compute Infrastructure Engineering | Together AI | Amsterdam | 2026-08-19 |
 | Sr. Finance Business Partner (f/m/x) | HelloFresh | Amsterdam, North Holland, Netherlands | 2026-08-19 |
 | Tooling Manager | Adyen | Amsterdam | 2026-08-19 |
@@ -103,6 +110,7 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Marketing Lead (m/v/d) | Flink | Amsterdam, nl | 2026-08-19 |
 | Marketing Lead (m/f/d) | Flink | Amsterdam, nl | 2026-08-19 |
 | Founding Account Executive - API & AI Platform | Creative Fabrica | Amsterdam, North Holland, Netherlands | 2026-08-19 |
+| Senior Credit Risk Analyst - Netherlands | Riverbank | Amsterdam, nl | 2026-08-19 |
 | Store Manager (Amsterdam) | Vuori, Inc | Amsterdam, nl | 2026-08-19 |
 | Medior Producer | DEPT® | Amsterdam | 2026-08-19 |
 | Data Engineer Consultant - | Sia | Amsterdam, nl | 2026-08-19 |
@@ -117,8 +125,8 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Account Executive Benelux | Trustpilot | Amsterdam | 2026-08-19 |
 | Studentenbaan: Customer Experience Specialist (0-uren contract) | Treatwell | Amsterdam, Netherlands | 2026-08-19 |
 | Staff Engineer - Observability | Adyen | Amsterdam | 2026-08-18 |
-| Senior Manager, Demand Generation | Workwize | Amsterdam | 2026-08-18 |
 | Senior Manager, Demand Generation | Goworkwize | Amsterdam | 2026-08-18 |
+| Senior Manager, Demand Generation | Workwize | Amsterdam | 2026-08-18 |
 | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations) | Databricks | Amsterdam, Netherlands | 2026-08-18 |
 | Office & Events Manager (f/m/x) | HelloFresh | Amsterdam, North Holland, Netherlands | 2026-08-18 |
 | Director, Global Procurement | Nexthink | Amsterdam, nl | 2026-08-18 |
@@ -146,28 +154,27 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Investment Professionals Associate - EU | EQT Group | Amsterdam, North Holland, Netherlands; København, Capital Region of Denmark, Denmark; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Paris, Paris, France; Stockholm, Stockholm, Sweden; Zürich, Zürich, Switzerland | 2026-08-18 |
 | Investment Intern – Life Sciences - Dementia Team - Amsterdam | EQT Group | Amsterdam, North Holland, Netherlands | 2026-08-18 |
 | Senior Data Engineer | GRESB | Amsterdam, Netherlands | 2026-08-18 |
-| Senior Paid Social Consultant | DEPT® | Amsterdam, Rotterdam | 2026-08-17 |
 | Intern Corporate Finance | DEPT® | Amsterdam | 2026-08-17 |
+| Senior Paid Social Consultant | DEPT® | Amsterdam, Rotterdam | 2026-08-17 |
 | Senior Client Accountant - Funds | IQ-EQ | Amsterdam, nl | 2026-08-17 |
 | Senior Tax Manager | Gigs | Amsterdam | 2026-08-17 |
-| Commercial Account Executive, Belgium | Horizon3Ai | Amsterdam, Netherlands | 2026-08-17 |
+| Commercial Account Executive, Belgium | Horizon3 | Amsterdam, Netherlands | 2026-08-17 |
 | ​Senior Manager, Strategic Partner Accounts | Wellhub | Netherlands (Amsterdam - Hybrid) | 2026-08-17 |
 | Senior Collections Analyst | NBCUniversal | Amsterdam, nl | 2026-08-17 |
 | Commercial Intern - Business Accounts - Benelux | Mollie | Amsterdam | 2026-08-17 |
 | Backend Engineer | Mytomorrows | Amsterdam HQ | 2026-08-17 |
 | Staff Engineer - Banking Products | Adyen | Amsterdam | 2026-08-17 |
 | Global Marketing Intern | JACOBS DOUWE EGBERTS | Amsterdam, nl | 2026-08-17 |
-| Sales Merchandiser Amsterdam | CPM Benelux | Amsterdam, Netherlands | 2026-08-17 |
 | Klachtenfunctionaris | Unilabs | Amsterdam, Netherlands | 2026-08-17 |
+| Sales Merchandiser Amsterdam | CPM Benelux | Amsterdam, Netherlands | 2026-08-17 |
 | Supply Chain Intern - EMEA | Toms | EMEA HQ - Amsterdam | 2026-08-14 |
-| Senior Data Engineer | Adyen | Amsterdam | 2026-08-14 |
 | Manager International FSQA (all genders) | HelloFresh | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; London, England, United Kingdom; Paris, Paris, France | 2026-08-14 |
 | Finance Business Partner | Gigs | Amsterdam | 2026-08-14 |
 | Senior Solutions Engineer - Spend/ERP | Airwallex | NL - Amsterdam | 2026-08-14 |
 | Account Executive | Altura | Amsterdam HQ | 2026-08-14 |
-| Intern - Social Media Manager | We Are Social | Amsterdam, Netherlands | 2026-08-14 |
 | Remote Dutch Translator - eCommerce Marketing Agency | Hustler Marketing | Amsterdam, Netherlands | 2026-08-14 |
 | Oracle ERP Cloud - Program Manager | Infosys Consulting - Europe | Amsterdam, Netherlands | 2026-08-14 |
+| Intern - Social Media Manager | We Are Social | Amsterdam, Netherlands | 2026-08-14 |
 | Director, European Strategic Communications | Anduril Industries | Amsterdam, North Holland, Netherlands | 2026-08-13 |
 | Graduate Trader (2027 Incoming Graduate, Full-Time) | 3Red Partners | Chicago/Summa - Amsterdam | 2026-08-13 |
 | Senior Security Certification Expert | Adyen | Amsterdam | 2026-08-13 |
@@ -191,20 +198,20 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Senior Manager, Global Supply Chain Integration (Europe) | Anduril Industries | Amsterdam, North Holland, Netherlands; London, England, United Kingdom | 2026-08-13 |
 | Global Supply Chain Integration Lead, Europe | Anduril Industries | Amsterdam, North Holland, Netherlands; London, England, United Kingdom | 2026-08-13 |
 | Manager, Platform Offering Strategy | Adyen | Amsterdam | 2026-08-12 |
-| Sales Development Representative (DACH) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
 | Commercial Sales Engineer - Amsterdam | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| Sales Development Representative (DACH) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
 | Commercial Account Executive (Portugal) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
-| Technical Enablement Manager 3 (Italian Speaking) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland; Paris, France | 2026-08-12 |
-| Commercial Sales Engineer (Spanish-Speaking) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
 | Commercial Account Executive (DACH) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
-| Mid-Market Account Executive - (Turkey) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
 | Enterprise Sales Executive (Benelux) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| Mid Market Account Executive - Benelux | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| Mid-Market Account Executive (DACH) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
-| Mid-Market Sales (Italy/Spain) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
-| Partner Solutions Architect (EMEA) | Datadog | Amsterdam, The Netherlands; Germany, Remote | 2026-08-12 |
-| Partner Solutions Architect (Pan-EMEA GSI) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
 | Commercial Account Executive UKI/Nordics | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Partner Solutions Architect (Pan-EMEA GSI) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
+| Mid-Market Account Executive (DACH) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Technical Enablement Manager 3 (Italian Speaking) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland; Paris, France | 2026-08-12 |
+| Partner Solutions Architect (EMEA) | Datadog | Amsterdam, The Netherlands; Germany, Remote | 2026-08-12 |
+| Commercial Sales Engineer (Spanish-Speaking) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland | 2026-08-12 |
+| Mid-Market Sales (Italy/Spain) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| Mid-Market Account Executive - (Turkey) | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
+| Mid Market Account Executive - Benelux | Datadog | Amsterdam, The Netherlands | 2026-08-12 |
 | Regional IT Support Administrator (Amsterdam, NLD) | B Lab | Amsterdam, NL | 2026-08-12 |
 | Data Analyst (Amsterdam, NLD) | B Lab | Amsterdam, NL | 2026-08-12 |
 | Director, Growth (Amsterdam, NLD) | B Lab | Amsterdam, NL | 2026-08-12 |
@@ -225,6 +232,7 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Senior FSQA Manager - PHF (all genders) | HelloFresh | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; London, England, United Kingdom | 2026-08-12 |
 | Executive Business Partner to CPO | Mollie | Amsterdam | 2026-08-12 |
 | Account Executive - Belgium market (Flemish speaking) | Trustpilot | Amsterdam | 2026-08-12 |
+| Data Analyst Intern | Lucid | Amsterdam, NH | 2026-08-12 |
 | Data Analyst Intern | Lucid Motors | Amsterdam, NH | 2026-08-12 |
 | Staff Software Engineer - Money Movement | Adyen | Amsterdam | 2026-08-12 |
 | GL Accountant | Adyen | Amsterdam | 2026-08-12 |
@@ -241,17 +249,17 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Manager, Forward Deployed Engineering | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Enterprise Account Executive, Benelux | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Sr. Manager, AI Forward Deployed Engineering (AI-FDE) | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| Senior Solutions Architect - Lakebase | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Lakebase Associate Director | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| Senior Solutions Architect - Lakebase | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Forward Deployed Engineer | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Senior Staff Software Engineer - Unity Catalog Runtime Enforcement | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Staff Product Manager - Technical | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| Sr. Designated Support Engineer, Apache Spark™ | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Sr. Product Manager, Lakeflow | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| Senior Software Engineer - Backend | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| Sr. Designated Support Engineer, Apache Spark™ | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Senior Software Engineer - Fullstack | Databricks | Amsterdam, Netherlands | 2026-08-11 |
-| Staff Product Manager | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| Senior Software Engineer - Backend | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Staff Software Engineer - Backend | Databricks | Amsterdam, Netherlands | 2026-08-11 |
+| Staff Product Manager | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Principal Engineer - Privacy | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Software Engineer - Fullstack | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Senior Staff Software Engineer - Delta | Databricks | Amsterdam, Netherlands | 2026-08-11 |
@@ -259,13 +267,18 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Sr. Manager, Engineering | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Engineering Manager - Backend | Databricks | Amsterdam, Netherlands | 2026-08-11 |
 | Senior Manager, Obligations Management | Airwallex | NL - Amsterdam | 2026-08-11 |
-| IT Asset Management Intern | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| Business Operations Intern | Lucid | Amsterdam, NH | 2026-08-11 |
+| IT Asset Management Intern | Lucid | Amsterdam, NH | 2026-08-11 |
 | Specialist Remarketing Sales Operations | Lucid Motors | Amsterdam, NH | 2026-08-11 |
-| Customer Care Representative – German Speaking | Lucid Motors | Amsterdam, NH | 2026-08-11 |
-| Business Operations Intern | Lucid Motors | Amsterdam, NH | 2026-08-11 |
 | Sr. Manager, Service Technical Operations & Quality Europe | Lucid Motors | Amsterdam, NH | 2026-08-11 |
 | IT Asset Management Stagiair(e) | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| IT Asset Management Intern | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| IT Asset Management Stagiair(e) | Lucid | Amsterdam, NH | 2026-08-11 |
+| Specialist Remarketing Sales Operations | Lucid | Amsterdam, NH | 2026-08-11 |
+| Customer Care Representative – German Speaking | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| Business Operations Intern | Lucid Motors | Amsterdam, NH | 2026-08-11 |
 | Body Repair Operations Manager | Lucid Motors | Amsterdam, NH | 2026-08-11 |
+| Manager, Service Supply Chain Operations Europe | Lucid | Amsterdam, NH | 2026-08-11 |
 | Manager, Service Supply Chain Operations Europe | Lucid Motors | Amsterdam, NH | 2026-08-11 |
 | Senior Software Engineer (Capacity and Quota Management) | Nebius | Amsterdam, Netherlands; Berlin, Germany; United Kingdom | 2026-08-11 |
 | Senior Manager, International Indirect Tax | Axon | Amsterdam, North Holland, Netherlands | 2026-08-11 |
@@ -293,19 +306,6 @@ _1,607 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Senior Project Manager– Internal Processes (Contract, Remote) | INFUSE | Amsterdam | 2026-08-11 |
 | Technical Product Owner | Mytomorrows | Amsterdam HQ | 2026-08-11 |
 | Associate Partnerships Manager - Digital Agencies NL & BE | Mollie | Amsterdam | 2026-08-11 |
-| Junior Software Engineer, Elixir | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
-| Infrastructure Engineer (Core) | Telnyx | Dublin, Ireland; Ho Chi Minh City, Vietnam; Bangalore, India; Warsaw, Poland; Amsterdam, Netherlands | 2026-08-11 |
-| Senior Software Engineer (Python) | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
-| Software Engineer, Elixir | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
-| Account Executive, EMEA (EU) | Telnyx | London, UK; Amsterdam, Netherlands | 2026-08-11 |
-| Business Development Representative, EMEA | Telnyx | Dublin, Ireland; Amsterdam, Netherlands | 2026-08-11 |
-| Mobile Operations Engineer (Remote) | Telnyx | Dublin; Amsterdam; Krakow | 2026-08-11 |
-| Staff / Principal Applied AI Researcher (Agentic Search) | Nebius | Amsterdam, Netherlands | 2026-08-10 |
-| Staff / Principal Applied AI Researcher (Agentic Search) | Nebius | Amsterdam, Netherlands; London, United Kingdom; Remote - Europe | 2026-08-10 |
-| Video/Motion Internship | Bynder | Amsterdam | 2026-08-10 |
-| Senior Deep Learning Research Engineer | Plumerai | Amsterdam | 2026-08-10 |
-| Deep Learning Research Engineer | Plumerai | Amsterdam | 2026-08-10 |
-| Manager, Operations | Goworkwize | Amsterdam | 2026-08-10 |
 
 ---
 

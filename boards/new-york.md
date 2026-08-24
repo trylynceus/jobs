@@ -2,12 +2,18 @@
 
 Roles listing New York as their location.
 
-_12,908 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
+_12,967 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Member of Technical Staff (Data Engineering) | Solstice | New York City | 2026-08-23 |
+| Senior Specialist, Programmatic | Known | New York, NY | 2026-08-23 |
+| Member of GTM Staff, Sales Development Lead | Withpace | New York City | 2026-08-23 |
+| Video Desk Associate Producer | RemoteStar | New York, us | 2026-08-23 |
 | Club and College Social Marketing Associate (External Agency Staff) | Nflfilms | New York, New York, United States | 2026-08-23 |
+| Security Operations Administrator | Atria Health and Research Institute | New York, United States | 2026-08-23 |
 | Vice President of Operations, New York | Metropolis | New York, New York, United States | 2026-08-22 |
+| Growth Marketing Lead | Clera | New York | 2026-08-22 |
 | Video Desk Associate Producer, NBC News Digital | NBCUniversal | New York, us | 2026-08-22 |
 | Video Desk Senior Producer, NBC News Digital | NBCUniversal | New York, us | 2026-08-22 |
 | Executive Assistant (Part Time) | BrainPOP | New York, NY (Hybrid) | 2026-08-22 |
@@ -97,6 +103,7 @@ _12,908 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Engineering Manager - Supplier Products | Plaid | New York City Office | 2026-08-22 |
 | Sr. Forward Deployed Engineer | Databricks | New York City, New York | 2026-08-22 |
 | Sr. Human Resources Business Partner (Sales) | BDA | Atlanta, Georgia, United States; Austin, Texas, United States; Dallas, Texas, United States; Indianapolis, Indiana, United States; New York, New York, United States; Troy, Michigan, United States; Woodinville, Washington, United States | 2026-08-21 |
+| Senior Cleared Software Engineer (TS/SCI) | Kaizen | New York, NY | 2026-08-21 |
 | Counsel, Product Legal | Airwallex | US - New York | 2026-08-21 |
 | Sales Development Representative \| Inbound | Ramp | New York, NY (HQ) | 2026-08-21 |
 | Head of Business Development & Marketing, M&A Americas | Clifford Chance | New York, us | 2026-08-21 |
@@ -154,9 +161,7 @@ _12,908 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Program Operations Lead | Squarespace | New York City | 2026-08-21 |
 | Director, Social | Known | New York, NY | 2026-08-21 |
 | Senior Electrical Engineer, Communication and Radio Frequency (Remote Eligible \| Relocation Assistance Available) | Axon | New York, New York, United States | 2026-08-21 |
-| Sous Chef | AccorHotel | New York, us | 2026-08-21 |
 | Diagnostic Specialist - New York | EVERSANA | New York, us | 2026-08-21 |
-| Living Room Floor Manager | AccorHotel | New York, us | 2026-08-21 |
 | IT Platform and Automation Engineer | Snorkel AI | New York City, NY (Hybrid); San Francisco, CA (Hybrid) | 2026-08-21 |
 | Forward Deployed Engineer | Blockstream | New York | 2026-08-21 |
 | Technical Compliance Analyst | Snorkel AI | New York City, NY (Hybrid); San Francisco, CA (Hybrid) | 2026-08-21 |
@@ -192,7 +197,6 @@ _12,908 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Corporate Development Associate | Modera Wealth Management | New York City, NY; Boston, MA, Westwood, NJ, Atlanta, GA; Charlotte, NC | 2026-08-21 |
 | Senior Creative Strategist, Growth | Jerry.Ai | New York, New York | 2026-08-21 |
 | Sr. Ads Product Marketing Manager | Pinterest | Chicago, IL, US; New York, NY, US; San Francisco, CA, US; Los Angeles, CA, US; Atlanta, GA, US; Seattle, WA, US | 2026-08-21 |
-| Spa Massage Therapist | AccorHotel | New York, us | 2026-08-21 |
 | Associate, Process Optimization | Oscar Health | New York, New York, United States | 2026-08-21 |
 | Senior Product Solutions Architect - Autonomous Incident Response | Datadog | Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA | 2026-08-21 |
 | Senior Customer Success Manager, Financial Services | AlphaSense | New York, New York, United States | 2026-08-21 |
@@ -215,8 +219,8 @@ _12,908 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Head of Vulnerability Disclosure & Security Community | Anthropic | New York City, NY; Remote-Friendly (Travel-Required) \| San Francisco, CA \| Washington, DC | 2026-08-21 |
 | Security Engineer, Corporate Security | Anthropic | San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | 2026-08-21 |
 | Scaled Sales Lead, Beneficial Deployments | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-21 |
-| Manager Applied AI Architecture, Financial Services | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY | 2026-08-21 |
 | Manager Applied AI Architecture, Healthcare & Life Sciences | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY | 2026-08-21 |
+| Manager Applied AI Architecture, Financial Services | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY | 2026-08-21 |
 | Staff+ Software Engineer, Developer Experience | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-21 |
 | Staff+ Software Engineer, Auth & Identity | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-21 |
 | Software Engineer, Unified Gateway | DoorDash USA | San Francisco, CA;Seattle, WA;Los Angeles, CA;New York, Ny | 2026-08-21 |
@@ -298,14 +302,10 @@ _12,908 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Founding Sales Engineer | Tracebit | New York | 2026-08-21 |
 | Project Civil Engineer/Project Manager | Langan Engineering & Environmental Services | New York, NY; Parsippany, NJ; White Plains, NY | 2026-08-21 |
 | Temporary Associate, Operations | Center for Employment Opportunities | New York, New York, United States | 2026-08-21 |
-| Senior Staff Engineer | Braze | New York City | 2026-08-21 |
-| Senior Solutions Consultant, Retail (SC3) | Braze | New York City | 2026-08-21 |
-| Senior Software Engineer I, Frontend Infrastructure & Experience | Braze | New York City | 2026-08-21 |
-| Senior Software Engineer I, Content Cards | Braze | New York City | 2026-08-21 |
-| Account Executive, Emerging Enterprise, Financial Services | Braze | New York City | 2026-08-21 |
-| Technical Support Specialist | Braze | New York City | 2026-08-21 |
-| Technical Support Specialist | Braze | New York City | 2026-08-21 |
-| Technical Account Manager | Braze | New York City | 2026-08-21 |
+| Senior Lead Systems Engineer, AI & Automation | Braze | New York City | 2026-08-21 |
+| AV Associate | Braze | New York City | 2026-08-21 |
+| Applied AI Architect, GTM | Braze | New York City | 2026-08-21 |
+| Senior Partner Marketing Manager | Braze | New York City | 2026-08-21 |
 
 ---
 

@@ -2,15 +2,111 @@
 
 Roles whose title reads as design.
 
-_12,579 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
+_12,634 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Multimedia Designer | Monks | São Paulo | 2026-08-23 |
+| Commis 1 - Japanese cuisine (Saudi National) | AccorHotel | Umluj, sa | 2026-08-23 |
+| Emergency Veterinary Assistant - Louisville, KY | Veterinary Emergency Group (VEG) | Louisville, Kentucky, United States | 2026-08-23 |
+| Emergency Credentialed Veterinary Technician (Relief) - Louisville, KY | Veterinary Emergency Group (VEG) | Louisville, Kentucky, United States | 2026-08-23 |
+| Space Build Reliability Engineer, RCA | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
+| Senior Space Build Reliability Engineer | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
+| Brand Designer | Encuadrado |  | 2026-08-23 |
+| Product Designer | Encuadrado |  | 2026-08-23 |
+| Terrestrial Ground Support Equipment Engineer - Automation & Python | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
+| Senior Terrestrial Ground Support Equipment Engineer - Automation & Python | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
+| Commis de Cuisine | Relais & Châteaux | Cognac, fr | 2026-08-23 |
+| Care Professional- Driving required | Home Instead | Canterbury, gb | 2026-08-23 |
+| Wirtschaftsprüfer / Accounting Lead Buy & Build (m/w/d) | Vogel | München | 2026-08-23 |
+| Product Designer, Growth-Maternity Leave Replacement | Similarweb | Tel Aviv-Yafo, Israel | 2026-08-23 |
+| Project Manager ( Port Macquirie based) | Turner & Townsend | Sydney, au | 2026-08-23 |
+| Senior Brand Designer | Similarweb | Tel Aviv-Yafo, Israel | 2026-08-23 |
+| Checkout Team Member - The Warehouse, Whanganui (Part-time) | The Warehouse Group | Whanganui, nz | 2026-08-23 |
+| Linux Embedded Development Expert | Sandisk | Kfar Saba, il | 2026-08-23 |
+| FR - Cuisinier / Commis de cuisine (H/F/X) | AccorHotel | Chasseneuil-du-Poitou, fr | 2026-08-23 |
+| Lifeguard - Bahrain Lifeguard Certification Required | AccorHotel | Manama, bh | 2026-08-23 |
+| Memory Senior Circuit Engineer | Silvaco | Hai Chau, vn | 2026-08-23 |
+| Conseiller de ventes expert Cave & Spiritueux F/H | METRO/MAKRO | Amiens, fr | 2026-08-23 |
+| General Manager(08233) 16967 Main St Suite 105 & 106 | Domino's | Hesperia, us | 2026-08-23 |
+| Customer Service Rep(6496) - 651 N. US Hwy. 183 Suite 190 | Domino's | Leander, us | 2026-08-23 |
+| Delivery Driver(08685) - 4401 Gateway Park Boulevard, Suite 120 | Domino's | Sacramento, us | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Zurich, Switzerland | Speechify | Zurich, Switzerland | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Los Angeles, CA, USA | Speechify | Los Angeles, CA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Palo Alto, CA, USA | Speechify | Palo Alto, CA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - London, United Kingdom | Speechify | London, United Kingdom | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Tokyo, Japan | Speechify | Tokyo, Japan | 2026-08-23 |
+| Senior Software Engineer, Windows/Desktop Applications - St. Louis, MO, USA | Speechify | St. Louis, MO, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Bangalore, India | Speechify | Bangalore, India | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Bellevue, WA, USA | Speechify | Bellevue, WA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Anaheim, CA, USA | Speechify | Anaheim, CA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Denver, CO, USA | Speechify | Denver, CO, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - São Paulo, Brazil | Speechify | São Paulo, Brazil | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Saint Paul, MN, USA | Speechify | Saint Paul, MN, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Houston, TX, USA | Speechify | Houston, TX, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Fort Worth, TX, USA | Speechify | Fort Worth, TX, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Provo, UT, USA | Speechify | Provo, UT, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - College Park, MD, USA | Speechify | College Park, MD, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - St. Louis, MO, USA | Speechify | St. Louis, MO, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Durham, NC, USA | Speechify | Durham, NC, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Cleveland, OH, USA | Speechify | Cleveland, OH, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Cary, NC, USA | Speechify | Cary, NC, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Cambridge, MA, USA | Speechify | Cambridge, MA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Bristol, United Kingdom | Speechify | Bristol, United Kingdom | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Bucharest, Romania | Speechify | Bucharest, Romania | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Cologne, Germany | Speechify | Cologne, Germany | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Lyon, France | Speechify | Lyon, France | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Copenhagen, Denmark | Speechify | Copenhagen, Denmark | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Milan, Italy | Speechify | Milan, Italy | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Delhi, India | Speechify | Delhi, India | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Reston, VA, USA | Speechify | Reston, VA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Arlington, VA, USA | Speechify | Arlington, VA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Barcelona, Spain | Speechify | Barcelona, Spain | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Waterloo, Canada | Speechify | Waterloo, Canada | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Hanoi, Vietnam | Speechify | Hanoi, Vietnam | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Spokane, WA, USA | Speechify | Spokane, WA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Reno, NV, USA | Speechify | Reno, NV, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Gothenburg, Sweden | Speechify | Gothenburg, Sweden | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Johannesburg, South Africa | Speechify | Johannesburg, South Africa | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Oklahoma City, OK, USA | Speechify | Oklahoma City, OK, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - New Orleans, LA, USA | Speechify | New Orleans, LA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Santa Cruz, CA, USA | Speechify | Santa Cruz, CA, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - West Palm Beach, FL, USA | Speechify | West Palm Beach, FL, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Belgrade, Serbia | Speechify | Belgrade, Serbia | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Burlington, VT, USA | Speechify | Burlington, VT, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Ithaca, NY, USA | Speechify | Ithaca, NY, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Lille, France | Speechify | Lille, France | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom | Speechify | Leeds, United Kingdom | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Odesa, Ukraine | Speechify | Odesa, Ukraine | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Memphis, TN, USA | Speechify | Memphis, TN, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Charleston, SC, USA | Speechify | Charleston, SC, USA | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Bologna, Italy | Speechify | Bologna, Italy | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Bilbao, Spain | Speechify | Bilbao, Spain | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Vilnius, Lithuania | Speechify | Vilnius, Lithuania | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Timișoara, Romania | Speechify | Timișoara, Romania | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Surabaya, Indonesia | Speechify | Surabaya, Indonesia | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Recife, Brazil | Speechify | Recife, Brazil | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Tampere, Finland | Speechify | Tampere, Finland | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Monterrey, Mexico | Speechify | Monterrey, Mexico | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Lagos, Nigeria | Speechify | Lagos, Nigeria | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Montevideo, Uruguay | Speechify | Montevideo, Uruguay | 2026-08-23 |
+| Software Engineer, Data Infrastructure & Acquisition - Auckland, New Zealand | Speechify | Auckland, New Zealand | 2026-08-23 |
+| Software Engineer, Platform - Louisville, KY, USA | Speechify | Louisville, KY, USA | 2026-08-23 |
+| Graphic Designer | NoGigiddy | Bakersfield, United States | 2026-08-23 |
+| Graphic Designer | NoGigiddy | Austin, United States | 2026-08-23 |
+| Graphic Designer | NoGigiddy | Albuquerque, United States | 2026-08-23 |
+| Graphic Designer | NoGigiddy | Fort Worth, United States | 2026-08-23 |
+| Graphic Designer | NoGigiddy | Arlington, United States | 2026-08-23 |
+| Graphic Designer | NoGigiddy | Chicago, United States | 2026-08-23 |
+| UX Researcher/ Service Designer (Product Discovery) - A26308 | Activate Interactive Pte Ltd | Singapore, Singapore | 2026-08-23 |
+| Full Time Night Cleaner - Luxury Hotel | AccorHotel | Sydney, au | 2026-08-22 |
 | $21.25/hr \| Weekly Pay & Full Benefits \| Delivery Associate (No CDL Required) | High Distinction Logistics LLC | St. George, us | 2026-08-22 |
 | ON EMBAUCHE! Chauffeur classe 5 (Cube Van) à Chicoutimi Excellent salaire selon expérience + avantages sociaux imbattables. Viens rouler pour une équipe qui te valorise! | Manitoulin Group of Companies | Saguenay, ca | 2026-08-22 |
+| Senior / Staff Product Designer | Clera | Munich | 2026-08-22 |
+| Brand Designer | Clera | Berlin | 2026-08-22 |
 | Chef(fe) de réception du Chambard***** Relais&Châteaux | Relais & Châteaux | Kaysersberg Vignoble, fr | 2026-08-22 |
-| RESPONSABLE TRAITEUR / CUISINIER (H/F) | Groupement Mousquetaires | Cherbourg-en-Cotentin, fr | 2026-08-22 |
-| EMPLOYE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | Saint-Geniès-de-Malgoirès, fr | 2026-08-22 |
+| Director of Recruiting | Daymark Health | Remote | 2026-08-22 |
 | Recruiter | Scout | Columbia, South Carolina, United States | 2026-08-22 |
 | Recruiter | Scout | Columbia, South Carolina, United States | 2026-08-22 |
 | Engineer, Whole Vehicle Test Requirements and Validation – EE | Scout | Novi, Michigan, United States | 2026-08-22 |
@@ -35,19 +131,12 @@ _12,579 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Lead Engineer - Vehicle SW Package + SW Builds | Scout | Charlotte, North Carolina, United States | 2026-08-22 |
 | Sr. Specialist – Secondary ECU CICD Releases & Builds | Scout | Charlotte, North Carolina, United States | 2026-08-22 |
 | Sr. Specialist – Secondary ECU CICD Releases & Builds | Scout | Charlotte, North Carolina, United States | 2026-08-22 |
-| EMPLOYE COMMERCIAL LIQUIDE/HYGIENE (H/F) | Groupement Mousquetaires | Caussade, fr | 2026-08-22 |
 | Engineer, Chassis Wheel Guidance (Front and Rear Control Arms) | Scout | Charlotte, North Carolina, United States | 2026-08-22 |
 | Engineer, Chassis Wheel Guidance (Front and Rear Control Arms) | Scout | Charlotte, North Carolina, United States | 2026-08-22 |
-| EMPLOYE FRUITS ET LEGUMES 30H (H/F) | Groupement Mousquetaires | Caussade, fr | 2026-08-22 |
-| EMPLOYE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | Aigues-Mortes, fr | 2026-08-22 |
 | Senior Growth Designer | Holywater | Kyiv, Ukraine | 2026-08-22 |
 | BUILDING SUPERINTENDENT | City of New York | Brooklyn, us | 2026-08-22 |
-| RESPONSABLE LIQUIDE - H/F | Groupement Mousquetaires | Bazas, fr | 2026-08-22 |
 | Talent Acquisition Specialist (m/w/d) | Kanadevia Inova | Gummersbach, de | 2026-08-22 |
 | Equipier Commercial - CDI F/H | METRO/MAKRO | La Maxe, fr | 2026-08-22 |
-| EMPLOYÉ FRUITS ET LÉGUMES (H/F) | Groupement Mousquetaires | Surzur, fr | 2026-08-22 |
-| EMPLOYE(E) FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | Briec, fr | 2026-08-22 |
-| CUISINIER/TRAITEUR | Groupement Mousquetaires | Briec, fr | 2026-08-22 |
 | Heavy Equipment Mechanic | American Iron and Metal | Colton, us | 2026-08-22 |
 | UI Engineer - Apps Team | Forward | Bengaluru, India | 2026-08-22 |
 | Virtual Family Nurse Practitioner (TX License Required) \| 3-Week Paid Sabbatical in Q1 | Sprinter Health | Houston, TX | 2026-08-22 |
@@ -81,18 +170,15 @@ _12,579 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Product Designer (UX), HCI | Bjakcareer | United Kingdom | 2026-08-22 |
 | Heavy Equipment CDL Driver | EquipmentShare | Tuscaloosa, AL | 2026-08-22 |
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Tuscaloosa, AL | 2026-08-22 |
-| Assistant Manager (08792) - FT Hours - 6211 Barker Cypress Suite 133 | Domino's | Katy, us | 2026-08-22 |
-| Delivery Driver Flat Rate $13/hr (03156) -1990 Pat Thomas Pkwy Quincy FL | Domino's | Quincy, us | 2026-08-22 |
-| General Manager(01990) - 602 South First Street Suite 1 | Domino's | Willmar, us | 2026-08-22 |
 | Build Reliability Engineer (Starship) | SpaceX | Starbase, TX | 2026-08-22 |
-| People & Talent Head Founding HR Builder | Weekday AI | Gurugram, India | 2026-08-22 |
-| Mechanical Designer Engineer | SOGECLAIR | Tucson, United States | 2026-08-22 |
-| Graphic Designer | NoGigiddy | Austin, United States | 2026-08-22 |
 | Recruiter | Community Sports Partners | Buenos Aires, Argentina | 2026-08-22 |
-| Graphic Designer | NoGigiddy | Arlington, United States | 2026-08-22 |
 | Graphic Designer | NoGigiddy | Albuquerque, United States | 2026-08-22 |
-| (8083) - Automotive Designer Sr | ALTEN MÉXICO | Toluca, Mexico | 2026-08-22 |
+| Graphic Designer | NoGigiddy | Arlington, United States | 2026-08-22 |
 | Senior Talent Acquisition Partner | Acclaro | Rosario, Argentina | 2026-08-22 |
+| Graphic Designer | NoGigiddy | Austin, United States | 2026-08-22 |
+| People & Talent Head Founding HR Builder | Weekday AI | Gurugram, India | 2026-08-22 |
+| (8083) - Automotive Designer Sr | ALTEN MÉXICO | Toluca, Mexico | 2026-08-22 |
+| Mechanical Designer Engineer | SOGECLAIR | Tucson, United States | 2026-08-22 |
 | Director, Product Marketing - Business Suite | Veracross | Wakefield, United States | 2026-08-22 |
 | Recruiter – Contingent Staffing | FuseGlobal | United States | 2026-08-21 |
 | Build Engineer, Avionics | Mach | Huntington Beach, CA | 2026-08-21 |
@@ -118,7 +204,6 @@ _12,579 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Journalier Receveur Non Ferreux - Temporaire | American Iron and Metal | Victoriaville, ca | 2026-08-21 |
 | Cloud Engineer (Top Secret Clearance Required) | North Point Technology | Herndon, Virginia, United States | 2026-08-21 |
 | Virtual Assistant: Provider Operations Coordinator - Recruiting, Onboarding & Payroll [Remote] | Legionhealth | Remote | 2026-08-21 |
-| Principal Technical Recruiter, AI/ML | Bedrock Robotics | San Francisco, CA | 2026-08-21 |
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Alachua, FL | 2026-08-21 |
 | Senior Systems Designer, EPD | Vanta | Remote U.S. | 2026-08-21 |
 | Senior UX Designer | Focus | Remote | 2026-08-21 |
@@ -131,13 +216,17 @@ _12,579 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Reno, NV | 2026-08-21 |
 | Senior Technical Recruiter | Alpaca | North America | 2026-08-21 |
 | Senior Technical Recruiter | Alpaca | Remote - North America | 2026-08-21 |
+| Sr. Stamping Equipment Engineer | Lucid | King Abdullah Economic City, 02 | 2026-08-21 |
+| Prototype Build Technician | Lucid | Newark, CA | 2026-08-21 |
+| Sr. Technician, Battery Build | Lucid | Newark, CA | 2026-08-21 |
 | Women's Health Recruiter | Diana | Remote | 2026-08-21 |
+| Senior Manager, Build Planning and Distribution | Lucid | Southfield, MI | 2026-08-21 |
+| Senior Manager, Build Planning and Distribution | Lucid | Phoenix, AZ | 2026-08-21 |
 | Commercial Growth Account Executive - Acquisition | MongoDB | Tel Aviv | 2026-08-21 |
 | Senior Product Builder, Organizational Intelligence | Vanta | Remote U.S. | 2026-08-21 |
 | Heavy Equipment Shop Foreman | EquipmentShare | Camp Hill, PA | 2026-08-21 |
 | QA Engineer - Clearance Required | Red Cell Partners | Remote, USA | 2026-08-21 |
 | Data Acquisition Lead, Frontier Environments | Scale AI | San Francisco, CA; New York, NY | 2026-08-21 |
-| Préposé(e) aux chambres, Temps partiel | AccorHotel | Montreal, ca | 2026-08-21 |
 | Spécialiste en adoption de produits, Golf | Lightspeedhq | Montreal | 2026-08-21 |
 | Complex Adult Health/Critical Care Clinical Faculty (Part-Time)- St. Louis, Missouri | Covista | St. Louis, us | 2026-08-21 |
 | Maternal Child Clinical Faculty (Part-Time/BSNOL Program): St. Louis, Missouri | Covista | St. Louis, us | 2026-08-21 |
@@ -147,8 +236,9 @@ _12,579 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Recruiting Coordinator (Contract) | Cartesia | *HQ - San Francisco, CA | 2026-08-21 |
 | Part-Time Live Dealer - Afternoon Shift (3PM-11PM) Weekends Availability Required | Playtech | Bensalem, us | 2026-08-21 |
 | Clinical Recruiter | Adams Clinical | United States | 2026-08-21 |
-| Gas Distribution Designer | Atwell, LLC | Atwell | 2026-08-21 |
+| Senior Manufacturing Engineer, Tooling & Equipment | Archer | Santa Clara, California, United States | 2026-08-21 |
 | Civil Designer – Land Development | Atwell, LLC | Newark, Delaware, United States | 2026-08-21 |
+| Gas Distribution Designer | Atwell, LLC | Atwell | 2026-08-21 |
 | NetSuite Application Developer | Bandwidth | Raleigh, NC | 2026-08-21 |
 | Chef de Cuisine - Gastropub | Boyd Gaming | Cincinnati, us | 2026-08-21 |
 | Associate Technical Designer | ALO | Warehouse 2, Commerce, CA (WH2) | 2026-08-21 |
@@ -172,8 +262,8 @@ _12,579 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Product Designer | Clera | Copenhagen | 2026-08-21 |
 | Central Valley, CA Strategic Cuisines Account Executive - Spanish | Toast | Monterey, CA | 2026-08-21 |
 | Strategic Cuisines Account Executive - Spanish - Tri-Valley, CA | Toast | Livermore, CA | 2026-08-21 |
-| San Francisco, CA Strategic Cuisines Account Executive - Thai | Toast | San Francisco, CA | 2026-08-21 |
 | Senior Software Engineer - Quicksilver - Distributed Key Value | Cloudflare | Hybrid | 2026-08-21 |
+| San Francisco, CA Strategic Cuisines Account Executive - Thai | Toast | San Francisco, CA | 2026-08-21 |
 | Senior Software Engineer, Enterprise Build | Robinhood | Menlo Park, CA | 2026-08-21 |
 | Outreach & Events Coordinator - Active Clearance Required | LLNL | Livermore, us | 2026-08-21 |
 | Strategic Cuisines - Korean AE (Central) | Toast | Kansas City, MO | 2026-08-21 |
@@ -216,96 +306,6 @@ _12,579 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Aide aux personnes âgées H/F | Ouihelp | Vélizy-Villacoublay | 2026-08-21 |
 | Aide aux personnes âgées H/F | Ouihelp | Le Chesnay-Rocquencourt | 2026-08-21 |
 | Aide aux personnes âgées - H/F | Ouihelp | Saint-Cyr-l'École | 2026-08-21 |
-| Aide aux personnes âgées - (H/F) | Ouihelp | VERSAILLES | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Sartrouville | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Saint-Germain-en-Laye | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | LE PECQ | 2026-08-21 |
-| Aide aux personnes âgées - (H/F) | Ouihelp | Saint-Germain-en-Laye | 2026-08-21 |
-| Senior Applications Engineer, Enterprise Build | Robinhood | Menlo Park, CA | 2026-08-21 |
-| .NET Developer - Equities Back office | Talan | New York, us | 2026-08-21 |
-| Agent réseaux assainissement H/F | Veolia Environnement SA | Longwy, fr | 2026-08-21 |
-| Auxiliaire de vie à domicile H/F | Ouihelp | Courbevoie | 2026-08-21 |
-| Auxiliaire de vie à domicile H/F | Ouihelp | Levallois-Perret | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Courbevoie | 2026-08-21 |
-| Surveillant·e de travaux/Chargé·e de projets en enveloppe du bâtiment | Artelia | Québec City, ca | 2026-08-21 |
-| Staff Backend Engineer - UI Platform | Stripe | Barcelona | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Rueil-Malmaison | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Vaucresson | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | SEVRES | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Boulogne-Billancourt | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | SAINT CLOUD | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Boulogne-Billancourt | 2026-08-21 |
-| Sr. Specialist - VM Guideline Designer | On | Zurich | 2026-08-21 |
-| UX Designer | Second Front Systems | Remote | 2026-08-21 |
-| Ingénieur Qualité Produit - Secteur Aéronautique H/F | ALTEN | Toulouse, fr | 2026-08-21 |
-| Projektleiter:in Bauingenieurwesen im Bereich Wasser & Abwasser 80-100% - Zürich | AFRY | Zürich, ch | 2026-08-21 |
-| Equipment Technician III | AbbVie | Waco, us | 2026-08-21 |
-| Senior Sales Engineer (Korean proficiency required) | Alpaca | Remote - APAC | 2026-08-21 |
-| Customer Success Manager - Japan (Enterprise & Financial Institutions) - Japanese language required | Alpaca | APAC (Japan) | 2026-08-21 |
-| Senior Graphic Designer | Alpaca | Remote - North America | 2026-08-21 |
-| Product Builder | Camunda | United States | 2026-08-21 |
-| Huisartsen voor de dienst spoedgevallen (M/V/X). | Clinique Saint-Jean - Kliniek Sint-Jan | Bruxelles, be | 2026-08-21 |
-| EMPLOYE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | Bernay, fr | 2026-08-21 |
-| Presuit Secretary | Morgan & Morgan, P.A. | Tampa, Florida, United States | 2026-08-21 |
-| Coordonnateur, support aux ventes | American Iron and Metal | Laval, ca | 2026-08-21 |
-| Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Catlett, VA | 2026-08-21 |
-| Railroad/Roadway Bridge and Guideway Inspector | AECOM | Sacramento, us | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Saint-Julien-Lès-Metz | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Metz | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Metz | 2026-08-21 |
-| Experienced Recruiter - Hybrid in Montvale, Contract to Perm | Job Mobz | Nanuet, us | 2026-08-21 |
-| Experienced Recruiter - Hybrid in Montvale, Contract to Perm | Job Mobz | Mahwah, us | 2026-08-21 |
-| Experienced Recruiter - Hybrid in Montvale, Contract to Perm | Job Mobz | Paramus, us | 2026-08-21 |
-| Experienced Recruiter (R&D, Sales, Corporate Function) - Hybrid, Contract to Perm | Job Mobz | Montvale, us | 2026-08-21 |
-| Auxiliaire de vie - job étudiant (H/F) | Ouihelp | Saint-Malo | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Pleurtuit | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Saint-Briac-Sur-Mer | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Saint-Méloir-des-Ondes | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Cancale | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Saint-Malo | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Dinan | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Dinard | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Chantepie | 2026-08-21 |
-| Equipier Commercial univers frais CDD F/H | METRO/MAKRO | Hénin-Beaumont, fr | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Pacé | 2026-08-21 |
-| Auxiliaire de vie H/F | Ouihelp | Saint-Aubin-d'Aubigné | 2026-08-21 |
-| Recruiter (High-Volume) | Wise | São Paulo, br | 2026-08-21 |
-| FR_Conseiller de ventes expert Cave & Spiritueux F/H | METRO/MAKRO | Amiens, fr | 2026-08-21 |
-| Heavy Equipment CDL Driver | EquipmentShare | Huntsville, AL | 2026-08-21 |
-| SaaS Account Executive - Benelux | Mollie | Amsterdam | 2026-08-21 |
-| Responsable Industrialisation Produits (H/F) | ALTEN | Brest, fr | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Rennes | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Bruz | 2026-08-21 |
-| Aide aux personnes âgées H/F | Ouihelp | Cesson-Sévigné | 2026-08-21 |
-| Auxiliaire de vie - job étudiant (H/F) | Ouihelp | Rennes | 2026-08-21 |
-| Vertriebsmitarbeiter Außendienst in der Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Köln, de | 2026-08-21 |
-| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Texas City, TX | 2026-08-21 |
-| Auxiliar de Vendas e Atendimento - Uruguaiana/RS | Agibank | Uruguaiana, Rio Grande do Sul, Brasil | 2026-08-21 |
-| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Groves, TX | 2026-08-21 |
-| Senior UI Engineer [6 Month FTC - Remote OR Onsite] | Rocketsciencegg | London, UK | 2026-08-21 |
-| Ingénieur méthodes produit (H/F) | ALTEN | Étrelles, fr | 2026-08-21 |
-| Auxiliaire de vie H/F | Joya | Villeneuve-Loubet | 2026-08-21 |
-| Auxiliaire de vie H/F | Joya | Levens | 2026-08-21 |
-| Auxiliaire de vie H/F | Joya | Cagnes sur Mer | 2026-08-21 |
-| Auxiliaire de vie H/F | Joya | Nice | 2026-08-21 |
-| Auxiliaire de vie H/F | Joya | Saint Laurent du Var | 2026-08-21 |
-| Principal UI Engineer [6 Month FTC - Remote OR Onsite] | Rocketsciencegg | London, UK | 2026-08-21 |
-| Head of Talent Acquisition – APAC & Global Client Delivery | IQ-EQ | Hyderabad, in | 2026-08-21 |
-| Aide aux personnes âgées Mandelieu la napoule H/F | Ouihelp | Mandelieu la napoule | 2026-08-21 |
-| Recruiter | Scout | Columbia, South Carolina, United States | 2026-08-21 |
-| Customer Solutions Guide | Scout | Chicago, Illinois, United States | 2026-08-21 |
-| Engineer, Whole Vehicle Test Requirements and Validation – EE | Scout | Novi, Michigan, United States | 2026-08-21 |
-| Engineer, Whole Vehicle Test Requirements and Validation – Body Exterior | Scout | Novi, Michigan, United States | 2026-08-21 |
-| Engineer, Whole Vehicle Test Requirements and Validation – Propulsion | Scout | Novi, Michigan, United States | 2026-08-21 |
-| Customer Solutions Guide | Scout | Northern California | 2026-08-21 |
-| Customer Solutions Guide | Scout | Charlotte, North Carolina, United States | 2026-08-21 |
-| Specialist, OBD Requirements Engineer IUMPR | Scout | Novi, Michigan, United States | 2026-08-21 |
-| Specialist, OBD Requirements Engineer- Testing | Scout | Novi, Michigan, United States | 2026-08-21 |
-| OBD Requirements Engineer – Generic Scan Tool Lead | Scout | Novi, Michigan, United States | 2026-08-21 |
-| Requirements Senior Specalist | Scout | Charlotte, North Carolina, United States | 2026-08-21 |
-| HiLand Requirements Coordinator – Drive Systems (BEV / REEV) | Scout | Novi, Michigan, United States | 2026-08-21 |
-| Engineer, Whole Vehicle Test Requirements and Validation – Body Interior | Scout | Novi, Michigan, United States; Charlotte, North Carolina, United States | 2026-08-21 |
-| Lead Engineer - Vehicle SW Package + SW Builds | Scout | Charlotte, North Carolina, United States | 2026-08-21 |
 
 ---
 

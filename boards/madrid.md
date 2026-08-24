@@ -2,7 +2,7 @@
 
 Roles listing Madrid as their location.
 
-_864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
+_863 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Data & Analytics Project Manager Associate – User Operations | FeverUp | Madrid | 2026-08-21 |
 | Data & Analytics PM | FeverUp | Madrid | 2026-08-21 |
 | OLE/OCS Engineer | AECOM | Madrid, es | 2026-08-21 |
-| Ingeniero Cloud | Sopra Steria | Madrid, es | 2026-08-21 |
+| Ingeniero Cloud | Sopra Steria Corporate | Madrid, es | 2026-08-21 |
 | Senior Software Engineer .NET | Auctane | Madrid, ES | 2026-08-21 |
 | Senior Software Engineer | Nexthink | Madrid, es | 2026-08-21 |
 | Software Engineer | Nexthink | Madrid, es | 2026-08-21 |
@@ -37,25 +37,25 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | System Lead - Data Migration & Data Management | Fusion Consulting | Madrid, es | 2026-08-21 |
 | Strategy & Operations Project Manager | FeverUp | Madrid | 2026-08-21 |
 | Beca Team Manager | Primark | Madrid, es | 2026-08-21 |
-| Líder Técnico Cloud | Sopra Steria | Madrid, es | 2026-08-21 |
+| Líder Técnico Cloud | Sopra Steria Corporate | Madrid, es | 2026-08-21 |
 | Operations Strategy Project Manager (Global Events) | FeverUp | Madrid | 2026-08-21 |
 | Strategy & Execution Project Manager | FeverUp | Madrid | 2026-08-21 |
 | Strategic Event Operations Project Manager | FeverUp | Madrid | 2026-08-21 |
 | Beca People & Culture | Primark | Madrid, es | 2026-08-21 |
-| Arquitecto/a Cloud (Azure - AWS) | Sopra Steria | Madrid, es | 2026-08-21 |
+| Arquitecto/a Cloud (Azure - AWS) | Sopra Steria Corporate | Madrid, es | 2026-08-21 |
 | Enterprise Sales Leader | Sierra | Madrid | 2026-08-20 |
 | Localization Specialist - Italian | 2K Madrid | Madrid, Spain | 2026-08-20 |
 | Localization Specialist - Italian | 2K | Madrid, Spain | 2026-08-20 |
 | Head of Comp & HRIS | Nexthink | Madrid, es | 2026-08-20 |
-| Senior Partner Marketing Manager - Cloud & Channel | Datadog | London, United Kingdom; Madrid, Spain; Paris, France | 2026-08-20 |
 | Staff Engineer, Compute | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-20 |
+| Senior Partner Marketing Manager - Cloud & Channel | Datadog | London, United Kingdom; Madrid, Spain; Paris, France | 2026-08-20 |
 | Senior Data Scientist | Make | Madrid, Spain | 2026-08-20 |
 | Especialista de Operaciones Comerciales (Sales Operations) | METRO/MAKRO | MADRID, es | 2026-08-20 |
 | Team Manager | Primark | Madrid, es | 2026-08-20 |
 | Tax Specialist APAC- Madrid Based | FeverUp | Madrid | 2026-08-20 |
 | Tax Specialist | FeverUp | Madrid | 2026-08-20 |
-| Finance Systems Specialist | Cabify | Madrid | 2026-08-20 |
 | Global Tax Trainee | Cabify | Madrid | 2026-08-20 |
+| Finance Systems Specialist | Cabify | Madrid | 2026-08-20 |
 | Ads Sales Intern - B2B Ads | Cabify | Madrid | 2026-08-20 |
 | RETAIL MANAGER JYSK IBERIA | JYSK | Madrid, es | 2026-08-20 |
 | Administrador/a SIEM SPLUNK (m/f/d) | T-Systems Iberia | Madrid, Barcelona o Granada, es | 2026-08-20 |
@@ -69,6 +69,7 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Product Owner (All Genders) | zooplus SE | Madrid, es | 2026-08-19 |
 | (Graduated) Intern Online Training Translation (Korean speaking) | Celonis | Madrid, Spain | 2026-08-19 |
 | Técnico/a Contable (Nivel alto Francés) | Kiabi | Madrid, es | 2026-08-19 |
+| Team Manager | Primark | Madrid, es | 2026-08-19 |
 | Project Manager – Data & Analytics, User Operations | FeverUp | Madrid | 2026-08-19 |
 | Sr. Frontend Software Engineer - Orchestration and Automation | Celonis | Madrid, Spain | 2026-08-19 |
 | Technical Training Expert with German – T Cloud Public (m/f/d) | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla or Valencia, es | 2026-08-19 |
@@ -89,8 +90,8 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Software Engineer, Data Infrastructure & Acquisition - Madrid, Spain | Speechify | Madrid, Spain | 2026-08-19 |
 | Senior Software Engineer, Windows/Desktop Applications - Madrid, Spain | Speechify | Madrid, Spain | 2026-08-19 |
 | Senior Software Engineer, Core Experiences - Madrid, Spain | Speechify | Madrid, Spain | 2026-08-19 |
-| Financial Accountant | Teltonika | Madrid, Spain | 2026-08-19 |
 | Mobile Network Testing Intern - Part Time | 1GLOBAL | Madrid, Spain | 2026-08-19 |
+| Financial Accountant | Teltonika | Madrid, Spain | 2026-08-19 |
 | Software Architect (R&D) | Miratech | Madrid, es | 2026-08-18 |
 | Enterprise Account Executive - Talent Solutions (Spanish) | LinkedIn | Madrid, es | 2026-08-18 |
 | Coordinator Digital (m/f/d) - Bilingual (German, English & Spanish) | SIXT | Madrid, es | 2026-08-18 |
@@ -130,8 +131,8 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Senior Security Engineer - Spain | Auctane | Barcelona, ES; Madrid, ES; Mallorca, ES; Sevilla, ES; Valencia, ES | 2026-08-14 |
 | Lead Finance Business Partner | Celonis | Madrid, Spain | 2026-08-14 |
 | Enterprise Account Manager | Adyen | Madrid | 2026-08-14 |
-| Finance Oracle Manager - Consumer Goods, Retail & Logistics practice | Infosys Consulting - Europe | Madrid, Spain | 2026-08-14 |
 | Oracle ERP Cloud - Program Manager | Infosys Consulting - Europe | Madrid, Spain | 2026-08-14 |
+| Finance Oracle Manager - Consumer Goods, Retail & Logistics practice | Infosys Consulting - Europe | Madrid, Spain | 2026-08-14 |
 | Mozo/a de Almacén | Fernández | Madrid, Spain | 2026-08-14 |
 | Staff Engineer Cloud Foundations | Syngenta Group | Madrid, es | 2026-08-13 |
 | AI Engineer Java | Syngenta Group | Madrid, es | 2026-08-13 |
@@ -155,22 +156,22 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Head of Brand | Make | Madrid, Spain | 2026-08-13 |
 | Software Engineer, Platform - Madrid, Spain | Speechify | Madrid, Spain | 2026-08-13 |
 | Backend Engineer | Vic.Ai | Madrid, Spain - ONLY | 2026-08-12 |
-| Manager I, Engineering - Code Coverage | Datadog | Madrid, Spain | 2026-08-12 |
+| Senior Security Engineer - Cloud SIEM | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
 | Partner Solutions Architect (Pan-EMEA GSI) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
-| Manager I, Engineering - OrgStore Blueprint | Datadog | Madrid, Spain | 2026-08-12 |
 | Senior Software Engineer - AI (EMEA) | Datadog | Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
-| Technical Account Manager 3 - Madrid | Datadog | Madrid, Spain | 2026-08-12 |
-| Staff Engineer - Data Semantics | Datadog | Madrid, Spain; Paris, France | 2026-08-12 |
+| Senior Software Engineer - REDAPL Graph Engine | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
 | Staff Engineer - Data Platform Experience | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
 | Senior Software Engineer - Security Libraries | Datadog | Bordeaux, France; Lyon, France; Madrid, Spain; Nantes, France; Paris, France; Sophia Antipolis, France | 2026-08-12 |
-| Senior Software Engineer - REDAPL Graph Engine | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| Senior Security Engineer - Cloud SIEM | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| Staff Engineer - Data Semantics | Datadog | Madrid, Spain; Paris, France | 2026-08-12 |
+| Manager I, Engineering - OrgStore Blueprint | Datadog | Madrid, Spain | 2026-08-12 |
+| Manager I, Engineering - Code Coverage | Datadog | Madrid, Spain | 2026-08-12 |
+| Technical Account Manager 3 - Madrid | Datadog | Madrid, Spain | 2026-08-12 |
 | Senior Solutions Engineer | Keyfactor, Inc. | Spain; Barcelona or Madrid | 2026-08-12 |
-| Enterprise Account Executive | MongoDB | Madrid | 2026-08-12 |
 | Senior Customer Success Manager | MongoDB | Madrid | 2026-08-12 |
+| Enterprise Account Executive | MongoDB | Madrid | 2026-08-12 |
 | Enterprise Account Executive, Growth | MongoDB | Madrid | 2026-08-12 |
-| AI Product Manager | Prosper | Madrid | 2026-08-12 |
 | AI Product Manager | Prosper Ai | Madrid | 2026-08-12 |
+| AI Product Manager | Prosper | Madrid | 2026-08-12 |
 | Localization Language Lead - Italian | 2K Madrid | Madrid, Spain; Madrid, Spain | 2026-08-12 |
 | Localization Language Lead - Italian | 2K | Madrid, Spain; Madrid, Spain | 2026-08-12 |
 | Localization Language Lead, French | 2K | Madrid, Spain | 2026-08-12 |
@@ -182,8 +183,8 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | SEO Technical Lead | FeverUp | Madrid | 2026-08-12 |
 | AI Search Innovation Lead | FeverUp | Madrid | 2026-08-12 |
 | Creative Experience Director | FeverUp | Madrid | 2026-08-12 |
-| CTO - M3 Informatica | Banyan Software | Madrid, Spain | 2026-08-12 |
 | CEO, Banyan Portfolio Company | Banyan Software | Madrid, Madrid, Spain | 2026-08-12 |
+| CTO - M3 Informatica | Banyan Software | Madrid, Spain | 2026-08-12 |
 | Operations Internship, Madrid | PropHero | Madrid | 2026-08-12 |
 | Especialista en Prevención | FeverUp | Madrid | 2026-08-12 |
 | H&S Specialist | FeverUp | Madrid | 2026-08-12 |
@@ -197,7 +198,7 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Marketing Strategy Manager | FeverUp | Madrid | 2026-08-12 |
 | ERP Functional Support Specialist – Finance (Business Central) | FeverUp | Madrid | 2026-08-12 |
 | Sr. Full Stack Software Engineer - Orchestration and Automation | Celonis | Madrid, Spain | 2026-08-12 |
-| Senior Full Stack Engineer – Industrial Sustainability Reporting Platform (React, Go) | IFS | Madrid, es | 2026-08-12 |
+| Senior Full Stack Engineer – Industrial Sustainability Reporting Platform (React, Go) | IFS. AI-Powered Software Built for Your Industry | Madrid, es | 2026-08-12 |
 | Senior Software Engineer - Orchestration and Automation | Celonis | Madrid, Spain | 2026-08-12 |
 | (RD) Senior Engineering Team Lead | Backbase | Madrid | 2026-08-12 |
 | Senior End User Experience Manager | Nexthink | Madrid, es | 2026-08-12 |
@@ -221,16 +222,16 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Marketing Strategy Senior Manager | FeverUp | Madrid | 2026-08-11 |
 | Risk and Resilience Specialist | FeverUp | Madrid | 2026-08-11 |
 | Customer Experience Excellence Specialist | Cabify | Madrid | 2026-08-11 |
-| Sr. Manager, LQA | 2K | Madrid, Spain | 2026-08-11 |
-| Localization Language Lead, German | 2K | Madrid, Spain | 2026-08-11 |
-| Localization Language Lead, Arabic | 2K | Madrid, Spain | 2026-08-11 |
-| Localization Language Lead, Russian | 2K | Madrid, Spain | 2026-08-11 |
 | Localization Language Lead, Polish | 2K | Madrid, Spain | 2026-08-11 |
-| 2K Madrid General | 2K Madrid | Madrid | 2026-08-11 |
-| Localization Language Lead, Arabic | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| Localization Language Lead, Russian | 2K | Madrid, Spain | 2026-08-11 |
+| Localization Language Lead, Arabic | 2K | Madrid, Spain | 2026-08-11 |
+| Localization Language Lead, German | 2K | Madrid, Spain | 2026-08-11 |
+| Sr. Manager, LQA | 2K | Madrid, Spain | 2026-08-11 |
 | Localization Language Lead, Polish | 2K Madrid | Madrid, Spain | 2026-08-11 |
-| Localization Language Lead, German | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| Localization Language Lead, Arabic | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| 2K Madrid General | 2K Madrid | Madrid | 2026-08-11 |
 | Localization Language Lead, Russian | 2K Madrid | Madrid, Spain | 2026-08-11 |
+| Localization Language Lead, German | 2K Madrid | Madrid, Spain | 2026-08-11 |
 | Sr. Manager, LQA | 2K Madrid | Madrid, Spain | 2026-08-11 |
 | EMEA Tax Manager | FeverUp | Madrid | 2026-08-11 |
 | Media Planner Associate | FeverUp | Madrid | 2026-08-11 |
@@ -239,7 +240,7 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Senior Production Assistant | FeverUp | Madrid | 2026-08-11 |
 | Cabin Crew Assessment Day - Madrid 31 August 2026 | Crewlink | Madrid, Spain | 2026-08-11 |
 | Senior Research&Insights Analyst | We Are Social | Madrid, Spain | 2026-08-11 |
-| Country Manager, Iberia | Taskrabbit: Same Day Handyman, Moving &amp; Mounting Services | Madrid, Spain | 2026-08-10 |
+| Country Manager, Iberia | Taskrabbit | Madrid, Spain | 2026-08-10 |
 | Country Manager, Iberia | Taskrabbit | Madrid, Spain | 2026-08-10 |
 | Project Management Associate | FeverUp | Madrid | 2026-08-10 |
 | Performance and Strategy Associate | FeverUp | Madrid | 2026-08-10 |
@@ -258,10 +259,10 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Lead Sales Manager, Enterprise Sales | Veeam Software | Madrid, Spain | 2026-08-07 |
 | Partner Manager | Veeam Software | Madrid, Spain | 2026-08-07 |
 | Training Specialist (Portuguese Speaker) | Celonis | Madrid, Spain | 2026-08-07 |
-| Senior Data Insights Consultant | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
 | Senior Technical Project Manager - Martech | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
-| Senior Developer - Salesforce Marketing Cloud | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
 | Manager - Salesforce Marketing Cloud Development | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
+| Senior Data Insights Consultant | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
+| Senior Developer - Salesforce Marketing Cloud | MAP | Madrid, Community of Madrid, Spain | 2026-08-07 |
 | Senior Producer - Customer Testimonials | Celonis | Madrid, Spain | 2026-08-07 |
 | Senior System Administrator T Cloud Public (m/f/d) | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla or Valencia, es | 2026-08-07 |
 | Cloud Architect - T Cloud Public (m/f/d) | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla or Valencia, es | 2026-08-07 |
@@ -275,25 +276,23 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Social Strategy Director (Mat Leave cover) | OLIVER Agency | Madrid, Spain | 2026-08-07 |
 | Solutions Engineer/Solutions Consultant ( Internship) | OneTrust | Madrid, Spain | 2026-08-07 |
 | Consultant, Forensics Consulting | Control Risks | Madrid, Spain | 2026-08-07 |
-| Software Engineer, iOS Core Product - Madrid, Spain | Speechify | Madrid, Spain | 2026-08-06 |
-| Staff AI Engineer | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | Senior Software Engineer (Ruby / GOlang) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
+| Principal Software Engineer, GO & Rust (Engine) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | Staff Software Engineer | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
+| Staff AI Engineer | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | Staff Software Engineer (Ruby or GOlang) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | System Architect (GO/Rust) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
-| Principal Software Engineer, GO & Rust (Engine) | Workato | Barcelona, Spain; Madrid, Spain | 2026-08-06 |
 | Senior Compliance Analyst | Taxbit | Madrid, Spain | 2026-08-06 |
 | Cloud Security Engineer | HappyRobot | Madrid | 2026-08-06 |
 | Cloud Security Engineer | Happyrobot.Ai | Madrid | 2026-08-06 |
-| SOC Analyst | Happyrobot.Ai | Madrid | 2026-08-06 |
 | SOC Analyst | HappyRobot | Madrid | 2026-08-06 |
+| SOC Analyst | Happyrobot.Ai | Madrid | 2026-08-06 |
 | SOC Engineer | HappyRobot | Madrid | 2026-08-06 |
 | SOC Engineer | Happyrobot.Ai | Madrid | 2026-08-06 |
 | Partner Development Manager - Spain | AvePoint | Madrid, Madrid, Spain | 2026-08-06 |
-| Account Executive | AvePoint | Madrid, Madrid, Spain | 2026-08-06 |
-| Partner Account Manager | AvePoint | Madrid, Madrid, Spain | 2026-08-06 |
 | Technical Customer Success Manager | AvePoint | Barcelona, Barcelona, Spain; Madrid, Madrid, Spain; Milano, Milan, Italy | 2026-08-06 |
-| Senior Software Engineer, Core Experiences - Madrid, Spain | Speechify | Madrid, Spain | 2026-08-06 |
+| Partner Account Manager | AvePoint | Madrid, Madrid, Spain | 2026-08-06 |
+| Account Executive | AvePoint | Madrid, Madrid, Spain | 2026-08-06 |
 | Senior Pharmacovigilance Officer, Team Lead/ Case Processing Manager- Medical Device experience needed | Ergomed | Madrid, es | 2026-08-06 |
 | Enterprise Account Executive, Iberia | Stripe | Madrid, Barcelona | 2026-08-06 |
 | Lead Software Engineer | Abound | Madrid | 2026-08-06 |
@@ -306,6 +305,7 @@ _864 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | System Engineer Juniper Routing and Switching - IPsec-GW (m/f/d) | T-Systems Iberia | Madrid, es | 2026-08-06 |
 | Lead Deployment Engineer | Celonis | Madrid, Spain | 2026-08-06 |
 | Cybersecurity Engineer | ADVENS | Madrid, es | 2026-08-06 |
+| Risk Assurance Manager | Monzo | Madrid | 2026-08-06 |
 
 ---
 

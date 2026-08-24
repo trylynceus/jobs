@@ -2,10 +2,15 @@
 
 Roles listing San Francisco as their location.
 
-_12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
+_12,269 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| AI Sales Engineer | Monk | San Francisco | 2026-08-23 |
+| Member of Technical Staff: Backend | Monk | San Francisco | 2026-08-23 |
+| Member of Technical Staff: Full-stack | Monk | San Francisco | 2026-08-23 |
+| Member of Technical Staff: Data | Monk | San Francisco | 2026-08-23 |
+| Founding Agentic Engineer | Clera | San Francisco | 2026-08-22 |
 | Software Engineer, Applied AI | Fluidstack | San Francisco, CA | 2026-08-22 |
 | Safety & Security Counsel | Anthropic | San Francisco, CA | 2026-08-22 |
 | Retail Sales Associate Union Street | Vuori, Inc | San Francisco, us | 2026-08-22 |
@@ -18,7 +23,7 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Mercor Research Fellowship — APEX | Mercor | San Francisco | 2026-08-22 |
 | Shift Lead | Physicalintelligence | San Francisco | 2026-08-22 |
 | Data Center Operations Lead - Partner Site Operations | Anthropic | Remote-Friendly (Travel Required) \| San Francisco, CA | 2026-08-22 |
-| Senior Frontend Platform Engineer, Design Systems | Langchain | San Francisco, CA | 2026-08-22 |
+| Senior Frontend Platform Engineer, Design Systems | LangChain | San Francisco, CA | 2026-08-22 |
 | Senior Investment Strategist (Bay Area) | Mercer Advisors | Menlo Park; San Francisco; Walnut Creek | 2026-08-22 |
 | Per Diem Primary Care Nurse Practitioner or Physician Assistant (Casual Employee) | One Medical | San Francisco, CA | 2026-08-22 |
 | Senior Product Manager, Mission Solutions | Planet | San Francisco, CA; Arlington, VA; Denver, CO | 2026-08-22 |
@@ -30,8 +35,8 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Platform Engineer | Hyperbound | San Francisco | 2026-08-22 |
 | Data Collection Manager, Nimble Brain | Nimble Robotics | San Francisco, CA | 2026-08-22 |
 | Senior HR Business Partner, Engineering & Product | Mercor | San Francisco | 2026-08-21 |
-| Supplier Development Engineer, Battery | Ōura | Hybrid - San Francisco, California | 2026-08-21 |
 | Supplier Development Engineer, Battery | Ouraring | San Francisco, California | 2026-08-21 |
+| Supplier Development Engineer, Battery | Ōura | Hybrid - San Francisco, California | 2026-08-21 |
 | Founding GTM, T:0 | Airwallex | US - San Francisco | 2026-08-21 |
 | Demand Generation Marketing Manager | Motive | Hybrid - San Francisco, California | 2026-08-21 |
 | Senior Forward Deployed Engineer | Assorthealth | San Francisco | 2026-08-21 |
@@ -42,8 +47,8 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Operations Manager | Raising Cane's | San Francisco, us | 2026-08-21 |
 | Administrative Assistant (Transbay Center, Monday-Friday) | One Medical | San Francisco, CA | 2026-08-21 |
 | Member Support Specialist (FiDi, Float, Monday-Friday) | One Medical | San Francisco, CA | 2026-08-21 |
-| Administrative Assistant (Duboce Triangle) | One Medical | San Francisco, CA | 2026-08-21 |
 | Administrative Assistant (FiDi, Float, Monday-Friday) | One Medical | San Francisco, CA | 2026-08-21 |
+| Administrative Assistant (Duboce Triangle) | One Medical | San Francisco, CA | 2026-08-21 |
 | Airport Duty Manager (0923) – SFO – (166058) | City and County of San Francisco | San Francisco, us | 2026-08-21 |
 | IT Infrastructure Engineer | Sierra | San Francisco, CA | 2026-08-21 |
 | Director, GTM Operations, Global Sales Plays | Anaplan | San Francisco, United States | 2026-08-21 |
@@ -80,7 +85,6 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Head of Risk | Moderntreasury | San Francisco | 2026-08-21 |
 | Outsourced CFO Consultant - Alternative Assets, Fund Accounting | IQ-EQ | San Francisco, us | 2026-08-21 |
 | Learning & Development Coordinator | Crusoe | San Francisco, CA - US | 2026-08-21 |
-| Principal Technical Recruiter, AI/ML | Bedrock Robotics | San Francisco, CA | 2026-08-21 |
 | Fullstack Software Engineer | Physicalintelligence | San Francisco | 2026-08-21 |
 | Senior Data Scientist | Zipline | South San Francisco, California, USA | 2026-08-21 |
 | Materials Engineer Intern (Spring & Summer 2027) | Zipline | South San Francisco, California, USA | 2026-08-21 |
@@ -169,8 +173,8 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Safeguards Policy Analyst, Cyber Harms | Anthropic | San Francisco, CA \| Washington, DC | 2026-08-21 |
 | Security Engineer, Corporate Security | Anthropic | San Francisco, CA \| Seattle, WA \| New York City, NY \| Washington, DC | 2026-08-21 |
 | Scaled Sales Lead, Beneficial Deployments | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-21 |
-| Manager Applied AI Architecture, Healthcare & Life Sciences | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY | 2026-08-21 |
 | Manager Applied AI Architecture, Financial Services | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY | 2026-08-21 |
+| Manager Applied AI Architecture, Healthcare & Life Sciences | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY | 2026-08-21 |
 | Accounting, Revenue Internal Controls | Anthropic | San Francisco, CA \| Seattle, WA | 2026-08-21 |
 | Staff+ Software Engineer, Developer Experience | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-21 |
 | Staff+ Software Engineer, Auth & Identity | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-21 |
@@ -211,39 +215,29 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Lead Client Partner, Tech | Pinterest | San Francisco, CA,US; Los Angeles, CA, US | 2026-08-21 |
 | Technical Deployment Manager - West | CoreWeave | Sunnyvale, CA / San Francisco, CA / Bellevue, WA | 2026-08-21 |
 | Senior Associate - Venture Ecosystem Sales | Mercury | New York, NY or San Francisco, CA | 2026-08-21 |
-| Early Career Product Engineer | Highlightai | San Francisco office | 2026-08-21 |
+| Early Career Product Engineer | highlightai.com | San Francisco office | 2026-08-21 |
 | Agent Systems Engineer | Adaption | San Francisco | 2026-08-21 |
 | Inference Performance Engineer | Adaption | San Francisco | 2026-08-21 |
 | Platform Engineer, APIs and Security | Adaption | San Francisco | 2026-08-21 |
-| Senior Email Deliverability Consultant | Braze | San Francisco | 2026-08-21 |
-| Senior Director, Creative | Braze | San Francisco | 2026-08-21 |
-| Senior Creative Operations Lead, Brand | Braze | San Francisco | 2026-08-21 |
 | Engineering Manager, Email | Braze | San Francisco | 2026-08-21 |
-| Senior Lead Field Architect | Braze | San Francisco | 2026-08-21 |
-| Senior Global Event Marketing Manager | Braze | San Francisco | 2026-08-21 |
-| Senior Partner Account Director - Technology Partnerships - AWS | Braze | San Francisco | 2026-08-21 |
-| Emerging Enterprise Account Executive, Retail | Braze | San Francisco | 2026-08-21 |
-| Industry Marketing Lead, Media, Entertainment, Sports & Gaming | Braze | San Francisco | 2026-08-21 |
-| Senior Security Engineer II | Braze | San Francisco | 2026-08-21 |
-| Senior Security Engineer, Enterprise Security | Braze | San Francisco | 2026-08-21 |
-| Manager, Solutions Consulting, AMER Commercial | Braze | San Francisco | 2026-08-21 |
-| Manager, Services Consulting | Braze | San Francisco | 2026-08-21 |
-| Senior Product Marketing Manager, Orchestration | Braze | San Francisco | 2026-08-21 |
-| Senior Partner Marketing Manager | Braze | San Francisco | 2026-08-21 |
-| Account Executive, Emerging Enterprise, Financial Services | Braze | San Francisco | 2026-08-21 |
-| Account Executive, Enterprise | Braze | San Francisco | 2026-08-21 |
 | Director, CX Business Systems | Braze | San Francisco | 2026-08-21 |
 | Director of Sales, Scale for Media, Entertainment, Gaming and Sports | Braze | San Francisco | 2026-08-21 |
+| Emerging Enterprise Account Executive, Retail | Braze | San Francisco | 2026-08-21 |
+| Industry Marketing Lead, Media, Entertainment, Sports & Gaming | Braze | San Francisco | 2026-08-21 |
+| Manager, Services Consulting | Braze | San Francisco | 2026-08-21 |
+| Manager, Solutions Consulting, AMER Commercial | Braze | San Francisco | 2026-08-21 |
+| Account Executive, Emerging Enterprise, Financial Services | Braze | San Francisco | 2026-08-21 |
+| Account Executive, Enterprise | Braze | San Francisco | 2026-08-21 |
+| Account Executive, Enterprise | Braze | San Francisco | 2026-08-21 |
+| Account Executive, Enterprise Retail | Braze | San Francisco | 2026-08-21 |
 | Account Executive, Retail Scale | Braze | San Francisco | 2026-08-21 |
 | Account Executive, Scale | Braze | San Francisco | 2026-08-21 |
+| Account Executive, Scale | Braze | San Francisco | 2026-08-21 |
+| Account Executive, Scale | Braze | San Francisco | 2026-08-21 |
+| Account Executive, Scale | Braze | San Francisco | 2026-08-21 |
 | Account Manager, Commercial | Braze | San Francisco | 2026-08-21 |
-| Account Executive, Enterprise Retail | Braze | San Francisco | 2026-08-21 |
-| Account Executive, Scale | Braze | San Francisco | 2026-08-21 |
-| Account Executive, Enterprise | Braze | San Francisco | 2026-08-21 |
-| Account Executive, Scale | Braze | San Francisco | 2026-08-21 |
 | Account Manager, Enterprise | Braze | San Francisco | 2026-08-21 |
 | Applied AI Architect, GTM | Braze | San Francisco | 2026-08-21 |
-| Account Executive, Scale | Braze | San Francisco | 2026-08-21 |
 | Senior Solutions Consultant, Retail (SC3) | Braze | San Francisco | 2026-08-21 |
 | Senior Staff Engineer | Braze | San Francisco | 2026-08-21 |
 | Senior Technical Product Manager, Content Platforms (AI Content Operations) | Braze | San Francisco | 2026-08-21 |
@@ -251,22 +245,32 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Solutions Consultant, Emerging Enterprise, General Business | Braze | San Francisco | 2026-08-21 |
 | Staff Software Engineer | Braze | San Francisco | 2026-08-21 |
 | Support Engagement Lead | Braze | San Francisco | 2026-08-21 |
-| Technology Partners Product Marketing Manager | Braze | San Francisco | 2026-08-21 |
-| Technical Account Manager | Braze | San Francisco | 2026-08-21 |
 | Team Lead, Email Deliverability | Braze | San Francisco | 2026-08-21 |
+| Technical Account Manager | Braze | San Francisco | 2026-08-21 |
+| Technical Support Specialist | Braze | San Francisco | 2026-08-21 |
+| Technical Support Specialist | Braze | San Francisco | 2026-08-21 |
+| Technology Partners Product Marketing Manager | Braze | San Francisco | 2026-08-21 |
 | Senior Software Engineer I, Content Cards | Braze | San Francisco | 2026-08-21 |
-| Technical Support Specialist | Braze | San Francisco | 2026-08-21 |
-| Technical Support Specialist | Braze | San Francisco | 2026-08-21 |
+| Senior Security Engineer II | Braze | San Francisco | 2026-08-21 |
+| Senior Security Engineer, Enterprise Security | Braze | San Francisco | 2026-08-21 |
+| Senior Product Marketing Manager, Orchestration | Braze | San Francisco | 2026-08-21 |
+| Senior Partner Marketing Manager | Braze | San Francisco | 2026-08-21 |
+| Senior Partner Account Director - Technology Partnerships - AWS | Braze | San Francisco | 2026-08-21 |
+| Senior Lead Field Architect | Braze | San Francisco | 2026-08-21 |
+| Senior Global Event Marketing Manager | Braze | San Francisco | 2026-08-21 |
+| Senior Email Deliverability Consultant | Braze | San Francisco | 2026-08-21 |
+| Senior Director, Creative | Braze | San Francisco | 2026-08-21 |
+| Senior Creative Operations Lead, Brand | Braze | San Francisco | 2026-08-21 |
 | Founding Partner, Lawyer | Omnilex | San Francisco | 2026-08-21 |
-| GTM & Product Marketing Lead | Flagright.Com | San Francisco, USA | 2026-08-21 |
 | GTM & Product Marketing Lead | Flagright | San Francisco, USA | 2026-08-21 |
+| GTM & Product Marketing Lead | Flagright.Com | San Francisco, USA | 2026-08-21 |
 | Senior People Operations Manager | Mixpanel | San Francisco, US (Remote) | 2026-08-21 |
 | Senior Global Benefits Manager | Mixpanel | San Francisco, US (Remote) | 2026-08-21 |
 | Fractional Founding Designer | Clera | San Francisco | 2026-08-21 |
 | Executive Assistant to Founder | Fictiv | San Francisco, CA Office | 2026-08-21 |
 | AI Transformation & Strategy Consultant | Sia | San Francisco, us | 2026-08-21 |
-| Clinical Physician | Spur | San Francisco Bay Area | 2026-08-21 |
 | Clinical Physician (Full-time or Part time) | Pear Vc | San Francisco Bay Area | 2026-08-21 |
+| Clinical Physician | Spur | San Francisco Bay Area | 2026-08-21 |
 | People Operations Lead | Cognition | San Francisco | 2026-08-21 |
 | Program Manager - Growth & Profitability | Zipline | South San Francisco, California, USA | 2026-08-21 |
 | Senior Data Scientist - Product | Paraform | San Francisco | 2026-08-21 |
@@ -285,9 +289,9 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Sr. Manager, Field Engineering | Databricks | Chicago, Illinois; Connecticut; New Jersey; Remote - New York; Remote - Washington D.C.; San Francisco, California | 2026-08-21 |
 | Senior Employment Counsel, Americas | Airwallex | US - San Francisco | 2026-08-21 |
 | Workplace Coordinator | Baseten | San Francisco | 2026-08-21 |
-| Software Engineer, Forward Deployed (Entry - Senior Level) | Zip AI Procurement Platform | San Francisco | 2026-08-21 |
 | Software Engineer, Forward Deployed (Entry - Senior Level) | Zip | San Francisco | 2026-08-21 |
-| Product Manger, Growth - Lifecycle | Cantina | San Francisco | 2026-08-20 |
+| Software Engineer, Forward Deployed (Entry - Senior Level) | Zip AI Procurement Platform | San Francisco | 2026-08-21 |
+| Product Manger, Growth - Lifecycle | Cantina.ai | San Francisco | 2026-08-20 |
 | Product Counsel | Kikoff | San Francisco | 2026-08-20 |
 | Software Engineering Intern (2027 Start) - Winter | Databricks | Bellevue, Washington; Mountain View, California; San Francisco, California | 2026-08-20 |
 | Operations Experience Intern (Summer 2027) | Zipline | South San Francisco, California, USA | 2026-08-20 |
@@ -302,10 +306,6 @@ _12,150 open · showing the 300 most recent · updated 2026-08-23 04:17 UTC_
 | Product Manager, Core Product Growth | Jerry.Ai | San Francisco Bay Area | 2026-08-20 |
 | Applications Engineer Intern (Summer 2027) | Zipline | South San Francisco, California, USA | 2026-08-20 |
 | Civil and Structural Engineer Intern (Spring 2027) | Zipline | South San Francisco, California, USA | 2026-08-20 |
-| Senior Product Marketing Manager | Hinge Health | San Francisco-HQ | 2026-08-20 |
-| Mechanical Engineer | Nudge | San Francisco | 2026-08-20 |
-| Founding Engineer Intern | Clera | San Francisco | 2026-08-20 |
-| Engineering Manager, Product | Ambiencehealthcare | San Francisco | 2026-08-20 |
 
 ---
 
