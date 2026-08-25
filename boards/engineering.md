@@ -2,310 +2,310 @@
 
 Roles whose title reads as engineering.
 
-_60,400 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
+_60,329 open · showing the 300 most recent · updated 2026-08-25 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| Civil Engineer | AECOM | Mackay, au | 2026-08-23 |
-| Engineering Manager | AccorHotel | Richmond, ca | 2026-08-23 |
-| Power Plant Stationary Engineer Full Time Days | Northwestern Memorial Healthcare | Palos Heights, us | 2026-08-23 |
-| Engineer | AccorHotel | New Orleans, us | 2026-08-23 |
-| GRC Engineer | Verkada | San Mateo, CA United States | 2026-08-23 |
-| Solutions Architect, SMB (Presales) | Stripe | Chicago or NYC | 2026-08-23 |
-| Solutions Architect, Platforms (Presales) | Stripe | NYC or Remote | 2026-08-23 |
-| Senior Machine Learning Engineer | Technation |  | 2026-08-23 |
-| Space Process Engineer, Manufacturability | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
-| Space Build Reliability Engineer, RCA | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
-| Senior Space Build Reliability Engineer | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
-| Head of Engineering | Encuadrado |  | 2026-08-23 |
-| Product Engineer - Mobile Lead | Encuadrado |  | 2026-08-23 |
-| Terrestrial Ground Support Equipment Engineer - Automation & Python | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
-| Senior Terrestrial Ground Support Equipment Engineer - Automation & Python | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
-| Terrestrial Controls Engineer - Automation & Python | Varda Space Industries | El Segundo, California, United States | 2026-08-23 |
-| Senior Backend Engineer (with Frontend Competency) (Ingeniero Backend Senior con Competencia Frontend) - Hybrid | Clara | Bogotá / CUN / Colombia; Mexico City / CDMX / Mexico | 2026-08-23 |
-| Staff Software Engineer - Frontend & AI Tooling (AI Enablement) (Ingeniero de Software Staff - Frontend y Herramientas IA) - Hybrid | Clara | Bogotá / CUN / Colombia; Mexico City / CDMX / Mexico; São Paulo / SP / Brasil | 2026-08-23 |
-| Senior Fullstack Engineer (Ingeniero/a de Software Fullstack Senior) - Hybrid | Clara | Bogotá / CUN / Colombia; Mexico City / CDMX / Mexico; São Paulo / SP / Brasil | 2026-08-23 |
-| Senior Backend Engineer (Ingeniero Backend Senior) - Hybrid | Clara | Bogotá / CUN / Colombia; Mexico City / CDMX / Mexico; São Paulo / SP / Brasil | 2026-08-23 |
-| Sr Manager, Quality Engineering | Amperesand | Reno, Nevada, United States | 2026-08-23 |
-| Lead Full Stack Engineer - Users & Auth (Ingeniero/a Lead Full Stack - Usuarios y Autenticación) - Hybrid | Clara | Bogotá / CUN / Colombia | 2026-08-23 |
-| Lead Full Stack Engineer - Users & Auth (Ingeniero/a Lead Full Stack - Usuarios y Autenticación) - Hybrid | Clara | São Paulo / SP / Brasil | 2026-08-23 |
-| Senior Fullstack Engineer (Ingeniero/a de Software Fullstack Senior) - Hybrid | Clara | São Paulo / SP / Brasil | 2026-08-23 |
-| Fullstack Software Engineer - [Ingeniero de Software Fullstack ] - Hybrid | Clara | Bogotá / CUN / Colombia | 2026-08-23 |
-| Senior Fullstack Engineer (Ingeniero/a de Software Fullstack Senior) - Hybrid | Clara | Bogotá / CUN / Colombia | 2026-08-23 |
-| Senior Fullstack Engineer | Clara | São Paulo / SP / Brasil | 2026-08-23 |
-| Senior Fullstack Engineer | Clara | São Paulo / SP / Brasil | 2026-08-23 |
-| Senior Backend Engineer (with Frontend Competency) (Ingeniero Backend Senior con Competencia Frontend) - Hybrid | Clara | São Paulo / SP / Brasil | 2026-08-23 |
-| Fullstack Software Engineer - [Ingeniero de Software Fullstack ] - Hybrid | Clara | São Paulo / SP / Brasil | 2026-08-23 |
-| AI-Native Engineer, New Grad (Ingeniero/a de Software AI-Native — Inicio de Carrera) - Mexico City (Hybrid) | Clara | Mexico City / CDMX / Mexico | 2026-08-23 |
-| Fullstack Software Engineer - [Ingeniero de Software Fullstack ] - Hybrid | Clara | Mexico City / CDMX / Mexico | 2026-08-23 |
-| Lead Full Stack Engineer - Users & Auth (Ingeniero/a Lead Full Stack - Usuarios y Autenticación) - Hybrid | Clara | Mexico City / CDMX / Mexico | 2026-08-23 |
-| Senior Fullstack Engineer (Ingeniero Fullstack Senior) - Hybrid | Clara | Mexico City / CDMX / Mexico | 2026-08-23 |
-| Staff VLSI Design Engineer | Sandisk | Bengaluru, in | 2026-08-23 |
-| Member of Technical Staff (Data Engineering) | Solstice | New York City | 2026-08-23 |
-| AI Engineering Lead - Agentic Engineering | Blend360 | Hyderabad, in | 2026-08-23 |
-| Head of Engineering | Entain | Hyderabad, in | 2026-08-23 |
-| Senior DevOps Engineer | Gong.io | Tel Aviv | 2026-08-23 |
-| Senior Customer Engineer, iGaming | Cloudflare | Hybrid | 2026-08-23 |
-| Senior Customer Engineer | Cloudflare |  | 2026-08-23 |
-| Senior Customer Engineer | Cloudflare | East China | 2026-08-23 |
-| Senior Customer Engineer, East China | Cloudflare | Distributed | 2026-08-23 |
-| Agentic AI Engineer - Product Support | Cato Networks | Tel Aviv District, Israel | 2026-08-23 |
-| Product Owner - DevOps Practice (Ansible) | Bosch Group | bangalore, in | 2026-08-23 |
-| Software Engineering Manager II - Fulfilment | Grab | Jakarta, id | 2026-08-23 |
-| Staff Engineer | Payoneer | Herzliya, Tel Aviv District, Israel | 2026-08-23 |
-| AI Sales Engineer | Monk | San Francisco | 2026-08-23 |
-| Research Engineer (Network) | Cato Networks | Tel Aviv District, Israel | 2026-08-23 |
-| Register your interest: Senior Power BI Developer | LinkedIn | São Paulo, br | 2026-08-23 |
-| Sr. Director, Back-End Engineering | Coupang Internal | Seoul, South Korea | 2026-08-23 |
-| Sr. Director, Back-End Engineering | Coupang | Seoul, South Korea | 2026-08-23 |
-| Sr. Director, Back-End Engineering | Coupang Internal | Seoul, South Korea | 2026-08-23 |
-| Sr. Director, Back-End Engineering | Coupang | Seoul, South Korea | 2026-08-23 |
-| Senior Rolling Stock Engineer | Egis Group | Cairo, eg | 2026-08-23 |
-| Software Engineer, Backend (AI) | Grab | Petaling Jaya, my | 2026-08-23 |
-| Senior Enterprise Architect (Roads O&M) | Egis Group | Doha, qa | 2026-08-23 |
-| Memory Senior Circuit Engineer | Silvaco | Hai Chau, vn | 2026-08-23 |
-| Memory Senior Layout Engineer | Silvaco | Hai Chau, vn | 2026-08-23 |
-| Senior Software Engineer, Mobile (Android) | Grab | Bangalore, in | 2026-08-23 |
-| Software Engineer, iOS | Grab | Bangalore, in | 2026-08-23 |
-| Senior Software Engineer, Identity Administration | Okta | Bengaluru, India | 2026-08-23 |
-| Senior Software Engineer, Identity Administration | Okta | Bengaluru, India | 2026-08-23 |
-| Senior Software Engineer | NielsenIQ | Chennai, in | 2026-08-23 |
-| Java Backend Developer | Bosch Group | bangalore, in | 2026-08-23 |
-| Engineer | Xero | US: San Mateo (1875 South Grant Street) | 2026-08-23 |
-| Electrical Engineer, Intelligence Systems | Anduril Industries | Costa Mesa, California, United States | 2026-08-23 |
-| Forward Deployed Engineer | Unframe AI | Tel Aviv-Yafo, Tel Aviv District, Israel | 2026-08-23 |
-| Staff Software Engineer | Okta | Bengaluru, India | 2026-08-23 |
-| Responsible Engineer | Northwood | Torrance, CA | 2026-08-23 |
-| Network Software Engineer | Northwood | Torrance, CA | 2026-08-23 |
-| Senior IT App Automation Engineer | Blink Health | India | 2026-08-23 |
-| Principal Solutions Engineer | Hire Hangar Global Careers | South Africa - Cape Town | 2026-08-23 |
-| Senior Solutions Engineer | Hire Hangar Global Careers | Argentina - Buenos Aires | 2026-08-23 |
-| Software Engineer, iOS Core Product - Anaheim, CA, USA | Speechify | Anaheim, CA, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
-| Software Engineer, iOS Core Product - Denver, CO, USA | Speechify | Denver, CO, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Bellevue, WA, USA | Speechify | Bellevue, WA, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Mountain View, CA, USA | Speechify | Mountain View, CA, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Bangalore, India | Speechify | Bangalore, India | 2026-08-23 |
-| Software Engineer, iOS Core Product - Provo, UT, USA | Speechify | Provo, UT, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - San Antonio, TX, USA | Speechify | San Antonio, TX, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - São Paulo, Brazil | Speechify | São Paulo, Brazil | 2026-08-23 |
-| Software Engineer, iOS Core Product - Tampa, FL, USA | Speechify | Tampa, FL, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Huntsville, AL, USA | Speechify | Huntsville, AL, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - College Park, MD, USA | Speechify | College Park, MD, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Charlotte, NC, USA | Speechify | Charlotte, NC, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Cary, NC, USA | Speechify | Cary, NC, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Durham, NC, USA | Speechify | Durham, NC, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Princeton, NJ, USA | Speechify | Princeton, NJ, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Budapest, Hungary | Speechify | Budapest, Hungary | 2026-08-23 |
-| Software Engineer, iOS Core Product - Manchester, United Kingdom | Speechify | Manchester, United Kingdom | 2026-08-23 |
-| Software Engineer, iOS Core Product - Kyiv, Ukraine | Speechify | Kyiv, Ukraine | 2026-08-23 |
-| Software Engineer, iOS Core Product - Toulouse, France | Speechify | Toulouse, France | 2026-08-23 |
-| Software Engineer, iOS Core Product - Stuttgart, Germany | Speechify | Stuttgart, Germany | 2026-08-23 |
-| Software Engineer, iOS Core Product - Basel, Switzerland | Speechify | Basel, Switzerland | 2026-08-23 |
-| Software Engineer, iOS Core Product - Istanbul, Turkey | Speechify | Istanbul, Turkey | 2026-08-23 |
-| Software Engineer, iOS Core Product - Gurgaon, India | Speechify | Gurgaon, India | 2026-08-23 |
-| Software Engineer, iOS Core Product - Oslo, Norway | Speechify | Oslo, Norway | 2026-08-23 |
-| Software Engineer, iOS Core Product - Bend, OR, USA | Speechify | Bend, OR, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Rome, Italy | Speechify | Rome, Italy | 2026-08-23 |
-| Software Engineer, iOS Core Product - West Lafayette, IN, USA | Speechify | West Lafayette, IN, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Waterloo, Canada | Speechify | Waterloo, Canada | 2026-08-23 |
-| Software Engineer, iOS Core Product - Tucson, AZ, USA | Speechify | Tucson, AZ, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Shanghai, China | Speechify | Shanghai, China | 2026-08-23 |
-| Software Engineer, iOS Core Product - Milwaukee, WI, USA | Speechify | Milwaukee, WI, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Hanoi, Vietnam | Speechify | Hanoi, Vietnam | 2026-08-23 |
-| Software Engineer, iOS Core Product - Iowa City, IA, USA | Speechify | Iowa City, IA, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Johannesburg, South Africa | Speechify | Johannesburg, South Africa | 2026-08-23 |
-| Software Engineer, iOS Core Product - Rochester, NY, USA | Speechify | Rochester, NY, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Sofia, Bulgaria | Speechify | Sofia, Bulgaria | 2026-08-23 |
-| Software Engineer, iOS Core Product - Nottingham, United Kingdom | Speechify | Nottingham, United Kingdom | 2026-08-23 |
-| Software Engineer, iOS Core Product - Brighton, United Kingdom | Speechify | Brighton, United Kingdom | 2026-08-23 |
-| Software Engineer, iOS Core Product - Ithaca, NY, USA | Speechify | Ithaca, NY, USA | 2026-08-23 |
-| Software Engineer, iOS Core Product - Novi Sad, Serbia | Speechify | Novi Sad, Serbia | 2026-08-23 |
-| Software Engineer, iOS Core Product - Seville, Spain | Speechify | Seville, Spain | 2026-08-23 |
-| Software Engineer, iOS Core Product - The Hague, Netherlands | Speechify | The Hague, Netherlands | 2026-08-23 |
-| Software Engineer, iOS Core Product - Sarajevo, Bosnia and Herzegovina | Speechify | Sarajevo, Bosnia and Herzegovina | 2026-08-23 |
-| Software Engineer, iOS Core Product - Surabaya, Indonesia | Speechify | Surabaya, Indonesia | 2026-08-23 |
-| Software Engineer, iOS Core Product - Bologna, Italy | Speechify | Bologna, Italy | 2026-08-23 |
-| Software Engineer, iOS Core Product - Braga, Portugal | Speechify | Braga, Portugal | 2026-08-23 |
-| Software Engineer, iOS Core Product - Nagoya, Japan | Speechify | Nagoya, Japan | 2026-08-23 |
-| Software Engineer, iOS Core Product - Penang, Malaysia | Speechify | Penang, Malaysia | 2026-08-23 |
-| Software Engineer, iOS Core Product - Incheon, South Korea | Speechify | Incheon, South Korea | 2026-08-23 |
-| Software Engineer, iOS Core Product - Lagos, Nigeria | Speechify | Lagos, Nigeria | 2026-08-23 |
-| Software Engineer, iOS Core Product - Medellín, Colombia | Speechify | Medellín, Colombia | 2026-08-23 |
-| Software Engineer, iOS Core Product - Chittagong, Bangladesh | Speechify | Chittagong, Bangladesh | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Zurich, Switzerland | Speechify | Zurich, Switzerland | 2026-08-23 |
-| Software Engineer, iOS Core Product - Auckland, New Zealand | Speechify | Auckland, New Zealand | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - London, United Kingdom | Speechify | London, United Kingdom | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Palo Alto, CA, USA | Speechify | Palo Alto, CA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Los Angeles, CA, USA | Speechify | Los Angeles, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - London, United Kingdom | Speechify | London, United Kingdom | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Los Angeles, CA, USA | Speechify | Los Angeles, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Palo Alto, CA, USA | Speechify | Palo Alto, CA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Tokyo, Japan | Speechify | Tokyo, Japan | 2026-08-23 |
-| Software Engineer, Platform - Palo Alto, CA, USA | Speechify | Palo Alto, CA, USA | 2026-08-23 |
-| Software Engineer, Platform - Chicago, IL, USA | Speechify | Chicago, IL, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Tokyo, Japan | Speechify | Tokyo, Japan | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Zurich, Switzerland | Speechify | Zurich, Switzerland | 2026-08-23 |
-| Software Engineer, Platform - Tokyo, Japan | Speechify | Tokyo, Japan | 2026-08-23 |
-| Software Engineer, Platform - Paris, France | Speechify | Paris, France | 2026-08-23 |
-| Software Engineer, Platform - London, United Kingdom | Speechify | London, United Kingdom | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Tokyo, Japan | Speechify | Tokyo, Japan | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Zurich, Switzerland | Speechify | Zurich, Switzerland | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Palo Alto, CA, USA | Speechify | Palo Alto, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Los Angeles, CA, USA | Speechify | Los Angeles, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - London, United Kingdom | Speechify | London, United Kingdom | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Denver, CO, USA | Speechify | Denver, CO, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Bangalore, India | Speechify | Bangalore, India | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Bellevue, WA, USA | Speechify | Bellevue, WA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Anaheim, CA, USA | Speechify | Anaheim, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Berkeley, CA, USA | Speechify | Berkeley, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - San Antonio, TX, USA | Speechify | San Antonio, TX, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Provo, UT, USA | Speechify | Provo, UT, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - São Paulo, Brazil | Speechify | São Paulo, Brazil | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Plano, TX, USA | Speechify | Plano, TX, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Culver City, CA, USA | Speechify | Culver City, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Pasadena, CA, USA | Speechify | Pasadena, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Miami, FL, USA | Speechify | Miami, FL, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Sacramento, CA, USA | Speechify | Sacramento, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Cary, NC, USA | Speechify | Cary, NC, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Stuttgart, Germany | Speechify | Stuttgart, Germany | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Hamburg, Germany | Speechify | Hamburg, Germany | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Fort Lauderdale, FL, USA | Speechify | Fort Lauderdale, FL, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Stamford, CT, USA | Speechify | Stamford, CT, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Bristol, United Kingdom | Speechify | Bristol, United Kingdom | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Jerusalem, Israel | Speechify | Jerusalem, Israel | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Dubai, United Arab Emirates | Speechify | Dubai, United Arab Emirates | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Taipei, Taiwan | Speechify | Taipei, Taiwan | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Noida, India | Speechify | Noida, India | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Yokohama, Japan | Speechify | Yokohama, Japan | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Chennai, India | Speechify | Chennai, India | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Hanoi, Vietnam | Speechify | Hanoi, Vietnam | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Shanghai, China | Speechify | Shanghai, China | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Spokane, WA, USA | Speechify | Spokane, WA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Waterloo, Canada | Speechify | Waterloo, Canada | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Reno, NV, USA | Speechify | Reno, NV, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Johannesburg, South Africa | Speechify | Johannesburg, South Africa | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Riverside, CA, USA | Speechify | Riverside, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - West Lafayette, IN, USA | Speechify | West Lafayette, IN, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Buffalo, NY, USA | Speechify | Buffalo, NY, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Anchorage, AK, USA | Speechify | Anchorage, AK, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Ithaca, NY, USA | Speechify | Ithaca, NY, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Savannah, GA, USA | Speechify | Savannah, GA, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Leeds, United Kingdom | Speechify | Leeds, United Kingdom | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Charleston, SC, USA | Speechify | Charleston, SC, USA | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Novi Sad, Serbia | Speechify | Novi Sad, Serbia | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Sofia, Bulgaria | Speechify | Sofia, Bulgaria | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Fukuoka, Japan | Speechify | Fukuoka, Japan | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Yerevan, Armenia | Speechify | Yerevan, Armenia | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Odesa, Ukraine | Speechify | Odesa, Ukraine | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Split, Croatia | Speechify | Split, Croatia | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Kochi, India | Speechify | Kochi, India | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Athens, Greece | Speechify | Athens, Greece | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Belo Horizonte, Brazil | Speechify | Belo Horizonte, Brazil | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Bandung, Indonesia | Speechify | Bandung, Indonesia | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Córdoba, Argentina | Speechify | Córdoba, Argentina | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Chittagong, Bangladesh | Speechify | Chittagong, Bangladesh | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Salvador, Brazil | Speechify | Salvador, Brazil | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Bellevue, WA, USA | Speechify | Bellevue, WA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Lagos, Nigeria | Speechify | Lagos, Nigeria | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Bangalore, India | Speechify | Bangalore, India | 2026-08-23 |
-| Senior Software Engineer, Core Experiences - Auckland, New Zealand | Speechify | Auckland, New Zealand | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Denver, CO, USA | Speechify | Denver, CO, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Fremont, CA, USA | Speechify | Fremont, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Oakland, CA, USA | Speechify | Oakland, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - São Paulo, Brazil | Speechify | São Paulo, Brazil | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Kirkland, WA, USA | Speechify | Kirkland, WA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Anaheim, CA, USA | Speechify | Anaheim, CA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Cambridge, MA, USA | Speechify | Cambridge, MA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - St. Louis, MO, USA | Speechify | St. Louis, MO, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Las Vegas, NV, USA | Speechify | Las Vegas, NV, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Frisco, TX, USA | Speechify | Frisco, TX, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Princeton, NJ, USA | Speechify | Princeton, NJ, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Detroit, MI, USA | Speechify | Detroit, MI, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Richmond, VA, USA | Speechify | Richmond, VA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Stamford, CT, USA | Speechify | Stamford, CT, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Lyon, France | Speechify | Lyon, France | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Reading, United Kingdom | Speechify | Reading, United Kingdom | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Arlington, VA, USA | Speechify | Arlington, VA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Abu Dhabi, United Arab Emirates | Speechify | Abu Dhabi, United Arab Emirates | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Mumbai, India | Speechify | Mumbai, India | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Yokohama, Japan | Speechify | Yokohama, Japan | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Kyiv, Ukraine | Speechify | Kyiv, Ukraine | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Shanghai, China | Speechify | Shanghai, China | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Istanbul, Turkey | Speechify | Istanbul, Turkey | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Geneva, Switzerland | Speechify | Geneva, Switzerland | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Waterloo, Canada | Speechify | Waterloo, Canada | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Spokane, WA, USA | Speechify | Spokane, WA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Hanoi, Vietnam | Speechify | Hanoi, Vietnam | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - College Station, TX, USA | Speechify | College Station, TX, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Reno, NV, USA | Speechify | Reno, NV, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Hartford, CT, USA | Speechify | Hartford, CT, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Dayton, OH, USA | Speechify | Dayton, OH, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Johannesburg, South Africa | Speechify | Johannesburg, South Africa | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - State College, PA, USA | Speechify | State College, PA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Tulsa, OK, USA | Speechify | Tulsa, OK, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Gainesville, FL, USA | Speechify | Gainesville, FL, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Cork, Ireland | Speechify | Cork, Ireland | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Belfast, United Kingdom | Speechify | Belfast, United Kingdom | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Baton Rouge, LA, USA | Speechify | Baton Rouge, LA, USA | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Athens, Greece | Speechify | Athens, Greece | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Belgrade, Serbia | Speechify | Belgrade, Serbia | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Malaga, Spain | Speechify | Malaga, Spain | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - The Hague, Netherlands | Speechify | The Hague, Netherlands | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Split, Croatia | Speechify | Split, Croatia | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Dnipro, Ukraine | Speechify | Dnipro, Ukraine | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Cebu, Philippines | Speechify | Cebu, Philippines | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Kolkata, India | Speechify | Kolkata, India | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Busan, South Korea | Speechify | Busan, South Korea | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Abuja, Nigeria | Speechify | Abuja, Nigeria | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Calgary, Canada | Speechify | Calgary, Canada | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Almaty, Kazakhstan | Speechify | Almaty, Kazakhstan | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Chittagong, Bangladesh | Speechify | Chittagong, Bangladesh | 2026-08-23 |
-| Senior Software Engineer, Windows/Desktop Applications - Casablanca, Morocco | Speechify | Casablanca, Morocco | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Anaheim, CA, USA | Speechify | Anaheim, CA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Bangalore, India | Speechify | Bangalore, India | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Amsterdam, Netherlands | Speechify | Amsterdam, Netherlands | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Bellevue, WA, USA | Speechify | Bellevue, WA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Denver, CO, USA | Speechify | Denver, CO, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Saint Paul, MN, USA | Speechify | Saint Paul, MN, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Provo, UT, USA | Speechify | Provo, UT, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Houston, TX, USA | Speechify | Houston, TX, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - São Paulo, Brazil | Speechify | São Paulo, Brazil | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Fort Worth, TX, USA | Speechify | Fort Worth, TX, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - College Park, MD, USA | Speechify | College Park, MD, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Durham, NC, USA | Speechify | Durham, NC, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Cleveland, OH, USA | Speechify | Cleveland, OH, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Cambridge, MA, USA | Speechify | Cambridge, MA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Cary, NC, USA | Speechify | Cary, NC, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - St. Louis, MO, USA | Speechify | St. Louis, MO, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Bucharest, Romania | Speechify | Bucharest, Romania | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Bristol, United Kingdom | Speechify | Bristol, United Kingdom | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Lyon, France | Speechify | Lyon, France | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Cologne, Germany | Speechify | Cologne, Germany | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Delhi, India | Speechify | Delhi, India | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Copenhagen, Denmark | Speechify | Copenhagen, Denmark | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Milan, Italy | Speechify | Milan, Italy | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Barcelona, Spain | Speechify | Barcelona, Spain | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Reston, VA, USA | Speechify | Reston, VA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Arlington, VA, USA | Speechify | Arlington, VA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Gothenburg, Sweden | Speechify | Gothenburg, Sweden | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Spokane, WA, USA | Speechify | Spokane, WA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Reno, NV, USA | Speechify | Reno, NV, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Hanoi, Vietnam | Speechify | Hanoi, Vietnam | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Waterloo, Canada | Speechify | Waterloo, Canada | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - West Palm Beach, FL, USA | Speechify | West Palm Beach, FL, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - New Orleans, LA, USA | Speechify | New Orleans, LA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Johannesburg, South Africa | Speechify | Johannesburg, South Africa | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Oklahoma City, OK, USA | Speechify | Oklahoma City, OK, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Santa Cruz, CA, USA | Speechify | Santa Cruz, CA, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Burlington, VT, USA | Speechify | Burlington, VT, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Lille, France | Speechify | Lille, France | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Belgrade, Serbia | Speechify | Belgrade, Serbia | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Ithaca, NY, USA | Speechify | Ithaca, NY, USA | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom | Speechify | Leeds, United Kingdom | 2026-08-23 |
-| Software Engineer, Data Infrastructure & Acquisition - Bilbao, Spain | Speechify | Bilbao, Spain | 2026-08-23 |
+| Senior AI Engineer (Risk & Payments) | Airwallex | AU - Sydney | 2026-08-25 |
+| Senior AI Engineer (Risk & Payments) | Airwallex | SG - Singapore | 2026-08-25 |
+| Principal Systems Engineer - Stores Ejection | Ultra |  | 2026-08-25 |
+| Senior Network Engineer | New Era Technology | Manila and Cebu | 2026-08-25 |
+| Senior Network Engineer | New Era Technology | Manila and Cebu | 2026-08-25 |
+| Mechanical Assembly, Integration, and Test (AIT) Engineer | Gossmann Gebäudereinigung | Oxfordshire UK, Didcot | 2026-08-25 |
+| Staff Machine Learning Engineer, Financial Connections | Stripe | New York | 2026-08-25 |
+| Senior Principal Engineer - Field Applications | Astera Labs | San Jose, California, United States | 2026-08-25 |
+| Associate, Workday Integrations Developer | Oaktree Capital |  | 2026-08-25 |
+| Ventures, General Management Rotation Program (AI Growth Architect) | NewsBreak | Mountain View, California, United States | 2026-08-25 |
+| Principal Sales Engineer, SLED - East | Zscaler | Remote - Connecticut, USA; Remote - Florida, USA; Remote - Georgia; Remote - Maine, USA; Remote - Maryland, USA; Remote - Massachusetts, USA; Remote - New Hampshire, USA; Remote - New Jersey, USA; Remote - New York, USA; Remote - North Carolina, USA; Remote - Pennsylvania, USA; Remote - South Carolina, USA; Remote - Virginia, USA; Remote - West Virginia, USA | 2026-08-25 |
+| Experienced Civil Engineer - Water Resources | Olsson | Overland Park, KS; Springfield, MO | 2026-08-24 |
+| Senior Machine Learning Engineer I | Axon | Seattle, Washington, United States | 2026-08-24 |
+| Engineering Director- Ads Measurement | LinkedIn | Mountain View, us | 2026-08-24 |
+| Entry-Level Structural Engineer | AECOM | Mechanicsburg, us | 2026-08-24 |
+| Lead SoC Security Software Engineer | Anodize | San Francisco or Los Altos, CA or Remote - US | 2026-08-24 |
+| Senior Staff Performance Engineer, Firefox | Mozilla | Remote Canada | 2026-08-24 |
+| Experienced Civil Engineer - Data Center | Olsson | Colorado Springs, CO; Dallas, TX; Denver, CO; Des Moines, IA; Fort Worth, TX; Kansas City, MO; Lincoln, NE; Loveland, CO; Omaha, NE; Overland Park, KS; Phoenix, AZ | 2026-08-24 |
+| Principal Machine Learning Engineer | ServiceNow | Santa Clara, us | 2026-08-24 |
+| Lead MarTech Engineer | Material Bank | Remote | 2026-08-24 |
+| Senior Software Engineer | Balance |  | 2026-08-24 |
+| Lead Front End Engineer | Material Bank | Remote | 2026-08-24 |
+| Principal Systems Design Engineer | ServiceNow | Mountain View, us | 2026-08-24 |
+| VP of HW Systems Engineering | Axiado Corporation | San Jose, us | 2026-08-24 |
+| Staff Software Engineer, Foundations - CAN | Vanta | Remote - Canada | 2026-08-24 |
+| Software Engineer - Systems and Infrastructure | LinkedIn | Mountain View, us | 2026-08-24 |
+| Customer Quality Engineer | Bosch Group | Queretaro, mx | 2026-08-24 |
+| Mechanical Engineer - Building Engineering | AECOM | Docklands, au | 2026-08-24 |
+| Mechanical Engineer - Building Services | AECOM | Brisbane, au | 2026-08-24 |
+| Lead Power Platform Developer | CapTech | Seattle, us | 2026-08-24 |
+| Staff Software Engineer, Maps Services | Samsara | Remote - US | 2026-08-24 |
+| Applied AI Engineer, Beneficial Deployments (Life Sciences) | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-24 |
+| Machine Learning Engineer II | PagerDuty | Lisbon | 2026-08-24 |
+| Software Engineering Manager | Solidigm | Gdańsk, pl | 2026-08-24 |
+| Senior Site Reliability Engineer - | Okta | Bellevue, Washington | 2026-08-24 |
+| Senior Site Reliability Engineer - Security and Data Systems (Federal) | Okta | Bellevue, Washington | 2026-08-24 |
+| Senior Energy Systems Engineer, Maritime | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| Engineering Director – Airside Civil Infrastructure | AECOM | Mississauga, ca | 2026-08-24 |
+| Mechanical Design Engineer (Automotive) | Bosch Group | Waltham, us | 2026-08-24 |
+| Machine Learning Engineer II | PagerDuty | Lisbon | 2026-08-24 |
+| Embedded Software Engineer - Vehicle Software | Parallel Systems | Los Angeles, CA | 2026-08-24 |
+| Audio Engineer | Alliance Defending Freedom | Scottsdale, AZ | 2026-08-24 |
+| Software Engineer, Sr - RDC Next | Realtor.com Careers | Austin, Texas, United States | 2026-08-24 |
+| Mechanical Design Engineer II | Axon | Sterling, Virginia, United States | 2026-08-24 |
+| Staff Mechanical Engineer, Omen | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| Sales Engineer - Mid Market - West | Samsara | Remote - US | 2026-08-24 |
+| Sales Engineer - Mid Market - Southeast | Samsara | Remote - US | 2026-08-24 |
+| Principal Engineer – Program Management, Supply Chain Transformation | Sandisk | Milpitas, us | 2026-08-24 |
+| Salesforce Developer | NetBrain | United States \| Remote | 2026-08-24 |
+| Sr. Software Engineer | Apptegy | Little Rock, AR | 2026-08-24 |
+| Cloud Solutions Architect | Appnovation Technologies | San José, Medellin, Bogota, Mexico City, Buenos Aires | 2026-08-24 |
+| Cloud Solutions Architect | Appnovation Technologies | Montreal | 2026-08-24 |
+| Cloud Solutions Architect | Appnovation Technologies | London | 2026-08-24 |
+| Cloud Solutions Architect | Appnovation Technologies | New York, Austin, Miami, Dallas, City of Phoenix | 2026-08-24 |
+| Cloud Solutions Architect | Appnovation Technologies | São Paulo | 2026-08-24 |
+| Cloud Solutions Architect | Appnovation Technologies | Toronto | 2026-08-24 |
+| Video Player Architect | NBCUniversal | New York, us | 2026-08-24 |
+| Lead, Robotics Software Engineer | Locus Robotics | North Vancouver, BC | 2026-08-24 |
+| Sr. Engineering Product Quality I | Bosch Group | Guadalajara, mx | 2026-08-24 |
+| IT Systems Engineer, Mobile Client Platform Engineer | Anthropic | Boston, MA; Remote-Friendly (Travel-Required) \| San Francisco, CA \| Seattle, WA \| New York City, NY; Washington, DC | 2026-08-24 |
+| Design Release Engineer – Vehicle Access Systems | ALTEN Technology USA | Auburn Hills, Michigan, United States | 2026-08-24 |
+| Software Engineer, Pricing - Rider Engagement | Lyft | Toronto, Canada | 2026-08-24 |
+| AI / Agent Engineer | Appnovation Technologies | San José, Medellin, Bogota, Mexico City, Buenos Aires | 2026-08-24 |
+| AI / Agent Engineer | Appnovation Technologies | London | 2026-08-24 |
+| AI / Agent Engineer | Appnovation Technologies | Montreal | 2026-08-24 |
+| AI / Agent Engineer | Appnovation Technologies | New York, Austin, Miami, Dallas, City of Phoenix | 2026-08-24 |
+| AI / Agent Engineer | Appnovation Technologies | São Paulo | 2026-08-24 |
+| AI / Agent Engineer | Appnovation Technologies | Toronto | 2026-08-24 |
+| Infrastructure Architect, Cloud | Dev Technology | Tysons Corner, Hybrid | 2026-08-24 |
+| Software Engineer (Backend-Java) | Nava PBC | Remote | 2026-08-24 |
+| Data Architect / Engineer | Appnovation Technologies | San José, Medellin, Bogota, Mexico City, Buenos Aires | 2026-08-24 |
+| Data Architect / Engineer | Appnovation Technologies | London | 2026-08-24 |
+| Data Architect / Engineer | Appnovation Technologies | New York, Austin, Miami, Dallas, City of Phoenix | 2026-08-24 |
+| Data Architect / Engineer | Appnovation Technologies | Montreal | 2026-08-24 |
+| Data Architect / Engineer | Appnovation Technologies | São Paulo | 2026-08-24 |
+| Front End Engineering Manager, Firefox Desktop | Mozilla | Remote US | 2026-08-24 |
+| Data Architect / Engineer | Appnovation Technologies | Toronto | 2026-08-24 |
+| Senior Mechanical Engineer | AECOM | Dublin, ie | 2026-08-24 |
+| Senior Network Engineer, Projects | RedHelm | Remote | 2026-08-24 |
+| AI Evaluation Engineer (QA) | Appnovation Technologies | New York, Austin, Miami, Dallas, City of Phoenix | 2026-08-24 |
+| Software Engineering Leader - Campinas/SP | Agibank | Campinas, São Paulo, Brasil | 2026-08-24 |
+| Staff Frontend Engineer, Market Data | Ridgeline | Reno, NV | 2026-08-24 |
+| Full-Stack Software Engineer, Model Development Platform | Wayve | London; Sunnyvale | 2026-08-24 |
+| AI Evaluation Engineer (QA) | Appnovation Technologies | San José, Medellin, Bogota, Mexico City, Buenos Aires | 2026-08-24 |
+| Senior Electrical Engineer | AECOM | San Francisco, us | 2026-08-24 |
+| Staff Software Engineer, Storage Services | Pinterest | New York, NY, US; Remote, US | 2026-08-24 |
+| Staff Software Engineer, Data Warehouse Foundation | Pinterest | Palo Alto, CA, US; Remote, US | 2026-08-24 |
+| Senior Electrical Engineer | AECOM | Oakland, us | 2026-08-24 |
+| Software Engineer, Business Technology | Anthropic | London, UK | 2026-08-24 |
+| AI Evaluation Engineer (QA) | Appnovation Technologies | London | 2026-08-24 |
+| Senior Electrical Engineer | AECOM | Sacramento, us | 2026-08-24 |
+| Staff Software Engineer, Foundations | Vanta | Remote U.S. | 2026-08-24 |
+| Software Engineer, Business Technology | Anthropic | New York City, NY \| Seattle, WA; San Francisco, CA \| New York City, NY | 2026-08-24 |
+| Instrumentation and Controls Engineer | AFRY | Appleton, us | 2026-08-24 |
+| Engineering Manager | Mark43 | Manchester | 2026-08-24 |
+| Industrial Engineer | Ingram Content Group | La Vergne, us | 2026-08-24 |
+| Staff Security Engineer - Identity & Access Management | LinkedIn | Mountain View, us | 2026-08-24 |
+| Instrumentation and Controls Engineer | AFRY | Birmingham, us | 2026-08-24 |
+| AI Evaluation Engineer (QA) | Appnovation Technologies | Montreal | 2026-08-24 |
+| Senior Manager - Software Engineering Management - Platform Persistence | ServiceNow | Santa Clara, us | 2026-08-24 |
+| Senior Explosive Operations Engineer | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| AI Evaluation Engineer (QA) | Appnovation Technologies | São Paulo | 2026-08-24 |
+| AI Evaluation Engineer (QA) | Appnovation Technologies | Toronto | 2026-08-24 |
+| Civil Engineering Internship - Airports | Olsson | Lincoln, NE | 2026-08-24 |
+| Senior WebEOC Developer | Dev Technology | Remote | 2026-08-24 |
+| Sr. Manager, Engineering | Pinterest | Seattle,WA, US; Palo Alto, CA,US; San Francisco, CA, US; Remote, US | 2026-08-24 |
+| Senior Tunnel Ventilation Engineer (Design) | AECOM | New York, us | 2026-08-24 |
+| Project Manager (Engineering Project Manager - Ports & Maritime) | Woolpert | Coral Gables, FL | 2026-08-24 |
+| Engineering Manager - Issuing | Adyen | Chicago | 2026-08-24 |
+| Senior Applications Development Engineer | ServiceNow | Santa Clara, us | 2026-08-24 |
+| Systems Engineering Analyst, Airborne Mission Systems | General Dynamics Missions System International | Ottawa, ca | 2026-08-24 |
+| Test Engineer – Team Leader | Continental Group Sector ContiTech | San Luis Potosí City, mx | 2026-08-24 |
+| Software Engineer - Full Stack (Top Secret Clearance Required) | North Point Technology | Herndon, Virginia, United States | 2026-08-24 |
+| Principal Presales Engineer - ISV | Twilio | Remote - US | 2026-08-24 |
+| Process Engineer | AbbVie | Wyandotte, us | 2026-08-24 |
+| Senior Software Engineer - Node.js | Appfire | Spain | 2026-08-24 |
+| Platform Engineer | Domino's | Ann Arbor, us | 2026-08-24 |
+| Staff AI Engineer | Clickup | Remote | 2026-08-24 |
+| Automations Engineer | Clickup | Remote | 2026-08-24 |
+| Senior Backend Engineer | Clickup | Remote | 2026-08-24 |
+| GTM DevOps Engineer | Clickup | Remote | 2026-08-24 |
+| Staff Data Engineer | Clickup | Remote | 2026-08-24 |
+| Senior Database Reliability Engineer | Clickup | Remote | 2026-08-24 |
+| Senior Frontend Engineer | Clickup | Remote | 2026-08-24 |
+| Staff Frontend Engineer | Clickup | Remote | 2026-08-24 |
+| Staff Backend Engineer | Clickup | Remote | 2026-08-24 |
+| Staff Backend Engineer | Clickup | Remote | 2026-08-24 |
+| Staff AI Engineer | Clickup | Remote | 2026-08-24 |
+| Senior Manager, Engineering - Identity & Access Management | Clickup | Remote | 2026-08-24 |
+| Senior Software Engineer | Clickup | Remote | 2026-08-24 |
+| Business Systems Engineer | Clickup | Remote | 2026-08-24 |
+| Staff AI Engineer | Clickup | Remote | 2026-08-24 |
+| Senior AI Engineer - Multi-Agent Frameworks | Clickup | Remote | 2026-08-24 |
+| Senior AI Engineer - AI Product | Clickup | Remote | 2026-08-24 |
+| Senior AI Engineer | Clickup | Remote | 2026-08-24 |
+| Senior Backend Engineer | Clickup | Remote | 2026-08-24 |
+| Strategic Solutions Engineer | Clickup | Seattle, WA | 2026-08-24 |
+| Director, Software Engineering - Infrastructure | Clickup | Remote | 2026-08-24 |
+| Principal Frontend Engineer | Clickup | Remote | 2026-08-24 |
+| Engineering Manager | Clickup | Remote | 2026-08-24 |
+| Engineering Manager (Frontend) | Clickup | Remote | 2026-08-24 |
+| Senior AI Engineer - AI Platform | Clickup | Remote | 2026-08-24 |
+| Strategic Solutions Engineer | Clickup | Chicago | 2026-08-24 |
+| Director of Engineering (Mid-Atlantic) | Veolia Environnement SA | Wilmington, us | 2026-08-24 |
+| Senior Software Engineer - AI Operations Team (Open to hiring at the Lead Software Engineer Level) | Wellmark, Inc. | Des Moines, us | 2026-08-24 |
+| Virtual Test Engineer | Motional | Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States | 2026-08-24 |
+| Manufacturing Engineer & Technician | ALTEN Technology USA | Dublin, Virginia | 2026-08-24 |
+| Maintenance Engineering Technician II | Lila Sciences | Cambridge, MA USA | 2026-08-24 |
+| Director, Solutions Architecture - Enterprise | Nebius | United States | 2026-08-24 |
+| Staff Engineer - Payments (Mobile & Terminal Experiences) | Adyen | Chicago | 2026-08-24 |
+| Senior Solutions Architect, EMEA | Webflow | London, U.K. (Hybrid) | 2026-08-24 |
+| Automation Engineer, Quality Engineering | Airbnb | Brazil | 2026-08-24 |
+| Principal Engineer, Rapid Integration & Test | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| Senior Data Visualization Engineer | Planet | San Francisco, CA | 2026-08-24 |
+| APU Process Engineer - Automation (APU 4) | Nemera | Vernon Hills, us | 2026-08-24 |
+| Staff Software Engineer, Marketplace Acquisition | Zocdoc | USA Remote | 2026-08-24 |
+| Design Engineer III - Water Resources | Apex Companies | Denver, CO | 2026-08-24 |
+| SCADA and Automation Engineer - Oil and Gas | Atwell, LLC | Atwell | 2026-08-24 |
+| Staff + Sr. Software Engineer, Scaling | Anthropic | San Francisco, CA \| Seattle, WA | 2026-08-24 |
+| Sr. Software Engineer I, Evaluation Services (Scala) | NinjaTrader | Chicago or Remote* | 2026-08-24 |
+| Staff Software Engineer, Applied AI | Parachute Health | U.S. Remote | 2026-08-24 |
+| Senior Electrical Engineer | Voyager Technologies, Inc. | Webster, TX | 2026-08-24 |
+| Principal Electrical Engineer | Voyager Technologies, Inc. | Webster, TX | 2026-08-24 |
+| Semantic AI Engineer | AbbVie | North Chicago, us | 2026-08-24 |
+| Senior .NET Developer, SaaS Manager | 1Password | Remote (United States \| Canada) | 2026-08-24 |
+| Senior Technology Engineer II – Platform & Full Stack Engineering | AbbVie | North Chicago, us | 2026-08-24 |
+| Senior Solution Engineer, Retail & Consumer Goods | Snowflake | US, Remote | 2026-08-24 |
+| Mechanical Product Engineer | Bosch Group | Owatonna, us | 2026-08-24 |
+| Graduate Construction Project Engineer – AECOM Hunt | AECOM | Dallas, us | 2026-08-24 |
+| Pre-Sales Systems Engineer, Everpure Resilience | Everpure | Remote, United States | 2026-08-24 |
+| Solutions Architect, Enterprise (Presales) | Stripe | San Francisco, CA, Chicago, IL, New York, NY | 2026-08-24 |
+| Senior QA Engineer | CD PROJEKT RED | Boston, us | 2026-08-24 |
+| Senior Systems Engineer | Voyager Technologies, Inc. | Webster, TX; Middleburg Heights, OH | 2026-08-24 |
+| Engineering Manager - Cost Intelligence | Snowflake | US-WA-Bellevue | 2026-08-24 |
+| Senior PCBA Design Engineer | Apptronik | Austin, TX | 2026-08-24 |
+| Senior Mechanical Engineer - Soft Good/Gloves/Grip | Apptronik | Austin, TX | 2026-08-24 |
+| Senior Mechanical Engineer (Battery and Docking Station) | Apptronik | Austin, TX | 2026-08-24 |
+| Senior Electrical Engineer - Power | Apptronik | Austin, TX | 2026-08-24 |
+| Principal Data Engineer | True Anomaly | Denver, CO or Long Beach, CA | 2026-08-24 |
+| Enterprise Solutions Engineer, Bay Area CORP | Verkada | San Mateo, CA United States | 2026-08-24 |
+| Senior Hydraulic Engineer – Hydropower Plants and Dams | AECOM | Halifax, ca | 2026-08-24 |
+| Senior Hydraulic Engineer – Hydropower Plants and Dams | AECOM | St. John's, ca | 2026-08-24 |
+| Entry-Level Traffic Engineer | AECOM | Middleton, us | 2026-08-24 |
+| Senior Hydraulic Engineer – Hydropower Plants and Dams | AECOM | Thunder Bay, ca | 2026-08-24 |
+| Senior Hydraulic Engineer – Hydropower Plants and Dams | AECOM | Mississauga, ca | 2026-08-24 |
+| Senior Hydraulic Engineer – Hydropower Plants and Dams | AECOM | Winnipeg, ca | 2026-08-24 |
+| Software Engineer, Backend | Tessera Labs | San Jose Office (HQ) | 2026-08-24 |
+| Senior Hydraulic Engineer – Hydropower Plants and Dams | AECOM | Edmonton, ca | 2026-08-24 |
+| Process Engineer II | Bosch Group | Guadalajara, mx | 2026-08-24 |
+| Senior Hydraulic Engineer – Hydropower Plants and Dams | AECOM | Calgary, ca | 2026-08-24 |
+| Senior Hydraulic Engineer – Hydropower Plants and Dams | AECOM | Burnaby, ca | 2026-08-24 |
+| It Operations Engineer, Trading Application Support | Point72 | New York, NY | 2026-08-24 |
+| Principal Dot Net Fullstack Developer (Azure Data Factory) | Eurofins | Bengaluru, in | 2026-08-24 |
+| Principal .Net Engineer (Azure Data Factory+Angular) | Eurofins | Bengaluru, in | 2026-08-24 |
+| Principal Software Engineer | Eurofins | Bengaluru, in | 2026-08-24 |
+| Project Engineer, Commissioning - Data Center Facilities | Ramboll | Houston, Texas, us | 2026-08-24 |
+| Operational Support Engineer | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| GTM Engineer, Growth Marketing | Ocrolus Inc. | Remote - IND | 2026-08-24 |
+| Forward Deployed Software Engineer, Cleared (TS/SCI) | Kaizenlabs | Washington, D.C. | 2026-08-24 |
+| Solution Architect - Security, Risk and OT | ServiceNow | Raleigh, us | 2026-08-24 |
+| Embedded Software Development Engineer (Senior Level) | Sopra Steria Corporate | East Hartford, us | 2026-08-24 |
+| Solution Architect - Security, Risk and OT | ServiceNow | Portland, us | 2026-08-24 |
+| Solution Architect - Security, Risk and OT | ServiceNow | Atlanta , us | 2026-08-24 |
+| Solution Architect - Security, Risk and OT | ServiceNow | Detroit, us | 2026-08-24 |
+| Embedded Software Verification Engineer (Mid level) | Sopra Steria Corporate | East Hartford, us | 2026-08-24 |
+| Power Systems Engineer II | Relativity Space | Cape Canaveral, Florida, United States | 2026-08-24 |
+| High Power Electrical Engineer II | Relativity Space | Cape Canaveral, Florida, United States | 2026-08-24 |
+| Resident Engineer | Ramboll | Glen Allen, Virginia, us | 2026-08-24 |
+| Resident Engineer | Ramboll | Syracuse, New York, us | 2026-08-24 |
+| FPGA Development Engineer (Mid level) | Sopra Steria Corporate | East Hartford, us | 2026-08-24 |
+| Resident Engineer | Ramboll | Hunt Valley, Maryland, us | 2026-08-24 |
+| FPGA Development Engineer (senior level) | Sopra Steria Corporate | East Hartford, us | 2026-08-24 |
+| .Net Fullstack Developer (Angular) | Eurofins | Bengaluru, in | 2026-08-24 |
+| Resident Engineer | Ramboll | Arlington, Virginia, us | 2026-08-24 |
+| .Net Fullstack Developer | Eurofins | Bengaluru, in | 2026-08-24 |
+| Senior .Net Fullstack Engineer | Eurofins | Bengaluru, in | 2026-08-24 |
+| Senior .Net Fullstack Developer | Eurofins | Bengaluru, in | 2026-08-24 |
+| Senior Software Engineer | Eurofins | Bengaluru, in | 2026-08-24 |
+| Civil Engineering Project Manager | KPFF Consulting Engineers | Lacey, us | 2026-08-24 |
+| Solution Architect - Security, Risk and OT | ServiceNow | Dallas, us | 2026-08-24 |
+| Senior End Client Architect | NICE | India - Pune | 2026-08-24 |
+| Project Engineer, Commissioning - Data Center Facilities | Ramboll | Glen Allen, Virginia, us | 2026-08-24 |
+| Project Engineer, Commissioning - Data Center Facilities | Ramboll | Houston, Texas, us | 2026-08-24 |
+| Tools and Test Automation Engineer | Sopra Steria Corporate | East Hartford, us | 2026-08-24 |
+| Project Engineer, Commissioning - Data Center Facilities | Ramboll | Dallas, Texas, us | 2026-08-24 |
+| Project Engineer, Commissioning - Data Center Facilities | Ramboll | Arlington, Virginia, us | 2026-08-24 |
+| Embedded Software Verification Engineer (Entry Level) | Sopra Steria Corporate | East Hartford, us | 2026-08-24 |
+| Backend Engineer, Financial Connections | Stripe | NYC, Toronto, Remote in Canada | 2026-08-24 |
+| Software Engineer - Applications | LinkedIn | Mountain View, us | 2026-08-24 |
+| NX CAD Support Engineer | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| Chief Engineer, Space | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| Program Manager, Open Architecture | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| Program Manager, Open Architecture | Anduril Industries | Washington, District of Columbia, United States | 2026-08-24 |
+| Senior Software Engineer - Maritime Integrated Systems | Anduril Industries | Quincy, Massachusetts, United States | 2026-08-24 |
+| Senior CNC Programmer | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| Software Engineer - Maritime Integrated Solutions | Anduril Industries | Costa Mesa, California, United States | 2026-08-24 |
+| Senior Software Engineer - Maritime Integrated Systems | Anduril Industries | Boston, Massachusetts, United States | 2026-08-24 |
+| Manufacturing Tooling Engineer | Anduril Industries | Ashville, Ohio, United States | 2026-08-24 |
+| Software Engineer II, Big Data, tvScientific | Pinterest | San Francisco, CA, US; Remote, US | 2026-08-24 |
+| Sales Engineer, Mid Market UKI | Abnormal AI | Remote - UK | 2026-08-24 |
+| Autonomous Vehicle Engineering Technician | Glydways | Atlanta, GA | 2026-08-24 |
+| Senior Propulsion Engineer | Voyager Technologies, Inc. | Mojave, CA | 2026-08-24 |
+| Software Engineer, Agent - Public Sector | Sierra | San Francisco, CA | 2026-08-24 |
+| Architectural Project Manager | Ontario Transit Group | Toronto, ca | 2026-08-24 |
+| Principal Software Engineer (Remote, Full-time) — Elixir / AI / Healthcare | Proterahealth | Remote (US) | 2026-08-24 |
+| Django Developer | American Iron and Metal | Phoenix, us | 2026-08-24 |
+| Senior Network Security Engineer - Palo Alto (Q3 2026) | Myriad360 | Remote | 2026-08-24 |
+| Engineering Manager, Software (Modeling and Simulation) | True Anomaly | Denver, CO or Long Beach, CA | 2026-08-24 |
+| Principal Data Engineer | Octus | Remote - US | 2026-08-24 |
+| PCIe Senior/Lead Software Engineer | Arista Networks | Vancouver, ca | 2026-08-24 |
+| Senior/Lead Software Engineer | Arista Networks | Vancouver, ca | 2026-08-24 |
+| Senior/Lead Software Engineer, Network Systems | Arista Networks | Vancouver, ca | 2026-08-24 |
+| Senior/Lead Software Engineer (Packet Forwarding Engines) | Arista Networks | Vancouver, ca | 2026-08-24 |
+| BIOS Senior/Lead Software Engineer | Arista Networks | Vancouver, ca | 2026-08-24 |
+| Advanced C++ Senior Developer | Bosch Group | hosur road bangalore, in | 2026-08-24 |
+| CMM Programmer (Onsite) | Axon | Phoenix, Arizona, United States | 2026-08-24 |
+| Advanced C++ Senior Developer | Bosch Group | hosur road bangalore, in | 2026-08-24 |
+| Civil Engineer | AECOM | Greenville, us | 2026-08-24 |
+| SSD Qualification Engineer | Everpure | Santa Clara, California | 2026-08-24 |
+| Test Automation Engineer | Bosch Group | hosur road bangalore, in | 2026-08-24 |
+| Robotics Planning & Controls Engineer Intern | Gritt | South San Francisco | 2026-08-24 |
+| Deployed Engineer (Federal) | LangChain | Washington DC | 2026-08-24 |
+| Advanced C++ Senior Developer | Bosch Group | hosur road bangalore, in | 2026-08-24 |
+| Advanced C++ Senior Developer | Bosch Group | hosur road bangalore, in | 2026-08-24 |
+| Advanced C++ Senior Developer | Bosch Group | hosur road bangalore, in | 2026-08-24 |
+| Advanced C++ Senior Developer | Bosch Group | hosur road bangalore, in | 2026-08-24 |
+| Network Engineer - SME | Accenture Federal Services | Chantilly, VA | 2026-08-24 |
+| Embedded C++ Developer | Bosch Group | coimbatore, in | 2026-08-24 |
+| Embedded C++ Developer | Bosch Group | coimbatore, in | 2026-08-24 |
+| Technical Support Engineer | Tensorwave | Las Vegas, Nevada | 2026-08-24 |
+| Vice President, Solutions Architect | MongoDB | Austin; New York City; San Francisco | 2026-08-24 |
+| Prompting and Context Engineer | 1Mind | Remote - US | 2026-08-24 |
+| Enterprise Architect - Chief Architect for Agentic Delivery | Nuvei |  | 2026-08-24 |
+| ML Engineer | Nuvei |  | 2026-08-24 |
+| Data Streaming Platform Engineer | Nuvei |  | 2026-08-24 |
+| SVP, Head of Agentic Engineering and Acceleration | Nuvei |  | 2026-08-24 |
+| Senior Enterprise Architect | Nuvei |  | 2026-08-24 |
+| Senior Full Stack Developer | Nuvei |  | 2026-08-24 |
+| Junior Salesforce Developer | Nuvei |  | 2026-08-24 |
+| Solution Engineer | Nuvei |  | 2026-08-24 |
+| Senior Structural Engineer | AECOM | Atlanta, us | 2026-08-24 |
+| Senior Security Engineer | Oshi Health | Remote | 2026-08-24 |
+| Integrated Marketing Manager, Developers | Openai | San Francisco | 2026-08-24 |
+| Azure DevOps Engineer \| KD Pharma | Gt Hq | Remote (Europe-based candidates only) | 2026-08-24 |
+| AI Support Engineer - Dublin (Weekend Shift) | Openai | Dublin, Ireland | 2026-08-24 |
+| Senior Implementation Engineer | NICE | USA - Remote | 2026-08-24 |
+| Senior Agent Platform Engineer | Proxima Fusion | Munich | 2026-08-24 |
+| Senior Data Engineer | Monks | Colombia | 2026-08-24 |
+| Corporate IT and Security Engineer | Rowspace | San Francisco | 2026-08-24 |
+| Process Engineer | Marianaminerals | East Texas | 2026-08-24 |
+| Senior Civil Engineer | AECOM | Greenville, us | 2026-08-24 |
+| Adobe Workfront Implementation System Architect - Advertising | Truelogic | Santo Domingo | 2026-08-24 |
+| Software Engineer | Doppel | New York | 2026-08-24 |
+| Substation Engineering Manager | AECOM | Atlanta, us | 2026-08-24 |
+| Adobe Workfront Implementation System Architect - Advertising | Truelogic | Mexico City | 2026-08-24 |
+| Substation Engineering Manager | AECOM | Las Vegas, us | 2026-08-24 |
+| Senior Structural Engineer | AECOM | Dublin, ie | 2026-08-24 |
+| Adobe Workfront Implementation System Architect - Advertising | Truelogic | Brazil | 2026-08-24 |
+| Substation Engineering Manager | AECOM | Austin, us | 2026-08-24 |
+| Adobe Workfront Implementation System Architect - Advertising | Truelogic | Bogota | 2026-08-24 |
 
 ---
 

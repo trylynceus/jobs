@@ -2,11 +2,55 @@
 
 Roles listing Paris as their location.
 
-_2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
+_2,333 open · showing the 300 most recent · updated 2026-08-25 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| Technicien de Maintenance (H/F/NB) | AccorHotel | Paris, fr | 2026-08-23 |
+| Non-Licensed Insurance Customer Service Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-08-24 |
+| Account Manager - Paris | OpenTable | Paris, France | 2026-08-24 |
+| Senior Forward Deployed Engineer (France) | Parloa | France; Paris | 2026-08-24 |
+| Consultant Senior IA / LLM & Cadrage ITSM (H/F) | CITECH | Paris, fr | 2026-08-24 |
+| Final Year Internship Consultant - Data Analyst | Sia | Paris, fr | 2026-08-24 |
+| Outcomes Architect Manager, France | Notion | Paris, France | 2026-08-24 |
+| EXPERT SERVICE CLIENT - CDI H/F | BOULANGER | Paris, fr | 2026-08-24 |
+| Chef de rang (H/F/X) | AccorHotel | Paris, fr | 2026-08-24 |
+| Superviseur Polyvalent Restauration H/F - Pullman Paris Montparnasse 4* | AccorHotel | Paris, fr | 2026-08-24 |
+| Senior Consultant - Data Architect | Sia | Paris, fr | 2026-08-24 |
+| Trainee SAP PARIS | Nagarro | Paris, fr | 2026-08-24 |
+| Services Architect 3 - Paris/London | Datadog | Paris, France | 2026-08-24 |
+| Intern Technology & Management Consulting (Value Engineering) | Celonis | Paris, France | 2026-08-24 |
+| Manager de Transition – Direction de Site Industriel (H/F) | EPSA | Paris, fr | 2026-08-24 |
+| Manager AI Transformation | Sia | Paris, fr | 2026-08-24 |
+| Senior Consultant - Data Advisory | Sia | Paris, fr | 2026-08-24 |
+| Senior Consultant - Cloud Architect | Sia | Paris, fr | 2026-08-24 |
+| Manager CIO Advisory | Sia | Paris, fr | 2026-08-24 |
+| Account Executive SME's - Large Accounts | Pennylane | Paris | 2026-08-24 |
+| Junior Project Manager | FeverUp | Paris | 2026-08-24 |
+| Final Year Internship Consultant - Digital Transformation | Sia | Paris, fr | 2026-08-24 |
+| Consultant(e) Junior Cybersécurité | Sia | Paris, fr | 2026-08-24 |
+| Consultant(e) en Protection des données, et en conformité Cyber, IT et IA | Sia | Paris, fr | 2026-08-24 |
+| Manager Cybersécurité - H/F | Sia | Paris, fr | 2026-08-24 |
+| Consultant(e) Confirmé Cybersécurité | Sia | Paris, fr | 2026-08-24 |
+| Consultant(e) Senior Cybersécurité | Sia | Paris, fr | 2026-08-24 |
+| Consultant(e) Résilience - Gestion de crise et continuité d’activité H/F | Sia | Paris, fr | 2026-08-24 |
+| Consultant - CIO, Data & AI Advisory | Sia | Paris, fr | 2026-08-24 |
+| Talent Acquisition | Harmattan Ai | Paris | 2026-08-24 |
+| VENDEUR CONSEIL - CDI H/F | BOULANGER | paris, fr | 2026-08-24 |
+| Subscription Services Representative (Renewals) - France | Everpure | Paris, France | 2026-08-24 |
+| Responsable Projets Stratégiques Europe de l’Ouest (H/F) | REXEL | PARIS, fr | 2026-08-24 |
+| Chef de projet CRM & Expérience client H/F - CDI - Paris (17ème) | REXEL | Paris, fr | 2026-08-24 |
+| Infirmier(ère) en santé au travail - en centre et à distance | Alan | Paris, France | 2026-08-24 |
+| Médecin du travail | Alan | Paris | 2026-08-24 |
+| CDI - HQ IT Security Manager | REXEL | Paris, fr | 2026-08-24 |
+| CDI - HQ IT Security Manager | REXEL | Paris, fr | 2026-08-24 |
+| Nucléaire - Ingénieur génie électrique H/F | ALTEN | Paris, fr | 2026-08-24 |
+| Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE) | Wavestone | Paris, fr | 2026-08-24 |
+| Administrateur SAP Basis (H/F) | Talan | Paris, fr | 2026-08-24 |
+| Expert Solutions Salesforce H/F | NEXTON | Paris, fr | 2026-08-24 |
+| Account Manager | Vocca | Paris | 2026-08-24 |
+| Consultant interne - Business Operations & Strategy H/F - Alternance | Fifty-Five | Paris, France | 2026-08-24 |
+| CDI - Directeur.trice Artistique Junior | We Are Social | Paris, France | 2026-08-24 |
+| Software Engineering Evaluation Specialist | Mindrift | Paris, France | 2026-08-24 |
 | Software Engineer, Platform - Paris, France | Speechify | Paris, France | 2026-08-23 |
 | Internship - FPGA Hardware Design - PQ Cryptography Hardware Accelerator | Cryptonext Security | Paris, France | 2026-08-23 |
 | Insurance Agent - Paris, TX | Horace Mann - Agent Opportunities | Paris, TX | 2026-08-21 |
@@ -42,35 +86,10 @@ _2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 | Regional General Manager, France | Notion | Paris, France | 2026-08-21 |
 | AI Research Engineer - GPU Simulation | Helsing | Munich - Berlin - London - Paris | 2026-08-21 |
 | Coordinateur Chef de Projet Formation – Facturation Électronique (H/F) | Quadient | Paris, fr | 2026-08-21 |
-| Stage – Chef(fe) de projet relations publiques et internationales (F/H/D) | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Data Scientist Manager | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Lead Software Engineer - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Manager Cloud Architect - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Open Application | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Senior consultant Digital Marketing (H/F) - CDI - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Senior Data Consultant (H/F) - CDI - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Senior Data Scientist | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Senior Software Engineer | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| (Stage / Alternance) Sales Development Representative (SDR) – AI & Innovation Ecosystem | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Stage – Assistant·e chargé·e de communication orienté.e contenus digitaux (F/H) | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Chargé(e) de paie et d’administration du personnel (H/F)- CDI - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Stage Communication – Stratégie événementielle & coordination (Adopt AI) | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Stage - Assistant(e) Comptable (H/F) - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Stage Communication – Stratégie & création de contenus (Adopt AI) | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| FREELANCE - SOCIAL MEDIA MANAGER / CONCEPTEUR REDACTEUR B2B (H/F) - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Stage - Community Manager (H/F) - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Data Analytics Manager | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Talent Acquisition Specialist Tech - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Superviseur Comptable (H/F) - CDI - PARIS | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Talent Acquisition Specialist Conseil - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Partner-France- LUXURY & BEAUTY | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Growth Tribe | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
-| Stagiaire consultant SMA (H/F) - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-21 |
 | Consultant Environnemental & Social en Financement Durable | Ramboll | Paris, fr | 2026-08-21 |
 | Alternant(e) - Assistant(e) Acquisition et Performance | Barrière | PARIS, fr | 2026-08-21 |
 | Environmental and Social Consultant/Managing Consultant for Sustainable Finance | Ramboll | Paris, fr | 2026-08-21 |
 | Intercompany Accountant | Harmattan Ai | Paris | 2026-08-21 |
-| Consultant(e) en Gestion de Configuration PLM (H/F) | ALTEN | Paris, fr | 2026-08-21 |
 | Customer Success Manager Enterprise - CDD | Gorgias | Paris | 2026-08-21 |
 | Senior Sales Engineer - Paris | Datadog | Paris, France | 2026-08-21 |
 | Chargé(e) de Stock Studio - F/H | Courir | PARIS, fr | 2026-08-21 |
@@ -80,9 +99,9 @@ _2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 | Head of Partner Marketing France | Deliveroo | Paris - Main Office | 2026-08-21 |
 | Data Scientist Senior H/F | NEXTON | Paris, fr | 2026-08-21 |
 | VP Engineering - Paris | Hcompany | Hybrid Paris | 2026-08-21 |
-| Director of Product - RPG | Homa | Paris, France | 2026-08-21 |
-| Commercial B2B sédentaire / Inside Sales Rep (ISR) | Treatwell | Paris, France | 2026-08-21 |
 | Clinical Engineer | Robeauté | Paris, France | 2026-08-21 |
+| Commercial B2B sédentaire / Inside Sales Rep (ISR) | Treatwell | Paris, France | 2026-08-21 |
+| Director of Product - RPG | Homa | Paris, France | 2026-08-21 |
 | Channel Sales Support Agent | Block | Paris, France | 2026-08-20 |
 | Expert HVAC H/F | ASSYSTEM | Paris, fr | 2026-08-20 |
 | Community Developer - March of Giants | Ubisoft | Paris, fr | 2026-08-20 |
@@ -94,21 +113,20 @@ _2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 | Coordinateur / assistant d'agence d'aide à domicile (H/F) | Ouihelp | Paris | 2026-08-20 |
 | Commercial itinérant BtoB Cuisine Professionnelle - CDI F/H | METRO/MAKRO | Paris, fr | 2026-08-20 |
 | Applied AI Engineer, Enterprise | Anthropic | Paris, France | 2026-08-20 |
-| Senior Partner Marketing Manager - Cloud & Channel | Datadog | London, United Kingdom; Madrid, Spain; Paris, France | 2026-08-20 |
 | Manager I, Engineering - Applied AI/ML Product Analytics Suite | Datadog | Paris, France | 2026-08-20 |
-| Coordinator, Emerging Talent Recruiting | Datadog | Paris, France | 2026-08-20 |
+| Senior Partner Marketing Manager - Cloud & Channel | Datadog | London, United Kingdom; Madrid, Spain; Paris, France | 2026-08-20 |
 | Staff Engineer, Compute | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-20 |
 | Emerging Talent Recruiter, Engineering | Datadog | Paris, France | 2026-08-20 |
+| Coordinator, Emerging Talent Recruiting | Datadog | Paris, France | 2026-08-20 |
 | Alternance - IT Asset & Stock Management (x/f/m) | Doctolib | Paris, Paris, France | 2026-08-20 |
 | Directrice / Directeur du pôle Structures complexes | Artelia | Paris, fr | 2026-08-20 |
 | Business Development Manager - Paris (CDD 6 mois) | Deliveroo | Paris - Main Office | 2026-08-20 |
-| IT Squad Lead - Paris (x/f/m) | Doctolib | Paris, Paris, France | 2026-08-20 |
+| IT Squad Finance Lead - Paris (x/f/m) | Doctolib | Paris, Paris, France | 2026-08-20 |
 | DBA Oracle (H/F) | EVERIENCE | Paris, fr | 2026-08-20 |
 | Software Engineer — Computation Kernels and Performance | Arago | Paris Offices | 2026-08-20 |
 | FSQA Manager RTE (all genders) | HelloFresh | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; London, England, United Kingdom; Paris, Paris, France | 2026-08-20 |
 | Ingénieur / Ingénieure OPC expérimenté | Artelia | Paris, fr | 2026-08-20 |
 | Analytics Engineer | Dashlane | Paris, France | 2026-08-20 |
-| Conseiller de Vente Expert Marée ( Responsable Poissonnerie) | METRO/MAKRO | Paris, fr | 2026-08-20 |
 | Commercial Account Executive - Paris | Navan | Paris, FR | 2026-08-20 |
 | Growth Intern | Finary | Paris | 2026-08-20 |
 | Backend Engineer (Go) | Prelude | Paris, France | 2026-08-19 |
@@ -128,15 +146,11 @@ _2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 | People Operations Manager | Joko | Paris | 2026-08-19 |
 | Head of Talent Acquisition | Joko | Paris | 2026-08-19 |
 | Junior Software Engineer | Sia | Paris, fr | 2026-08-19 |
-| Final Year Internship Consultant - Data Analyst | Sia | Paris, fr | 2026-08-19 |
-| Développeur/se C# .NET finance de marché - Services Financiers - Ile-de-France | Sopra Steria Corporate | Paris, fr | 2026-08-19 |
 | Navigation Engineer (Electronic Warfare) | Harmattan Ai | Paris | 2026-08-19 |
 | Commis de cuisine | Barrière | PARIS, fr | 2026-08-19 |
 | Signal Processing Engineer (RF Processing & Analytics) | Harmattan Ai | Paris | 2026-08-19 |
 | Signal Processing Engineer (Radio) | Harmattan Ai | Paris | 2026-08-19 |
 | Business Development Representative - Dutch Speaker | Algolia | Paris, France | 2026-08-19 |
-| CDI - Infrastructure Manager - Hosting & Cloud | REXEL | Paris, fr | 2026-08-19 |
-| CDI - Infrastructure Manager - Hosting & Cloud | REXEL | Paris, fr | 2026-08-19 |
 | Lead Engineer Front-End | Quadient | Paris, fr | 2026-08-19 |
 | People Ops (HR & Recruitment) - Intern | Scoreplay | Paris office | 2026-08-19 |
 | Assistant/e Administratif/ve et Commercial/e - F/H | ALTEREA | Paris, fr | 2026-08-19 |
@@ -167,11 +181,10 @@ _2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 | Senior Customer Success Manager - France 🇫🇷 | Alan | Paris, France | 2026-08-18 |
 | Développeur C++ Computer Vision / OCR / CUDA (H/F) | CITECH | Paris, fr | 2026-08-18 |
 | Senior SEO Strategist - Madrid based | FeverUp | Paris | 2026-08-18 |
-| Consultant IA / LLM & Cadrage ITSM (H/F) | CITECH | Paris, fr | 2026-08-18 |
 | Investment Professionals Associate - EU | EQT Group | Amsterdam, North Holland, Netherlands; København, Capital Region of Denmark, Denmark; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Paris, Paris, France; Stockholm, Stockholm, Sweden; Zürich, Zürich, Switzerland | 2026-08-18 |
-| HR Officer Intern | Singulier | Paris, France | 2026-08-18 |
-| Marketing & Communication Intern | Singulier | Paris, France | 2026-08-18 |
 | Business Strategy Intern | Singulier | Paris, France | 2026-08-18 |
+| Marketing & Communication Intern | Singulier | Paris, France | 2026-08-18 |
+| HR Officer Intern | Singulier | Paris, France | 2026-08-18 |
 | Spiral Ingénieur Blockchain | Block | Paris, France | 2026-08-17 |
 | Spiral Blockchain Engineer | Block | Paris, France | 2026-08-17 |
 | Core platform growth engineering | Lucis | Paris | 2026-08-17 |
@@ -204,12 +217,11 @@ _2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 | Senior Product Manager - BackShip | Backmarket | Paris | 2026-08-17 |
 | Ingénieur Support Technique L2/L3 – Digital Solutions | Quadient | Paris, fr | 2026-08-17 |
 | Senior Automation & Process Lead - Product | Believe | Paris, fr | 2026-08-17 |
-| Partner Development Manager - French Speaking | New Relic | Dublin, Ireland; London, United Kingdom; Paris, France | 2026-08-17 |
+| Partner Sales Manager - French Speaking | New Relic | Dublin, Ireland; London, United Kingdom; Paris, France | 2026-08-17 |
 | Coiffeur / Coiffeuse | PROVALLIANCE | Paris, fr | 2026-08-17 |
 | Coiffeur / Coiffeuse | PROVALLIANCE | Paris, fr | 2026-08-17 |
 | ALTERNANCE - Assistant Comptable Gestion Locative - F/H | ALTAREA | Paris, fr | 2026-08-17 |
 | Strategy & Operations Manager - Creative | Voodoo | Paris | 2026-08-17 |
-| Software Engineering Evaluation Specialist | Mindrift | Paris, France | 2026-08-17 |
 | Product ML Engineer | Photoroom | Paris | 2026-08-15 |
 | Product Manager, Editing Foundations | Photoroom | Paris | 2026-08-15 |
 | Staff Product Manager, Agentic & AI Platform | Photoroom | Paris | 2026-08-15 |
@@ -232,20 +244,19 @@ _2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 | Founding Account Executive - Comet | Voodoo | Paris | 2026-08-14 |
 | Coiffeur / Coiffeuse | PROVALLIANCE | Paris, fr | 2026-08-14 |
 | Senior Independent Sales Consultant - Rokt Ads, France (Independent Con | Rokt | Paris, France | 2026-08-14 |
-| Oracle ERP Cloud - Program Manager | Infosys Consulting - Europe | Paris, France | 2026-08-14 |
-| Senior Accountant (all genders) | Shiftmove | Paris, France | 2026-08-14 |
-| Channel Sales Manager | Cryptonext Security | Paris, France | 2026-08-14 |
 | Key Account Manager | Cryptonext Security | Paris, France | 2026-08-14 |
-| Talent Acquisition Coordination (x/f/m) | Doctolib | Paris, Paris, France | 2026-08-13 |
+| Senior Accountant (all genders) | Shiftmove | Paris, France | 2026-08-14 |
+| Oracle ERP Cloud - Program Manager | Infosys Consulting - Europe | Paris, France | 2026-08-14 |
+| Channel Sales Manager | Cryptonext Security | Paris, France | 2026-08-14 |
 | Retail Customer Service Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-08-13 |
-| Area Lead, South Europe | On | Paris | 2026-08-13 |
-| Lead Store Advisor (Superviseur) / CDD - St. Germain | On | Paris | 2026-08-13 |
-| Associate Store Leader (Responsable adjoint de boutique) , Saint Germain | On | Paris | 2026-08-13 |
-| Lead Store Advisor (Superviseur), Champs-Elysées | On | Paris | 2026-08-13 |
-| Lead Store Advisor (Superviseur), Galeries Lafayette | On | Paris | 2026-08-13 |
-| Store Advisor, Galeries Lafayette | On | Paris | 2026-08-13 |
 | Store Advisor, La Vallée Village Outlet | On | Paris | 2026-08-13 |
+| Store Advisor, Galeries Lafayette | On | Paris | 2026-08-13 |
 | Store Advisor, Champs-Elysées | On | Paris | 2026-08-13 |
+| Lead Store Advisor (Superviseur) / CDD - St. Germain | On | Paris | 2026-08-13 |
+| Lead Store Advisor (Superviseur), Champs-Elysées | On | Paris | 2026-08-13 |
+| Area Lead, South Europe | On | Paris | 2026-08-13 |
+| Associate Store Leader (Responsable adjoint de boutique) , Saint Germain | On | Paris | 2026-08-13 |
+| Lead Store Advisor (Superviseur), Galeries Lafayette | On | Paris | 2026-08-13 |
 | Founder's Associate - New Venture | iBanFirst | Brussels; London; Paris | 2026-08-13 |
 | Indirect Sales Manager, France | Block | Paris, France | 2026-08-13 |
 | Senior Consultant - Risque de marché et de contrepartie H/F | Capco | France - Paris | 2026-08-13 |
@@ -283,29 +294,18 @@ _2,339 open · showing the 300 most recent · updated 2026-08-24 04:15 UTC_
 | Software Engineer, Data Infrastructure & Acquisition - Paris, France | Speechify | Paris, France | 2026-08-13 |
 | Client Relationship Representative (In-House) | Viva.com | Paris, France | 2026-08-13 |
 | Sr. Client Partner (8-Month Fixed Term) | Pinterest | Paris, FR | 2026-08-12 |
-| Senior Applied Scientist - Behavior AI | Datadog | Paris, France | 2026-08-12 |
+| Technical Escalations Engineer 2 (Network Monitoring) - EMEA | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
+| Director, Engineering - Digital Experience Monitoring | Datadog | Paris, France | 2026-08-12 |
+| AI Research Scientist - Datadog AI Research (DAIR) | Datadog | Paris, France | 2026-08-12 |
+| Technical Support Engineer 2, Premier - EMEA | Datadog | Dublin, Ireland; Paris, France | 2026-08-12 |
+| Staff Engineer - Data Semantics | Datadog | Madrid, Spain; Paris, France | 2026-08-12 |
+| Staff Engineer - Data Platform Experience | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
+| Major Account Manager (EMEA) | Datadog | Paris, France; Switzerland, Remote | 2026-08-12 |
 | Program Manager - Community Content and Events (EMEA) | Datadog | Paris, France | 2026-08-12 |
 | Senior Applied Scientist | Datadog | Paris, France | 2026-08-12 |
-| Strategic Account Executive - Paris | Datadog | Paris, France | 2026-08-12 |
-| Product Strategy and Corporate Development Lead (EMEA) | Datadog | Paris, France | 2026-08-12 |
-| Technical Enablement Manager 3 (Italian Speaking) | Datadog | Amsterdam, The Netherlands; Dublin, Ireland; Paris, France | 2026-08-12 |
-| Product Manager II - Application Performance Monitoring | Datadog | Paris, France | 2026-08-12 |
-| Product Manager II, AI & Data Security | Datadog | Paris, France | 2026-08-12 |
-| Manager I, Engineering - AI Platform - Training & Serving | Datadog | Paris, France | 2026-08-12 |
-| Manager I, Engineering - Code Security | Datadog | Paris, France | 2026-08-12 |
-| Manager I, Engineering - AI Platform - Evaluation & Annotation | Datadog | Paris, France | 2026-08-12 |
-| Manager I, Engineering - Source Code Integration | Datadog | Paris, France | 2026-08-12 |
-| Manager I, Applied AI - Distilled Models | Datadog | Paris, France | 2026-08-12 |
-| Manager I, Engineering - Sensitive Data Scanner | Datadog | Paris, France | 2026-08-12 |
-| AI Research Engineer - Datadog AI Research (DAIR) | Datadog | Paris, France | 2026-08-12 |
-| Senior Security Engineer - Cloud SIEM | Datadog | Dublin, Ireland; Madrid, Spain; Paris, France | 2026-08-12 |
-| Manager I, Engineering - Husky | Datadog | Paris, France | 2026-08-12 |
-| Manager I, Engineering - Observability Pipelines (OP) | Datadog | Paris, France | 2026-08-12 |
-| Director, Engineering - Digital Experience Monitoring | Datadog | Paris, France | 2026-08-12 |
+| Senior Applied Scientist - Behavior AI | Datadog | Paris, France | 2026-08-12 |
 | Director, Technical Account Management | Datadog | Dublin, Ireland; London, United Kingdom; Paris, France | 2026-08-12 |
-| Major Account Manager (EMEA) | Datadog | Paris, France; Switzerland, Remote | 2026-08-12 |
-| Executive Assistant II - Paris | Datadog | Paris, France | 2026-08-12 |
-| Manager I, Engineering - Security Libraries | Datadog | Paris, France | 2026-08-12 |
+| Manager I, Engineering - Husky | Datadog | Paris, France | 2026-08-12 |
 
 ---
 
