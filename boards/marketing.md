@@ -2,15 +2,23 @@
 
 Roles whose title reads as marketing.
 
-_11,491 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
+_11,471 open · showing the 300 most recent · updated 2026-08-28 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Product Marketing Manager | Come Work with Us | United States | 2026-08-28 |
+| Retail Marketing Associate Manager | Balance |  | 2026-08-27 |
+| Director, Retention Marketing | The Nielsen Company | Remote, us | 2026-08-27 |
+| Intern, Growth and Marketing (Autonomous Vehicles) | Grab | Singapore, sg | 2026-08-27 |
+| Design Engineer, Growth | Ambrook | New York | 2026-08-27 |
+| Software Engineer, Growth | Ambrook | New York | 2026-08-27 |
 | Directeur(trice) des ventes et marketing | AccorHotel | Montreal, ca | 2026-08-26 |
+| Marketing Manager I/II | AbbVie | Mettawa, us | 2026-08-26 |
 | Marketing Strategy Specialist | Delivery Hero | San Salvador, sv | 2026-08-26 |
 | Marketing Events and Social Media Specialist | Safelease | Remote | 2026-08-26 |
 | Brand Paid Media Manager | Aspen Skiing Company | Basalt, us | 2026-08-26 |
 | Director of Experiential Marketing & Events | Verisoul | Austin | 2026-08-26 |
+| Portfolio Marketing Manager APAC | Jack Link's Protein Snacks | Macquarie Park, au | 2026-08-26 |
 | Head of Performance Marketing & Acquisition | Batoncorporation | New York | 2026-08-26 |
 | Partner Marketing Manager, AWS | Openai | San Francisco | 2026-08-26 |
 | Partner Marketing Manager, Technology Partners & ISVs | Openai | San Francisco | 2026-08-26 |
@@ -19,6 +27,7 @@ _11,491 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Resource Manager, Business Marketing | Openai | San Francisco | 2026-08-26 |
 | Leasing & Marketing Manager | The Scion Group | Capstone Cottages of Lubbock, Lubbock, Texas, United States; The Grove at Lubbock, Lubbock, Texas, United States | 2026-08-26 |
 | Retail Brand Ambassador | Renuity | Lake Charles, LA | 2026-08-26 |
+| Marketing Operations & Program Manager | Synd | United States | 2026-08-26 |
 | Brand Marketing Program Manager | Plaid | San Francisco HQ | 2026-08-26 |
 | SR Analista Salesforce Marketing Cloud | ília | Brasil | 2026-08-26 |
 | Growth PM | Elevenlabs | United Kingdom | 2026-08-26 |
@@ -27,13 +36,14 @@ _11,491 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Sr Content Marketing Manager | Nebulock | United States | 2026-08-26 |
 | Digital Marketing Manager (Integrated Campaigns) | Lighthouse | Valencia, Spain | 2026-08-26 |
 | Digital Marketing Manager (Integrated Campaigns) | Lighthouse | Greater Madrid Metropolitan Area | 2026-08-26 |
-| Staff Product Designer, Merchant Marketing | DoorDash USA | San Francisco, CA; New York, NY; Seattle, WA; Sunnyvale, CA | 2026-08-26 |
 | Staff Product Designer, Dasher Growth | DoorDash USA | San Francisco, CA; New York, NY; Sunnyvale, CA | 2026-08-26 |
+| Staff Product Designer, Merchant Marketing | DoorDash USA | San Francisco, CA; New York, NY; Seattle, WA; Sunnyvale, CA | 2026-08-26 |
 | Business Analyst (Growth) | Salmon Group | Metro Manila | 2026-08-26 |
 | Staff Technical Lead - Marketing Studio Intelligence | HubSpot | London, United Kingdom | 2026-08-26 |
 | Senior Marketing Executive - B2B Customer Marketing | EDF UK | London, gb | 2026-08-26 |
 | Senior Marketing Executive - TPI & Broker Marketing | EDF UK | London, gb | 2026-08-26 |
 | Field and Partner Marketing Manager \| EMEA \| Maternity Cover | Cast AI | European Union | 2026-08-26 |
+| Manager, Digital Content | Harvard University | Cambridge, us | 2026-08-26 |
 | Project Manager (Growth) | Salmon Group | Georgia | 2026-08-26 |
 | Talent Acquisition Specialist & Employer Branding - PARIS SOCIETY (H/F) | AccorHotel | Paris, fr | 2026-08-26 |
 | Brand Ambassador -Humble, TX | Renuity | Humble, TX | 2026-08-26 |
@@ -70,6 +80,7 @@ _11,491 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Staff Technical Lead - Marketing Studio Intelligence | HubSpot | Remote - United Kingdom | 2026-08-26 |
 | Strategic Growth Executive | Codec | Dublin | 2026-08-26 |
 | Elektroniker / Sicherheitstechniker - Gebiet Berlin / Brandenburg (w/m/div.) | Bosch Group | Berlin, de | 2026-08-26 |
+| Brand Manager – Neuroscience Czech Republic & Slovakia | AbbVie | Prague, cz | 2026-08-26 |
 | Brand Manager - Derma | Dr Reddy's Laboratories Limited | Hyderabad, in | 2026-08-26 |
 | Performance Marketing Manager - Maternity Cover (m/f/d) | Yepoda | Berlin | 2026-08-26 |
 | Junior content moderator | Skelar | Ukraine, Remote | 2026-08-26 |
@@ -101,46 +112,46 @@ _11,491 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Director, Marketing Planning and Operations | Life360 | Remote, USA | 2026-08-26 |
 | Sr. Product Marketing Manager, Enterprise | Ashby | Remote - US | 2026-08-26 |
 | Head of Brand Narrative & Keynote | Ashby | Remote - US | 2026-08-26 |
-| Czech Digital Content Review Agent | Atlean World | Lisbon, Portugal | 2026-08-26 |
-| Marketing Data Engineer - Ad Tech (US hours) | VirtuHire | South Africa | 2026-08-26 |
-| AIRNEX - Affiliate Marketing Manager | JobRack | Serbia | 2026-08-26 |
-| Trust & Safety Content Analyst with Dutch | Atlean World | Thessaloniki, Greece | 2026-08-26 |
-| Trust & Safety Content Analyst with Polish | Atlean World | Thessaloniki, Greece | 2026-08-26 |
-| Growth & Operations Lead (UAE) | Interweave | Dubai, United Arab Emirates | 2026-08-26 |
-| Content Reviewer with Norwegian | Atlean World | Thessaloniki, Greece | 2026-08-26 |
-| Content Reviewer with Swedish | Atlean World | Thessaloniki, Greece | 2026-08-26 |
-| Growth Marketing Manager | Pavago | Brazil | 2026-08-26 |
-| Email Marketing Specialist | Pavago | Pakistan | 2026-08-26 |
-| Digital Marketing Manager | Pavago | South Africa | 2026-08-26 |
-| Digital Marketing Account Manager | Pavago | Colombia | 2026-08-26 |
-| Inbound Marketing Lead | DotActiv | Cape Town, South Africa | 2026-08-26 |
-| Finnish Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-08-26 |
-| Content Reviewer with Finnish | Atlean World | Thessaloniki, Greece | 2026-08-26 |
-| Manager, Data Engineering (Marketing) | Square Enix | London, United Kingdom | 2026-08-26 |
-| Soccer & Marketing Coordinator | Super Soccer Stars | Winter Garden, United States | 2026-08-26 |
-| SEO Link Builder | NoGigiddy | Aurora, United States | 2026-08-26 |
-| SEO Link Builder | NoGigiddy | Charlotte, United States | 2026-08-26 |
-| SEO Link Builder | NoGigiddy | Arlington, United States | 2026-08-26 |
-| SEO Link Builder | NoGigiddy | Colorado Springs, United States | 2026-08-26 |
-| SEO Link Builder | NoGigiddy | Chicago, United States | 2026-08-26 |
-| Digital Marketing Support Specialist - French Speakers | Atlean World | Lisbon, Portugal | 2026-08-26 |
-| Trade Marketing Executive | The Very Group | Liverpool, United Kingdom | 2026-08-26 |
-| Content Creator Ebooks | Workana | United States | 2026-08-26 |
-| SEO Link Builder | NoGigiddy | Columbus, United States | 2026-08-26 |
-| SEO Link Builder | NoGigiddy | Albuquerque, United States | 2026-08-26 |
-| B2B Digital Marketing & HubSpot Specialist (023-1253) | Hunt St | Philippines | 2026-08-26 |
-| Swedish Speaking Content Moderator - Work In Sofia, Bulgaria | Mercier Consultancy Group | Sofia, Bulgaria | 2026-08-26 |
-| Marketing Communications Specialist - CPM Ireland | CPM Ireland | Cork, Ireland | 2026-08-26 |
-| Performance Marketing | Weekday AI | Gurugram, India | 2026-08-26 |
-| Swedish Speaking Social Media Content Moderators - Work In Athens, Greece | Mercier Consultancy Group | Greece | 2026-08-26 |
-| Fall Semester Internship: Influencer Marketing | moomoo | Jersey City, United States | 2026-08-26 |
 | Lead Content Producer - Corporate Training (Video) | JoVE | India | 2026-08-26 |
+| Content Creator Ebooks | Workana | United States | 2026-08-26 |
+| Fall Semester Internship: Influencer Marketing | moomoo | Jersey City, United States | 2026-08-26 |
+| Swedish Speaking Content Moderator - Work In Sofia, Bulgaria | Mercier Consultancy Group | Sofia, Bulgaria | 2026-08-26 |
+| Trade Marketing Executive | The Very Group | Liverpool, United Kingdom | 2026-08-26 |
+| Marketing Data Engineer - Ad Tech (US hours) | VirtuHire | South Africa | 2026-08-26 |
 | Brand Manager DACH | Karo Healthcare | Düsseldorf, Germany | 2026-08-26 |
-| CRM & Retention Marketing Specialist | Paired | Brazil | 2026-08-26 |
-| Account Director (Business Growth) | Weekday AI | Dubai, United Arab Emirates | 2026-08-26 |
+| Swedish Speaking Social Media Content Moderators - Work In Athens, Greece | Mercier Consultancy Group | Greece | 2026-08-26 |
 | Swedish Speaking Social Media Content Moderators - Work In Athens, Greece | Mercier Consultancy Group | Greece | 2026-08-26 |
 | Swedish Speaking GenAI Content Trust and Safety Experts - Work In Athens, Greece | Mercier Consultancy Group | Greece | 2026-08-26 |
+| Marketing Communications Specialist - CPM Ireland | CPM Ireland | Cork, Ireland | 2026-08-26 |
+| Trust & Safety Content Analyst with Dutch | Atlean World | Thessaloniki, Greece | 2026-08-26 |
+| AIRNEX - Affiliate Marketing Manager | JobRack | Serbia | 2026-08-26 |
+| Growth & Operations Lead (UAE) | Interweave | Dubai, United Arab Emirates | 2026-08-26 |
+| B2B Digital Marketing & HubSpot Specialist (023-1253) | Hunt St | Philippines | 2026-08-26 |
 | Web Content & Rebrand Migration Specialist | Sand Cherry Associates | United States | 2026-08-26 |
+| Manager, Data Engineering (Marketing) | Square Enix | London, United Kingdom | 2026-08-26 |
+| Performance Marketing | Weekday AI | Gurugram, India | 2026-08-26 |
+| Account Director (Business Growth) | Weekday AI | Dubai, United Arab Emirates | 2026-08-26 |
+| CRM & Retention Marketing Specialist | Paired | Brazil | 2026-08-26 |
+| SEO Link Builder | NoGigiddy | Aurora, United States | 2026-08-26 |
+| SEO Link Builder | NoGigiddy | Charlotte, United States | 2026-08-26 |
+| Content Reviewer with Finnish | Atlean World | Thessaloniki, Greece | 2026-08-26 |
+| Content Reviewer with Norwegian | Atlean World | Thessaloniki, Greece | 2026-08-26 |
+| Content Reviewer with Swedish | Atlean World | Thessaloniki, Greece | 2026-08-26 |
+| Czech Digital Content Review Agent | Atlean World | Lisbon, Portugal | 2026-08-26 |
+| Digital Marketing Support Specialist - French Speakers | Atlean World | Lisbon, Portugal | 2026-08-26 |
+| Finnish Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-08-26 |
+| Inbound Marketing Lead | DotActiv | Cape Town, South Africa | 2026-08-26 |
+| Trust & Safety Content Analyst with Polish | Atlean World | Thessaloniki, Greece | 2026-08-26 |
+| SEO Link Builder | NoGigiddy | Chicago, United States | 2026-08-26 |
+| Digital Marketing Manager | Pavago | South Africa | 2026-08-26 |
+| Email Marketing Specialist | Pavago | Pakistan | 2026-08-26 |
+| SEO Link Builder | NoGigiddy | Columbus, United States | 2026-08-26 |
+| SEO Link Builder | NoGigiddy | Albuquerque, United States | 2026-08-26 |
+| Soccer & Marketing Coordinator | Super Soccer Stars | Winter Garden, United States | 2026-08-26 |
+| Digital Marketing Account Manager | Pavago | Colombia | 2026-08-26 |
+| Growth Marketing Manager | Pavago | Brazil | 2026-08-26 |
+| SEO Link Builder | NoGigiddy | Colorado Springs, United States | 2026-08-26 |
+| SEO Link Builder | NoGigiddy | Arlington, United States | 2026-08-26 |
 | Partner Marketing Lead, Cloud | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-25 |
 | Content Lead | A16Z New Media | San Francisco | 2026-08-25 |
 | Especialista Growth -Jornada & Campanha | iFood | Brasil | 2026-08-25 |
@@ -159,12 +170,10 @@ _11,491 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Product Brand Designer | Whitecircle | Remote, US (San Francisco or New York) | 2026-08-25 |
 | Marketing Manager | WildBrain | Toronto, ca | 2026-08-25 |
 | Représentant·e marketing de quartier, Rive-Sud | Videotron | Longueuil, ca | 2026-08-25 |
-| Associate Director, HCP Marketing - Spasticity | AbbVie | Irvine, us | 2026-08-25 |
 | Sr Content Producer (Global) | Monster Energy | USA - Corona, CA | 2026-08-25 |
 | Staff Product Engineer - Brand | Faire | Kitchener-Waterloo, ON; Toronto, ON | 2026-08-25 |
 | Sr. Industry Marketing Manager, Startups | Databricks | United States | 2026-08-25 |
 | Staff Applied AI/ML Scientist - Brand Growth & Marketplace Quality | Faire | San Francisco, CA | 2026-08-25 |
-| Marketing Manager II, Patient Services Marketing - Neurology | AbbVie | Mettawa, us | 2026-08-25 |
 | Content Marketing Manager | Coursera | United States | 2026-08-25 |
 | Sr. Manager, Performance Marketing | Jump App | Remote | 2026-08-25 |
 | Director of Client Services -Sales - Branded Promotional Merchandise | BDA | Waterloo, Ontario, Canada | 2026-08-25 |
@@ -273,7 +282,7 @@ _11,491 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Field Marketing Manager | Starburst | Boston, MA | 2026-08-25 |
 | Growth Marketing Lead, Organic | Middesk | New York | 2026-08-25 |
 | Content and Social Media Manager | Oddin | Europe | 2026-08-25 |
-| Brand and Creative Marketing Manager | Oddin | Europe | 2026-08-25 |
+| Brand and Creative Designer | Oddin | Europe | 2026-08-25 |
 | Business Development & Marketing Manager | Clifford Chance | London, gb | 2026-08-25 |
 | Marketing Director | Guild Garage Group | A Plus - West Valley City, UT | 2026-08-25 |
 | Marketing Director | A Plus Garage Doors - Utah | West Valley City, UT | 2026-08-25 |
@@ -297,15 +306,6 @@ _11,491 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Marketing Strategy Manager - Mandarin speaker | FeverUp | London | 2026-08-25 |
 | Marketing Strategy Manager - Mandarin speaker | FeverUp | Madrid | 2026-08-25 |
 | Marketing Strategy Manager - English speaker | FeverUp | Hong Kong | 2026-08-25 |
-| Marketing Strategy Manager - English speaker | FeverUp | Shanghai | 2026-08-25 |
-| Junior Content Strategist - Sport | Frasers Group | London, gb | 2026-08-25 |
-| Growth Strategy Manager - Madrid based | FeverUp | Paris | 2026-08-25 |
-| Content Marketing Manager (All Genders) | zooplus SE | Munich, de | 2026-08-25 |
-| Brand Data Production Manager (m/f/d) | Statista | Hamburg or Berlin | 2026-08-25 |
-| Marketing Manager | Zscaler | Remote - Germany | 2026-08-25 |
-| Content Writer | KnowledgeCity | India | 2026-08-25 |
-| Growth Strategy & Expansion Manager | FeverUp | Madrid | 2026-08-25 |
-| Marketing Specialist - Brazil | Amboss | Brazil | 2026-08-25 |
 
 ---
 

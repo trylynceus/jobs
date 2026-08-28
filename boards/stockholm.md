@@ -2,10 +2,12 @@
 
 Roles listing Stockholm as their location.
 
-_558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
+_559 open · showing the 300 most recent · updated 2026-08-28 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| BDR Team Lead EMEA | Legora | Stockholm HQ | 2026-08-27 |
+| AI Enablement Manager | Legora | Stockholm HQ | 2026-08-27 |
 | Account Executive | Delivery Hero | Stockholm, se | 2026-08-26 |
 | Accounts Payable Lead | Legora | Stockholm HQ | 2026-08-26 |
 | Solutions Architect - Nordics | Cohere | Stockholm | 2026-08-26 |
@@ -15,8 +17,8 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Senior Manager to Deloitte’s Business Finance team (Stockholm) | Deloitte | Stockholm, se | 2026-08-26 |
 | AI Engineer - FDE (Forward Deployed Engineer) | Databricks | Stockholm, Sweden | 2026-08-26 |
 | Staff Accountant | Legora | Stockholm HQ | 2026-08-26 |
-| DevOps Software Developer | InventYOU AB | Stockholm, Sweden | 2026-08-26 |
 | Customer Supply Coordinator Nordics | Karo Healthcare | Stockholm, Sweden | 2026-08-26 |
+| DevOps Software Developer | InventYOU AB | Stockholm, Sweden | 2026-08-26 |
 | Technical Chief of Staff | Clera | Stockholm | 2026-08-25 |
 | Associate, EMEA Marketing | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-25 |
 | Senior Accountant | Legora | Stockholm HQ | 2026-08-25 |
@@ -92,9 +94,9 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Client Director | Nexthink | Stockholm, se | 2026-08-18 |
 | Juniora Analysts till Finance Transformation (Stockholm) – Aug 2027 | Deloitte | Stockholm, se | 2026-08-18 |
 | Juniora Analysts till Finance Transformation (Stockholm) – Jan 2027 | Deloitte | Stockholm, se | 2026-08-18 |
-| Application & AI Cyber Security Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
-| Applied AI Lead | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
 | Investment Professionals Associate - EU | EQT Group | Amsterdam, North Holland, Netherlands; København, Capital Region of Denmark, Denmark; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Paris, Paris, France; Stockholm, Stockholm, Sweden; Zürich, Zürich, Switzerland | 2026-08-18 |
+| Applied AI Lead | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
+| Application & AI Cyber Security Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
 | Senior Platform Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
 | Design Director | Mentimeter | Stockholm | 2026-08-18 |
 | Biträdande Projektledare - Byggkonsultverksamhet | Drees & Sommer SE | Stockholm, se | 2026-08-17 |
@@ -116,8 +118,8 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Senior Manager Commercial Excellence ITB | Karo Healthcare | Stockholm, Sweden | 2026-08-14 |
 | Deployment Strategist, Professional Services Global D&I | Planet | Stockholm, Sweden | 2026-08-13 |
 | Key Account Manager, Nordics (Maternity Cover – 14-Month Fixed-Term Contract) | On | Stockholm | 2026-08-13 |
-| Retail - Lead Store Advisor, Stockholm | On | Stockholm | 2026-08-13 |
 | Senior Specialist - Nordic Fashion Sales Representative | On | Stockholm | 2026-08-13 |
+| Retail - Lead Store Advisor, Stockholm | On | Stockholm | 2026-08-13 |
 | Technical Account Manager - Stockholm | Legora | Stockholm HQ | 2026-08-13 |
 | Product Manager (Agents) | Lovable | Stockholm | 2026-08-13 |
 | Senior Art Director | Mojang Studios | Stockholm | 2026-08-13 |
@@ -128,9 +130,9 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Software Engineer, iOS Core Product - Stockholm, Sweden | Speechify | Stockholm, Sweden | 2026-08-13 |
 | Software Engineer, Platform - Stockholm, Sweden | Speechify | Stockholm, Sweden | 2026-08-13 |
 | Senior Account Executive | Cohere | Stockholm | 2026-08-12 |
-| Partner Solutions Architect (Pan-EMEA GSI) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
 | Enterprise Sales Executive (Sweden) | Datadog | Stockholm, Sweden | 2026-08-12 |
 | Enterprise Sales Engineer - Nordics | Datadog | Copenhagen, Denmark; Stockholm, Sweden | 2026-08-12 |
+| Partner Solutions Architect (Pan-EMEA GSI) | Datadog | Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden | 2026-08-12 |
 | Senior Product Manager | Mojang Studios | Stockholm | 2026-08-12 |
 | Senior Consultants to Deloitte’s M&A Finance team in Stockholm | Deloitte | Stockholm, se | 2026-08-12 |
 | (Senior) Programme Manager | Helsing | Stockholm | 2026-08-12 |
@@ -143,8 +145,8 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Lakebase Sales Specialist | Databricks | Stockholm, Sweden | 2026-08-11 |
 | Senior Solutions Architect | Databricks | Stockholm, Sweden | 2026-08-11 |
 | Solutions Architect | Databricks | Stockholm, Sweden | 2026-08-11 |
-| Delivery Solutions Architect | Databricks | Finland; Remote - Denmark; Stockholm, Sweden | 2026-08-11 |
 | Core Account Executive, Nordics (Digital Natives) | Databricks | Stockholm, Sweden | 2026-08-11 |
+| Delivery Solutions Architect | Databricks | Finland; Remote - Denmark; Stockholm, Sweden | 2026-08-11 |
 | IT Specialist | Lovable | Stockholm | 2026-08-11 |
 | Partner Solution Engineer | Snowflake | SE-Stockholm-MSO | 2026-08-11 |
 | Sales Manager Business Information | Coface | Stockholm, se | 2026-08-11 |
@@ -172,8 +174,8 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | AI Ops Engineer (People Team) | Lovable | Stockholm | 2026-08-06 |
 | Territory Systems Engineer, Commercial, (Nordics) | Everpure | Stockholm, Sweden | 2026-08-06 |
 | Customer Success Manager | Keyfactor, Inc. | USA; Remote, UK; Remote, Sweden; Stockholm | 2026-08-06 |
-| Product Manager | Tandem Health | Stockholm | 2026-08-06 |
 | Product Manager | Aminocollective | Stockholm | 2026-08-06 |
+| Product Manager | Tandem Health | Stockholm | 2026-08-06 |
 | Senior Product Designer | Aminocollective | Stockholm | 2026-08-06 |
 | Senior Product Designer | Tandem Health | Stockholm | 2026-08-06 |
 | Senior Backend Engineer - Music Monetization & DRM | Epidemic Sound | Stockholm HQ | 2026-08-06 |
@@ -200,14 +202,14 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | AI-first Creative Lead | Aceve | Stockholm | 2026-08-03 |
 | Senior Agentic NetSuite Developer | Epidemic Sound | Stockholm HQ | 2026-08-03 |
 | Agentic ERP Solution Engineer (NetSuite) | Epidemic Sound | Stockholm HQ | 2026-08-03 |
-| Data Manager (FME) | EUROPEAN DYNAMICS | Stockholm, Sweden | 2026-08-03 |
 | Solution Architect (SharePoint, Power Platform,Power BI, Azure) | EUROPEAN DYNAMICS | Stockholm, Sweden | 2026-08-03 |
+| Data Manager (FME) | EUROPEAN DYNAMICS | Stockholm, Sweden | 2026-08-03 |
 | Channel Account Director | Keyfactor, Inc. | Sweden; Stockholm, Netherlands; Remote | 2026-07-31 |
 | Backend Software Engineer Team Lead | Betsson Group | Stockholm | 2026-07-31 |
 | Client Value Partner | Celonis | Stockholm, Sweden | 2026-07-30 |
 | Platform Specialist | Legora | Stockholm HQ | 2026-07-30 |
-| Senior AI Engineer | Tandem Health | Stockholm | 2026-07-29 |
 | Senior AI Engineer | Aminocollective | Stockholm | 2026-07-29 |
+| Senior AI Engineer | Tandem Health | Stockholm | 2026-07-29 |
 | Account Executive | Neuralconcept | Stockholm | 2026-07-29 |
 | Senior Web Designer | Legora | Stockholm HQ | 2026-07-29 |
 | Senior Web Designer | Legora | Stockholm | 2026-07-29 |
@@ -220,15 +222,15 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Manager, Pre-Sales and Solution Engineering - Nordics | Celonis | Stockholm, Sweden | 2026-07-26 |
 | Head of Value Engineering - Nordics | Celonis | Stockholm, Sweden | 2026-07-26 |
 | Data Science Pod Lead | Neko Health | Stockholm | 2026-07-24 |
-| Senior Product Marketing Manager | Legora | Stockholm | 2026-07-24 |
 | Senior Product Marketing Manager, Pricing & Packaging | Legora | Stockholm HQ | 2026-07-24 |
+| Senior Product Marketing Manager | Legora | Stockholm | 2026-07-24 |
 | Head of Global GxP Quality System and Compliance | Sobi | Stockholm, se | 2026-07-24 |
 | Enterprise Architect Director | Celonis | Stockholm, Sweden | 2026-07-24 |
 | Senior Partner & Field Marketing Manager Nordics (m/f/x) | Eye Security | Stockholm - remote | 2026-07-22 |
 | Executive Assistant to the CEO | Lovable | Stockholm | 2026-07-21 |
 | Blockchef till Megaprojekt | NCC | Stockholm, se | 2026-07-20 |
-| Web Developer / Web Owner | Legora | Stockholm HQ | 2026-07-20 |
 | Web Developer / Web Owner | Legora | Stockholm | 2026-07-20 |
+| Web Developer / Web Owner | Legora | Stockholm HQ | 2026-07-20 |
 | Lead Infrastructure Engineer | Arcesium LLC | Stockholm, Sweden | 2026-07-17 |
 | Global Mobility & Immigration Lead | Lovable | Stockholm | 2026-07-17 |
 | HR Business Partner - Engineering, Product, Design (EPD) | Lovable | Stockholm | 2026-07-17 |
@@ -242,15 +244,15 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Cloud Engineer | Keyfactor, Inc. | Sweden; Stockholm | 2026-07-15 |
 | Senior Cloud Engineer | Keyfactor, Inc. | Sweden; Stockholm | 2026-07-15 |
 | General Manager, Sweden | Neko Health | Stockholm | 2026-07-14 |
+| Technical Platform Expert | Legora | Stockholm HQ | 2026-07-13 |
 | Technical Platform Expert - Stockholm | Legora | Stockholm HQ | 2026-07-13 |
-| Technical Platform Expert - Stockholm | Legora | Stockholm HQ | 2026-07-13 |
-| Principal Platform Advisor - Stockholm | Legora | Stockholm HQ | 2026-07-13 |
 | Principal Platform Advisor | Legora | Stockholm | 2026-07-13 |
+| Principal Platform Advisor - Stockholm | Legora | Stockholm HQ | 2026-07-13 |
 | Product Experience Specialist (Full Time) | Lovable | Stockholm | 2026-07-13 |
 | Platform Consultant | Legora | Stockholm | 2026-07-13 |
 | Platform Consultant - Stockholm | Legora | Stockholm HQ | 2026-07-13 |
-| Payroll & People Specialist - Stockholm | Aminocollective | Stockholm | 2026-07-10 |
 | Payroll & People Specialist - Stockholm | Tandem Health | Stockholm | 2026-07-10 |
+| Payroll & People Specialist - Stockholm | Aminocollective | Stockholm | 2026-07-10 |
 | Information Security Manager | Kognity | Stockholm | 2026-07-10 |
 | Global Account Director - Strategic Accounts | Mentimeter | Stockholm | 2026-07-10 |
 | Executive Partner | Mentimeter | Stockholm | 2026-07-10 |
@@ -274,11 +276,10 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Optics Engineering Lead | Neko Health | Stockholm | 2026-07-03 |
 | Account Manager - EMEA | Mentimeter | Stockholm | 2026-07-03 |
 | Key Account Manager - Strategic Accounts | Mentimeter | Stockholm | 2026-07-03 |
-| Revenue Operations Specialist | Tandem Health | Stockholm | 2026-07-03 |
 | Revenue Operations Specialist | Aminocollective | Stockholm | 2026-07-03 |
-| Sales Engineer | Objectfirst | Stockholm, Sweden | 2026-07-03 |
-| Workplace Technology Lead - Stockholm | Legora | Stockholm HQ | 2026-07-03 |
+| Revenue Operations Specialist | Tandem Health | Stockholm | 2026-07-03 |
 | Workplace Technology Lead | Legora | Stockholm | 2026-07-03 |
+| Workplace Technology Lead - Stockholm | Legora | Stockholm HQ | 2026-07-03 |
 | Senior Product Manager, Data / ML | Mentimeter | Stockholm | 2026-07-03 |
 | Product Engineer - Growth Lab | Mentimeter | Stockholm | 2026-07-03 |
 | Engineering Director | Mentimeter | Stockholm | 2026-07-03 |
@@ -289,8 +290,8 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Product Marketing Manager | Tandem Health | Stockholm | 2026-07-01 |
 | Product Marketing Manager | Aminocollective | Stockholm | 2026-07-01 |
 | VP Growth | Mentimeter | Stockholm | 2026-07-01 |
-| Clinical Research Lead - Stockholm | Aminocollective | Stockholm | 2026-06-30 |
 | Clinical Research Lead - Stockholm | Tandem Health | Stockholm | 2026-06-30 |
+| Clinical Research Lead - Stockholm | Aminocollective | Stockholm | 2026-06-30 |
 | AI Software Engineer | Legora | Stockholm HQ | 2026-06-30 |
 | Senior Data Analyst - Enterprise GTM | Epidemic Sound | Stockholm HQ | 2026-06-30 |
 | Marketing Automation Specialist | Aceve | Stockholm | 2026-06-30 |
@@ -298,13 +299,12 @@ _558 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Technical Customer Support Lead - Stockholm | Tandem Health | Stockholm | 2026-06-30 |
 | Implementation Consultant | Aceve | Stockholm | 2026-06-30 |
 | Teknisk Säljare till Aeroseal Sweden AB | Saleshub | Stockholm, Sweden | 2026-06-30 |
-| Head of Customer Success | Aminocollective | Stockholm | 2026-06-28 |
 | Head of Customer Success | Tandem Health | Stockholm | 2026-06-28 |
+| Head of Customer Success | Aminocollective | Stockholm | 2026-06-28 |
 | Site Reliability Engineer | Epidemic Sound | Stockholm HQ | 2026-06-26 |
 | Accounting Team Lead | Netlight | Stockholm | 2026-06-26 |
 | Motion Designer | Legora | Stockholm | 2026-06-25 |
 | Motion Designer | Legora | Stockholm HQ | 2026-06-25 |
-| Senior Product Manager | Legora | Stockholm HQ | 2026-06-25 |
 | Senior Product Manager | Legora | Stockholm HQ | 2026-06-25 |
 
 ---

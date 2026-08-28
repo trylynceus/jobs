@@ -2,15 +2,17 @@
 
 Roles listing New York as their location.
 
-_12,997 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
+_12,988 open · showing the 300 most recent · updated 2026-08-28 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| Associate, HR Operations | Nflfilms | New York, New York, United States | 2026-08-27 |
+| Design Engineer, Growth | Ambrook | New York | 2026-08-27 |
+| Software Engineer, Growth | Ambrook | New York | 2026-08-27 |
 | Assistant Project Manager | AECOM | New York, us | 2026-08-26 |
 | Construction Project Manager | AECOM | New York, us | 2026-08-26 |
 | Director of People Operations | Reklamehealth | New York | 2026-08-26 |
 | Strategic Operations Lead, Tier 1 Banks | Socure | Hub - New York | 2026-08-26 |
+| Event & Commercial Operations Executive | Informa Group Plc. | New York, us | 2026-08-26 |
 | Client Success Manager (New York) | Nexxen | New York, NY | 2026-08-26 |
 | Legal Recruiter | Norm Ai | New York City | 2026-08-26 |
 | Forward Deployed Engineer (FDE), Legal-NYC | Openai | New York City | 2026-08-26 |
@@ -22,10 +24,10 @@ _12,997 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Associate General Counsel | Manifest Os | New York City | 2026-08-26 |
 | Advisory Consultant – Economics | AECOM | New York, us | 2026-08-26 |
 | Account Executive | Sylvera | New York | 2026-08-26 |
-| Staff Product Designer, SevenRooms | DoorDash USA | New York, NY | 2026-08-26 |
 | Staff Product Designer, Dasher Growth | DoorDash USA | San Francisco, CA; New York, NY; Sunnyvale, CA | 2026-08-26 |
 | Staff Product Designer, Integrity | DoorDash USA | New York, NY | 2026-08-26 |
 | Staff Product Designer, Merchant Marketing | DoorDash USA | San Francisco, CA; New York, NY; Seattle, WA; Sunnyvale, CA | 2026-08-26 |
+| Staff Product Designer, SevenRooms | DoorDash USA | New York, NY | 2026-08-26 |
 | Staff Product Designer, Support | DoorDash USA | New York, NY | 2026-08-26 |
 | Sales Development Representative | Avoca | New York HQ | 2026-08-26 |
 | Senior Product Builder, Creator | ShopMy | New York | 2026-08-26 |
@@ -46,6 +48,7 @@ _12,997 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Tenant Relocation Program Manager | AECOM | New York, us | 2026-08-26 |
 | Paid Search Manager | Polymarket | New York | 2026-08-26 |
 | Regulatory and Compliance, Investor Onboarding and Regulatory Review, Vice President | iCapital | New York, New York, United States | 2026-08-26 |
+| SMB Account Director, Search & Staffing - Talent Solutions | LinkedIn | New York, us | 2026-08-26 |
 | Executive Assistant | Tennr | New York City Office | 2026-08-26 |
 | Software Engineer II | Garner Health | New York City, New York | 2026-08-26 |
 | SecOps Specialist | Fireblocks | New York | 2026-08-26 |
@@ -154,7 +157,7 @@ _12,997 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Senior Product Counsel - Data Products, Machine Learning & Artificial Intelligence @ Abridge AI | Jobs Page 4Dc2685B Eb82 46D1 A3F9 1F0764Dba814 | San Francisco or New York | 2026-08-26 |
 | Senior Manager, Product Marketing | Skylo | New Jersey, Virginia, New York | 2026-08-26 |
 | Director of Finance | Solstice | New York City | 2026-08-26 |
-| VP, Business Development and Licensing | Recursion | New York, New York | 2026-08-26 |
+| Vice President, Business Development and Licensing | Recursion | New York, New York | 2026-08-26 |
 | Senior Manager, Cybersecurity Operations | Nflfilms | New York, New York, United States | 2026-08-26 |
 | Full Stack Software Engineer | Clera | New York | 2026-08-26 |
 | Regulatory Counsel, Americas | Airwallex | US - New York | 2026-08-26 |
@@ -163,24 +166,24 @@ _12,997 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Investment Operations Associate | Range | New York, NY | 2026-08-26 |
 | Senior Customer Success Manager | Jellyfishcareers | New York | 2026-08-26 |
 | Senior Product Marketing Manager | Grow Therapy | New York City | 2026-08-26 |
-| Supply Operations Lead | LoopMe | New York, United States | 2026-08-26 |
-| Chatbot Developer (WhatsApp, Telegram, Discord) - Freelance | Mindrift | New York, United States | 2026-08-26 |
-| Solution Engineer | Consent Management Platform (CMP) Usercentrics | New York, United States | 2026-08-26 |
-| Service Ambassador (Clean Team) | Museum of Ice Cream | New York, United States | 2026-08-26 |
-| Office Assistant | Premium Merchant Funding | New York, United States | 2026-08-26 |
-| Strategy & Operations Associate, RCM | Rockstar | New York, United States | 2026-08-26 |
-| Freelance Mobile App Developer (iOS / Android) | Mindrift | New York, United States | 2026-08-26 |
-| Senior/Lead Data Scientist - Agentic AI | Tiger Analytics Inc. | New York, United States | 2026-08-26 |
-| Senior Legal Implementation Specialist | Luminance | New York, United States | 2026-08-26 |
-| Digital Product Lead (1099) | Friends From The City | New York, United States | 2026-08-26 |
-| Seasonal Environmental Services Technician | Friends of the High Line | New York, United States | 2026-08-26 |
-| Safety Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
+| Estimating Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
+| Field Operations Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
 | Mechanical, Electrical, Plumbing, & Plumbing (M/E/P) Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
 | Project Management Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
-| Field Operations Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
 | Quality Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
+| Office Assistant | Premium Merchant Funding | New York, United States | 2026-08-26 |
+| Safety Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
+| Senior Legal Implementation Specialist | Luminance | New York, United States | 2026-08-26 |
 | Business Technology Specialist | Inspiroz | New York, United States | 2026-08-26 |
-| Estimating Intern (Summer 2027) | Consigli Construction | New York, United States | 2026-08-26 |
+| Supply Operations Lead | LoopMe | New York, United States | 2026-08-26 |
+| Service Ambassador (Clean Team) | Museum of Ice Cream | New York, United States | 2026-08-26 |
+| Freelance Mobile App Developer (iOS / Android) | Mindrift | New York, United States | 2026-08-26 |
+| Digital Product Lead (1099) | Friends From The City | New York, United States | 2026-08-26 |
+| Solution Engineer | Consent Management Platform (CMP) Usercentrics | New York, United States | 2026-08-26 |
+| Strategy & Operations Associate, RCM | Rockstar | New York, United States | 2026-08-26 |
+| Chatbot Developer (WhatsApp, Telegram, Discord) - Freelance | Mindrift | New York, United States | 2026-08-26 |
+| Senior/Lead Data Scientist - Agentic AI | Tiger Analytics Inc. | New York, United States | 2026-08-26 |
+| Seasonal Environmental Services Technician | Friends of the High Line | New York, United States | 2026-08-26 |
 | Staff Software Engineer, Data Platform | Harvey | New York | 2026-08-25 |
 | Sr. Staff Software Engineer, Big Data Platform | Pinterest | Palo Alto; Seattle, WA; New York, NY; San Francisco, CA, US; Remote, US | 2026-08-25 |
 | Partner Marketing Lead, Cloud | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-25 |
@@ -303,9 +306,6 @@ _12,997 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Director of Private Markets | Legora | New York City | 2026-08-25 |
 | Senior Product Designer | Highbeam | New York | 2026-08-25 |
 | Platform Security Engineer, DRTM / Secure Launch | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-25 |
-| Director, Finance - Global Partner Organization | Everpure | New York, New York; Santa Clara, California | 2026-08-25 |
-| Software Engineer, Client Experience Frameworks | Addepar | New York, NY | 2026-08-25 |
-| Performance Advisor, Rockefeller Center | Equinox | New York, us | 2026-08-25 |
 
 ---
 

@@ -2,24 +2,86 @@
 
 Roles whose title reads as engineering.
 
-_60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
+_60,406 open · showing the 300 most recent · updated 2026-08-28 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Salesforce Solutions Architect | Phoenixoutcomes | Remote United States | 2026-08-28 |
+| Vice President, AI Technology & Security Engineer | Oaktree Capital |  | 2026-08-28 |
+| Assistant Vice President - Senior Data Engineer | Oaktree Capital |  | 2026-08-28 |
+| ML Operations Engineer (AI/LLM) | 株式会社メルカリ | Minato City, Japan | 2026-08-28 |
+| Staff Mechanical Engineer | Playground | San Carlos, CA | 2026-08-27 |
+| Embedded Software Engineer / Firmware Engineer (Agri-Tech / Sensor Systems) (m/f/d) | Cherry Ventures | Potsdam | 2026-08-27 |
+| Responsable Projets Engineering | Siegfried |  | 2026-08-27 |
+| Engineering Manager, Radar & Insights | Cloudflare |  | 2026-08-27 |
+| Senior Mobile Developer | Respond | Kuala Lumpur, MY | 2026-08-27 |
+| DevOps - CDI (H/F) | ALTEN | Lyon, fr | 2026-08-27 |
+| Data Engineer – Plateforme Data Engineering (H/F) | ALTEN | Boulogne-Billancourt, fr | 2026-08-27 |
+| Layout Engineer- Nuclear | ALTEN | Manchester, gb | 2026-08-27 |
+| Test Engineer | Avion | Huntsville, AL | 2026-08-27 |
+| Senior Network Engineer | Orion |  | 2026-08-27 |
+| Senior Staff Software Engineer | Orion |  | 2026-08-27 |
+| Senior AI Engineer | Orion |  | 2026-08-27 |
+| Principal Manufacturing Engineer | LGC | Ballina, ie | 2026-08-27 |
+| Software Developer C#/.NET Industrial Applications (all gender) | ALTEN | Vienna, at | 2026-08-27 |
+| Inspire Scaler Developer (Quadient) | LegalAndGeneral | Brighton and Hove, gb | 2026-08-27 |
+| Vehicle Test Engineer - Automotive | ALTEN | Coventry, gb | 2026-08-27 |
+| Senior Backend & Platform Engineer / IoT Architect (all gender) | ALTEN | Vienna, at | 2026-08-27 |
+| Graduate Market Data Engineer | Options It | Cambridge | 2026-08-27 |
+| Operational Development Engineer | ALTEN | Bridgwater, gb | 2026-08-27 |
+| Geotechnical Engineer | ALTEN | Bristol, gb | 2026-08-27 |
+| TAC Engineer GER | MSX International | Budapest, hu | 2026-08-27 |
+| Cost Engineer - Nuclear | ALTEN | Bridgwater, gb | 2026-08-27 |
+| Civil Engineer - Energy | ALTEN | Bridgwater, gb | 2026-08-27 |
+| Junior Electrical Engineer - Nuclear | ALTEN | Bristol, gb | 2026-08-27 |
+| Lead Electrical Engineer - Nuclear | ALTEN | Manchester, gb | 2026-08-27 |
+| Equipment Engineer- Nuclear | ALTEN | Bristol, gb | 2026-08-27 |
+| Diagnostic Support Engineer Chennai-20 | MSX International | Chennai, in | 2026-08-27 |
+| Diagnostic Support Engineer | MSX International | Chennai, in | 2026-08-27 |
+| Senior Software Engineer, Backend - Consumer Experience | Grab | Jakarta, id | 2026-08-27 |
+| Senior Software Engineer - Deployment Platform | Grab | Petaling Jaya, my | 2026-08-27 |
+| Design Engineer, Growth | Ambrook | New York | 2026-08-27 |
+| Software Engineer, Growth | Ambrook | New York | 2026-08-27 |
 | Associate Civil Engineer (Urban Development) | Egis Group | Brisbane, au | 2026-08-27 |
+| Cloud Architect | KMS Technology | Guadalajara, mx | 2026-08-27 |
+| Senior Data Engineer (SQL DBA) | M3USA | Manila, ph | 2026-08-27 |
 | Electrical Engineer | AECOM | Denver, us | 2026-08-27 |
 | Senior Civil Engineer – Roading \| Northland Corridor | AECOM | Auckland, nz | 2026-08-27 |
+| Junior Software Development Engineer in Test (SDET) | Ordermesh | Colombia | 2026-08-27 |
+| Target Fabrication Engineer | LLNL | Livermore, us | 2026-08-26 |
 | Senior Product Quality Engineer, EE | Ouraring | San Francisco, California | 2026-08-26 |
 | Principal Civil Engineer – Roading \| Northland Corridor | AECOM | Auckland, nz | 2026-08-26 |
-| Senior Backend Developer | Livesnap |  | 2026-08-26 |
+| Security Engineer, Detection & Response | Sentry | Toronto, Ontario, Canada | 2026-08-26 |
+| Security Engineer, Detection & Response | Sentry | San Francisco, California | 2026-08-26 |
+| Security Engineer, Application Security | Sentry | Toronto, Ontario, Canada | 2026-08-26 |
+| Security Engineer, Application Security | Sentry | San Francisco, California | 2026-08-26 |
+| Senior Software Engineer - Applications | LinkedIn | Mountain View, us | 2026-08-26 |
+| Structural Engineer — Help Shape Communities While Growing Your Career with KPFF | KPFF Consulting Engineers | Cincinnati, us | 2026-08-26 |
+| Structural Engineer — Help Shape Communities While Growing Your Career with KPFF | KPFF Consulting Engineers | Lexington, us | 2026-08-26 |
+| Senior Structural Engineer — Local Roots, National Impact | KPFF Consulting Engineers | Columbus, us | 2026-08-26 |
+| Structural Engineer — Help Shape Communities While Growing Your Career with KPFF | KPFF Consulting Engineers | Columbus, us | 2026-08-26 |
+| Structural Engineer — Help Shape Communities While Growing Your Career with KPFF | KPFF Consulting Engineers | Birmingham, us | 2026-08-26 |
+| Structural Engineering Team Leader — Big Firm Opportunity, Local Influence | KPFF Consulting Engineers | Madison, us | 2026-08-26 |
+| Senior Structural Engineer — Local Roots, National Impact | KPFF Consulting Engineers | Cincinnati, us | 2026-08-26 |
+| Structural Engineering Group Leader — Return Home. Build Something Bigger. | KPFF Consulting Engineers | Nashville, us | 2026-08-26 |
+| Senior Structural Engineer — Local Roots, National Impact | KPFF Consulting Engineers | Nashville, us | 2026-08-26 |
+| Structural Engineering Group Leader — Return Home. Build Something Bigger. | KPFF Consulting Engineers | Indianapolis, us | 2026-08-26 |
+| Senior Structural Engineer — Local Roots, National Impact | KPFF Consulting Engineers | Birmingham, us | 2026-08-26 |
+| Senior Structural Engineer — Local Roots, National Impact | KPFF Consulting Engineers | Lexington, us | 2026-08-26 |
+| Senior Structural Engineer — Local Roots, National Impact | KPFF Consulting Engineers | Louisville, us | 2026-08-26 |
+| Structural Engineering Group Leader — Return Home. Build Something Bigger. | KPFF Consulting Engineers | Birmingham, us | 2026-08-26 |
+| Senior Structural Engineer — Local Roots, National Impact | KPFF Consulting Engineers | Indianapolis, us | 2026-08-26 |
+| Structural Engineer — Help Shape Communities While Growing Your Career with KPFF | KPFF Consulting Engineers | Louisville, us | 2026-08-26 |
 | Civil Engineering Intern - Hiring Event with AECOM - Philadelphia | AECOM | Philadelphia, us | 2026-08-26 |
 | Entry-Level Traction Power Engineer - Hiring Event with AECOM - Philadelphia | AECOM | Philadelphia, us | 2026-08-26 |
 | Structural Engineering Intern - Bridge & Transportation Structures | AECOM | Arlington, us | 2026-08-26 |
 | Quality Engineer | Bosch Group | Florence, us | 2026-08-26 |
+| W80-5 Engineering Group Leader - Active Security Clearance Required | LLNL | Livermore, us | 2026-08-26 |
 | Chemical Raw Material Developer ( engineer ) | Continental Group Sector ContiTech | San Luis Potosí City, mx | 2026-08-26 |
 | Site Engineer \| Luxury Residential Projects | work4u | Athens | 2026-08-26 |
 | Mechanical Process and Automation Engineer | Bosch Group | Ciudad Juárez, mx | 2026-08-26 |
 | Shift Engineer, Full-Time (Parental Leave Contract \| August 2026 - February 2027) | AccorHotel | Vancouver, ca | 2026-08-26 |
+| Principal AI Engineer II | AbbVie | North Chicago, us | 2026-08-26 |
 | Instrumentation Engineer – Dam Safety & Monitoring | AECOM | Orange, us | 2026-08-26 |
 | Principal Water Resources Engineer | AECOM | Seattle, us | 2026-08-26 |
 | Principal Water Resources Engineer | AECOM | Portland, us | 2026-08-26 |
@@ -30,8 +92,6 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Entry-Level Civil/Highway Engineer - Hiring Event with AECOM - Philadelphia | AECOM | Newark, us | 2026-08-26 |
 | Entry-Level Structural Engineer | AECOM | Roanoke, us | 2026-08-26 |
 | Principal Thermal-Mechanical Engineer - IMEC (Leuven, Belgium) | Vinci4D | Brussels/Leuven | 2026-08-26 |
-| Senior AI & Compute Systems Engineer | Technation |  | 2026-08-26 |
-| Principal AI Platform Engineer | Technation |  | 2026-08-26 |
 | Sr Mechanical Engineer | Continental Group Sector ContiTech | Wahpeton, us | 2026-08-26 |
 | Civil/Highway Engineer Intern - Hiring Event with AECOM - Philadelphia | AECOM | Newark, us | 2026-08-26 |
 | Water Treatment Engineer | AECOM | Victoria, ca | 2026-08-26 |
@@ -46,6 +106,7 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Senior \| Architect Data Engineer (ClickHouse) | Careers at Lineate | Yerevan, Armenia | 2026-08-26 |
 | Senior Mobile Engineer (iOS or Android) | Cohere | Toronto | 2026-08-26 |
 | JUNIOR DEVELOPER FOR TOOLS DEPARTMENT | Bosch Group | San Francisco, cr | 2026-08-26 |
+| Transformation Senior Process Engineer- API | AbbVie | North Chicago, us | 2026-08-26 |
 | Forward Deployed Engineer (FDE), Legal-NYC | Openai | New York City | 2026-08-26 |
 | Software Engineer | Mintmcp | San Francisco, CA | 2026-08-26 |
 | Computer Vision Engineer | Observable Space | Los Angeles, CA | 2026-08-26 |
@@ -54,19 +115,21 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | VP, Platform & Architecture | Gravie | Remote | 2026-08-26 |
 | Senior Full-stack Engineer | Limbic | Canada | 2026-08-26 |
 | Junior RAMS/Systems Assurance Engineer | Egis Group | Toronto, ca | 2026-08-26 |
+| Transformation Project Engineering Lead - API | AbbVie | North Chicago, us | 2026-08-26 |
 | Contract Analytics Engineer | Comfy Org | San Francisco | 2026-08-26 |
 | Manual QA Engineer (Contract to Hire) | Kira | New York | 2026-08-26 |
 | Member of Technical Staff (Software Engineer, Desktop Apps) | Perplexity | San Francisco | 2026-08-26 |
 | Operating Systems Engineer \| Consumer Devices | Openai | San Francisco | 2026-08-26 |
 | Senior Software Engineer, Applied AI | Gravie | Remote | 2026-08-26 |
+| Senior Architect, Security and Infrastructure | Hitachi Solutions | Irvine, us | 2026-08-26 |
 | Senior Software Engineer, Applied AI | Gravie | Remote | 2026-08-26 |
 | Forward Deployed Software Engineer (New England Area) | First Resonance | Rhode Island | 2026-08-26 |
 | Staff Salesforce Engineer | Ibotta | Hybrid - Denver | 2026-08-26 |
 | Controls Engineer, Battery and BMS | ALSO | Palo Alto | 2026-08-26 |
 | Senior Software Engineer - JavaScript/TypeScript | G2I | Remote | 2026-08-26 |
 | Senior Software Engineer - Python | G2I | Remote | 2026-08-26 |
-| Cloud Infrastructure Engineer | Outsidersfund | Los Angeles | 2026-08-26 |
 | Cloud Infrastructure Engineer | Apex Technology Inc | Los Angeles | 2026-08-26 |
+| Cloud Infrastructure Engineer | Outsidersfund | Los Angeles | 2026-08-26 |
 | Sr. Software Engineer, Data Platform (Starlink) | SpaceX | Redmond, WA | 2026-08-26 |
 | Software Engineer, Marketplace | Mercor | San Francisco | 2026-08-26 |
 | Senior Java Developer | Southgeeks | Remote | 2026-08-26 |
@@ -86,11 +149,15 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Senior Software Engineer (Remote, US) | Propelus | Remote - US | 2026-08-26 |
 | Software Engineer (Python) — Programmable Networking | Telnyx | EMEA, North America | 2026-08-26 |
 | Sr. Software Engineer, Data (Starlink) | SpaceX | Hawthorne, CA | 2026-08-26 |
+| Electrical Systems Engineer | ALTEN | Bristol, gb | 2026-08-26 |
 | Software Test & Integration Engineer, ES&D Range & Energy Applications | Rivianvw.Tech | Irvine, California | 2026-08-26 |
 | Electrical Engineer - Airport | AECOM | Mississauga, ca | 2026-08-26 |
 | Forward Deployed Engineer (US Based) | Duvo | US - Remote | 2026-08-26 |
+| Software Engineer - Intern | Realm | Remote | 2026-08-26 |
 | Software Engineer - Intern | Realmalliance | Remote | 2026-08-26 |
+| Staff Engineer - Commodity & Vendor Management - NPI | LinkedIn | Mountain View, us | 2026-08-26 |
 | Software Engineer, Backend | Adaptyv | Lausanne | 2026-08-26 |
+| Architecte fonctionnel | ALTEN | Rabat, ma | 2026-08-26 |
 | Software Engineer, Product | Adaptyv | London | 2026-08-26 |
 | Mechanical Engineers - All Levels | ASSYSTEM | Bridgwater, gb | 2026-08-26 |
 | Civil Engineer II - Transportation | AECOM | Murray, us | 2026-08-26 |
@@ -103,6 +170,7 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Telephony Engineer - Remote | Retell Ai | Remote | 2026-08-26 |
 | Linux Infrastructure Engineer - NeuraGym (human) | Neura Robotics Gmbh | Aachen | 2026-08-26 |
 | Design Engineer II, SMS | Ursa Major | Berthoud, Colorado | 2026-08-26 |
+| Senior Engineer, Technology I (Power Platform Engineer) | AbbVie | North Chicago, us | 2026-08-26 |
 | GPU Server Hardware Validation Engineer | Pragmatike | China / Guangzhou | 2026-08-26 |
 | Engineering Manager - AI Platform | Thought Machine | United Kingdom, London | 2026-08-26 |
 | GPU Server Hardware Validation Engineer | Pragmatike | China / Zhuhai | 2026-08-26 |
@@ -113,9 +181,9 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | GPU Server Hardware Validation Engineer | Pragmatike | APAC / China / Hong Kong | 2026-08-26 |
 | Senior Security Research Engineer, SONAR (Security Operations and Novel Adversary Research) | Elastic | United States | 2026-08-26 |
 | Engineering Manager - Pro | Kraken.Com | United Kingdom | 2026-08-26 |
-| Engineer Manager, Proactive Security - Platform | DoorDash USA | San Francisco, CA | 2026-08-26 |
 | Staff Security Engineer, Proactive Security - Dasher | DoorDash USA | United States-Remote | 2026-08-26 |
 | Staff Security Engineer, Proactive Security - AI | DoorDash USA | United States - Remote | 2026-08-26 |
+| Engineer Manager, Proactive Security - Platform | DoorDash USA | San Francisco, CA | 2026-08-26 |
 | Senior & Principal Civil Engineers | ASSYSTEM | Bristol, gb | 2026-08-26 |
 | Staff Software Engineer - Marketplace | SentinelOne | India | 2026-08-26 |
 | Cloud Infrastructure & Platform Engineer | PlayStation Global | United States, Madison, WI | 2026-08-26 |
@@ -123,19 +191,23 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Python Developer | iCapital | Lisbon, Portugal | 2026-08-26 |
 | IT Field Engineer II | Boyd Gaming | Las Vegas, us | 2026-08-26 |
 | Network Hardware Engineer | Cloudflare | Hybrid | 2026-08-26 |
-| Network Hardware Engineer | Cloudflare | Hybrid | 2026-08-26 |
+| Network Hardware Engineer | Cloudflare |  | 2026-08-26 |
 | Entry-Level Geotechnical Engineer - Hiring Event with AECOM - Philadelphia | AECOM | Germantown, us | 2026-08-26 |
 | DVLED Project Engineer II | LG Electronics | Illinois | 2026-08-26 |
 | Senior C++ Software Engineer - Ireland, Greece, Spain, Hungary or Romania | Arista Networks | Dublin, ie | 2026-08-26 |
 | Technology Development Engineer – Surface Technologies | Bosch Group | Budapest, hu | 2026-08-26 |
+| Datacentre Operations Engineer | Options It | Hong Kong | 2026-08-26 |
 | DVLED Project Engineer I | LG Electronics | Lincolnshire, IL | 2026-08-26 |
 | Senior Staff Product Manager, Developer Portal | Kong | United States | 2026-08-26 |
 | Manager, Solutions Engineering | Scribe | SF or NYC | 2026-08-26 |
 | Senior Software Engineer | Heartflow | San Francisco, California | 2026-08-26 |
 | Systems Engineer | GRVTY | Chantilly, Virginia, United States | 2026-08-26 |
 | Site Reliability Engineer | Cybcube | Tallinn Office | 2026-08-26 |
+| Materials Scientist/Engineer - Advanced Materials Processing and Digital Infrastructure – Active Clearance Required | LLNL | Livermore, us | 2026-08-26 |
+| Weapon System Engineer | LLNL | Livermore, us | 2026-08-26 |
 | Lead Infrastructure Engineer | Onoshealth | San Francisco | 2026-08-26 |
 | Practical Internship: Simulation Software Engineer | Boskalis | Papendrecht, nl | 2026-08-26 |
+| Engineering Delivery Manager | ALTEN | Belfast, gb | 2026-08-26 |
 | Workday Engineer | Openai | San Francisco | 2026-08-26 |
 | Engineering Manager, AgentControl | LaunchDarkly | Remote - US | 2026-08-26 |
 | Senior / Principal Marine & Ports Engineer | Egis Group | Bengaluru, in | 2026-08-26 |
@@ -145,14 +217,19 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Lead Machine Learning Engineer | Faculty | UK - London | 2026-08-26 |
 | Mechanical Design Engineer | AECOM | Croydon, gb | 2026-08-26 |
 | Forward Deployed Engineer, Professional Services | Cloudflare | Distributed | 2026-08-26 |
-| Forward Deployed Engineer | Cloudflare | Distributed | 2026-08-26 |
+| Forward Deployed Engineer | Cloudflare |  | 2026-08-26 |
+| Project Engineer - API Pilot Plant | AbbVie | North Chicago, us | 2026-08-26 |
+| Quality Engineer | Fortune Brands | Butler, us | 2026-08-26 |
+| Analog Mixed-Signal Layout Engineer | ALTEN | Rabat, ma | 2026-08-26 |
 | Landscape Architect | AECOM | Burnaby, ca | 2026-08-26 |
 | Senior Mechanical Engineer | AECOM | Burnaby, ca | 2026-08-26 |
+| SAP Basis & Security Engineer | METRO/MAKRO | Pune, in | 2026-08-26 |
 | Infrastructure Engineer | Imprint | New York City | 2026-08-26 |
-| Senior Android Engineer | Ouraring | Helsinki, Uusimaa; Oulu, North Ostrobothnia | 2026-08-26 |
+| Senior Android Engineer | Ouraring | Helsinki, Uusimaa | 2026-08-26 |
 | Lead Transmission Electrical Engineer - Remote (U.S.) | AECOM | Denver, us | 2026-08-26 |
 | Engineering Manager, Data | Stepful | New York City | 2026-08-26 |
 | Validation Engineer I | Forge Biologics | Columbus, Ohio | 2026-08-26 |
+| Automotive Technical Training Curriculum Developer (Sr. Instructional Designer) | MSX International | Ann Arbor, us | 2026-08-26 |
 | Product Specialist - Gen AI (Sr. Specialist Solutions Architect) | Databricks | Amsterdam, Netherlands | 2026-08-26 |
 | (Senior) Machine Learning Operations Engineer (m/f/d) - REF97172N | Continental | Hannover, de | 2026-08-26 |
 | (Senior) MLOps Engineer (m/f/d) - REF97172N | Continental | Hannover, de | 2026-08-26 |
@@ -165,7 +242,9 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Senior Software Engineer | Fonoa | Zagreb, Croatia | 2026-08-26 |
 | Junior AI Engineer (w/m/d) | Anton Paar | Graz, at | 2026-08-26 |
 | Junior AI Engineer (f/m/x) | Anton Paar | Graz, at | 2026-08-26 |
+| Chef de Projet Expert Manufacturing Engineering | ALTEN | Boulogne-Billancourt, fr | 2026-08-26 |
 | AIT Engineer - Electronics | Iceye | Athens | 2026-08-26 |
+| Energy Performance Engineer | Harvard University | Boston, us | 2026-08-26 |
 | Senior Software Engineer | Xometry | North Bethesda, MD | 2026-08-26 |
 | Senior Software Engineer | Xometry | Waltham, MA | 2026-08-26 |
 | Senior Maintenance Engineer | Ursa Major | Berthoud, Colorado | 2026-08-26 |
@@ -195,17 +274,22 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Solution Engineer - Insurance & Asset Management | Snowflake | NO-Oslo-MSO | 2026-08-26 |
 | Senior Solution Engineer | Snowflake | NO-Oslo-MSO | 2026-08-26 |
 | Entry-Level Civil Engineer – Roadway Designer | AECOM | Columbia, us | 2026-08-26 |
+| JUNIOR DATA ENGINEER (F/M/D) | Ignitis group | Vilnius, lt | 2026-08-26 |
 | Senior Software Engineer | Unframe AI | Tel Aviv-Yafo, Tel Aviv District, Israel | 2026-08-26 |
 | Solution Architect SI Finance / Corporate Finance (H/F) | CITECH | Paris, fr | 2026-08-26 |
 | Senior Electrical Engineer | EDF UK | Durham, gb | 2026-08-26 |
 | Senior Electrical Engineer | EDF UK | Edinburgh, gb | 2026-08-26 |
 | Architecte d'intérieur | BESIX | Brussels, be | 2026-08-26 |
+| Quality Engineer - Energy | ALTEN | Birmingham, gb | 2026-08-26 |
+| Structural Engineer - Nuclear | ALTEN | Bristol, gb | 2026-08-26 |
+| HVAC Engineer - Nuclear | ALTEN | Manchester, gb | 2026-08-26 |
 | Interieurarchitect | BESIX | Brussels, be | 2026-08-26 |
 | Engineer, Product Quality - Suspension, Brakes, and Alignment | Scout Motors | Blythewood, South Carolina, United States | 2026-08-26 |
 | Fullstack Software Engineer (.Net and React) | Diligent Corporation | Budapest, Hungary | 2026-08-26 |
 | Java Full Stack Developer | Capco | India - Bengaluru | 2026-08-26 |
 | Senior Electrical Engineer | EDF UK | London, gb | 2026-08-26 |
 | Senior Software Engineer (Backend) - .NET (All genders) | Entain | Vienna, at | 2026-08-26 |
+| Senior PAM Engineer (10+ yrs experience) | METRO/MAKRO | Pune, in | 2026-08-26 |
 | GTM Engineer | Pogo | United States/Canada | 2026-08-26 |
 | Senior Site Reliability Engineer | Thought Machine | United Kingdom, London | 2026-08-26 |
 | Full Stack Engineer | Pogo | United States/Canada | 2026-08-26 |
@@ -222,90 +306,6 @@ _60,410 open · showing the 300 most recent · updated 2026-08-27 04:15 UTC_
 | Junior Transportation Engineer – TEP TER | City of New York | New York City, us | 2026-08-26 |
 | Junior Transportation Engineer Borough Lead – TEP | City of New York | New York City, us | 2026-08-26 |
 | Trajectory Engineer | Avion | Huntsville, AL | 2026-08-26 |
-| Telemetry Engineer | Avion | Huntsville, AL | 2026-08-26 |
-| Senior QA Automation Engineer (Boosters) | Playson | European Union | 2026-08-26 |
-| Mechanical CAD Engineer | ASSYSTEM | Newcastle upon Tyne, gb | 2026-08-26 |
-| Senior Quality Assurance Engineer | Trading212 | Poland | 2026-08-26 |
-| Senior Quality Assurance Engineer | Trading212 | Berlin | 2026-08-26 |
-| Senior Quality Assurance Engineer | Trading212 | Romania | 2026-08-26 |
-| Senior Quality Assurance Engineer | Trading212 | Spain | 2026-08-26 |
-| Senior Quality Assurance Engineer | Trading212 | Sofia | 2026-08-26 |
-| Mechanical CAD Engineer | ASSYSTEM | Bolton, gb | 2026-08-26 |
-| Mechanical CAD Engineer | ASSYSTEM | Bristol, gb | 2026-08-26 |
-| SW - ASSISTANT CHIEF ENGINEER | City of New York | New York City, us | 2026-08-26 |
-| Mechanical CAD Engineer | ASSYSTEM | Derby, gb | 2026-08-26 |
-| Senior Software Engineer (Typescript), AI Clients: Duo CLI | GitLab | Remote, Poland | 2026-08-26 |
-| UC Operations Engineer – MS Teams & Devices | Bosch Group | bangalore, in | 2026-08-26 |
-| Senior Platform Engineer / Site Reliability Engineer (SRE) | Cognism | Poland | 2026-08-26 |
-| Senior Product Engineer | City of New York | New York City, us | 2026-08-26 |
-| Senior Backend Engineer (Go), Tenant Scale: Gitaly | GitLab | Remote, Poland | 2026-08-26 |
-| SENIOR PROGRAMMER ANALYST | City of New York | New York City, us | 2026-08-26 |
-| Werkstudent Connected Devices / Requirement Engineering bei Bosch eBike Systems (w/m/div.) | Bosch Group | Reutlingen, de | 2026-08-26 |
-| Mechanical Engineer | ASSYSTEM | Newcastle upon Tyne, gb | 2026-08-26 |
-| Senior Backend Engineer (Ruby), Plan: Spec-Driven Development | GitLab | Remote, Poland | 2026-08-26 |
-| Mechanical Engineer | ASSYSTEM | Derby, gb | 2026-08-26 |
-| Senior Backend Engineer | GitLab | Remote, Poland | 2026-08-26 |
-| Analytics Engineer | Celonis | Madrid, Spain | 2026-08-26 |
-| Head of Legal Engineering, Spain | Legora | Madrid | 2026-08-26 |
-| Head of Legal Engineering | Legora | Madrid | 2026-08-26 |
-| Mechanical Engineer | ASSYSTEM | Glasgow, gb | 2026-08-26 |
-| Mechanical Engineer | ASSYSTEM | Bristol, gb | 2026-08-26 |
-| Java Full Stack Developer | Capco | India - Chennai | 2026-08-26 |
-| Senior Azure Integration Engineer | Codec | Belfast | 2026-08-26 |
-| Staff Platform Engineer | Nango | USA | 2026-08-26 |
-| Mechanical Engineer | ASSYSTEM | Bolton, gb | 2026-08-26 |
-| Analytics Engineer | Signal Ai | London Office | 2026-08-26 |
-| Engineering Manager | Enode | Remote - Europe | 2026-08-26 |
-| Software Engineer (LLM Engineering), London | Isomorphic Labs | London | 2026-08-26 |
-| Software Engineering Director | FanDuel Careers | Scotland | 2026-08-26 |
-| Senior Engineering Manager \| Voice | DeepL AI Platform | London | 2026-08-26 |
-| Staff Software Engineer - Experimentation & Decisioning Platform | Checkout.Com | Amsterdam | 2026-08-26 |
-| Staff Software Engineer | Xometry | Bangalore, India | 2026-08-26 |
-| Junior Maintenance Engineer | HelloFresh | Derby, England, United Kingdom | 2026-08-26 |
-| Staff Software Engineer – DaaS / APIs / MCP | Cognism | Poland | 2026-08-26 |
-| Delivery Solutions Architect | Databricks | Tokyo, Japan | 2026-08-26 |
-| Principal Software Engineer | Xometry | Bangalore, India | 2026-08-26 |
-| Senior Software Engineer – Integrations & Enrich | Cognism | Warsaw | 2026-08-26 |
-| Bilingual Building Engineer (English/Spanish) | Thomas Park | Prince George’s & Montgomery Counties | 2026-08-26 |
-| Senior Software Engineer – DaaS / APIs / MCP | Cognism | Poland | 2026-08-26 |
-| Senior Data Engineer | Trust Wallet | Remote - Global | 2026-08-26 |
-| Enterprise Solutions Engineer | Box | Osaka, Japan | 2026-08-26 |
-| Solutions Architect - Nordics | Cohere | Stockholm | 2026-08-26 |
-| Contact Center Solutions Architect | Tech Holding | Gurugram, Haryana, India | 2026-08-26 |
-| Senior Developer Experience Security Engineer | Motorway | London | 2026-08-26 |
-| Contact Center Solutions Architect | Tech Holding | India - Bengaluru | 2026-08-26 |
-| Senior Civil Engineer | AECOM | London, gb | 2026-08-26 |
-| GTM Systems Engineer | Nivoda | Sweden | 2026-08-26 |
-| Junior Quality Engineer | ASSYSTEM | Preston, gb | 2026-08-26 |
-| Senior Engineering Manager - Workers KV | Cloudflare | Hybrid | 2026-08-26 |
-| Senior Engineering Manager - Workers KV | Cloudflare |  | 2026-08-26 |
-| PLC programozó géptervezési területre \| PLC Programmer for Machine Design Area | Bosch Group | Hatvan, hu | 2026-08-26 |
-| Principal Board Test Engineer | Graphcore | Bristol, UK | 2026-08-26 |
-| Senior Solutions Architect - Saudi Arabia | Prove Cyber Resilience with Realistic Drills, Exercises and Immersive Labs | Saudi Arabia | 2026-08-26 |
-| Senior Software Engineer, Partner Integrations | Box | Warsaw, Poland | 2026-08-26 |
-| [SX/EIT-MM] 5 AI/Agent Engineers | Bosch Group | Thành phố Hồ Chí Minh, vn | 2026-08-26 |
-| Senior Staff Software Engineer | Kaseya Careers | Sunnyvale, CA | 2026-08-26 |
-| Senior Software Engineer - Frontend - Consumer | Kraken.Com | Poland | 2026-08-26 |
-| Protocol Security Engineer | Matter Labs | Global Remote | 2026-08-26 |
-| Senior AI Engineer (w/m/d) | Anton Paar | Graz, at | 2026-08-26 |
-| Senior AI Engineer (f/m/x) | Anton Paar | Graz, at | 2026-08-26 |
-| Java Developer Consultant | Endava | Brașov, ro | 2026-08-26 |
-| Product Security & Compliance Engineer | Nabucasa | Europe - Anywhere | 2026-08-26 |
-| Senior AI Agentic Developer – Requirements & Service Integration (w/m/d) | Anton Paar | Graz, at | 2026-08-26 |
-| Senior AI Agentic Developer – Requirements & Service Integration (f/m/x) | Anton Paar | Graz, at | 2026-08-26 |
-| Offshore Project Engineer | Boskalis | Aberdeen, gb | 2026-08-26 |
-| [EBS] Embedded Engineer Intern (Matlab/Simulink) | Bosch Group | Ho Chi Minh, vn | 2026-08-26 |
-| Senior Test Engineer - Embedded Software | Hudl | Den Bosch, Netherlands | 2026-08-26 |
-| Legal Engineer – French-speaking | Omnilex | Zürich | 2026-08-26 |
-| Senior Data Platform Engineer | Bondora | Tallinn, Harju, Estonia | 2026-08-26 |
-| Senior Security Engineer (SOC) (m,f,x) | HelloFresh | Berlin, Berlin, Germany | 2026-08-26 |
-| Cloud Security Engineer (m,f,x) | HelloFresh | Berlin, Berlin, Germany | 2026-08-26 |
-| AI Engineer - FDE (Forward Deployed Engineer) | Databricks | Stockholm, Sweden | 2026-08-26 |
-| AI Engineer - FDE (Forward Deployed Engineer) | Databricks | Amsterdam, Netherlands | 2026-08-26 |
-| Customer Reliability Engineer, Infrastructure | Astronomer | Remote (United States) | 2026-08-26 |
-| Senior Software Engineer - Airflow Infrastructure, NYC | Astronomer | New York City | 2026-08-26 |
-| Senior Software Engineer - Desktop App | Heidihealth.Com.Au | Melbourne | 2026-08-26 |
-| Senior Software Engineer - Build, NYC | Astronomer | New York City | 2026-08-26 |
 
 ---
 
