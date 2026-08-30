@@ -2,7 +2,7 @@
 
 Roles listing Paris as their location.
 
-_2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
+_2,170 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -11,7 +11,9 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Future Business Development Representative Opportunities | Mirakl | Barcelona, Barcelona, Spain; Boston, Massachusetts, United States; London, England, United Kingdom; Mexico; New York, New York, United States; Paris, France; Sydney | 2026-08-28 |
 | Chef de projet MOA H/F | NEXTON | Paris, fr | 2026-08-28 |
 | Proxy Product Owner H/F | NEXTON | Paris, fr | 2026-08-28 |
+| Alternant.e Chargé.e de Communication (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
 | Manager Business Conseil F/H/N | OCTO Technology | Paris, fr | 2026-08-28 |
+| Manager Business Conseil F/H/N | Octo | Paris, fr | 2026-08-28 |
 | Lead AI Engineer - AI Adoption & SDD Coach | Talan | Paris, fr | 2026-08-28 |
 | Expert ServiceNow H/F | NEXTON | Paris, fr | 2026-08-28 |
 | Senior Talent Acquisition Specialist - Conseil Data - (H/F) - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-08-28 |
@@ -32,33 +34,43 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Junior Consultant - Cybersecurity | Sia | Paris, fr | 2026-08-28 |
 | Tech Lead Java / Angular (H/F) | Talan | Paris, fr | 2026-08-28 |
 | Développeur senior Java / Angular (H/F) | Talan | Paris, fr | 2026-08-28 |
+| Consultant Copilot H/F | EVERIENCE | Paris, fr | 2026-08-28 |
 | Manager, Sales Development, SME & Growth | Airwallex | FR - Paris | 2026-08-28 |
 | Coordinateur(trice) du Bureau | OECD | Paris, fr | 2026-08-28 |
 | Office Coordinator | OECD | Paris, fr | 2026-08-28 |
 | Real Estate & Smart Building Senior Consultant | Sia | Paris, fr | 2026-08-28 |
 | Real Estate & Smart Building Manager | Sia | Paris, fr | 2026-08-28 |
+| Assistant(e) dentaire en alternance H/F | DENTEGO | Paris, fr | 2026-08-28 |
 | Embedded Electrical Engineer | Harmattan Ai | Paris | 2026-08-28 |
 | Procurement Manager | Sia | Paris, fr | 2026-08-28 |
 | Procurement Senior Consultant | Sia | Paris, fr | 2026-08-28 |
 | Procurement Consultant | Sia | Paris, fr | 2026-08-28 |
+| Chargé de Formation et Communication (F/H/X) - Alternance | AccorCorpo | Paris, fr | 2026-08-28 |
 | Financial Transformation Manager | Sia | Paris, fr | 2026-08-28 |
 | Final Year Internship Consultant in Financial Transformation | Sia | Paris, fr | 2026-08-28 |
 | Financial Transformation Consultant | Sia | Paris, fr | 2026-08-28 |
 | Data Architect | REXEL | Paris, fr | 2026-08-28 |
+| Chef de partie Cuisine - CDD (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
 | Mixed-Signal IC Design Engineer | Arago | Paris Offices | 2026-08-28 |
 | Analyste normes comptables (F/H) | RTE | Paris, fr | 2026-08-28 |
+| Senior Product Manager - Agentic & AI Automation | Believe | Paris, fr | 2026-08-28 |
 | Réceptionniste Tournant | Barrière | LE TOUQUET-PARIS-PLAGE, fr | 2026-08-28 |
-| GTM Team Lead | Legora | Paris | 2026-08-28 |
+| GTM Team Lead - Paris | Legora | Paris | 2026-08-28 |
 | GTM Team Lead - Paris | Legora | Paris | 2026-08-28 |
 | Voiturier/Bagagiste | Barrière | LE TOUQUET-PARIS-PLAGE, fr | 2026-08-28 |
 | Customer Care Associate – (Multilingual) | Choco | Paris | 2026-08-28 |
+| CDI - Technicien support de proximité H/F - Anglais bilingue | EVERIENCE | Paris, fr | 2026-08-28 |
 | Motorsports Specialist (H/F) | Red Bull | Paris, fr | 2026-08-28 |
+| FR - Agent/Technicien de maintenance (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
+| Technicien de maintenance H/F | AccorHotel | Paris, fr | 2026-08-28 |
 | HR Operations Senior Manager | Ledger | Paris, France | 2026-08-28 |
 | Internal Controller | Alan | Paris, France | 2026-08-28 |
 | Insurance Legal - Internship | Alan | Paris, France | 2026-08-28 |
 | Business Development Representative - French | HubSpot | Flex - Paris, France | 2026-08-28 |
 | Legal & Compliance Ops | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-08-28 |
 | Compliance Ops Builder | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-08-28 |
+| Apprenti Commis de Cuisine (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
+| FR - Plongeur / Equipier Cuisine (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
 | Product Manager Data H/F | NEXTON | Paris, fr | 2026-08-28 |
 | Développeur Back End (Java/NodeJS/Kotlin/AWS) H/F | NEXTON | Paris, fr | 2026-08-28 |
 | Nucléaire - Ingénieur mécanique H/F | ALTEN | Paris, fr | 2026-08-28 |
@@ -69,9 +81,11 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Senior UI Designer (mobile) H/F | NEXTON | Paris, fr | 2026-08-28 |
 | Senior Consultant – Rewards | Sia | Paris, fr | 2026-08-28 |
 | Consultant Digital Asset - H/F | Talan | Paris, fr | 2026-08-28 |
+| Team Lead Business Intelligence | Shiftmove | Paris, France | 2026-08-28 |
 | Senior Associate - Accounts Receivable - Collections | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-08-27 |
 | Retail Customer Service and Sales Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-08-27 |
 | Retail Customer Service Associate - UK Market | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-08-27 |
+| Senior Associate - CFO Secondment | IQ-EQ | Paris, fr | 2026-08-27 |
 | Senior Manager, Commercial Accounts (France) | The National Football League | Paris, France | 2026-08-27 |
 | Senior Software Engineer | VusionGroup SA | Paris, fr | 2026-08-27 |
 | Consultant(e) confirmé(e) | VusionGroup SA | Paris, fr | 2026-08-27 |
@@ -80,11 +94,13 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Freelancer Technical Recruiter | Prelude | Paris, France | 2026-08-27 |
 | Senior - Marketing Data Scientist Consultant | Sia | Paris, fr | 2026-08-27 |
 | Senior - Data Scientist & AI Consultant | Sia | Paris, fr | 2026-08-27 |
+| Consultant Nexthink (H/F) | EVERIENCE | Paris, fr | 2026-08-27 |
 | Service Designer H/F | NEXTON | Paris, fr | 2026-08-27 |
 | Key Account Manager H/F | NEXTON | Paris, fr | 2026-08-27 |
 | Senior Treasury Manager | Nexthink | Paris, fr | 2026-08-27 |
 | Change Manager Senior H/F | NEXTON | Paris, fr | 2026-08-27 |
 | Stage Fiabilité en Gestion des Actifs - F/H | RTE | Paris, fr | 2026-08-27 |
+| Equipier Commercial - CDD F/H | METRO/MAKRO | Paris, fr | 2026-08-27 |
 | Gouvernant(e) d’étage – Extra | Relais & Châteaux | Paris, fr | 2026-08-27 |
 | Consultant Confirmé - Fullstack (Java/Python/Gen AI, React, Angular, Vue, Flutter) - F/H/N | OCTO Technology | Paris, fr | 2026-08-27 |
 | Consultant Confirmé - Fullstack (Java/Python/Gen AI, React, Angular, Vue, Flutter) - F/H/N | Octo | Paris, fr | 2026-08-27 |
@@ -92,6 +108,7 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | CROUPIER (H/F) | Barrière | LE TOUQUET-PARIS-PLAGE, fr | 2026-08-27 |
 | HR Operations Specialist | Nebius | Paris, France | 2026-08-27 |
 | Apprenticeship - Communication & Employer Brand (12 months) | Mirakl | Paris, France | 2026-08-27 |
+| Consultant Expert en Gestion de Projet / PMO H/F | ASSYSTEM | Paris, fr | 2026-08-27 |
 | CHARGE(E) DE PROJETS Data & Pilotage de la performance commerciale - Paris 17ème H/F | REXEL | PARIS, fr | 2026-08-27 |
 | Directeur Expertise et Solution Câbles - Paris 17ème H/F | REXEL | Paris, fr | 2026-08-27 |
 | Account Manager - Paris | Deliveroo | Paris - Main Office | 2026-08-27 |
@@ -100,13 +117,16 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Customer Success Leader, Southern Europe & DACH | Harvey | Paris | 2026-08-27 |
 | AI Prompt Engineer / Vibe Coder Junior - H/F | Talan | Paris, fr | 2026-08-27 |
 | Editorial Content Manager - CDD (M/F/X) | HelloFresh | Paris, Paris, France | 2026-08-27 |
+| GEO, SEO & UX Senior Manager (H/F/X) | AccorCorpo | Paris, fr | 2026-08-27 |
 | Contrôleur.euse de gestion - Stage | Wavestone | Paris, fr | 2026-08-27 |
+| Expert Active Directory / Ingénieur Infrastructure Microsoft (H/F) | CITECH | Paris, fr | 2026-08-27 |
 | Candidature spontanée | Landor | Paris | 2026-08-27 |
 | CRM Campaign Manager H/F | NEXTON | Paris, fr | 2026-08-27 |
 | Testeur QA H/F | NEXTON | Paris, fr | 2026-08-27 |
 | SW Team Lead | Arago | Paris Offices | 2026-08-27 |
 | Head of Community | Hcompany | Hybrid Paris | 2026-08-27 |
 | Product Manager - Platform | Joko | Paris | 2026-08-27 |
+| Solution Architect SI Finance / Corporate Finance (H/F) | CITECH | Paris, fr | 2026-08-27 |
 | Product Manager - Online | Joko | Paris | 2026-08-27 |
 | Product Manager - Engine | Joko | Paris | 2026-08-27 |
 | Product Manager - Catalog | Joko | Paris | 2026-08-27 |
@@ -125,14 +145,10 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Business Analyst IA H/F | NEXTON | Paris, fr | 2026-08-26 |
 | Expert IA Générative H/F | NEXTON | Paris, fr | 2026-08-26 |
 | Final Year Internship Consultant - Energy, Transport & Manufacturing | Sia | Paris, fr | 2026-08-26 |
-| Apprenti(e) Technique (H/F/X) - Hôtel managé | AccorHotel | Paris, fr | 2026-08-26 |
 | Commis de cuisine tournant (H/F) | Relais & Châteaux | Paris, fr | 2026-08-26 |
 | Financial Controller (H/F) - CDI | Wavestone | Paris, fr | 2026-08-26 |
-| Premier(e) Linger(e) F/H | AccorHotel | Paris, fr | 2026-08-26 |
-| Talent Acquisition Specialist & Employer Branding - PARIS SOCIETY (H/F) | AccorHotel | Paris, fr | 2026-08-26 |
 | Commercial itinérant - CDI F/H | METRO/MAKRO | Paris, fr | 2026-08-26 |
 | Chef des ventes F/H | METRO/MAKRO | Paris, fr | 2026-08-26 |
-| Assistant(e) dentaire en alternance H/F | DENTEGO | Paris, fr | 2026-08-26 |
 | Account Manager Senior Banque - H/F | Talan | Paris, fr | 2026-08-26 |
 | Product Specialist - Gen AI (Sr. Specialist Solutions Architect) | Databricks | Paris, France | 2026-08-26 |
 | Finance Manager | Prismic | Paris | 2026-08-26 |
@@ -141,12 +157,9 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | People Operations Partner H/F | Ankorstore | Paris | 2026-08-26 |
 | Responsable de Salon H/F | PROVALLIANCE | Paris, fr | 2026-08-26 |
 | Chef de projet développement H/F | EOS France | Paris, fr | 2026-08-26 |
-| Solution Architect SI Finance / Corporate Finance (H/F) | CITECH | Paris, fr | 2026-08-26 |
-| Alternance - Data Management (Qualité de données et Gouvernance) (H/F/N) | Believe | Paris, fr | 2026-08-26 |
 | Gestionnaire de communauté - March of Giants | Ubisoft | Paris, fr | 2026-08-26 |
 | Community Developer - March of Giants | Ubisoft | Paris, fr | 2026-08-26 |
 | Junior Consultant - Energy, Utilities & Low Carbon Solutions | Sia | Paris, fr | 2026-08-26 |
-| Assistant(e) Traffic Manager - Alternance - F/H | Courir | Paris, fr | 2026-08-26 |
 | Junior Consultant – Energy & Utilities | Sia | Paris, fr | 2026-08-26 |
 | Clinical Data Analyst intern | Sonio | Paris office | 2026-08-26 |
 | Sales Development Representative / SDR (x/f/m) | Doctolib | Paris, Paris, France | 2026-08-26 |
@@ -163,7 +176,6 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Tech Lead .NET – F/H | Talan | Paris, fr | 2026-08-26 |
 | Tech Lead Cloud (Microsoft Azure / AWS / GCP) H/F | Talan | Paris, fr | 2026-08-26 |
 | Ingénieur Support Technique - Vidéo F/H/X | Genetec | Paris, France | 2026-08-26 |
-| Team Leader Aftersales | Treatwell | Paris, France | 2026-08-26 |
 | Stage - Assistant.e Planneur.euse Stratégique Junior | We Are Social | Paris, France | 2026-08-26 |
 | Chargé(e) de recrutement et de projets | Sia | Paris, fr | 2026-08-25 |
 | DevOps / Platform Engineer | Sia | Paris, fr | 2026-08-25 |
@@ -178,7 +190,6 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Final year internship - Marketing Data Scientist | Sia | Paris, fr | 2026-08-25 |
 | Final year internship - Operations Research Consultant | Sia | Paris, fr | 2026-08-25 |
 | Final year internship - Data Scientist & AI Consultant | Sia | Paris, fr | 2026-08-25 |
-| Gestionnaire Administration des Achats luxe F/H | EPSA | Paris, fr | 2026-08-25 |
 | Consultant - Télécoms | Sia | Paris, fr | 2026-08-25 |
 | Senior Data Ops engineer (x/f/m) | Doctolib | Paris, Paris, France | 2026-08-25 |
 | Executive Assistant - M/W/NB | Ubisoft | Paris, fr | 2026-08-25 |
@@ -188,6 +199,7 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Internship - Finance Analyst | Nabla | Paris office | 2026-08-25 |
 | Animateur(trice) Réseau - CDI - H/F | PROVALLIANCE | Paris, fr | 2026-08-25 |
 | Founding Game Artist- Cortex Studio | Voodoo | Paris | 2026-08-25 |
+| CHEF DE SECTEUR ILE-DE-FRANCE EST (H/F) | Groupement Mousquetaires | PARIS / MELUN, fr | 2026-08-25 |
 | Final Year Internship Consultant - HR & Transformation | Sia | Paris, fr | 2026-08-25 |
 | Cybersecurity & AI Engineer Automation (F/H) | Mirakl - Labs | Paris, France | 2026-08-25 |
 | Senior Consultant – People & Workforce Transformation | Sia | Paris, fr | 2026-08-25 |
@@ -284,9 +296,9 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Administrateur SAP Basis (H/F) | Talan | Paris, fr | 2026-08-24 |
 | Expert Solutions Salesforce H/F | NEXTON | Paris, fr | 2026-08-24 |
 | Account Manager | Vocca | Paris | 2026-08-24 |
-| Consultant interne - Business Operations & Strategy H/F - Alternance | Fifty-Five | Paris, France | 2026-08-24 |
-| CDI - Directeur.trice Artistique Junior | We Are Social | Paris, France | 2026-08-24 |
 | Software Engineering Evaluation Specialist | Mindrift | Paris, France | 2026-08-24 |
+| CDI - Directeur.trice Artistique Junior | We Are Social | Paris, France | 2026-08-24 |
+| Consultant interne - Business Operations & Strategy H/F - Alternance | Fifty-Five | Paris, France | 2026-08-24 |
 | Software Engineer, Platform - Paris, France | Speechify | Paris, France | 2026-08-23 |
 | Internship - FPGA Hardware Design - PQ Cryptography Hardware Accelerator | Cryptonext Security | Paris, France | 2026-08-23 |
 | Insurance Agent - Paris, TX | Horace Mann - Agent Opportunities | Paris, TX | 2026-08-21 |
@@ -294,18 +306,6 @@ _2,447 open · showing the 300 most recent · updated 2026-08-29 04:17 UTC_
 | Field Sales & Training Executive (CDD) — Sephora France | Yepoda | Paris | 2026-08-21 |
 | Category manager Food, International Procurement (all genders) | HelloFresh | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; Paris, Paris, France | 2026-08-21 |
 | Field Marketing Manager | Black Forest Labs | San Francisco (USA), Seattle (USA), Los Angeles (USA), Austin (USA), Freiburg (Germany), Berlin (Germany), Munich (Germany), Frankfurt (Germany), Paris (France), Amsterdam (Netherlands), London (United Kingdom) | 2026-08-21 |
-| Accounts Payables Associate | Sutherland | Mandeville, Manchester Parish, Jamaica, jm | 2026-08-21 |
-| Spécialiste Génie climatique expérimenté/e - F/H | ALTEREA | Paris, fr | 2026-08-21 |
-| Économiste de la construction - F/H | ALTEREA | Paris, fr | 2026-08-21 |
-| Algorithm Engineer | Beacon Biosignals | Paris, France / Remote | 2026-08-21 |
-| Performance Marketing Specialist, Mobile | Blockchain.com | Paris | 2026-08-21 |
-| Vendeuse / Vendeur - F/H | Courir | PARIS, fr | 2026-08-21 |
-| FPGA Engineer - Electronic Warfare | Harmattan Ai | Paris | 2026-08-21 |
-| Infrastructure Security Engineer | Blockchain.com | Paris | 2026-08-21 |
-| Vendeuse / Vendeur - F/H | Courir | Paris, fr | 2026-08-21 |
-| Senior Product Security Engineer | Blockchain.com | Paris | 2026-08-21 |
-| Security Engineer, Institutional Trading | Blockchain.com | Paris | 2026-08-21 |
-| Vendeuse / Vendeur - F/H | Courir | Paris, fr | 2026-08-21 |
 
 ---
 
