@@ -2,10 +2,18 @@
 
 Roles listing New York as their location.
 
-_12,869 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
+_12,843 open · showing the 300 most recent · updated 2026-08-31 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Founding Ops & Strategy // New York | Claimsorted | New York | 2026-08-30 |
+| Payroll Manager | Polymarket | New York | 2026-08-30 |
+| Vice President, Growth Marketing | Spring Health | New York (Hybrid) | 2026-08-30 |
+| Growth Marketing Lead | Clera | New York | 2026-08-30 |
+| Founding Engineer | Clera | New York | 2026-08-30 |
+| Litigation Paralegal | Morgan & Morgan, P.A. | Manhattan, New York, United States | 2026-08-30 |
+| Senior product engineer | Watershed | New York City | 2026-08-30 |
+| Account Manager - Base44 | Wix | New York, us | 2026-08-30 |
 | Creator Partnerships Manager | Polymarket | New York | 2026-08-29 |
 | Creative Ops Lead | Polymarket | New York | 2026-08-29 |
 | Staff Fullstack Engineer | Polymarket | New York | 2026-08-29 |
@@ -16,12 +24,86 @@ _12,869 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Strategic Account Executive | Ping Identity | USA - New York | 2026-08-29 |
 | Senior Recruiter \| G&A | Ramp | New York, NY (HQ) | 2026-08-29 |
 | VP, Communications | Maven Clinic | New York, New York, United States | 2026-08-29 |
+| UNIX MIDDLEWARE ENGINEER | City of New York | New York City, us | 2026-08-29 |
+| CLOUD DEVOPS AND APPLICATION MIGRATION ENGINEER | City of New York | New York, us | 2026-08-29 |
+| Associate General Counsel | City of New York | New York City, us | 2026-08-29 |
+| Ryan Long Fellowship | City of New York | New York City, us | 2026-08-29 |
+| Plan Examination Intern | City of New York | New York City, us | 2026-08-29 |
+| Plan Examination Intern | City of New York | New York City, us | 2026-08-29 |
+| Analyst - Youth and Community Development (DYCD) / Aging (DFTA) / Veterans’ Services (DVS) | City of New York | New York, us | 2026-08-29 |
+| BUDGET ANALYST | City of New York | New York, us | 2026-08-29 |
+| Deputy Director of Project Intake and Pre-development for the Division of Preservation Finance | City of New York | New York City, us | 2026-08-29 |
+| Administrative Claim Examiner- Tort | City of New York | New York City, us | 2026-08-29 |
+| Owner Resource Center Director for the Division of Preservation Finance | City of New York | New York City, us | 2026-08-29 |
+| Deputy Bureau Chief - General Crimes Bureau | City of New York | New York City, us | 2026-08-29 |
+| Contracts and Compliance Manager | City of New York | New York, us | 2026-08-29 |
+| Audit and Compliance Analyst | City of New York | New York, us | 2026-08-29 |
+| Senior Human Resources Coordinator | City of New York | New York City, us | 2026-08-29 |
+| Senior Inspector | City of New York | New York City, us | 2026-08-29 |
+| Ranger Sergeant | City of New York | New York City, us | 2026-08-29 |
+| City Map Engineer | City of New York | New York, us | 2026-08-29 |
+| Mapping & Spatial Records Specialist | City of New York | New York, us | 2026-08-29 |
+| Senior City Map Planner | City of New York | New York, us | 2026-08-29 |
+| Chief of City Mapping | City of New York | New York, us | 2026-08-29 |
+| SENIOR ATTORNEY | City of New York | New York, us | 2026-08-29 |
+| Bioinformatics Scientist , Bureau of the Public Health Laboratory | City of New York | New York City, us | 2026-08-29 |
+| Claims Integrity & Compliance Officer - Workers' Compensation Division | City of New York | New York City, us | 2026-08-29 |
+| Engagement & Operations Coordinator | City of New York | New York, us | 2026-08-29 |
+| Agency Attorney 3 | City of New York | New York City, us | 2026-08-29 |
+| Attorney, Interstate Child Support Unit | City of New York | New York City, us | 2026-08-29 |
+| CARETAKER X | City of New York | New York City, us | 2026-08-29 |
+| Child Welfare Trainer | City of New York | New York City, us | 2026-08-29 |
+| Neighborhood Planner | City of New York | New York, us | 2026-08-29 |
+| Trial Division (TB 40) - Trial Preparation Assistant, Level I | City of New York | New York City, us | 2026-08-29 |
+| Director of External Affairs | City of New York | New York City, us | 2026-08-29 |
+| INTAKE WORKER | City of New York | New York City, us | 2026-08-29 |
+| Volunteer Coordinator | City of New York | New York City, us | 2026-08-29 |
+| Outreach Coordinator | City of New York | New York City, us | 2026-08-29 |
+| Senior Director of Strategic Initiatives | City of New York | New York, us | 2026-08-29 |
+| Neighborhoods Manager | City of New York | New York City, us | 2026-08-29 |
+| COMMUNITY ASSISTANT | City of New York | New York City, us | 2026-08-29 |
+| Freight Planner | City of New York | New York City, us | 2026-08-29 |
+| Senior Advisor, Mitchell-Lama Oversight & Policy | City of New York | New York City, us | 2026-08-29 |
+| Project Design Innovation Coordinator, OLS | City of New York | New York City, us | 2026-08-29 |
+| Senior Project Coordinator | City of New York | New York City, us | 2026-08-29 |
+| Project Coordinator, OLS | City of New York | New York City, us | 2026-08-29 |
+| DIRECTOR OF PROGRAMS | City of New York | New York City, us | 2026-08-29 |
+| DEPUTY DIRECTOR | City of New York | New York City, us | 2026-08-29 |
+| Administrative Construction Project Manager | City of New York | New York City, us | 2026-08-29 |
+| BOB- Construction Project Manager II | City of New York | New York City, us | 2026-08-29 |
+| BOB- Associate Project Manager II | City of New York | New York City, us | 2026-08-29 |
+| BOB-Oiler | City of New York | New York City, us | 2026-08-29 |
+| Director of Customer Support and Program Development | City of New York | New York, us | 2026-08-29 |
+| CHIEF PROGRAM PERFORMANCE AND FINANCIAL MANAGEMENT OFFICER (DSS) | City of New York | New York, us | 2026-08-29 |
+| Transit Planner, Bus Priority Analyst | City of New York | New York City, us | 2026-08-29 |
+| QA Testing Manager | City of New York | New York City, us | 2026-08-29 |
+| Traffic Device Maintainer | City of New York | New York, us | 2026-08-29 |
+| Assistant Corporation Counsel, Tort Division | City of New York | New York City, us | 2026-08-29 |
+| Traffic Device Maintainer | City of New York | New York, us | 2026-08-29 |
+| Project Manager | City of New York | New York City, us | 2026-08-29 |
+| Project Manager | City of New York | New York City, us | 2026-08-29 |
+| City Medical Specialist | City of New York | New York City, us | 2026-08-29 |
+| Clerk | City of New York | New York City, us | 2026-08-29 |
+| Associate Director of Street Activity Permit Office | City of New York | New York City, us | 2026-08-29 |
+| Director of Procurement for the Office of Neighborhood Strategies | City of New York | New York City, us | 2026-08-29 |
+| EXECUTIVE AGENCY COUNSEL | City of New York | New York, us | 2026-08-29 |
+| Deputy Borough Director | City of New York | New York City, us | 2026-08-29 |
+| Criminalist II (Molecular Genetics) | City of New York | New York, us | 2026-08-29 |
+| SPECIAL OFFICER | City of New York | New York, us | 2026-08-29 |
+| Investigator | City of New York | New York City, us | 2026-08-29 |
+| Case Manager | City of New York | New York City, us | 2026-08-29 |
+| ASSISTANT GENERAL COUNSEL, EMPLOYMENT LAW UNIT | City of New York | New York, us | 2026-08-29 |
+| Investigator | City of New York | New York City, us | 2026-08-29 |
+| Contract Analyst | City of New York | New York City, us | 2026-08-29 |
+| Clerical Associate | City of New York | New York City, us | 2026-08-29 |
+| Investigator | City of New York | New York City, us | 2026-08-29 |
 | Senior Account Executive | Genius Sports | New York, New York, United States | 2026-08-29 |
 | Founding Account Executive | Bastion | New York City | 2026-08-29 |
 | Senior Manager, Customer Service Operations | Bastion | New York City | 2026-08-29 |
 | Safeguards Enforcement Lead, Cyber Harms | Anthropic | Remote-Friendly (Travel-Required) \| Washington, DC; San Francisco, CA \| New York City, NY | 2026-08-29 |
 | Senior Talent Acquisition Partner - GTM | Fireblocks | New York | 2026-08-29 |
 | Customer Support Specialist I | Everlaw | New York, New York, United States | 2026-08-29 |
+| VP of Finance | Tutored by Teachers | New York, United States | 2026-08-29 |
 | Director of Engineering, Enterprise Systems | OpenTable | New York, NY | 2026-08-28 |
 | Client Partner, NY | Nextdoor | New York, NY | 2026-08-28 |
 | SMB Account Executive | Block | New York, NY, United States of America | 2026-08-28 |
@@ -109,8 +191,8 @@ _12,869 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Senior Creative Operations & Production Manager | Datadog | New York, New York, USA | 2026-08-28 |
 | General Interest Application | Nourish | New York, NY / San Francisco, CA / Remote | 2026-08-28 |
 | Clinical Research Nurse | Adams Clinical | New York, New York, United States | 2026-08-28 |
-| AI Engineer | CoreWeave | Livingston, NJ / New York, NY / Sunnyvale, CA | 2026-08-28 |
 | Engineering Manager, Developer Experience | CoreWeave | New York, NY | 2026-08-28 |
+| AI Engineer | CoreWeave | Livingston, NJ / New York, NY / Sunnyvale, CA | 2026-08-28 |
 | Signal Integrity / Power Integrity Engineer | Hudson River Trading | Austin, TX, United States; Boulder, Colorado, United States; Chicago, Illinois, United States; New York, NY, United States | 2026-08-28 |
 | Director, Technical Program Management | BitGo | New York, United States | 2026-08-28 |
 | Full-Stack AI Engineer | Appnovation Technologies | New York | 2026-08-28 |
@@ -151,6 +233,7 @@ _12,869 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Senior Designer | OLIVER Agency - North America | New York, New York | 2026-08-28 |
 | Live Safety Broadcaster | Citizen | New York City | 2026-08-28 |
 | Live Safety Broadcaster | Citizen | New York City | 2026-08-28 |
+| Live Safety Broadcaster | CItizen Health | New York City | 2026-08-28 |
 | Senior Manager, Compute Accounting | Anthropic | San Francisco, CA \| New York City, NY | 2026-08-28 |
 | Assistant Vice President, Compliance, M/W/DBE | New York City Economic Development Corporation | New York, New York, United States | 2026-08-28 |
 | User Experience Researcher | Oscar Health | New York, New York, United States | 2026-08-28 |
@@ -186,29 +269,22 @@ _12,869 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Business Development Representative | 6sense | Austin, Texas, United States; Madison, Wisconsin, United States; New York City, NY, United States | 2026-08-28 |
 | Solutions Engineer, Institutional | Matter Labs | New York | 2026-08-28 |
 | Account Executive, Institutional Sales | Matter Labs | New York | 2026-08-28 |
-| Associate Director of Street Activity Permit Office | City of New York | New York City, us | 2026-08-28 |
 | Fund Management, Analyst | CAIS | New York, New York | 2026-08-28 |
 | Shift Lead \| Brooklyn | Blank Street | Brooklyn, New York, United States | 2026-08-28 |
 | Senior Marketing Analytics Manager | Duolingo | New York, NY | 2026-08-28 |
 | Paid Social Director | Jellyfishcareers | New York | 2026-08-28 |
-| Lieutenant | City of New York | New York City, us | 2026-08-28 |
 | Sr. Associate - New Verticals, Agentic AI (NY) | Lavendo | New York | 2026-08-28 |
-| Hazardous Materials Specialist | City of New York | New York, us | 2026-08-28 |
-| Director of Geographic Data and Engineering (GDE) | City of New York | New York, us | 2026-08-28 |
 | GTM Compensation Leader | Gong.io | New York City \| Salt Lake City | 2026-08-28 |
-| Director of Geographic Data Research (GDR) | City of New York | New York, us | 2026-08-28 |
 | Associate Campaign Manager | Teads | New York City | 2026-08-28 |
 | Revenue Enablement Manager, Sales | Hootsuite | Toronto, Ontario, Canada, Vancouver, New York, Texas, North Carolina | 2026-08-28 |
 | Senior Applied Scientist | Datadog | New York, New York, USA | 2026-08-28 |
 | Sales Development Manager | Profound | New York, New York | 2026-08-28 |
-| Recruitment Coordinator | City of New York | New York, us | 2026-08-28 |
 | Investment Banking, Associate, Healthcare | BTIG | New York, New York, United States | 2026-08-28 |
 | NY Licensed Bilingual Spanish/English Clinician - LMSW or LCSW - Behavioral Health | Concert Health | New York / Remote | 2026-08-28 |
 | Project Manager for Live Entertainment | FeverUp | New York | 2026-08-28 |
 | Operations Manager | Veo - Operations Careers | Syracuse, New York, United States | 2026-08-28 |
 | Founding Account Manager, Advisor Services & Loyalty | Fora | New York City | 2026-08-28 |
 | Manager, SMB Sales | Figma | San Francisco, CA • New York, NY • United States | 2026-08-28 |
-| Deputy Borough Director | City of New York | New York City, us | 2026-08-28 |
 | Veterinarian - Lower Manhattan - Financial District | Bond Vet | New York, NY | 2026-08-28 |
 | Sr. Software Engineer, Frontend | Navan | New York, NY | 2026-08-28 |
 | Sr. Software Engineer, Backend | Navan | New York, NY | 2026-08-28 |
@@ -219,74 +295,6 @@ _12,869 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | 1099 Physician - APP Supervision | Oscar Health | New York, New York, United States | 2026-08-28 |
 | Shift Lead \| Manhattan | Blank Street | New York, NY | 2026-08-28 |
 | Manager, (Commercial) Customer Success \| New York Hybrid | Workwize | New York | 2026-08-28 |
-| Senior Human Resources Coordinator | City of New York | New York City, us | 2026-08-28 |
-| Facilities Assistant | City of New York | New York City, us | 2026-08-28 |
-| Ranger Sergeant | City of New York | New York City, us | 2026-08-28 |
-| SENIOR ATTORNEY | City of New York | New York, us | 2026-08-28 |
-| Unit Head / Deputy Assistant Director - SOCIAL SERVICES | City of New York | New York, us | 2026-08-28 |
-| P/T College Aide, Level II | City of New York | New York City, us | 2026-08-28 |
-| Director of Public Certification Unit | City of New York | New York City, us | 2026-08-28 |
-| Shape Up NYC Outreach Coordinator | City of New York | New York City, us | 2026-08-28 |
-| DEIB Investigator | City of New York | New York City, us | 2026-08-28 |
-| Bronx Community Board 6 College Aide | City of New York | New York City, us | 2026-08-28 |
-| Deputy Director | City of New York | New York City, us | 2026-08-28 |
-| Cleaning Staff (Operations / Facilities Management) | City of New York | New York City, us | 2026-08-28 |
-| Senior Project Manager | City of New York | New York City, us | 2026-08-28 |
-| SENIOR ARCHITECT | City of New York | New York, us | 2026-08-28 |
-| Deputy EEO Officer | City of New York | New York City, us | 2026-08-28 |
-| Case Advocate College Aide | City of New York | New York, us | 2026-08-28 |
-| CARETAKER P (HA) | City of New York | New York, us | 2026-08-28 |
-| Intake Attorney, Manhattan Borough Office, Tort Division | City of New York | New York City, us | 2026-08-28 |
-| Assistant Borough Chief for Vertical Case Management, Tort Division | City of New York | New York City, us | 2026-08-28 |
-| Fraud Management College Aide | City of New York | New York City, us | 2026-08-28 |
-| Director, Fiscal Services | City of New York | New York City, us | 2026-08-28 |
-| Records Coordinator | City of New York | New York City, us | 2026-08-28 |
-| Electrical Inspector | City of New York | New York, us | 2026-08-28 |
-| RADIO REPAIR MECHANIC | City of New York | New York City, us | 2026-08-28 |
-| Assistant Architect | City of New York | New York, us | 2026-08-28 |
-| Port Superintendent of Operations | City of New York | New York City, us | 2026-08-28 |
-| CARETAKER X | City of New York | New York City, us | 2026-08-28 |
-| Assistant Chief Surgeon | City of New York | New York City, us | 2026-08-28 |
-| CASHIER | City of New York | New York, us | 2026-08-28 |
-| Director of City Government Affairs | City of New York | New York City, us | 2026-08-28 |
-| DIRECTOR OF PROCEDURES | City of New York | New York, us | 2026-08-28 |
-| Inspector, School Safety | City of New York | New York City, us | 2026-08-28 |
-| Inspector, School Safety | City of New York | New York City, us | 2026-08-28 |
-| ASSISTANT FACILITY COORDINATOR/BUILDING MANAGER | City of New York | New York, us | 2026-08-28 |
-| Transit Planner, Bus Priority Analyst | City of New York | New York City, us | 2026-08-28 |
-| SERGEANT | City of New York | New York, us | 2026-08-28 |
-| Transit Planner, Bus Priority | City of New York | New York City, us | 2026-08-28 |
-| Phlebotomist | City of New York | New York City, us | 2026-08-28 |
-| Data Entry/Registration Clerk | City of New York | New York City, us | 2026-08-28 |
-| PRINCIPAL ASSISTANT TO THE DEPUTY COMMISSIONER | City of New York | New York, us | 2026-08-28 |
-| Director of Timekeeping, Payroll, and Leaves of Absence | City of New York | New York City, us | 2026-08-28 |
-| Special Projects and Data Lead, School Safety | City of New York | New York City, us | 2026-08-28 |
-| Freight Planner | City of New York | New York City, us | 2026-08-28 |
-| Freight Planner | City of New York | New York City, us | 2026-08-28 |
-| Freight Planner | City of New York | New York City, us | 2026-08-28 |
-| Customer Care Representative | City of New York | New York, us | 2026-08-28 |
-| Project Coordinator, Safety Projects and Programs | City of New York | New York City, us | 2026-08-28 |
-| Project Coordinator: Safety Projects and Programs | City of New York | New York City, us | 2026-08-28 |
-| Deputy Director, Rapid Bus Network Development | City of New York | New York City, us | 2026-08-28 |
-| Deputy Director, Rapid Bus Network Development | City of New York | New York City, us | 2026-08-28 |
-| Program Manager, Business Incentives & Energy Cost Savings Program (ECSP) | City of New York | New York, us | 2026-08-28 |
-| Graphic Artist, OLS | City of New York | New York City, us | 2026-08-28 |
-| Project Design Innovation Coordinator, OLS | City of New York | New York City, us | 2026-08-28 |
-| Project Design Innovation Coordinator, OLS | City of New York | New York City, us | 2026-08-28 |
-| Operations Analyst | City of New York | New York City, us | 2026-08-28 |
-| HR Business Partner | City of New York | New York City, us | 2026-08-28 |
-| BANK ACCOUNT AND DISBURSEMENT AUDITOR | City of New York | New York, us | 2026-08-28 |
-| Administrative Construction Project Manager | City of New York | New York City, us | 2026-08-28 |
-| Procurement Analyst | City of New York | New York, us | 2026-08-28 |
-| Senior Application Security Engineer | City of New York | New York City, us | 2026-08-28 |
-| Senior Cyber Cloud Security Engineer | City of New York | New York City, us | 2026-08-28 |
-| Landmarks Preservationist | City of New York | New York City, us | 2026-08-28 |
-| ENROLLMENT SPECIALIST | City of New York | New York City, us | 2026-08-28 |
-| EFAP COORDINATOR | City of New York | New York, us | 2026-08-28 |
-| CUSTOMER SERVICE MONITOR | City of New York | New York City, us | 2026-08-28 |
-| WECARE PROGRAM SUPPORT SPECIALIST | City of New York | New York, us | 2026-08-28 |
-| DIRECTOR, EFNAP | City of New York | New York, us | 2026-08-28 |
-| Case Manager for the Division of Tenant and Owner Resources (HOME TBRA Program) | City of New York | New York City, us | 2026-08-28 |
 | Staff Data Platform Engineer - Finance | Vercel | Hybrid - San Francisco, New York City | 2026-08-28 |
 | Client Operations Associate - New York | Copper.co | New York | 2026-08-28 |
 | Enterprise Account Executive | Siena | New York | 2026-08-28 |
@@ -298,14 +306,6 @@ _12,869 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Senior Product Designer, Trading | Robinhood | Menlo Park, CA; New York, NY | 2026-08-28 |
 | Business Operations Associate | Nen Creative | New York City | 2026-08-28 |
 | Data Engineering Lead | Patlytics • Premier AI-Powered Patent Intelligence | New York | 2026-08-28 |
-| Content Marketing Manager (US Market) | Clera | New York | 2026-08-28 |
-| Manager, Network Contracting (Northeast Region) | Oscar Health | New York, New York, United States | 2026-08-28 |
-| Associate, Provider Success | Oscar Health | New York, New York, United States | 2026-08-28 |
-| Senior Software Engineer, Frontend | Brex | New York, New York, United States | 2026-08-28 |
-| Sr. Legal Counsel, US & Canada | Monks | New York, New York, United States | 2026-08-28 |
-| Director of Commercial Pricing & Finance | Monks | New York, United States | 2026-08-28 |
-| Sales Development Representative - New York | Cursor | New York | 2026-08-28 |
-| Freelance Annotator (English) - AI Trainer | Mindrift - Data annotation | New York, United States | 2026-08-28 |
 
 ---
 

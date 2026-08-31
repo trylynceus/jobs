@@ -2,10 +2,11 @@
 
 Roles listing Paris as their location.
 
-_2,170 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
+_2,161 open · showing the 300 most recent · updated 2026-08-31 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Equipier Commercial - Caisse CDD F/H | METRO/MAKRO | Paris, fr | 2026-08-29 |
 | Head of Engineering | Konvu | Paris | 2026-08-28 |
 | Enterprise Account Executive, Automotive | Anthropic | Paris, France | 2026-08-28 |
 | Future Business Development Representative Opportunities | Mirakl | Barcelona, Barcelona, Spain; Boston, Massachusetts, United States; London, England, United Kingdom; Mexico; New York, New York, United States; Paris, France; Sydney | 2026-08-28 |
@@ -50,7 +51,6 @@ _2,170 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Final Year Internship Consultant in Financial Transformation | Sia | Paris, fr | 2026-08-28 |
 | Financial Transformation Consultant | Sia | Paris, fr | 2026-08-28 |
 | Data Architect | REXEL | Paris, fr | 2026-08-28 |
-| Chef de partie Cuisine - CDD (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
 | Mixed-Signal IC Design Engineer | Arago | Paris Offices | 2026-08-28 |
 | Analyste normes comptables (F/H) | RTE | Paris, fr | 2026-08-28 |
 | Senior Product Manager - Agentic & AI Automation | Believe | Paris, fr | 2026-08-28 |
@@ -61,16 +61,12 @@ _2,170 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Customer Care Associate – (Multilingual) | Choco | Paris | 2026-08-28 |
 | CDI - Technicien support de proximité H/F - Anglais bilingue | EVERIENCE | Paris, fr | 2026-08-28 |
 | Motorsports Specialist (H/F) | Red Bull | Paris, fr | 2026-08-28 |
-| FR - Agent/Technicien de maintenance (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
-| Technicien de maintenance H/F | AccorHotel | Paris, fr | 2026-08-28 |
 | HR Operations Senior Manager | Ledger | Paris, France | 2026-08-28 |
 | Internal Controller | Alan | Paris, France | 2026-08-28 |
 | Insurance Legal - Internship | Alan | Paris, France | 2026-08-28 |
 | Business Development Representative - French | HubSpot | Flex - Paris, France | 2026-08-28 |
 | Legal & Compliance Ops | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-08-28 |
 | Compliance Ops Builder | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-08-28 |
-| Apprenti Commis de Cuisine (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
-| FR - Plongeur / Equipier Cuisine (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
 | Product Manager Data H/F | NEXTON | Paris, fr | 2026-08-28 |
 | Développeur Back End (Java/NodeJS/Kotlin/AWS) H/F | NEXTON | Paris, fr | 2026-08-28 |
 | Nucléaire - Ingénieur mécanique H/F | ALTEN | Paris, fr | 2026-08-28 |
@@ -199,7 +195,6 @@ _2,170 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Internship - Finance Analyst | Nabla | Paris office | 2026-08-25 |
 | Animateur(trice) Réseau - CDI - H/F | PROVALLIANCE | Paris, fr | 2026-08-25 |
 | Founding Game Artist- Cortex Studio | Voodoo | Paris | 2026-08-25 |
-| CHEF DE SECTEUR ILE-DE-FRANCE EST (H/F) | Groupement Mousquetaires | PARIS / MELUN, fr | 2026-08-25 |
 | Final Year Internship Consultant - HR & Transformation | Sia | Paris, fr | 2026-08-25 |
 | Cybersecurity & AI Engineer Automation (F/H) | Mirakl - Labs | Paris, France | 2026-08-25 |
 | Senior Consultant – People & Workforce Transformation | Sia | Paris, fr | 2026-08-25 |
@@ -269,6 +264,8 @@ _2,170 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Senior Paid Media Specialist SEA/SMA H/F | Fifty-Five | Paris, France | 2026-08-25 |
 | Revenue Operations Manager | Morpho | Paris | 2026-08-24 |
 | Revenue Operations Manager | Morpho | Paris | 2026-08-24 |
+| Senior Algorithm Engineer | Beacon Biosignals | Paris, France | 2026-08-24 |
+| Algorithm Engineer | Beacon Biosignals | Paris, France | 2026-08-24 |
 | Non-Licensed Insurance Customer Service Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-08-24 |
 | Account Manager - Paris | OpenTable | Paris, France | 2026-08-24 |
 | Senior Forward Deployed Engineer (France) | Parloa | France; Paris | 2026-08-24 |
@@ -306,6 +303,9 @@ _2,170 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Field Sales & Training Executive (CDD) — Sephora France | Yepoda | Paris | 2026-08-21 |
 | Category manager Food, International Procurement (all genders) | HelloFresh | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; Paris, Paris, France | 2026-08-21 |
 | Field Marketing Manager | Black Forest Labs | San Francisco (USA), Seattle (USA), Los Angeles (USA), Austin (USA), Freiburg (Germany), Berlin (Germany), Munich (Germany), Frankfurt (Germany), Paris (France), Amsterdam (Netherlands), London (United Kingdom) | 2026-08-21 |
+| Accounts Payables Associate | Sutherland | Mandeville, Manchester Parish, Jamaica, jm | 2026-08-21 |
+| Spécialiste Génie climatique expérimenté/e - F/H | ALTEREA | Paris, fr | 2026-08-21 |
+| Économiste de la construction - F/H | ALTEREA | Paris, fr | 2026-08-21 |
 
 ---
 

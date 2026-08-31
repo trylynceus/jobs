@@ -2,31 +2,58 @@
 
 Roles whose title reads as design.
 
-_12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
+_12,669 open · showing the 300 most recent · updated 2026-08-31 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Equipment Operator | Loenbro | Epping, ND | 2026-08-30 |
+| Delivery Driver(08016) - 1431 E Broadway St, Suite A | Domino's | Cuero, us | 2026-08-30 |
+| Senior/Staff Product Designer | Clera | Munich | 2026-08-30 |
+| Brand Designer | Clera | Berlin | 2026-08-30 |
+| Freelance Product Designer (Fractional) | Clera | San Francisco | 2026-08-30 |
+| Product Designer | Clera | remote | 2026-08-30 |
+| Commis de cuisine - BISTRO SIMPLE ET MEILLEUR à St Martin de BELLEVILLE | Relais & Châteaux | Les Belleville, fr | 2026-08-30 |
+| Sourcing Manager, Capital Equipment & Construction (Starlink) | SpaceX | Bastrop, TX | 2026-08-30 |
+| Commis de salle H/F - Abbaye des Vaux de Cernay | AccorHotel | Cernay-la-Ville, fr | 2026-08-30 |
+| System Designer | Applied | Sunnyvale | 2026-08-30 |
+| Crew Member (07491) - 9800 W Skye Canyon Park Dr Suite 150 | Domino's | Las Vegas, us | 2026-08-30 |
+| Delivery Driver(01875) - 3955 56th Street South, Suite A | Domino's | Fargo, us | 2026-08-30 |
+| General Manager(02169) - 6411 Branch Hill Guinea Pike | Domino's | Loveland, us | 2026-08-30 |
+| Crew Member (09043) - 1780 N. Buffalo Dr. Suite 115 | Domino's | Las Vegas, us | 2026-08-30 |
+| Assistant Manager(05881) - 14945 E. Limestone Road, Suite A | Domino's | Harvest, us | 2026-08-30 |
+| (7890) San Luis Obispo: Delivery Driver | Domino's | San Luis Obispo, us | 2026-08-30 |
 | Recruiter | Afterquery | San Francisco | 2026-08-29 |
 | Distribution Associate III (Equipment Operator) | Balance |  | 2026-08-29 |
+| Senior Embedded Software Engineer, Linux | Relativityspace | Long Beach, California, United States | 2026-08-29 |
+| Director of Recruiting | GitLab | Bangalore, India | 2026-08-29 |
+| Senior Product Designer | GitLab | Remote, Canada; Remote, US | 2026-08-29 |
+| RPA Engineer, UiPath | GitLab | Bangalore, India | 2026-08-29 |
+| Engineering Manager, Build | GitLab | Remote, United Kingdom | 2026-08-29 |
+| Staff Product Designer, Learning | LinkedIn | Bengaluru, in | 2026-08-29 |
 | Junior Product Designer | Clera | Munich | 2026-08-29 |
-| General Manager (05383) - 1812-C Winchester Road Suite C | Domino's | Huntsville, us | 2026-08-29 |
-| Assistant Manager (05383) - 1812-C Winchester Road Suite C | Domino's | Huntsville, us | 2026-08-29 |
 | Extra polyvalent du Chambard***** Relais&Châteaux | Relais & Châteaux | Kaysersberg Vignoble, fr | 2026-08-29 |
 | Senior Recruiter \| G&A | Ramp | New York, NY (HQ) | 2026-08-29 |
+| Cuisinier / Commis de cuisine (H/F/X) | AccorHotel | Aix-en-Provence, fr | 2026-08-29 |
 | UI/UX Designer | Playpowerlabs | Fully Remote - India Only | 2026-08-29 |
+| BUILDING SUPERINTENDENT | City of New York | Brooklyn, us | 2026-08-29 |
+| Deputy Commissioner/Chief Equity Officer, Center for Health Equity and Community Wellness | City of New York | Long Island City, us | 2026-08-29 |
 | Linguist - French (fr-LU) - Remote | Lilt Production | Luxembourg (Remote) | 2026-08-29 |
 | Linguist - Spanish (es-PA) - Remote | Lilt Production | Panama (Remote) | 2026-08-29 |
 | Chef de Partie - Bistrot La Canourgue - Relais & Châteaux - Groupe Pourcel - Montpellier | Relais & Châteaux | Montpellier, fr | 2026-08-29 |
 | Commis de cuisine (H/F) - Bistrot La Canourgue - CDI - Groupe Pourcel - Montpellier | Relais & Châteaux | Montpellier, fr | 2026-08-29 |
 | Chef de partie en pâtisserie (H/F) - CDI - Hôtel Richer de Belleval - Relais & Châteaux | Relais & Châteaux | Montpellier, fr | 2026-08-29 |
+| Verkoopmedewerker - (M/V) 24u - Uithoorn | Frasers Group | Uithoorn, nl | 2026-08-29 |
 | Linguist - German (de-LU) - Remote | Lilt Production | Luxembourg (Remote) | 2026-08-29 |
+| Equipier Commercial - Caisse CDD F/H | METRO/MAKRO | Paris, fr | 2026-08-29 |
 | Jr. Billing cum Costing Engineer – Passenger Terminal Building (PTB) ( Ahmedabad, Trivandrum & Mangalore) | AECOM | Thiruvananthapuram, in | 2026-08-29 |
 | Jr. Project Control Engineer – Passenger Terminal Building (PTB) ( Ahmedabad & Trivandrum) | AECOM | Thiruvananthapuram, in | 2026-08-29 |
-| General Manager(08031) - 313 S. Broadway Street, Suite 5 | Domino's | Joshua, us | 2026-08-29 |
-| Delivery Driver(06276) - 1407 W 84th Avenue, Suite D3B | Domino's | Federal Heights, us | 2026-08-29 |
 | Founding Product Designer | Clera | San Francisco | 2026-08-29 |
 | Senior Talent Acquisition Partner - GTM | Fireblocks | New York | 2026-08-29 |
+| Virtual Assistant - St. Louis | The Boutique COO | St. Louis, United States | 2026-08-29 |
+| Senior Multimedia Designer & Editor (Visual / Video / Audio) | Gramian Consulting Group | India | 2026-08-29 |
+| Senior Multimedia Designer & Editor (Visual / Video / Audio) | Gramian Consulting Group | Indonesia | 2026-08-29 |
 | Senior Embedded Software Engineer, Linux | Relativity Space | Long Beach, California, United States | 2026-08-28 |
+| Recruiting Coordinator (Contract) | Relativityspace | Cape Canaveral, Florida | 2026-08-28 |
 | Recruitment Operations Specialist (NOC 12101) | Agentis Capital Advisors | Vancouver | 2026-08-28 |
 | Furniture & Millwork Management Consultant – Luxury Casino & Resort | Turner & Townsend | Las Vegas, us | 2026-08-28 |
 | Recruiting Operations Coordinator | Morgan & Morgan, P.A. | Tampa, Florida, United States | 2026-08-28 |
@@ -111,13 +138,13 @@ _12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Specialist Talent Acquisition | PSI CRO | Remote, ca | 2026-08-28 |
 | Recruiting Coordinator (Contract) | Relativity Space | Cape Canaveral, Florida, United States | 2026-08-28 |
 | UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
-| UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
-| UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
-| UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
-| UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
 | Software Engineer - Full Stack (Top Secret Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
-| User Engagement Engineer SME (Top Secret Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
 | UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
+| UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
+| UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
+| UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
+| UI/UX Engineer (Top Secret/SCI with agreement to obtain CI Poly Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
+| User Engagement Engineer SME (Top Secret Clearance Required) | North Point Technology | Prime's Office | 2026-08-28 |
 | Specialist Talent Acquisition | PSI CRO | Remote, us | 2026-08-28 |
 | Worksheet Graphic Designer (Freelance) | IXL Learning | United States | 2026-08-28 |
 | Leasing Manager (Luxury High-Rise) | Comstock Companies | Reston, VA | 2026-08-28 |
@@ -151,9 +178,9 @@ _12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Senior Talent Acquisition Specialist | AbbVie | Maidenhead, gb | 2026-08-28 |
 | Directeur d'agence Equipements H/F | SOCOTEC | Estillac, fr | 2026-08-28 |
 | Senior Designer | OLIVER Agency - North America | New York, New York | 2026-08-28 |
-| Medical Assistant Team Lead (Certification Required) | One Medical | Jersey City, NJ | 2026-08-28 |
-| Medical Assistant Team Lead (Certification Required) | One Medical | Hoboken, NJ | 2026-08-28 |
 | Medical Office Coordinator (Certification Required) | One Medical | Hoboken, NJ | 2026-08-28 |
+| Medical Assistant Team Lead (Certification Required) | One Medical | Hoboken, NJ | 2026-08-28 |
+| Medical Assistant Team Lead (Certification Required) | One Medical | Jersey City, NJ | 2026-08-28 |
 | Journalier Receveur Non Ferreux | American Iron and Metal | Saint-Robert, ca | 2026-08-28 |
 | Aide cuisinier (H/F) - Salon de thé Boulangerie Crazy Barm's | Relais & Châteaux | Val-d'Isère, fr | 2026-08-28 |
 | Réceptionniste de nuit H/F en CDD | AccorHotel | ROISSY CDG, fr | 2026-08-28 |
@@ -166,7 +193,6 @@ _12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Brand Designer | Pangramlabs | New York City | 2026-08-28 |
 | Product & GTM Recruiter (Temp-to-Perm) | Realtor.com Careers | Austin, Texas, United States | 2026-08-28 |
 | Auxiliaire de vie H/F | Joya | Marseille | 2026-08-28 |
-| Cuisinier / Commis de cuisine (H/F/X) | AccorHotel | Aix-en-Provence, fr | 2026-08-28 |
 | Journalier Receveur Non Ferreux | American Iron and Metal | Sept-Îles, ca | 2026-08-28 |
 | Inbound Sales Guide | GoDaddy | Nottingham, England, United Kingdom | 2026-08-28 |
 | Equipier Commercial - CDI F/H | METRO/MAKRO | Portet-sur-Garonne, fr | 2026-08-28 |
@@ -204,26 +230,26 @@ _12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Interior Designer II | CannonDesign | Buffalo, NY; Chicago, IL | 2026-08-28 |
 | Product Designer (Future Openings) | Pogo | United States/Canada | 2026-08-28 |
 | Heavy Equipment Operator, Multi-Skilled, Mine Operations - Fixed-Term Contract Fly In/Fly Out, Gahcho Kué Mine Site, NT | Anglo American / De Beers Group | Gahcho Kué Mine, ca | 2026-08-28 |
-| Regional Heavy Equipment CDL Driver | EquipmentShare | Denver, CO (North) | 2026-08-28 |
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Montgomery, AL | 2026-08-28 |
 | Heavy Equipment Regional Field Technician (Mechanic) | EquipmentShare | Abilene, TX | 2026-08-28 |
-| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | McKinney, TX (Landmark) | 2026-08-28 |
-| Heavy Equipment CDL Driver | EquipmentShare | Emporia, VA | 2026-08-28 |
-| Heavy Equipment CDL Driver | EquipmentShare | Belton, TX | 2026-08-28 |
-| Heavy Equipment CDL Driver | EquipmentShare | Canoga Park, CA | 2026-08-28 |
 | Heavy Equipment CDL Driver | EquipmentShare | Okmulgee, OK (Onsite Yard) | 2026-08-28 |
-| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Columbus, MS | 2026-08-28 |
-| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | San Antonio, TX (NW) | 2026-08-28 |
-| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Las Vegas, NV (South) | 2026-08-28 |
+| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | McKinney, TX (Landmark) | 2026-08-28 |
 | Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Forest Lake, MN | 2026-08-28 |
-| Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Monroe, LA | 2026-08-28 |
-| Heavy Equipment Field Technician (Mechanic) | EquipmentShare | North Bay Area, CA | 2026-08-28 |
-| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Houston, TX (Southwest) | 2026-08-28 |
 | Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Madera, CA | 2026-08-28 |
-| Heavy Equipment Regional Field Technician (Mechanic) | EquipmentShare | Dallas, TX | 2026-08-28 |
-| Heavy Equipment CDL Driver | EquipmentShare | Lenexa, KS | 2026-08-28 |
+| Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Monroe, LA | 2026-08-28 |
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | San Angelo, TX | 2026-08-28 |
+| Heavy Equipment Regional Field Technician (Mechanic) | EquipmentShare | Dallas, TX | 2026-08-28 |
+| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Houston, TX (Southwest) | 2026-08-28 |
+| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | San Antonio, TX (NW) | 2026-08-28 |
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Austin, TX (Central) | 2026-08-28 |
+| Heavy Equipment CDL Driver | EquipmentShare | Belton, TX | 2026-08-28 |
+| Regional Heavy Equipment CDL Driver | EquipmentShare | Denver, CO (North) | 2026-08-28 |
+| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Columbus, MS | 2026-08-28 |
+| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Las Vegas, NV (South) | 2026-08-28 |
+| Heavy Equipment Field Technician (Mechanic) | EquipmentShare | North Bay Area, CA | 2026-08-28 |
+| Heavy Equipment CDL Driver | EquipmentShare | Lenexa, KS | 2026-08-28 |
+| Heavy Equipment CDL Driver | EquipmentShare | Canoga Park, CA | 2026-08-28 |
+| Heavy Equipment CDL Driver | EquipmentShare | Emporia, VA | 2026-08-28 |
 | Global Talent Acquisition Partner (f/m/d) | Moss | Berlin | 2026-08-28 |
 | Senior International Sales Recruiter, UK/EMEA | Trm Labs | United Kingdom | 2026-08-28 |
 | Real Estate & Smart Building Senior Consultant | Sia | Paris, fr | 2026-08-28 |
@@ -234,7 +260,6 @@ _12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Designer | OLIVER Agency - North America | Philadelphia, Pennsylvania | 2026-08-28 |
 | Senior Designer | Monks | Buenos Aires | 2026-08-28 |
 | Senior G&A Recruiter | Trm Labs | United States | 2026-08-28 |
-| Recruitment Coordinator | City of New York | New York, us | 2026-08-28 |
 | Chargé d'études réseaux électriques HT (F/H) | RTE | Saint-Denis, fr | 2026-08-28 |
 | Talent Acquisition Coordinator (Canada) | Optro | Canada | 2026-08-28 |
 | Senior Product Designer | Ocrolus Inc. | Remote - IND | 2026-08-28 |
@@ -244,11 +269,9 @@ _12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Talent Acquisition Specialist (In-House) | Squaretrade | London, gb | 2026-08-28 |
 | Equipier Commercial Univers Frais CDD F/H | METRO/MAKRO | Périgny, fr | 2026-08-28 |
 | District Manager - Consumer Acquisition | Snowflake | GB-London | 2026-08-28 |
-| Chef de rang - Service soir - (h / f / x) CDI - Sofitel Luxembourg Le Grand Ducal | AccorHotel | Luxembourg, lu | 2026-08-28 |
 | Senior Marketing Manager, France, Benelux & EMEA | Airbnb | United Kingdom | 2026-08-28 |
 | Opérateur.trice de production (NUIT) | Pyrotek | Drummondville, ca | 2026-08-28 |
 | Senior Recruiter | SentinelOne | Singapore | 2026-08-28 |
-| Chef de partie Cuisine - CDD (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
 | Commis de cuisine sushi - CDD H/F | Hana Group | Montpellier, fr | 2026-08-28 |
 | Werkstudent Recruiting (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Düsseldorf, de | 2026-08-28 |
 | Contract: Senior Recruiting Coordinator | Immunome, Inc. | Bothell, Washington, United States | 2026-08-28 |
@@ -267,8 +290,6 @@ _12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Ingénieur(e) Systèmes et Réseaux - Lille | Sopra Steria Corporate | Villeneuve-d'Ascq, fr | 2026-08-28 |
 | Academic Internship in Service & Visual Communication Designer Intern (f/m/div.) | Bosch Group | Braga, pt | 2026-08-28 |
 | PV Officer (Medical Device & Product experience required) | Ergomed | Pune, in | 2026-08-28 |
-| ASSISTANT FACILITY COORDINATOR/BUILDING MANAGER | City of New York | New York, us | 2026-08-28 |
-| BUILDING SUPERINTENDENT | City of New York | Brooklyn, us | 2026-08-28 |
 | Deputy Designer to Senior Designer - BIM Bridges | AECOM | Bengaluru, in | 2026-08-28 |
 | Senior Designer - BIM (Bridges) | AECOM | Bengaluru, in | 2026-08-28 |
 | Auxiliaire de vie H/F | Ouihelp | CLERMONT OISE | 2026-08-28 |
@@ -279,33 +300,12 @@ _12,706 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Digital Learning Designer (Maternity Cover) | PortmanDentex | Cheltenham, gb | 2026-08-28 |
 | Customer Journey Designer | Lely | Maassluis, nl | 2026-08-28 |
 | Senior Sales Manager - Issuing | Checkout.Com | London | 2026-08-28 |
-| Apprenti Commis de Cuisine (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
 | Técnico(a) Administrativo(a) de Formação (Substituição de Licença de Maternidade - período prolongado) | iad | Porto, pt | 2026-08-28 |
-| FR - Plongeur / Equipier Cuisine (H/F/X) | AccorHotel | Paris, fr | 2026-08-28 |
 | Chef d'équipe Multitechnique - Chauffage / CVC (H/F) | Veolia Environnement SA | Brest, fr | 2026-08-28 |
-| Chef/fe de rang – Abbaye des Vaux de Cernay | AccorHotel | Cernay-la-Ville, fr | 2026-08-28 |
 | Lead Software Engineer, Backend (Build Automation) | Grab | Jakarta, id | 2026-08-28 |
 | Auxiliaire de vie H/F | Joya | Villeneuve-Loubet | 2026-08-28 |
 | Auxiliaire de vie H/F | Joya | Levens | 2026-08-28 |
 | Manager de Service Local Eaux et Assainissement (H/F) | Veolia Environnement SA | Razac-sur-l'Isle, fr | 2026-08-28 |
-| Auxiliaire de vie H/F | Joya | Cagnes sur Mer | 2026-08-28 |
-| Auxiliaire de vie H/F | Joya | Nice | 2026-08-28 |
-| Auxiliaire de vie H/F | Joya | Saint Laurent du Var | 2026-08-28 |
-| Ingénieur(e) Expert(e) Réseaux Wan - Lille | Sopra Steria Corporate | Villeneuve-d'Ascq, fr | 2026-08-28 |
-| Medical Equipment Library (MEL) Support Worker | Portsmouth Hospitals University NHS Trust | Portsmouth, gb | 2026-08-28 |
-| Recruitment Care Professional Form_Kensington_T137 | Home Instead | Care Professional General Enquiry, gb | 2026-08-28 |
-| Head of Talent Acquisition – Philippines | IQ-EQ | Manila, ph | 2026-08-28 |
-| Responsable d'équipe maintenance - eau potable et assainissement H/F | Veolia Environnement SA | Romorantin-Lanthenay, fr | 2026-08-28 |
-| Business Continuity & Insurance Manager | ASOS | London, gb | 2026-08-28 |
-| Dispatcher équilibre offre-demande (F/H) | RTE | Paris, fr | 2026-08-28 |
-| Campus Recruiter (6 months Contract) (Bangkok based) (No Visa Support) | Agoda | Bangkok, Thailand | 2026-08-28 |
-| Senior Product Manager (Builder) (m/f/d) | Voyfai | Berlin | 2026-08-28 |
-| Ingénieur Chargé d'Affaires Fluides (H/F) | ALTEN | Montoir-de-Bretagne, fr | 2026-08-28 |
-| Auxiliaire de vie H/F | Ouihelp | Pulnoy | 2026-08-28 |
-| Aide aux personnes âgées H/F | Ouihelp | Neuves-Maisons | 2026-08-28 |
-| Auxiliaire de vie H/F | Ouihelp | Nancy | 2026-08-28 |
-| Auxiliaire de vie - job étudiant (H/F) | Ouihelp | Nancy | 2026-08-28 |
-| Aide aux personnes âgées H/F | Ouihelp | Nancy | 2026-08-28 |
 
 ---
 

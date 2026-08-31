@@ -2,10 +2,22 @@
 
 Roles listing Berlin as their location.
 
-_3,148 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
+_3,149 open · showing the 300 most recent · updated 2026-08-31 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Senior Software Engineer - Dynamic Tables | Snowflake | DE-Berlin-Trion Building | 2026-08-30 |
+| Software Engineer - Dynamic Tables | Snowflake | DE-Berlin-Trion Building | 2026-08-30 |
+| Product Engineer (Full-Stack) | Clera | Berlin | 2026-08-30 |
+| Platform Engineer | Clera | Berlin | 2026-08-30 |
+| Product Engineer | Clera | Berlin | 2026-08-30 |
+| Senior Affiliates Manager (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-08-30 |
+| Brand Designer | Clera | Berlin | 2026-08-30 |
+| Founder's Associate | Clera | Berlin | 2026-08-30 |
+| Product Marketer | Clera | Berlin | 2026-08-30 |
+| Member of Commercial Staff | Clera | Berlin | 2026-08-30 |
+| Sr Agent Architect (Germany) | Parloa | Berlin Office; Remotely in Germany | 2026-08-30 |
+| Director of Engineering | Prior Labs | Berlin | 2026-08-30 |
 | Customer Success Manager | Clera | Berlin | 2026-08-29 |
 | Founding GTM Engineer | Clera | Berlin | 2026-08-29 |
 | Founding Engineer | Clera | Berlin | 2026-08-29 |
@@ -19,8 +31,6 @@ _3,148 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Head of Marketing | Clera | Berlin | 2026-08-29 |
 | Founder's Associate Intern / Working Student | Clera | Berlin | 2026-08-29 |
 | Founding Sales Development Representative | Clera | Berlin | 2026-08-29 |
-| General Manager(03249) - Berlin NH | Domino's | Berlin, us | 2026-08-29 |
-| Crew Member(03249) - Berlin NH | Domino's | Berlin, us | 2026-08-29 |
 | Customer Service - Self Storage Manager | Public Storage | Berlin, us | 2026-08-28 |
 | Finance Manager | Almedia | Berlin | 2026-08-28 |
 | Founders Associate | Clera | Berlin | 2026-08-28 |
@@ -254,13 +264,7 @@ _3,148 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Sales Manager Innendienst / Vertriebsmitarbeiter (m/w/d) | montamo GmbH | Berlin, de | 2026-08-24 |
 | Software Engineering Evaluation Specialist | Mindrift | Berlin, Germany | 2026-08-24 |
 | Associate Partner - AI & Data - Life Sciences | Visium SA | Berlin, Germany | 2026-08-24 |
-| Product Engineer | Clera | Berlin | 2026-08-23 |
-| Backend Engineer | Clera | Berlin | 2026-08-23 |
-| Forward Deployed Engineer | Clera | Berlin | 2026-08-23 |
-| Finance Engineer | Clera | Berlin | 2026-08-23 |
 | Software Engineer, Platform - Berlin, Germany | Speechify | Berlin, Germany | 2026-08-23 |
-| Visiting Finance Analyst | Clera | Berlin | 2026-08-22 |
-| Enterprise Account Manager | Clera | Berlin | 2026-08-22 |
 | Accountant (Freelance/Temporary) | Yepoda | Berlin | 2026-08-21 |
 | (Associate) Product Manager (m/f/x) | Scalable GmbH | Berlin, de | 2026-08-21 |
 | Product Manager - Lion Studios | Tripledot Studios | Berlin | 2026-08-21 |
@@ -272,10 +276,10 @@ _3,148 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Security Engineer - Product | Wiz, Inc. | Berlin, Germany; Remote - Germany | 2026-08-21 |
 | Account Executive - Enterprise Sales | New Relic | Berlin, Germany; Munich, Germany | 2026-08-21 |
 | Account Executive | Braze | Berlin | 2026-08-21 |
-| Account Executive Enterprise | Braze | Berlin | 2026-08-21 |
+| Senior Business Development Representative | Braze | Berlin | 2026-08-21 |
+| Senior Business Development Representative | Braze | Berlin | 2026-08-21 |
 | Field Marketing Lead (12 Month Fixed Term) | Braze | Berlin | 2026-08-21 |
-| Senior Business Development Representative | Braze | Berlin | 2026-08-21 |
-| Senior Business Development Representative | Braze | Berlin | 2026-08-21 |
+| Account Executive Enterprise | Braze | Berlin | 2026-08-21 |
 | Berater / Projektmanager (w/m/d) Bundesbau und Industrie | Drees & Sommer SE | Berlin, de | 2026-08-21 |
 | Senior IT Engineer, MDM Tech (f/m/x) | HelloFresh | Berlin, Berlin, Germany | 2026-08-21 |
 | Finance Manager - AI Native (m/f/d) | voize | Berlin | 2026-08-21 |
@@ -302,10 +306,6 @@ _3,148 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Sales Director, DACH | Fireblocks | Berlin, Berlin, Germany | 2026-08-20 |
 | Senior Product Manager – German Speaking - Managed Detection and Incident Response (m/f/x) | Eye Security | Berlin - hybrid | 2026-08-20 |
 | Senior Product Marketing Manager – German Speaking - Cybersecurity (m/f/x) | Eye Security | Berlin - hybrid | 2026-08-20 |
-| Senior ML Ops Engineer | Kayak | Berlin Office | 2026-08-20 |
-| Senior ML Ops Engineer | Kayak | Berlin Office | 2026-08-20 |
-| Senior ML Ops Engineer | Kayak | Berlin | 2026-08-20 |
-| Senior ML Ops Engineer | Kayak | Berlin | 2026-08-20 |
 
 ---
 

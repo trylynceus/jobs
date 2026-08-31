@@ -2,12 +2,20 @@
 
 Roles listing San Francisco as their location.
 
-_12,668 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
+_12,659 open · showing the 300 most recent · updated 2026-08-31 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Product Manager, Agent Development - Financial Services | Sierra | San Francisco, CA | 2026-08-30 |
+| Founding Agentic Engineer | Clera | San Francisco | 2026-08-30 |
+| Freelance Product Designer (Fractional) | Clera | San Francisco | 2026-08-30 |
+| Staff Engineer — Agentic AI | Clera | San Francisco | 2026-08-30 |
+| RV Station Service Specialist -(Part Time) | Roadsurfer.Com | San Francisco | 2026-08-30 |
+| Assistant Manager(08134) - 320 Bayshore Boulevard | Domino's | San Francisco, us | 2026-08-30 |
+| Customer Service Rep(08134) - 320 Bayshore Boulevard | Domino's | San Francisco, us | 2026-08-30 |
 | Recruiter | Afterquery | San Francisco | 2026-08-29 |
 | Research Partnerships Lead | Latchbio | San Francisco | 2026-08-29 |
+| Operations Engineer, Nimble Brain | Nimble Robotics | San Francisco, CA | 2026-08-29 |
 | Software Engineer, GTM | Hyperbound | San Francisco | 2026-08-29 |
 | Technical Compliance Program Manager | Firecrawl | San Francisco, CA | 2026-08-29 |
 | Product Engineer - Agent | Firecrawl | San Francisco, CA | 2026-08-29 |
@@ -35,7 +43,7 @@ _12,668 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Senior Program Manager, Customer Experience | Kikoff | San Francisco | 2026-08-28 |
 | 3630-Librarian I | City and County of San Francisco | San Francisco, us | 2026-08-28 |
 | Talent Brand Manager | Faire | San Francisco, CA | 2026-08-28 |
-| Desing Engineer | Latchbio | San Francisco, USA | 2026-08-28 |
+| Design Engineer | Latchbio | San Francisco, USA | 2026-08-28 |
 | Sales Productivity Manager | Box | Redwood City, United States OR San Francisco, United States | 2026-08-28 |
 | Senior Stock Administrator | Discord | San Francisco Bay Area or Remote (U.S.) | 2026-08-28 |
 | Natural Resources Manager (0922) – Recreation & Parks (#160012) | City and County of San Francisco | San Francisco, us | 2026-08-28 |
@@ -47,7 +55,6 @@ _12,668 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Senior Reliability Test Engineer | Astranis | San Francisco | 2026-08-28 |
 | 1251-INTERNAL AFFAIRS & BACKGROUND INVESTIGATOR | City and County of San Francisco | San Francisco, us | 2026-08-28 |
 | Manager, Enterprise GTM | Furtherai | San Francisco | 2026-08-28 |
-| Claims Specialist - Victim/Witness I (8129) | City and County of San Francisco | San Francisco, us | 2026-08-28 |
 | Senior Counsel, AI & Product Compliance | Openai | San Francisco | 2026-08-28 |
 | AI/ML Engineer | Fieldwire by Hilti | San Francisco, CA (Hybrid) or United States (Remote) | 2026-08-28 |
 | Marketing Template | Openai | San Francisco | 2026-08-28 |
@@ -164,10 +171,10 @@ _12,668 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | AI Engineering Analyst (Hybrid) | AbbVie | South San Francisco, us | 2026-08-28 |
 | Recruiter | Mintlify | San Francisco | 2026-08-28 |
 | Recruiter | Mintlify | San Francisco | 2026-08-28 |
-| Computational Biologist II, CellxState | Biohub | San Francisco, CA (Hybrid) | 2026-08-28 |
 | Scientist II, Scaling Lead | Biohub | San Francisco, CA (Onsite) | 2026-08-28 |
-| Founding Product Designer | Slash Financial | San Francisco Office | 2026-08-28 |
+| Computational Biologist II, CellxState | Biohub | San Francisco, CA (Hybrid) | 2026-08-28 |
 | Founding Product Designer | Goodwatercap | San Francisco | 2026-08-28 |
+| Founding Product Designer | Slash Financial | San Francisco Office | 2026-08-28 |
 | HR Ops Specialist | Higgsfieldai | San Francisco Bay Area, USA | 2026-08-28 |
 | Intake/Scheduling Coordinator - San Francisco | Health Link | San Francisco | 2026-08-28 |
 | Product Engineer | Clera | San Francisco | 2026-08-28 |
@@ -179,16 +186,14 @@ _12,668 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Founding Engineer Intern | Clera | San Francisco | 2026-08-28 |
 | Member of Technical Staff, Agent Delivery | Pallet | San Francisco or New York | 2026-08-28 |
 | Staff Engineer - Web Applications | Kikoff | San Francisco | 2026-08-28 |
-| Software Engineer, Tooling and Development Infrastructure | HP IQ | San Francisco, CA | 2026-08-28 |
 | Founding Engineer (Full Stack) | Clera | San Francisco | 2026-08-28 |
 | Founding Business Development, Private Equity | Broccoli | San Francisco | 2026-08-28 |
 | Head of Legal Operations & Chief of Staff | Okta | San Francisco, California | 2026-08-28 |
 | IT Specialist | Anyscale | San Francisco | 2026-08-28 |
-| Senior Director, Quality Compliance and Risk Management | Careers Greenhouse | San Francisco, CA | 2026-08-28 |
 | Senior Director, Quality Compliance and Risk Management | Braveheart Bio | San Francisco, CA or Remote or Hybrid | 2026-08-28 |
-| Associate Director, Quality Systems | Braveheart Bio | San Francisco, CA or Remote or Hybrid | 2026-08-28 |
+| Senior Director, Quality Compliance and Risk Management | Careers Greenhouse | San Francisco, CA | 2026-08-28 |
 | Associate Director, Quality Systems | Careers Greenhouse | San Francisco, CA | 2026-08-28 |
-| Marina Associate Manager (3233) - Port of San Francsico (137279) | City and County of San Francisco | San Francisco, us | 2026-08-28 |
+| Associate Director, Quality Systems | Braveheart Bio | San Francisco, CA or Remote or Hybrid | 2026-08-28 |
 | Legal Specialist, Law Enforcement | Anthropic | San Francisco, CA | 2026-08-28 |
 | Senior Product Manager | Drata | Hybrid - San Francisco | 2026-08-28 |
 | User Research Associate (UX) | Sleeper | San Francisco | 2026-08-28 |
@@ -250,10 +255,10 @@ _12,668 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Strategic Pricing Manager | Adyen | San Francisco | 2026-08-28 |
 | Marketing Scientist | Openai | San Francisco | 2026-08-28 |
 | Engagement Manager | Listenlabs | San Francisco, CA | 2026-08-28 |
-| Math/STEM Tutors, Grades 9-12, Established Local Firm | TPAPT | San Francisco, United States | 2026-08-28 |
 | After School Program Educator | HOKALI | San Francisco, United States | 2026-08-28 |
-| One Legal Account Executive | InfoTrack US | San Francisco, United States | 2026-08-28 |
 | One Legal Customer Success Manager | InfoTrack US | San Francisco, United States | 2026-08-28 |
+| Math/STEM Tutors, Grades 9-12, Established Local Firm | TPAPT | San Francisco, United States | 2026-08-28 |
+| One Legal Account Executive | InfoTrack US | San Francisco, United States | 2026-08-28 |
 | Applied AI Architect, Strategic Enterprise Tech | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-08-27 |
 | Senior Data Analyst - Clinican Experience | Midi Health | Hybrid - Palo Alto or San Francisco | 2026-08-27 |
 | Product Marketing Manager | Sia | San Francisco, us | 2026-08-27 |
@@ -273,6 +278,7 @@ _12,668 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Cost Support Engineer – Data Center Construction | Turner & Townsend | San Francisco, us | 2026-08-27 |
 | Robotics Technician | Watney | San Francisco | 2026-08-27 |
 | Research Scientist, APEX Benchmarks | Mercor | San Francisco | 2026-08-27 |
+| Technical Recruiter | Neuralink | Austin, Texas, United States; South San Francisco, California, United States | 2026-08-27 |
 | Technical Recruiter | Neuralink | Austin, Texas, United States; South San Francisco, California, United States | 2026-08-27 |
 | Senior GTM Systems Engineer | Hightouch | San Francisco, California / New York City, New York/ Remote | 2026-08-27 |
 | Deployed Engineer, Professional Services (San Francisco) | LangChain | San Francisco, CA | 2026-08-27 |
@@ -300,12 +306,6 @@ _12,668 open · showing the 300 most recent · updated 2026-08-30 04:17 UTC_
 | Software Engineer, Security | Exa | San Francisco, California | 2026-08-27 |
 | Senior Accountant | Radai | San Francisco | 2026-08-27 |
 | Customer Success Manager | Okta | San Francisco, California | 2026-08-27 |
-| Startup Account Executive | Databricks | Chicago, Illinois; San Francisco, California | 2026-08-27 |
-| Group Product Manager, Edge Computing | Crusoe | San Francisco, CA - US | 2026-08-27 |
-| Events Marketing Manager | Rerun | Hybrid, San Francisco | 2026-08-27 |
-| Staff Technical Support Engineer ( Armis) | ServiceNow | San Francisco de Heredia, cr | 2026-08-27 |
-| Partner Development Manager | Braze | San Francisco | 2026-08-27 |
-| Strategic Business Performance, Central Strategy & Operations | Stripe | US-Chicago, US-Remote, US-Seattle, US-San Francisco | 2026-08-27 |
 
 ---
 
