@@ -1,10 +1,10 @@
 # Lynceus — live job listings, straight from company careers pages
 
-**258,381 open roles** at **8,011 companies**,
-**45,479** of them remote. Read from each employer's own careers
+**258,726 open roles** at **7,996 companies**,
+**45,395** of them remote. Read from each employer's own careers
 page and job feed — never reposted from another board.
 
-_Last updated: 2026-09-03 04:19 UTC_
+_Last updated: 2026-09-04 04:15 UTC_
 
 Search it conversationally at **[trylynceus.com](https://trylynceus.com)** — describe
 what you want in plain English and get the companies actually hiring for it.
@@ -12,26 +12,26 @@ In private beta; early access from the same page.
 
 ## Browse
 
-- [Remote](boards/remote.md) — 45,479 roles
-- [Berlin](boards/berlin.md) — 3,160 roles
-- [London](boards/london.md) — 7,831 roles
-- [Paris](boards/paris.md) — 2,233 roles
-- [Amsterdam](boards/amsterdam.md) — 1,586 roles
-- [Munich](boards/munich.md) — 1,641 roles
-- [Madrid](boards/madrid.md) — 892 roles
-- [Barcelona](boards/barcelona.md) — 941 roles
-- [Dublin](boards/dublin.md) — 1,038 roles
-- [Lisbon](boards/lisbon.md) — 497 roles
-- [Zurich](boards/zurich.md) — 285 roles
-- [Stockholm](boards/stockholm.md) — 485 roles
-- [New York](boards/new-york.md) — 12,833 roles
-- [San Francisco](boards/san-francisco.md) — 12,575 roles
-- [Engineering](boards/engineering.md) — 60,186 roles
-- [Data & AI](boards/data-ai.md) — 34,765 roles
-- [Design](boards/design.md) — 12,561 roles
-- [Product](boards/product.md) — 13,832 roles
-- [Sales](boards/sales.md) — 22,228 roles
-- [Marketing](boards/marketing.md) — 10,713 roles
+- [Remote](boards/remote.md) — 45,395 roles
+- [Berlin](boards/berlin.md) — 3,175 roles
+- [London](boards/london.md) — 7,900 roles
+- [Paris](boards/paris.md) — 2,288 roles
+- [Amsterdam](boards/amsterdam.md) — 1,579 roles
+- [Munich](boards/munich.md) — 1,582 roles
+- [Madrid](boards/madrid.md) — 902 roles
+- [Barcelona](boards/barcelona.md) — 938 roles
+- [Dublin](boards/dublin.md) — 1,033 roles
+- [Lisbon](boards/lisbon.md) — 496 roles
+- [Zurich](boards/zurich.md) — 286 roles
+- [Stockholm](boards/stockholm.md) — 478 roles
+- [New York](boards/new-york.md) — 12,750 roles
+- [San Francisco](boards/san-francisco.md) — 12,352 roles
+- [Engineering](boards/engineering.md) — 60,134 roles
+- [Data & AI](boards/data-ai.md) — 34,898 roles
+- [Design](boards/design.md) — 12,672 roles
+- [Product](boards/product.md) — 13,891 roles
+- [Sales](boards/sales.md) — 22,246 roles
+- [Marketing](boards/marketing.md) — 10,723 roles
 
 ## Data
 
@@ -39,9 +39,9 @@ In private beta; early access from the same page.
 | --- | --- |
 | [`data/jobs.csv`](data/jobs.csv) | The 5,000 most recently posted roles |
 | [`data/jobs.json`](data/jobs.json) | The same, as JSON |
-| [`data/companies.csv`](data/companies.csv) | All 8,011 companies with open roles |
+| [`data/companies.csv`](data/companies.csv) | All 7,996 companies with open roles |
 
-The data files carry the most recent slice rather than all 258,381
+The data files carry the most recent slice rather than all 258,726
 roles. The full set is ~38MB, which GitHub will not render and which would add a
 new multi-megabyte blob to this repository every day.
 
@@ -58,21 +58,21 @@ kind of work.
 
 | Company | Open roles |
 | --- | --- |
-| Bjakcareer | 3,013 |
-| BAYADA Home Health Care | 2,582 |
-| SpaceX | 2,258 |
-| Anduril Industries | 2,207 |
-| Carvana | 1,752 |
-| Openai | 1,471 |
-| Upstream Rehabilitation | 1,217 |
-| Veterinary Emergency Group (VEG) | 1,130 |
-| ALO | 1,108 |
-| Speechify | 999 |
-| EquipmentShare | 967 |
-| Databricks | 859 |
-| Pavago | 805 |
-| Fuku | 758 |
-| Capco | 755 |
+| Bjakcareer | 3,084 |
+| BAYADA Home Health Care | 2,573 |
+| SpaceX | 2,287 |
+| Anduril Industries | 2,202 |
+| Carvana | 1,741 |
+| Openai | 1,459 |
+| Speechify | 1,317 |
+| Upstream Rehabilitation | 1,207 |
+| Veterinary Emergency Group (VEG) | 1,126 |
+| ALO | 1,103 |
+| EquipmentShare | 985 |
+| Databricks | 864 |
+| Pavago | 810 |
+| Fuku | 759 |
+| Capco | 750 |
 
 ## How this is built
 
