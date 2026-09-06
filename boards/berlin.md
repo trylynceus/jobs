@@ -2,28 +2,45 @@
 
 Roles listing Berlin as their location.
 
-_3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
+_3,188 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Founders Associate Intern (m/f/d) | 10x Value Partners GmbH | Berlin, de | 2026-09-05 |
+| Founding Customer Success Manager | Clera | Berlin | 2026-09-05 |
 | Full-stack Software Developer | Broadsign Careers | Berlin, Berlin, Germany | 2026-09-04 |
 | Senior Product Manager - Outbound Logistics & Returns (m/f/d) | Koro Shop | Berlin | 2026-09-04 |
-| Senior Product Designer, K4B | Kayak | Berlin | 2026-09-04 |
-| Senior Product Designer, K4B | Kayak | Berlin | 2026-09-04 |
+| Founding Forward Deployed Engineer | Clera | Berlin | 2026-09-04 |
+| Head of Engineering | Clera | Berlin | 2026-09-04 |
+| Software Engineer - AI | Clera | Berlin | 2026-09-04 |
+| Applied AI Engineer - AI & Automation | Clera | Berlin | 2026-09-04 |
+| Senior Product Designer, K4B | Kayak | Berlin Office | 2026-09-04 |
+| Senior Product Designer | Kayak | Berlin | 2026-09-04 |
+| Senior Product Designer | Kayak | Berlin | 2026-09-04 |
 | Senior Data Platform Engineer, Intelligent Platforms (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-04 |
 | Video Content Creative | Butternut Box | Berlin | 2026-09-04 |
 | IT Integration Engineer (f/m/d) | IDnow | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-09-04 |
+| Werkstudent / Werkstudentin Legal (m/f/d) | Amboss | Berlin | 2026-09-04 |
+| (Senior) Finance Manager (all genders) | Klim | Berlin, Germany | 2026-09-04 |
+| Senior Talent Acquisition Manager \| GTM & Operations (f/m/d) | Bunch | Berlin | 2026-09-04 |
+| Scaled Customer Success Manager (Berlin) | Kombo | Berlin Office | 2026-09-04 |
+| (Senior) People Operations Manager (f/m/d) | Bunch | Berlin | 2026-09-04 |
 | FILIALLEITER / STORE MANAGER (M/W/D) - Berlin Neukölln | JYSK | Berlin, de | 2026-09-04 |
 | FILIALLEITER / STORE MANAGER (M/W/D) - Berlin Spandau | JYSK | Berlin, de | 2026-09-04 |
 | FILIALLEITER / STORE MANAGER (M/W/D) - Berlin Charlottenburg | JYSK | Berlin, de | 2026-09-04 |
 | Kundenbetreuer für Roadside-Assistance (m/w/div.) | Bosch Group | Berlin, de | 2026-09-04 |
+| Commercial Expansion Intern | Pergolux | Berlin \| Global Team | 2026-09-04 |
 | Kundenservice / Call Center Agent (d/m/w) | AUTO1 Group | Berlin, de | 2026-09-04 |
+| Senior Backend Engineer (Platform Team) | Kombo | Berlin Office | 2026-09-04 |
 | Engineering Manager (m/f/d) | AutoScout24 | Amsterdam (Netherlands); Berlin (Germany); Düsseldorf (Germany); Munich (Germany) | 2026-09-04 |
 | Senior Software Engineer (Rust) - remote in the EU | Mirantis | Berlin, de | 2026-09-04 |
+| Working Student Venture Development Tech (w/m/d) | Enpal | Berlin | 2026-09-04 |
+| Senior Full-Stack Engineer - Team Decide | Taktile | Berlin Office | 2026-09-04 |
+| (Senior) Account Manager | Rootglobal | Berlin | 2026-09-04 |
+| Head of Pricing and Monetization | n8n | Berlin Office | 2026-09-04 |
 | Senior Manager (m/w/d) – Energie mit Fokus auf Netze | Ramboll | Berlin, de | 2026-09-04 |
 | Senior Product Manager II, Consumer (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-04 |
-| Senior Sales Manger (m/f/d) | AccorHotel | Berlin, de | 2026-09-04 |
-| Shift Leader Front Office (f/m/d) | AccorHotel | Berlin, de | 2026-09-04 |
+| Customer Success Manager (d/w/m) | Taxfix.Com | Berlin | 2026-09-04 |
 | Senior Android Engineer | Navan | Berlin, Germany | 2026-09-04 |
 | Senior (iOS) Software Engineer | Navan | Berlin, Germany | 2026-09-04 |
 | Senior Software Engineer (Backend) | Navan | Berlin, Germany | 2026-09-04 |
@@ -33,11 +50,14 @@ _3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
 | Staff Forward Deployed Engineer | Databricks | Berlin, Germany; Munich, Germany | 2026-09-04 |
 | Senior Machine Learning Scientist | Fin | Berlin, Germany | 2026-09-04 |
 | Staff Product Engineer, AI | Fin | Berlin, Germany | 2026-09-04 |
+| Senior Frontend Developer (all genders) | Lightspeedhq | Berlin | 2026-09-04 |
 | Pricing Director (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-04 |
 | Growth Marketing Manager (f/m/d) | Voize | Berlin | 2026-09-04 |
+| Growth Marketing Manager (f/m/d) | voize | Berlin | 2026-09-04 |
 | Senior Software Engineer - Fintech | Delivery Hero | Berlin, de | 2026-09-04 |
 | Senior Fullstack Software Engineer (Kotlin/Java/React) - Fintech | Delivery Hero | Berlin, de | 2026-09-04 |
 | Global Quality Supporter (w/m/div.) - Road Side Assistance Services für einen deutschen Premium-Automobilhersteller | Bosch Group | Berlin, de | 2026-09-04 |
+| Account Executive (Mid-Market) (Fluent In German) (Position located in Berlin, Germany) | KnowBe4 | Berlin, Germany | 2026-09-04 |
 | Senior Lead Product Strategy (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-09-04 |
 | Mitarbeiter (m/w/d) Vertriebsinnendienst | Eurofins | Berlin, de | 2026-09-04 |
 | Probenehmer (m/w/d) | Eurofins | Berlin, de | 2026-09-04 |
@@ -49,6 +69,7 @@ _3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
 | Marketplace Manager (m/f/d) | Niboline | Berlin | 2026-09-04 |
 | Junior Marketplace Specialist (m/w/d) | Niboline | Berlin | 2026-09-04 |
 | Zahntechniker (m/w/d) CAD/CAM & Prothetik Berlin | DEIN DENTAL / EDG | Berlin, de | 2026-09-04 |
+| Grid Connection Engineer (m/w/d) | Q ENERGY | Berlin, Germany | 2026-09-04 |
 | Inside Sales Team Lead (all genders) | getolo GmbH | Berlin, Germany | 2026-09-04 |
 | Data Scientist | Clera | Berlin | 2026-09-03 |
 | Senior People and Culture Manager | Clera | Berlin | 2026-09-03 |
@@ -132,7 +153,7 @@ _3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
 | Junior Digital Product Manager (m/w/d) – Profis | CHECK24 | Berlin, de | 2026-09-03 |
 | Praktikum Human Resources (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-09-03 |
 | Senior Community Manager - B2B (m/f/d) | Voize | Berlin | 2026-09-03 |
-| Senior Community Manager - B2B (m/f/d) | voize | Berlin | 2026-09-03 |
+| Senior Community Manager (m/f/d) | voize | Berlin | 2026-09-03 |
 | (Junior) Ingenieur (w/m/d) Resilienz- und Sicherheitsberatung | Drees & Sommer SE | Berlin, de | 2026-09-03 |
 | Cloud / DevOps Engineer | Clera | Berlin | 2026-09-03 |
 | Customer Service & Claims Manager Spain (all genders) | getolo GmbH | Berlin, Germany | 2026-09-03 |
@@ -142,8 +163,8 @@ _3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
 | Founding Product Engineer | Clera | Berlin | 2026-09-02 |
 | Founding Engineer | Clera | Berlin | 2026-09-02 |
 | Founders Associate - Sales | Clera | Berlin | 2026-09-02 |
-| Revenue Operations Manager (m/f/d) - Sales Ops & Strategy | Voize | Berlin | 2026-09-02 |
 | Revenue Operations Manager (m/f/d) - Sales Ops & Strategy | voize | Berlin | 2026-09-02 |
+| Revenue Operations Manager (m/f/d) - Sales Ops & Strategy | Voize | Berlin | 2026-09-02 |
 | Generalist Operator / Early-Stage Founding Team Member | Clera | Berlin | 2026-09-02 |
 | Performance Marketing Manager | Clera | Berlin | 2026-09-02 |
 | Administrative Assistant & Office Coordinator | Almedia | Berlin | 2026-09-02 |
@@ -169,8 +190,8 @@ _3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
 | Senior Indirect Procurement Category Manager - Marketing (All genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-02 |
 | Product Operations Lead (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; London, England, United Kingdom | 2026-09-02 |
 | Senior Platform Product Manager (m/f/d) | Statista | Hamburg or Berlin | 2026-09-02 |
-| Customer Success Manager - Scale (m/f/d) | Voize | Berlin | 2026-09-02 |
 | Customer Success Manager - Scale (m/f/d) | voize | Berlin | 2026-09-02 |
+| Customer Success Manager - Scale (m/f/d) | Voize | Berlin | 2026-09-02 |
 | Empfangsmitarbeiter (m/w/d) | Motel One | Berlin, de | 2026-09-02 |
 | Abteilungsleitung Umwelt- und Naturschutzplanung (m/w/d) | AFRY | Berlin, de | 2026-09-02 |
 | Senior Software Engineer, Growth - Quick Commerce | Delivery Hero | Berlin, de | 2026-09-02 |
@@ -186,9 +207,9 @@ _3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
 | Senior Customer Success Manager | NICE | Germany - Berlin | 2026-09-02 |
 | Organic Growth Content Marketer | Almedia | Berlin | 2026-09-02 |
 | Initiativbewerbung Energy | AFRY | Berlin, de | 2026-09-02 |
-| Head of Finance (all genders) | getolo GmbH | Berlin, Germany | 2026-09-02 |
-| Kosmetikerin mit Massagetätigkeit (m/w/d) gesucht | Soulhouse | Berlin, Germany | 2026-09-02 |
 | Kosmetikerin mit Massagetätigkeit (m/w/d) | Soulhouse | Berlin, Germany | 2026-09-02 |
+| Kosmetikerin mit Massagetätigkeit (m/w/d) gesucht | Soulhouse | Berlin, Germany | 2026-09-02 |
+| Head of Finance (all genders) | getolo GmbH | Berlin, Germany | 2026-09-02 |
 | EMEA Senior Product Marketing Manager | Parloa | Berlin Office; London Office; Munich Office; Remotely in Germany | 2026-09-01 |
 | Product Management Intern | Trawa | Berlin HQ | 2026-09-01 |
 | Werkstudent Content & Brand (m/w/d) | Clera | Berlin | 2026-09-01 |
@@ -225,9 +246,9 @@ _3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
 | Working Student – Talent Acquisition (m/w/d) | Pergolux | Berlin \| Global Team | 2026-09-01 |
 | Business Operations Manager | Careers at Tide | Berlin, Germany | 2026-09-01 |
 | Founder's Associate | Clera | Berlin | 2026-09-01 |
-| Massage Expert (m/f/d) | Soulhouse | Berlin, Germany | 2026-09-01 |
-| Investment Manager (all genders) | Q ENERGY | Berlin, Germany | 2026-09-01 |
 | Massage Expert (m/f/d) Wanted | Soulhouse | Berlin, Germany | 2026-09-01 |
+| Investment Manager (all genders) | Q ENERGY | Berlin, Germany | 2026-09-01 |
+| Massage Expert (m/f/d) | Soulhouse | Berlin, Germany | 2026-09-01 |
 | Founder’s Associate | Netbird | Berlin | 2026-08-31 |
 | Product Engineer | Clera | Berlin | 2026-08-31 |
 | Backend Engineer | Clera | Berlin | 2026-08-31 |
@@ -281,31 +302,10 @@ _3,172 open · showing the 300 most recent · updated 2026-09-05 04:18 UTC_
 | Product Marketer | Clera | Berlin | 2026-08-30 |
 | Member of Commercial Staff | Clera | Berlin | 2026-08-30 |
 | Director of Engineering | Prior Labs | Berlin | 2026-08-30 |
-| Customer Success Manager | Clera | Berlin | 2026-08-29 |
 | Founding GTM Engineer | Clera | Berlin | 2026-08-29 |
 | Founding Engineer | Clera | Berlin | 2026-08-29 |
 | Founding Engineer | Clera | Berlin | 2026-08-29 |
 | Founding Marketer (Growth, GTM) | Clera | Berlin | 2026-08-29 |
-| Backend Engineer | Clera | Berlin | 2026-08-29 |
-| Founding GTM & B2B Sales | Clera | Berlin | 2026-08-29 |
-| Business Development Representative | Clera | Berlin | 2026-08-29 |
-| Customer Engineer | Clera | Berlin | 2026-08-29 |
-| Head of Marketing | Clera | Berlin | 2026-08-29 |
-| Founder's Associate Intern / Working Student | Clera | Berlin | 2026-08-29 |
-| Founding Sales Development Representative | Clera | Berlin | 2026-08-29 |
-| Finance Manager | Almedia | Berlin | 2026-08-28 |
-| Founders Associate | Clera | Berlin | 2026-08-28 |
-| B2B Account Executive | Clera | Berlin | 2026-08-28 |
-| Software Engineer, Foundation | Clera | Berlin | 2026-08-28 |
-| Process Operations Working Student (f/d/m) | Trade Republic | Berlin | 2026-08-28 |
-| Junior Customer Logistics Operations (w/m/d) (befristet auf 12 Monate) | Seven Senders | Berlin, de | 2026-08-28 |
-| Customer Success Manager, Civil Government | Planet | Berlin, Germany | 2026-08-28 |
-| Marketing Communications Manager (B2B) | Almedia | Berlin | 2026-08-28 |
-| Social Media Roles (Talent Pool) (div/f/m) | DEPT® | Berlin; Germany | 2026-08-28 |
-| Partner Success Manager (w/m/d) | Enpal | Berlin | 2026-08-28 |
-| Logistics Operations Execution Manager (f/m/x) | Seven Senders | Berlin, de | 2026-08-28 |
-| CRM Campaign Managers (Talent Pool) (div/f/m) | DEPT® | Berlin; Germany | 2026-08-28 |
-| Senior Platform Security Engineer (d/f/m) | Taxfix.Com | Berlin | 2026-08-28 |
 
 ---
 

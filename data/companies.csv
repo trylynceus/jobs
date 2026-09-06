@@ -1,155 +1,157 @@
 company,open_roles
 Bjakcareer,3084
 BAYADA Home Health Care,2580
-SpaceX,2309
-Anduril Industries,2213
+SpaceX,2333
+Anduril Industries,2211
 Carvana,1752
-Openai,1448
+Openai,1456
 Upstream Rehabilitation,1201
-Veterinary Emergency Group (VEG),1144
-ALO,1104
+Veterinary Emergency Group (VEG),1143
+ALO,1103
 Speechify,1099
 EquipmentShare,997
-Databricks,871
+Databricks,869
 Pavago,816
 Fuku,759
-Rentokil Initial,747
+Rentokil Initial,749
 Capco,732
-Crusoe,714
-Snowflake,700
+Crusoe,706
+Snowflake,704
 Ouihelp,696
 Coupang,689
 Accenture Federal Services,639
-Two95 International Inc.,627
+Two95 International Inc.,628
 Stripe,615
 FeverUp,612
 Weekday,611
-Anthropic,595
-TransPerfect,592
+Anthropic,594
+TransPerfect,593
 Huzzle,589
-Airwallex,586
-Kia Veterans Technician Apprenticeship Program (VTAP),550
-Applied,541
+Airwallex,585
+Kia Veterans Technician Apprenticeship Program (VTAP),551
+Applied,542
 CXG,540
+Weekday AI,516
 Axon,514
 "MedElite Group, LLC.",514
-Weekday AI,511
 Pinson TM Limited,507
-Amartha,488
+Amartha,498
 Elevenlabs,487
-Super Soccer Stars,470
+Super Soccer Stars,472
+Rocket Lab Corporation,459
 DoorDash USA,456
-Rocket Lab Corporation,456
+Renuity,454
 HelloFresh,451
-Renuity,451
 Coupang Internal,446
 "Morgan & Morgan, P.A.",443
 Datadog,441
-City Wide Facility Solutions,437
-Essel,430
+City Wide Facility Solutions,439
+Essel,431
+Neura Robotics Gmbh,429
+Olsson,426
+The Scion Group,422
 Luminis Health,420
-Neura Robotics Gmbh,420
-The Scion Group,419
 MongoDB,415
+Langan Engineering & Environmental Services,413
 INFUSE,411
-Langan Engineering & Environmental Services,411
 Horace Mann - Agent Opportunities,410
-Sierra,406
-Mediix,401
 Lilt Production,400
+Mediix,400
+Sierra,400
+"Dane Street, LLC",398
 Eram,394
-"Dane Street, LLC",388
 TEHORA,376
 Nebius,375
 NoGigiddy,367
 Elastic,365
-Olsson,364
 Zscaler,361
 Holder Construction,360
 Monks,356
-Relativity Space,345
-H2 Health,339
-Harvey,339
+Harvey,348
+Relativity Space,344
+H2 Health,341
 OKX,339
 Zipline,339
+One Medical,335
 aaff B.V.,334
-Cloudflare,332
 Lucid Motors,332
-One Medical,331
-Everpure,322
+Cloudflare,331
+Everpure,321
 1Komma5Grad,317
 VluchtelingenWerk,317
-Toast,316
-Okta,313
-Loenbro,311
+Toast,315
+Okta,314
+Loenbro,313
 Lucid,309
 Avomind,306
+Sapsol Technologies Inc,303
 Canonical,302
 On,302
-Sapsol Technologies Inc,302
 AvePoint,301
 Verkada,289
 CoreWeave,287
+Agoda,286
 Veterinary Practice Partners,286
-Agoda,285
+Legora,283
 Oscar Health,283
 Brex,282
 Braze,281
-Legora,281
-Clera,280
+Clera,281
 Qiddiya Investment Company,279
-Celonis,273
+Celonis,274
 speakit,264
 D2B,263
 Charlie Health,260
-Fira Health,257
+AdvisaCare,257
+SpaceXAI,257
 Intellect,256
-SpaceXAI,256
+Perk,255
 Samsara,255
-Perk,254
 Scout,254
-Fluidstack,253
-AdvisaCare,252
+Fira Health,253
+Fluidstack,250
 Green Thumb,246
 Scout,245
 Scout,245
 JOEY Restaurants,243
+LaBella Associates,242
 Amazing Athletes,241
-LaBella Associates,240
 ACCEL Schools,239
-Skelar,239
-Veeam Software,237
-Halter,236
+Skelar,238
+Halter,237
+Veeam Software,236
+Zip AI Procurement Platform,236
+Scout Motors,233
 Jane Street,232
-Scout Motors,232
+Adyen,231
 Point72,231
-ALTEN MÉXICO,230
-Adyen,230
-Zip AI Procurement Platform,230
+ALTEN MÉXICO,229
+GitLab,229
 Mercier Consultancy Group,228
-GitLab,227
-AlphaSense,226
-SentinelOne,224
+SentinelOne,228
+AlphaSense,225
 Winthrop Technologies,223
+Guidepost Montessori,220
 JASARA PMC,220
 Mineralys Therapeutics,220
-Guidepost Montessori,218
+Lap of Love,219
 K2 Space,218
 Marksman Security LLC,218
-Eliseai,216
-Scale AI,216
 Teltonika,216
 DEPT®,215
-Lap of Love,215
+Eliseai,215
+Natera,215
+Scale AI,215
+Sila,215
 Encora,214
 GRVTY,214
-Natera,214
 iCapital,212
 Fivetran,211
 Omnicom Media,211
-Sila,210
+Sezzle,211
 Anyone Ai,209
 DCK Group,209
+Deliveroo,209
 Formlabs,206
 Navan,206
 Affirm,205
@@ -158,8 +160,8 @@ Capgemini,205
 Consigli Construction,205
 Etched,205
 Block,203
-Deliveroo,203
-Perplexity,203
+ABM UK,201
+Perplexity,201
 Remote,201
 Amartha,200
 Cloudflare,200
@@ -168,295 +170,295 @@ Intelligent growth for the AI era. We are WPP Media,200
 Legora,200
 Nice,200
 Relativityspace,200
-Sezzle,199
-ABM UK,198
 Vast,198
 Pear Vc,197
-Saronic Technologies,197
 The N2 Company,197
 Xcellink Pte Ltd,197
 Joya,196
+Saronic Technologies,196
 ALTEN Technology USA,192
 Coinbase,192
-Guess Europe Sagl,191
-Graphcore,190
-PlayStation Global,190
-Cheer Home Care,189
+Graphcore,191
+Iceye,189
 Pinterest,189
+Formenergy,188
 Leland,188
-Iceye,187
 AEG Worldwide,186
 Apex Companies,186
-Valsoft Corporation,185
+PlayStation Global,186
+Valsoft Corporation,186
+Lush Handmade Cosmetics,185
 Siloam Hospitals Group,184
+cbs Corporate Business Solutions GmbH,184
 Mindrift - Data annotation,183
 Otterbein SeniorLife,183
-cbs Corporate Business Solutions GmbH,183
-Formenergy,182
 Oldcastle BuildingEnvelope,182
-Lush Handmade Cosmetics,181
-Talkiatry,181
+Talkiatry,182
+Guess Europe Sagl,181
+"Huawei Technologies Canada Co., Ltd.",181
 Deepgram,180
 Scopely,180
 Tipico,180
-"Huawei Technologies Canada Co., Ltd.",179
 Clickhouse,178
 True Anomaly,178
 "Atwell, LLC",177
 LUXASIA,177
 Side,177
-Base Power,176
 NICE,176
 Panelmatic,176
 CV People Tanzania,175
 Ergomed,175
+Job Bridge Global,175
 My NRMA,175
+Base Power,174
 Flexport,174
-Job Bridge Global,174
+Atlean World,173
 ClickHouse,173
-Atlean World,172
-Airbnb,171
-Harmattan Ai,171
-Tiger Analytics Inc.,171
-Checkout.Com,170
-Xometry,170
-Datavant,169
+Harmattan Ai,173
+Domes Resorts & Reserves,172
+Tiger Analytics Inc.,172
+Checkout.Com,171
+Xometry,169
+Airbnb,168
+Datavant,168
 Lyft,168
-Lightspeedhq,167
 Tether Operations Limited,167
 Archer,166
 EUROPEAN DYNAMICS,166
-Ubisoft,166
-Domes Resorts & Reserves,164
+Wayve,166
+Nagarro,165
+Ubisoft,165
 Epic Games,164
 Sigma Software,164
-Wayve,164
-Pennylane,163
 Creative Chaos,162
 Human Agency,162
 C6 Bank,161
-Nagarro,161
+Enpal,161
+Lightspeedhq,161
 Netcompany,161
 BetterHelp,160
-Enpal,160
+CookUnity,160
 Hasbro,160
-CookUnity,159
 DRW,159
 LVMH Perfumes & Cosmetics,159
 Rogo,159
 Tidemark,159
-Interface,158
 Avaloq,157
 EVERSANA,157
 Figma,157
-Northwood,157
+Interface,157
 Archer,156
 Astera Labs,156
 LUXASIA,156
 Legionhealth,156
 "Voyager Technologies, Inc.",156
+Appian Corporation,155
+Lambda,155
+Northwood,155
 SPAR,155
 Sailorhealth,155
 Via,155
-Appian Corporation,154
 Geeks on Site,154
 IFS. AI-Powered Software Built for Your Industry,154
+Infosys Consulting - Europe,154
 Koninklijke Sportfondsen Nederland B.V.,154
 Minor International,154
 HubSpot,153
-ICBD,153
-Infosys Consulting - Europe,153
 OneOncology,153
 Precision Medicine Group,153
 Flosum,152
 Hunt St,152
-Lambda,152
 Agibank,151
+Cheer Home Care,151
+ICBD,151
 Profound,151
 Sungrow Emea,151
 Tutor Me Education,151
 FutureSight,150
 Lumilens,150
 Monster Energy,150
-Hadrian Automation,149
+Pennylane,150
 Impulse Space,149
 Reddit Inc Homepage,149
 Barrière,148
 Blue United Sourcing,148
+Hadrian Automation,148
 Reddit,148
+Twilio,147
 Box,146
+Commure,146
 moomoo,146
 Mindrift,145
-Spoton,145
-Twilio,145
-Cohere,144
-Commure,144
 Inter Carreiras,144
 CHAOS Industries,143
-Genetec,143
-Ramp,143
+Cohere,143
 Yassir,143
+Klaviyo FR,142
+Ramp,142
 Mejuri,141
+Genetec,140
+HealthOp Solutions,140
 "Mercari, inc.",140
+Polymarket,140
 Zeta Global,140
+Decagon,139
 Keller Executive Search,139
-Klaviyo FR,139
-Decagon,138
-HealthOp Solutions,138
+Rothys,139
 Helsing,138
 Octopusenergy,138
 Redwood Materials,138
-Rothys,138
 株式会社メルカリ,138
 Anaplan,137
 CannonDesign,137
 Netskope,137
+Spoton,137
 Barbaricum,136
-STR,136
-Polymarket,135
-Apt Resources,134
+Maintainx,135
+STR,135
+Ashby,134
 Re:Build Manufacturing,134
 Apartment Life,133
+Apt Resources,133
 Jensen Hughes,133
 Konzmann Gmbh,133
-Maintainx,133
-Motive,133
 Notion,133
+SOGECLAIR,133
 Betsson Group,132
+Control Risks,132
 Helping Hands Family,132
+Motive,132
 Silverein,132
-Control Risks,131
+Skydio,132
 Fin,131
 Grafana Labs,131
 Intetics,131
 Quince,131
 Ripple,131
-SOGECLAIR,131
-Mission Healthcare,130
 fonio,130
 Charlie Health Outreach,129
+Clara,129
 Doctolib,129
-Kognitive Sales Solutions,129
 Lago,129
-Robinhood,129
+Mission Healthcare,129
 Stark,129
-WelbeHealth,129
-"Wiz, Inc.",129
 Zip,129
-Clara,128
-DeepL AI Platform,128
-Nord Security,128
-Skydio,128
-Advantmed,127
-Ashby,127
+Advantmed,128
+Robinhood,128
+"Wiz, Inc.",128
 Cosmos Sport S.A.,127
 General Matter,127
 InterSystems,127
+Kognitive Sales Solutions,127
+Nord Security,127
 Tenstorrent,127
+WelbeHealth,127
 GGz Breburg,126
-Middlebury College,126
+LG Electronics,126
 Rebuildmanufacturing,126
-Vebego Facility Services Germany,126
 Acorn Health,125
-Gen Digital,125
 Guidepoint,125
+Vebego Facility Services Germany,125
 Artefact,124
+Cursor,124
+DeepL AI Platform,124
+Finni Health,124
+Gen Digital,124
 Loula,124
-LG Electronics,123
-Payoneer,123
-Workana,123
+Payoneer,124
+Workana,124
+Middlebury College,123
+Rivianvw.Tech,123
 Activate Interactive Pte Ltd,122
 Credence,122
 Experience Senior Living,122
-Truelogic,122
 Axsome Therapeutics,121
-Plaud,121
 Precision for Medicine,121
 Proof,121
 Salmon Group,121
+Truelogic,121
 2K,120
 Bethesda Health Group,120
-Cursor,120
 Roadsurfer.Com,120
 Addepar,119
-Finni Health,119
-Navion Senior Solutions,119
-Planet,118
-Rivianvw.Tech,118
+Plaud,119
+Navion Senior Solutions,118
+Uipath,118
 Diligent Corporation,117
 Glean,117
 Lila Sciences,117
-Teya,117
-Uipath,117
+Planet,117
+Asana,115
 "BGE, Inc",115
 Cortica - Neurodevelopmental,115
-Freedom Leisure,114
+Teya,115
+Biffa Waste Services,114
 Valtech,114
-Xero,114
 AYANA Hospitality,113
-Asana,113
+Antares Capital,113
 InHome Therapy,113
 TRM Labs,113
-Antares Capital,112
+Xero,113
 Antea Group,112
-Cerebras,112
 Figure,112
 Instacart,112
-Ouraring,112
 Alan,111
-Biffa Waste Services,111
 Cortland,111
 Fundraise Up,111
 IXL Learning,111
+Neko Health,111
 Vanta,111
+Cerebras,110
 Clara,110
-Firetrol Protection Systems,110
 Gus Germany,110
 Hims And Hers,110
 Industrial Electric Manufacturing,110
 Lincoln Property Company,110
 Matter,110
+Ouraring,110
+Pharmapaywatch,110
 Van Leeuwen Ice Cream,110
 Woolpert,110
 Ōura,110
+Firetrol Protection Systems,109
 Glean,109
-Hire Hangar Global Careers,109
-Neko Health,108
-Trm Labs,108
+Trm Labs,109
+Harbinger Motors Inc.,108
 ZoomInfo Technologies LLC,108
-42Dot,107
 Classet,107
 Helion Energy,107
 Muon Space,107
-Pharmapaywatch,107
+42Dot,106
 American Iron and Metal,106
 Mach,106
-Perry Homes,106
 2070Health,105
+Apex Technology Inc,105
 Destinus,105
+Freedom Leisure,105
+LangChain,105
 Money Mart,105
+Perry Homes,105
+Preply,105
 Careers at Eucalyptus,104
-Preply,104
+Hire Hangar Global Careers,104
+Outsidersfund,104
 Wix,104
 ΟΜΙΛΟΣ ΓΕΚ ΤΕΡΝΑ / GEK TERNA GROUP,104
 Bond Vet,103
 Capitex,103
-Charger Logistics Inc,103
-Ella Hotels and Resorts,103
-Harbinger Motors Inc.,103
 Hawthorne Residential Partners,103
-LangChain,103
-Outsidersfund,103
-Apex Technology Inc,102
+Plaid,103
+Ella Hotels and Resorts,102
 IonQ,102
-MRG Exams,102
 Mercer Advisors,102
-Plaid,102
 Voodoo,102
+BlackStone eIT,101
 Cato Networks,101
 Innodata Inc.,101
 J&J Snack Foods,101
+MRG Exams,101
 OpenTable,101
+Ursa Major,101
+Workato,101
 AECOM,100
 AFRY,100
 ALTEN,100
@@ -533,16 +535,18 @@ Flint,100
 Fortune Brands,100
 Frasers Group,100
 Freshworks,100
+G MASS,100
 General Dynamics Missions System International,100
 Gerresheimer,100
 Ghobash Group,100
 Grab,100
 Greencross Pet Wellness Company,100
 Groupe Helios,100
+Groupement Mousquetaires,100
 Hana Group,100
 Harvard University,100
-Helion,100
 Home Instead,100
+Horizon3,100
 IQ-EQ,100
 Ignitis group,100
 Ikano-Retail,100
@@ -563,7 +567,6 @@ LAPEYRE,100
 LEONI,100
 LGC,100
 LLNL,100
-LegalAndGeneral,100
 Lely,100
 Lendi Group,100
 Lesaffre,100
@@ -577,7 +580,6 @@ Max Mara Fashion Group,100
 "McWane, Inc.",100
 Miratech,100
 Motel One,100
-NAKEDMD Medspa,100
 NBCUniversal,100
 NCC,100
 NEXTON,100
@@ -636,6 +638,7 @@ T-Systems Iberia,100
 TBCBANK,100
 Talan,100
 Tessenderlo Group,100
+The Exploration Company,100
 The Nielsen Company,100
 The Tile Shop,100
 The Warehouse Group,100
@@ -661,105 +664,103 @@ Xplor,100
 bet365,100
 Cherry Ventures,99
 Cottingham & Butler,99
-G MASS,99
 KSM,99
 NECSWS,99
 Nawy Real Estate,99
+ReWorks Solutions,99
 Swiss Medical Network,99
-Ursa Major,99
 Vanta,99
-Atria Health and Research Institute,98
-BlackStone eIT,98
+Charger Logistics Inc,98
 Diana,98
+Etihad Airways,98
 Justworks,98
 MIRA CONSTRUCTION L.L.C,98
+Modern Animal,98
 Pigment,98
-ReWorks Solutions,98
 Sprinter Health,98
 Tatu City,98
-The Exploration Company,98
 Vion Food Group,98
 ASOS,97
 Arco Educação,97
 Arsipa GmbH,97
-Etihad Airways,97
+"Flagship Pioneering, Inc.",97
 Isar Aerospace SE,97
-Modern Animal,97
 "Mystic Invest Holding, S.A",97
 StepStone Group,97
-"Flagship Pioneering, Inc.",96
-IVX Health,96
+Atria Health and Research Institute,96
+Delinea,96
+LegalAndGeneral,96
+Mercor,96
+SAP Fioneer,96
 Sobi,96
+VIGO groep,96
 VirtuHire,96
-Whizz,96
 Azurity Pharmaceuticals - US,95
-Dr Reddy's Laboratories Limited,95
 "Gusto, Inc.",95
-SAP Fioneer,95
+Helion,95
+IVX Health,95
+NAKEDMD Medspa,95
 Spur,95
 Tripadvisor,95
 iFood,95
+Barnes,94
 Cresta,94
-FLINT Corp.,94
 Gong.io,94
-Horizon3,94
-Mercor,94
-Owner,94
+MrBeast,94
 Scalable GmbH,94
 Theoriamedical,94
-VIGO groep,94
 ASCO Equipment,93
 Advanced Technology Services,93
 Ayming IE,93
-Delinea,93
+Community Sports Partners,93
+FLINT Corp.,93
 Fictiv,93
 Misfits Market,93
-MrBeast,93
-Community Sports Partners,92
 D-ploy,92
 HP Hood,92
+Heidihealth.Com.Au,92
 MP Solutions Ltd.,92
-Smartsheet,92
 Statkraft,92
+Bäcker Görtz GmbH,91
 Cognition,91
-Heidihealth.Com.Au,91
+Despegar,91
 McClure Oil Corporation,91
 Oliver & Bonacini Hospitality,91
 Paired,91
-Prompt,91
-Barnes,90
+Radiant Industries,91
 Cordes Consulting GmbH,90
 Cowboyspace,90
-Current Advisors,90
+Dr Reddy's Laboratories Limited,90
 Futrue,90
 Guild Garage Group,90
 Init Ag,90
-Neofinancial,90
+Mitsis Group,90
+Owner,90
 Schenk Tanktransport,90
+Smartsheet,90
+Current Advisors,89
 Deloitte NZ,89
 Duolingo,89
 Highwire,89
-Kraken.Com,89
-Radiant Industries,89
-Vultr,89
-Mitsis Group,88
-Neros Technologies,88
+Neros Technologies,89
+Prompt,89
+TP-Link Systems Inc.,89
+Upstart,89
+Baseten,88
 Public Group,88
-TP-Link Systems Inc.,88
 Telus Digital,88
-Upstart,88
+Vultr,88
 1X,87
 Altisource,87
 Blackbird Health,87
-Bäcker Görtz GmbH,87
 Diana Health,87
 EPOS,87
+Kraken.Com,87
 RE/SPEC Inc.,87
 Satispay,87
-Taboola.com,87
 Varda Space Industries,87
+Whizz,87
 Alarm.com,86
-Baseten,86
 Caylent,86
 FanDuel Careers,86
 Impact.com,86
@@ -768,38 +769,36 @@ Kayak,86
 Mirantis,86
 Mollie,86
 OneTrust,86
+Taboola.com,86
 Vercel,86
 Analytic Services Inc,85
 California Closets,85
-Dialpad,85
+Careers at Tide,85
 Telemedi,85
 Tower Research Capital,85
 Wellhub,85
-Apptronik,84
 Astranis,84
 BillionToOne,84
-Careers at Tide,84
+Constance Hospitality Management,84
 DOF,84
-Despegar,84
-Inter IKEA Group,84
+Dialpad,84
 Mixpanel,84
-Philzcoffee,84
 Socure,84
 VaynerMedia LLC,84
+Apptronik,83
 Blank Street,83
 Cohere Health,83
 Fusion Consulting,83
-Groupement Mousquetaires,83
+Inter IKEA Group,83
 McAdams,83
 Modern Family Law,83
 OPSWAT,83
 ALTAREA,82
 DoiT,82
 Hightouch,82
-Valar Atomics,82
+Rehire,82
 BOCCARD,81
 Chainguard,81
-Constance Hospitality Management,81
 CoverGo,81
 Friedrich Zufall Gmbh,81
 GenScript/ProBio,81
@@ -807,34 +806,34 @@ Interpath Advisory,81
 RH Partners,81
 StackAdapt,81
 United Al Saqer Group,81
+Valar Atomics,81
 Alpha Financial Markets Consulting,80
 BridgeBio Pharma,80
 Deerns Groep BV,80
+Maastricht UMC+,80
+Philzcoffee,80
 The Nuclear Company,80
 60 seconds to napoli Holding GmbH,79
 AirTrunk,79
 Dandy,79
-Maastricht UMC+,79
 Metropolis,79
-Silver,79
 Sportradar,79
 Teamwork Corporate,79
 Thenuclearcompany,79
-Abridge,78
+Belong,78
 "CCRES, Educational & Behavioral Health Services",78
 GFiber,78
+Neuralink,78
 North Point Technology,78
-Rehire,78
-Rohlik,78
+Silver,78
 Treatwell,78
 Tripledot Studios,78
+Abridge,77
 EIGHT ADVISORY SAS,77
 HSMC,77
 HappyRobot,77
 Harness.io,77
 Human Interest,77
-Legend Biotech US,77
-Neuralink,77
 Ping Identity,77
 Real Chemistry,77
 Spring Health,77
@@ -842,101 +841,103 @@ Umane,77
 Voize,77
 ABIS,76
 Garner Health,76
-Innovaccer Analytics,76
 Inversion,76
 Kaseya Careers,76
+Legend Biotech US,76
 M3USA,76
 Nourish,76
+Rohlik,76
 Weight Watchers,76
+HireHawk,75
 Hostinger,75
+LA28 (Web),75
 Neuralink,75
 Ommax,75
 Bloomreach,74
 Funding Societies | Modalku Group,74
 Happyrobot.Ai,74
 Hudson River Trading,74
+Innovaccer Analytics,74
 Kong,74
 Riveron,74
 Smartly,74
 Appier,73
+"Datamark, Inc.",73
 Hasco NV,73
-LA28 (Web),73
 Launch Potato,73
 Mullins Mechanical,73
 "NeuraFlash, Part of Accenture",73
 New Era Technology,73
 Proton,73
 Rockstar,73
-ThisWay,73
 Trading212,73
 DEIN DENTAL / EDG,72
-"Datamark, Inc.",72
+Dualentry,72
 Engine,72
+Faculty,72
+Kodiak,72
+Lendable,72
 OHM,72
 Oklo,72
-Replit,72
-"ShipBob, Inc.",72
-Sunnyside*,72
 Tyson & Mendes LLP,72
 Athelas,71
 C3 AI,71
 Certified Group,71
+"Clients Blackbox, Inc.",71
 Directive,71
-Dualentry,71
 Fireblocks,71
-Kodiak,71
 "Love, Bonito INTL",71
+Metyis AG,71
 Mozilla,71
 MyForce,71
 Naked Farmer Careers,71
 Pragmatike,71
 PsiQuantum,71
 Remote - Referral Board,71
+Replit,71
 STUDS,71
+"ShipBob, Inc.",71
+Stepful,71
 Videotron,71
 Agility,70
+Aikido Security,70
+F.H. Paschen National Infrastructure Builder,70
+Gramian Consulting Group,70
+Infleqtion,70
+Marianaminerals,70
 Myriad360,70
-Stepful,70
-Teads,70
 Wrike,70
-Avride,69
 Faceland,69
-Faculty,69
 Headlands Research,69
-HireHawk,69
 INX International Ink Co.,69
-Infleqtion,69
+New Era Technology,69
+Qode,69
 Siteminder,69
+Stoke Space / 100% reusable rockets / USA,69
 Techo-Bloc,69
 Wave,69
 Wilson Elser - Business & Legal Professionals,69
 Abnormal AI,68
-Aikido Security,68
 Austro Holding,68
 Delta Capita,68
 DigiCert,68
 Felix,68
 Kepak Group,68
 Motional,68
-New Era Technology,68
 Optimal HR,68
-Schonfeld,68
 Science 37,68
+Teads,68
 Volga Partners,68
 carwow.de,68
+CareHarmony,67
 Dyne Therapeutics,67
 Equip,67
 Faculty,67
 Goventi,67
 Handshake,67
 IBMC,67
-Jacuzzi Group,67
 LONDIS Ireland,67
-Lendable,67
-Mebe,67
-Qode,67
-Terac,67
-University of Auckland,67
+Schonfeld,67
 aCommerce,67
 ALTEREA,66
 Alpaca,66
@@ -949,86 +950,89 @@ Keeper Security,66
 Monzo,66
 PhonePe,66
 Rockstar Games,66
-SwiftX Inc.,66
+Similarweb,66
+ThisWay,66
+University of Auckland,66
 WATI.io,66
 AppDirect,65
 Black Canyon Consulting,65
+CQS SA,65
 "Chime Financial, Inc",65
 Fuse,65
+Higgsfieldai,65
 Hinge Health,65
 ICON,65
-JazzWorld,65
 "Method Co. Real Estate Management, Development and Hospitality",65
-Metyis AG,65
-Similarweb,65
+Metyis,65
+Neofinancial,65
+SwiftX Inc.,65
 Ten Group,65
+Terac,65
 Aspire Health and Community Services,64
+Avride,64
 "Berkshire Group, LLC",64
 Cabify,64
-CareHarmony,64
 Clover Health,64
-Docker,64
-F.H. Paschen National Infrastructure Builder,64
 G2,64
-Gramian Consulting Group,64
 GuidePoint Security,64
-Higgsfieldai,64
 Hitachi Solutions,64
 Hydrite Chemical Co.,64
 Illumio,64
 "JRM Construction Management, LLC",64
+Jacuzzi Group,64
 Jetson Home,64
-MSPS,64
 NTS,64
 Nuvei,64
 Taptapsend,64
 CloudFactory,63
 "Crunchyroll, LLC",63
 "EMW, Inc.",63
+Ethos Life,63
 Fuse Energy,63
-Lokal App,63
 Lovable,63
-Marianaminerals,63
-Metyis,63
+Mariner Careers,63
+Mebe,63
 NexHealth,63
 OTTO FUCHS KG,63
 Sarvam AI,63
+Sunnyside*,63
 Trace3,63
 Waardeburgh,63
 robusta,63
 1Password,62
 Ashby,62
-CQS SA,62
 Clickup,62
 Clickup,62
+Docker,62
 Equip,62
-Ethos Life,62
 Geo-Technology Associates Inc.,62
 Globaljobs,62
 Imithea Medical Group,62
-KRAFTON,62
 KnowBe4,62
-Mariner Careers,62
+Lokal App,62
+MSPS,62
 Media Source,62
 Metova,62
 Nürnberger Wach- und Schließgesellschaft mbH,62
 OLIVER Agency - APAC,62
 Ocorian,62
-Originventures,62
 Ping,62
 SOMFY Group,62
 Skild AI,62
 TYTAN Technologies GmbH,62
-Up Education,62
-Agent,61
 Alaro City,61
 BeyondTrust,61
 Carta,61
 FIR e. V. an der RWTH Aachen,61
 Gatik AI,61
+Gigaml,61
+New Flyer,61
+Opengov,61
+Originventures,61
 Pomelo Care,61
 Quadient,61
 Skylo,61
+Up Education,61
 AGE Solutions,60
 Arq,60
 Ascendis Pharma,60
@@ -1037,172 +1041,169 @@ B&S International,60
 Crown Equipment,60
 Ecommerce & Digital Growth Solutions in Southeast Asia | Intrepid,60
 Faire,60
+KRAFTON,60
 Krombacher,60
 Nuvei,60
 PRISM+,60
 Supabase,60
+Tailscale,60
+Watershed,60
 AB InBev | Growth Group,59
 ACT Power Services,59
 Alpaca,59
 Berry Street,59
 CITECH,59
-Claylabs,59
 Cribl,59
 InMobi,59
 Levio,59
 Life,59
+Life Skills Autism Academy,59
 MAP,59
 Metova,59
 Natuvion GmbH,59
 ON.energy,59
-Opengov,59
-Openloophealth,59
 Range,59
+Solidigm,59
 Synthesia,59
 WAREMA Renkhoff SE,59
-Watershed,59
 We Are Social,59
 Xona,59
+Zeal Group,59
+Afterquery,58
+Agent,58
 "Blew & Associates, P.A.",58
+Bravehealth,58
 Connecteam,58
-Costa Navarino,58
 Docker,58
-Flywire,58
 Heartflow,58
 Instawork,58
 LandCare,58
 Mercury,58
-New Flyer,58
-Sony Interactive Entertainment Inc.,58
 Sperasoft,58
 Strive Health,58
 Synthesia,58
-Tailscale,58
 "The Lockwood Group, LLC",58
 Together AI,58
-Zeal Group,58
 sweetgreen,58
 tarte cosmetics,58
-A Place For Mom,57
-Afterquery,57
 Appnovation Technologies,57
-Bravehealth,57
 City of Philadelphia,57
+Claylabs,57
 CorDx,57
 Cygnify,57
 DV Trading,57
+Delta Electronics,57
 Hut 8,57
 Industrious,57
+Linear,57
+Positive Development,57
 Praxis Health |,57
-SupportYourApp,57
+Sentilink,57
+Sony Interactive Entertainment Inc.,57
 Variosystems AG,57
 Armada,56
 Comstock Companies,56
 DeepL AI Platform,56
-Delta Electronics,56
-Factory,56
-Linear,56
+ISTA Personnel Solutions,56
 Luminance,56
 Quality People,56
-Strava,56
 Zonnehuisgroep Amstelland,56
 AEVEX,55
 Australian Christian College,55
-Berenschot Groep B.V.,55
 CERN,55
 Certify360,55
 Clay,55
 Cleantec,55
 Cortica,55
 Exa,55
+Factory,55
+Flywire,55
 Hard Rock Digital,55
+Indra Group UK & Ireland,55
+Jobs Page 4Dc2685B Eb82 46D1 A3F9 1F0764Dba814,55
 LVT,55
-Life Skills Autism Academy,55
 Navarro,55
+Openloophealth,55
 Pacific Health Group,55
 Qualtrics,55
 Redstoneresidential,55
 Rhoda Ai,55
 ShipMonk,55
 Stratas Foods,55
+SupportYourApp,55
 Watr,55
 Antoni van Leeuwenhoek,54
 Axle,54
+Berenschot Groep B.V.,54
 C3EL,54
 Dragos,54
+Eightsleep,54
 Euromonitor,54
-Hôpitaux Universitaires de Genève,54
-ISTA Personnel Solutions,54
 Instawork,54
-Jobs Page 4Dc2685B Eb82 46D1 A3F9 1F0764Dba814,54
 Lighthouse,54
 M Kopa,54
 NIVA Health,54
-Odysseyhotelgroup,54
-Positive Development,54
 Realtor.com Careers,54
 Red Wing Shoe Company,54
 Reliable Robotics,54
 Reliableairlines,54
-Sentilink,54
-Solidigm,54
 Sony Pictures Imageworks,54
 VusionGroup SA,54
 WITHIN,54
+Actionline Ltd.,53
 Avelios Medical,53
 Blockstream,53
 Carian,53
 Clinique Saint-Jean - Kliniek Sint-Jan,53
 Delaware Nation Industries,53
 Deutsche Pruefservice GmbH,53
-Envalior,53
-Indra Group UK & Ireland,53
 Lamm HR GmbH,53
 Masdar,53
 NETZSCH Group,53
+Odysseyhotelgroup,53
 Podium,53
 Temporal Technologies,53
-Veo - Operations Careers,53
-Weave,53
 ZainTECH,53
 ARX Robotics GmbH,52
-Actionline Ltd.,52
 Bsbi,52
 COSMOTE GLOBAL SOLUTIONS NV,52
 Celsius,52
 Distyl,52
-Eightsleep,52
 Galaxy,52
 Heart + Paw,52
 Iterative Health,52
-Jellyfishcareers,52
 MSR-FSR,52
+Mapbox,52
 Mindera,52
 Neo4j,52
 Netgear,52
 Parloa,52
-Precoa,52
+Serval,52
+Strava,52
+Veo - Operations Careers,52
 YipitData (Alternative),52
 Zocdoc,52
 1-800-GOT-JUNK?,51
 Albert Bartlett,51
 CIMMYT,51
 Charlie's Produce,51
-Cooper Auto Group,51
-Everai,51
+Dentons,51
+Ellison Institute of Technology,51
+Envalior,51
 Flatpay,51
 Framestore,51
 ID.me,51
+Jellyfishcareers,51
+Joko,51
 Lightning AI,51
-Peec AI,51
+Nivoda,51
+Precoa,51
 Red Ventures,51
-Reflectionai,51
 Sanity,51
 Tandem Health,51
 Tenex,51
-The City of Fort Worth,51
-The National Football League,51
 Vynca,51
+Weave,51
 Writer,51
 Almedia,50
 Aminocollective,50
@@ -1215,47 +1216,51 @@ Banyan Software,50
 Benchling,50
 Brainlab,50
 Brunswick Group,50
-Dentons,50
+Cooper Auto Group,50
+Everai,50
 Flemming Dental,50
 "Greenberg-Larraby, Inc. (GLI)",50
 Hillel International,50
-Joko,50
+Hôpitaux Universitaires de Genève,50
 La Senza,50
 Lindalgroup,50
 Lindalgroup,50
-Mapbox,50
 Maxima,50
 Plaisio Computers S.A.,50
 Primeintellect,50
-Serval,50
+Reflectionai,50
+The National Football League,50
 UTAC,50
 Voyago,50
 ASI,49
 Accordion,49
 Behavox,49
+Benchling,49
 Braintrust,49
 Coder,49
 Designer Group,49
-Ellison Institute of Technology,49
 Griffith University,49
 Helprise,49
 HumanSignal,49
-Keeley Construction,49
-LaunchDarkly,49
+JYSK Canada,49
 Machinify,49
 MaxAccelerate,49
 Monumental Sports & Entertainment,49
 Movares,49
-Nivoda,49
 Optimal Care,49
+Peec AI,49
 Proxima Fusion,49
+Rain,49
 Relay,49
 Reliance Health,49
+Starling,49
+Talkdesk,49
 "UWorld, LLC",49
 Virtu Financial,49
+Astera,48
 Attio,48
-Benchling,48
 ClassPass,48
+Constructor,48
 Discord,48
 Fastly,48
 Flex,48
@@ -1264,30 +1269,29 @@ Forus,48
 Fractile,48
 Genius Sports,48
 Glance,48
-Halton Healthcare,48
 IKEA Bulgaria,48
-JYSK Canada,48
+Keeley Construction,48
 Keywords Studios,48
+LaunchDarkly,48
 Nooks,48
 Omnea,48
-Onhires,48
-Partner One Capital,48
-Rain,48
+Parallel Employment,48
 Rho,48
+Sereact,48
 Shadow Light Studios,48
 Siftstack,48
 Small Door Veterinary,48
-Starling,48
+The City of Fort Worth,48
 Trustpilot,48
 Vaxcyte,48
-Wargaming Website for Applicants,48
+Wealthsimple,48
 Axiado Corporation,47
 Beaconsoftware,47
-Chainalysis Careers,47
 Cloudbeds,47
 Coderabbit,47
 Continuity Global Solutions,47
 Cuso International,47
+Halton Healthcare,47
 Hill House Home,47
 Human Intelligence,47
 Ivalua,47
@@ -1298,25 +1302,22 @@ MTC Care,47
 May Mobility,47
 New Relic,47
 NewsBreak,47
-Parallel Employment,47
+Onhires,47
 Peloton,47
-Talkdesk,47
-Transat AT,47
+Scalepex,47
 UK Atomic Energy Authority,47
 WEKA,47
-Wealthsimple,47
 AlphaSense India,46
 Amanotes,46
 "Ambiq Micro, Inc.",46
-Astera,46
 Augsburg University,46
+Babylist,46
 CPM Benelux,46
-Cricut,46
+Chainalysis Careers,46
 Digital,46
 Dominospizzaportugal,46
 Exponent Energy,46
 Glance,46
-IntellaTriage,46
 Kayak,46
 Kayak,46
 Kayak,46
@@ -1325,60 +1326,67 @@ Meter,46
 MiQ Digital,46
 Moloco,46
 Morrison-Maierle,46
-Referrals Only,46
 Relianceunited,46
-Sereact,46
-Supercell,46
 Taktile,46
 Trade Republic,46
+Wargaming Website for Applicants,46
 Ambiq,45
+Amperesand,45
 BGBx,45
-Babylist,45
 Blockchain.com,45
 Checkr,45
 Cognite - AI for Industry,45
-Constructor,45
 Gigs,45
 Hadley Designs,45
 Holistic Industries,45
-Ideals,45
+IntellaTriage,45
 LAPORTE L.E.C.,45
+Landor,45
+Mayflower,45
 Nex,45
+Partner One Capital,45
 Runden Group Gmbh Co Kg,45
+Supercell,45
+Trafilea,45
+Transat AT,45
 Vero HR Ltd,45
 Vesta Home,45
 Wonderschool,45
 "World Wildlife Fund, Inc.",45
 Zenoti,45
 Altom Transport,44
-Amperesand,44
 Apollo.io,44
 Ascendis Pharma ES,44
 Ascendispharma,44
-Astro Mechanica,44
 AutoScout24,44
 Awin,44
 BDA,44
 Butternut Box,44
+CD PROJEKT RED,44
 Checkr,44
 Cirrusaircraft,44
+Cricut,44
+Dash0,44
 DevRev,44
 Ema,44
+Envision Employment Solutions,44
 Everlane,44
+Fieldguide,44
 Fletcher Jones Automotive Group,44
 Habitat Health PACE Program with Kaiser Permanente,44
 Heron Power,44
+Ideals,44
 Instructure,44
 It Haus Gmbh,44
 MatX,44
 Maven,44
-Mayflower,44
 Mint Cannabis,44
 National Lutheran Communities & Services,44
 NeoWork,44
 Overjet,44
-Tensorwave,44
-Trafilea,44
+SimpliSafe,44
+Thumbtack,44
+Thumbtack,44
 Valon,44
 WellPower - All Jobs,44
 Zelh,44
@@ -1386,77 +1394,73 @@ Acadia Pharmaceuticals Inc.,43
 Alliade,43
 Altruist,43
 Apraxon,43
+Astro Mechanica,43
 Backbase,43
 Bayut | dubizzle,43
 Boldr,43
-CD PROJEKT RED,43
 Calvary Hospital,43
-Coconut,43
-Dash0,43
 EUROSPAR Ireland,43
-Envision Employment Solutions,43
 FRP Advisory Group,43
-Fieldguide,43
 Flow Traders,43
 Gameloft Official,43
-Hackerone,43
 Housecall Pro,43
 Jerry,43
 Jukebox Health,43
 KALCON,43
 KDCI,43
-Montu Uk,43
 National Health Foundation,43
 OpenFX,43
-Openfx,43
 PALAZZO VERSACE DUBAI,43
 PagerDuty,43
-SimpliSafe,43
+Reframesystems,43
 SonicWall,43
 Statista,43
+Tanium,43
 Texas Sports Academy Main,43
-Thought Machine,43
-Thumbtack,43
-Thumbtack,43
 Timeproofusa,43
 Xenon Pharmaceuticals Inc.,43
 AAC Pacific Northwest,42
-ALSO,42
-Asset Living,42
+Adjoe,42
 Assurity Trusted Solutions,42
+Coconut,42
+Docebo,42
+ELVTR,42
 Fora,42
 GoGoX Hong Kong,42
 Highlightta,42
 InProduction,42
 LG AI Research,42
-Landor,42
+Openfx,42
 Optima Medical,42
 Oral Surgery Partners,42
 Pavebank,42
 Quantum Space,42
 Realpage,42
-Reframesystems,42
-Rula,42
-Runway Ml,42
-SecurityScorecard,42
+Referrals Only,42
+TMEIC Corporation Americas,42
+Tensorwave,42
+Thought Machine,42
 United Placement Group,42
 Xyz Reality,42
-Adjoe,41
+voize,42
+ALSO,41
 Aionbank,41
+Asset Living,41
 Atlas Energy Solutions,41
-Bush & Bush Law Group,41
 Collibra,41
 Convene Hospitality Group,41
 CrewBloom,41
-Docebo,41
 GoFundMe,41
+Hackerone,41
 Harbor,41
 Hirschen Group,41
 Hustler Marketing,41
 IS International Services,41
+Inferact,41
 Ingram Content Group,41
 Iovance Biotherapeutics,41
 Jobsthatmatter,41
+KBRA,41
 Katalyst Space Technologies,41
 Luster National,41
 M9 Solutions,41
@@ -1472,72 +1476,67 @@ Sonder.io,41
 Spartech,41
 T1Energy,41
 Taledo GmbH,41
-Tanium,41
 Televic Rail,41
 Third Space Therapy,41
 Toogeza,41
 carsales,41
-voize,41
+n8n,41
+A Place For Mom,40
 Aerovect,40
 ApexIT,40
 Arcesium LLC,40
-Associated Veterinary Partners,40
 BitGo,40
 Blacksmith,40
 "Buyers Edge Platform, LLC",40
 Care Access,40
 Coalition,40
-ELVTR,40
 EPSO-G,40
 EVG Specialty Network,40
 Epirus,40
 Exoticca,40
 Hitzler,40
 Huntress,40
-Ibotta,40
-Inferact,40
 InnovationTeam,40
 International Institute of Tropical Agriculture(IITA),40
 Ivo Inc,40
 JoVE,40
 Job Mobz,40
-Junipersquare,40
-KBRA,40
-Later,40
 "Northpoint Recovery Holdings, LLC",40
 Odion,40
 Per Scholas,40
 Permitflow,40
 Privia Health,40
 Reducto,40
+Rula,40
+Runway Ml,40
 Skeleton Technologies,40
-TMEIC Corporation Americas,40
-"Take-Two Interactive Software, Inc.",40
 "TechFlow, Inc.",40
 Valeo Foods,40
-n8n,40
 xponentiate,40
 zooplus SE,40
 AJAIA,39
 Apollo.io,39
-Blitzy,39
 Coram Ai,39
 D Matrix,39
 D Matrix,39
 DISCO,39
 Dexmate,39
-Fender,39
+Hireframe,39
 Hopscotch Primary Care,39
+Ibotta,39
 Jerry.Ai,39
-LSH Auto,39
+Junipersquare,39
+Later,39
 Levelpath,39
 Lightfield,39
 Lunenburgvethospital,39
-Mintlify,39
 Mitsogo Inc,39
 Partly.Com,39
 Precisely US Jobs,39
 Precision AQ,39
+Sardine,39
+SecurityScorecard,39
+Sigma Defense,39
 Verifone,39
 WCG International Consultants Ltd.,39
 Xebia Group,39
@@ -1549,34 +1548,39 @@ Adams Clinical,38
 Agentio,38
 Arlo Solutions LLC,38
 Aspire Living & Learning,38
+Associated Veterinary Partners,38
+Assured,38
+Basis Ai,38
+Blitzy,38
 Broccoli,38
 Christ's Church of the Valley,38
-Drata,38
-Emergent,38
+Emergent's Dynamite Site,38
 Empiria Group,38
-Enova International,38
+Fender,38
 Formic,38
 Fresh Prints,38
 GearUp2Success,38
 Grant Thornton Belgium,38
-Hireframe,38
 Kieser,38
 Lebenskraftpur,38
+MacKay,38
 Miro,38
+Montu Uk,38
 OCTO Technology,38
 Oetiker.com,38
 Omilia,38
 Opal,38
 Oportun,38
 Pliant,38
+Qualco Group,38
 Saleshub,38
-Sardine,38
-Sigma Defense,38
 Speak,38
 Specter,38
 Stibbe,38
 Stricker,38
+"Take-Two Interactive Software, Inc.",38
 The Boutique COO,38
+Two Chairs,38
 Twoconnect,38
 Viva.com,38
 YouLend,38
@@ -1585,12 +1589,12 @@ A2MAC1,37
 AXS,37
 Alliance Defending Freedom,37
 Amplitude,37
-Assured,37
 Attentive,37
-Basis Ai,37
 Candidhealth,37
 Cyberhaven,37
+Datasnipper,37
 Dev.Pro,37
+Drata,37
 Empiriagroup,37
 Forter,37
 GSSTech Group,37
@@ -1600,17 +1604,15 @@ Hellas Gold S.A.,37
 Igloo,37
 Intecrowd,37
 Kardigan,37
+Kikoff,37
+LSH Auto,37
 Lumbermen's,37
-MacKay,37
-Merit Restorations,37
-Neara,37
+Mintlify,37
 NetSage,37
 OLIVER Agency,37
 OUE Restaurants Pte Ltd,37
 Octo,37
-Pacific Energy Canada,37
 Pentahotels,37
-Qualco Group,37
 RTE,37
 Salesianer Miettex Gmbh,37
 Showpad,37
@@ -1619,7 +1621,6 @@ Standardbots,37
 Swissquote,37
 "Tenable, Inc.",37
 "Turnitin, LLC",37
-Two Chairs,37
 Vomela,37
 Werner & Mertz GmbH,37
 Withings,37
@@ -1627,13 +1628,14 @@ eGroup,37
 Adaptyv,36
 Advansys,36
 Air,36
+Allica Bank,36
 Antora Energy,36
 Backblaze External Website,36
 Brandtech+,36
 CURRENTA GRUPPE,36
 Clear,36
-Clipboard,36
 Enjaz Consultancy and Enterprise Management,36
+Enova International,36
 Enthuse-Marketing,36
 Ferronordic Holding Gmbh,36
 Fundamental,36
@@ -1641,27 +1643,24 @@ Gemini,36
 HOKALI,36
 Hopper,36
 Jungvonmatt,36
-Kepler Group,36
-Kikoff,36
 KoBold Metals,36
 Lister,36
 MacDonald-Miller Facility Solutions,36
+Neara,36
 O Group,36
+Pacific Energy Canada,36
 Parallel,36
-Pebl,36
 QSL,36
-Retell Ai,36
 Schwarzman Animal Medical Center,36
-Scribe,36
 ShopMy,36
 Spire Global,36
 Tarro,36
-Tigerdata,36
 Unit4,36
 VB Groep,36
 Western Sydney University,36
 Yellowtail Conclusion,36
 9Fin,35
+Accellor,35
 Access Bank PLC,35
 Acclaro,35
 Ailylabs,35
@@ -1682,62 +1681,64 @@ Encord,35
 Eve,35
 Farther,35
 Feedzai,35
+Fetch Specialty & Emergency Veterinary Centers,35
 FreedUp,35
 G-P,35
 GoDaddy,35
 IntegriChain,35
+Jobber,35
+Kepler Group,35
 Kolmac Integrated Behavioral Health,35
 NetBrain,35
 Nimble Robotics,35
 OnLogic,35
+Pebl,35
 Rapyuta Robotics,35
+Render,35
+Retell Ai,35
+Scribe,35
 Sedus Gruppe,35
-Serverobotics,35
 SÜDKURIER Medienhaus,35
 Utopia,35
 Vapi,35
 Visit.org,35
+"Wellmark, Inc.",35
 Wilken,35
-Accellor,34
 Algolia,34
 Amo,34
 Amtech,34
 BarkleyOKRP,34
 Beeline Medicines,34
+Blacksemiconductor,34
 CAMP,34
 Capital on Tap,34
-Chartis,34
+Clipboard,34
 Culture Amp,34
-Datasnipper,34
 Doppel,34
 EBANX,34
-EC Electric,34
 ERGO NEXT Insurance,34
 Edmentum,34
 Envirogen,34
 HOKALI,34
 Healthcare Australia,34
-Institut Mines-Télécom,34
-Jobber,34
 Komodo Health,34
 Listenlabs,34
 M Booth,34
 Mactores,34
 Midi Health,34
-Moss,34
 Movable Ink,34
+Médecins du Monde,34
 Neuralconcept,34
 Next Insurance,34
-Noda Ai,34
 Physicalintelligence,34
 PhysicsX,34
-Render,34
-Ruby Labs,34
+Serverobotics,34
+Shelter House,34
+SmithRx,34
 Span,34
 StockX,34
+Tigerdata,34
 Vrey,34
-"Wellmark, Inc.",34
-Zifo,34
 think-cell Software,34
 AFCA,33
 ARQ,33
@@ -1747,17 +1748,18 @@ Arethia,33
 Azeus Convene,33
 BambooHR,33
 Bedrock Robotics,33
-Blacksemiconductor,33
 Brainco,33
 CLEAR - Corporate,33
 Canary Technologies,33
 Candid Health,33
 Cartesia,33
+Chartis,33
 Daymark Health,33
+EC Electric,33
 ENERVIE – Südwestfalen Energie und Wasser AG,33
 Egruppe,33
 Embedding Vc,33
-Fetch Specialty & Emergency Veterinary Centers,33
+Future Publishing,33
 GoGlobal,33
 Grow Therapy,33
 Grupoenhol,33
@@ -1765,43 +1767,52 @@ HP IQ,33
 Home Chef,33
 Imagineart,33
 Inspira Education,33
+Institut Mines-Télécom,33
+Ironcladhq,33
 Isomorphic Labs,33
 Maxcess International,33
+Merit Restorations,33
 Metaview,33
-Médecins du Monde,33
+Moss,33
 Nearform,33
+Noda Ai,33
 Normal,33
 Pacific Aviation,33
 Remote Raven,33
 Revenuecat,33
-SingleStore,33
-SmithRx,33
+Scalesource,33
 Spotawheel,33
 Sunnydata,33
+The Safety Network,33
+The Trustees of Reservations,33
 Trexquant Investment,33
+Two Circles,33
 Zego,33
+Zifo,33
 Accredited Labs,32
 AccuWeather Careers,32
-Allica Bank,32
 Amae Health,32
+Assorthealth,32
 At-Bay,32
 Authentic Brands Group,32
 Axi,32
 Bird,32
 Bouwjijmorgen,32
+Bridgepoint Consulting,32
 "Burns Engineering, Inc.",32
 Camunda,32
 Cofinproag,32
 Data Intellect,32
 DataCamp,32
 EACH,32
+EQL Tech,32
 EcoVadis,32
+Elliptic,32
 Fal Ai,32
 Gamma,32
 Heembouw,32
 HugeInc,32
 Inspired Thinking Group (ITG),32
-Ironcladhq,32
 Julius Berger International GmbH,32
 Livekit,32
 Maddox Industrial Transformer,32
@@ -1810,26 +1821,24 @@ Maven Clinic,32
 Neal R Gross & Co,32
 Raisin,32
 Rillet,32
-Scalesource,32
 ScioTeq BV,32
 Sevenai,32
+SingleStore,32
 Skydropx,32
 Solirius Reply,32
+Sollis Health,32
 Steadily,32
 Stellar,32
 TechOp Solutions International,32
 Techland S.A.,32
-The Safety Network,32
-The Trustees of Reservations,32
 Torq,32
 Versaterm,32
 Wheely,32
 smava GmbH,32
 66degrees,31
 Axios,31
-BB&E,31
 Bobyard,31
-Bridgepoint Consulting,31
+Bush & Bush Law Group,31
 C.A. Fortune,31
 CURRENTA Gruppe Ausbildung,31
 Campfire,31
@@ -1838,17 +1847,14 @@ Centorrino Technologies,31
 Confido,31
 "Crown Innovations, Inc.",31
 DVI Solution,31
-EQL Tech,31
 EarnIn,31
 Ever,31
 Everlaw,31
-Future Publishing,31
 "Good Job Games → Great Team, Perfect Games",31
 "Harrow, Inc.",31
 Heimstaden,31
 Hudl,31
 Jenni Kayne,31
-Kensington,31
 Lucid Software,31
 Netguru,31
 Northmarq,31
@@ -1860,26 +1866,27 @@ Patrianna Limited,31
 Peak Energy,31
 Phillips Corporation,31
 Plane,31
+Pleo,31
+Premium Merchant Funding,31
 Raisin,31
 Redwood Software,31
-Shelter House,31
+Ruby Labs,31
+SPARK Schools,31
 Sleek,31
 SupplyHouse.com,31
 The Adaptavist Group,31
 Traba,31
 TripleLift,31
-Two Circles,31
 Unframe AI,31
-Wetravel,31
 Wider Circle,31
 Zuora,31
 eClinical Solutions,31
 8am,30
 AHS,30
 Absolute International Security,30
+Addi,30
 Algolia,30
 Alphatec Spine,30
-Assorthealth,30
 Bandwidth,30
 Berman Auto Group,30
 CH Media,30
@@ -1887,10 +1894,7 @@ Coframe,30
 Composio,30
 David Protein,30
 Docplanner,30
-EDF UK,30
-Elliptic,30
 EnergyKing,30
-Evidence Action,30
 Fifty-Five,30
 Fonoa,30
 GWI,30
@@ -1900,22 +1904,23 @@ Gravie,30
 Great Basin Industrial,30
 Gritter Francona,30
 Hamelin,30
+Hawkeyeinnovations,30
 Hex Technologies,30
 Hillpointe,30
 "ITS Logistics, LLC",30
 "Immunome, Inc.",30
+JOBI,30
+"LeoLabs, Inc.",30
 Lumimeds,30
 Modal,30
 Neo Group,30
 Nexity,30
 Outpost Vfx,30
-Premium Merchant Funding,30
 Reonic,30
 Rodeo FX,30
 Roofstock,30
 Sila,30
 Slip Robotics,30
-Sollis Health,30
 Sonatype,30
 "Steel Fabricators, LLC",30
 Talos Trading,30
@@ -1923,48 +1928,49 @@ The Very Group,30
 The Yiros Shop,30
 Tia,30
 Trainline,30
+Twenty,30
 University Ue,30
 Valard Construction,30
 Vertice,30
 Vetcove,30
+Wetravel,30
 A-TEK Inc.,29
-Addi,29
 Agentis Capital Advisors,29
 Agile Actors,29
+BB&E,29
 Blue Moon Metals Inc.,29
 Boomi,29
 Bottomline,29
 Brinc,29
-Clinigen,29
 Daybreak Health,29
 Desotec,29
 Evidence,29
+Evidence Action,29
 Fastned,29
 Glia,29
 GoMining,29
-Grail,29
+Great Minds,29
 HackerRank Careers,29
 Hiflylabs,29
+Hippo Insurance,29
 Integrant,29
 Interdependence,29
 Ironclad,29
-"LeoLabs, Inc.",29
+Kensington,29
 Marie Curie,29
 Maven,29
 Mento,29
-Morpho,29
 National Information Solutions Cooperative (NISC),29
 OECD,29
 Observable Space,29
 Optima Dermatology,29
+Optro,29
 Orchestra,29
+Periodic Labs,29
 Poshmark,29
-Primer.Io,29
 ProgressSoft,29
 Rapsodo,29
 Rilla,29
-Robin Radar,29
-SPARK Schools,29
 Singularity,29
 Stio,29
 TTP,29
@@ -1986,20 +1992,21 @@ Arize AI,28
 AutoTrader.ca,28
 Bitpanda,28
 CPM Ireland,28
+Clinigen,28
 Customer.io,28
 Endor Labs,28
 Freenome,28
 Futurex,28
-Great Minds,28
+Grail,28
 Groome Industrial Service Group,28
 Guidelight Health,28
 HR Connect Limited,28
 HR factory,28
-Health Link,28
-Hippo Insurance,28
+Hometown Urgent Care,28
 Huda Beauty,28
 Jane,28
 Kalshi,28
+Linear,28
 Litmus,28
 Livefront,28
 MCB,28
@@ -2008,30 +2015,28 @@ Moss,28
 Nightfall Ai,28
 Nuvem,28
 Ontic,28
+Origin,28
+Otovo,28
 Oxio,28
-Periodic Labs,28
 Porter,28
 Portsmouth Hospitals University NHS Trust,28
-Qualified Health Pbc,28
+Primer.Io,28
 Quantware,28
 QuickTeam,28
-Radiant,28
 Raven,28
+Robin Radar,28
 Roboflow,28
 Sandboxaq,28
+Semperis,28
 Shively Diversified Management Services,28
-Slice Careers,28
 Squarespace,28
 Swan Gmbh,28
 Tacto,28
 Tend,28
 Terran Orbital Corporation,28
 Thewallstreetquants,28
-Tilthq,28
-Umpisa Inc.,28
 Workos,28
 Workstream,28
-Zeely,28
 ADVENS,27
 Aerones,27
 Alta Ares,27
@@ -2041,43 +2046,44 @@ Atlas HXM,27
 Bask Health,27
 Beyond Finance,27
 BoekenVoordeel Management B.V.,27
-Cadillac Formula 1® Team,27
+Bunch,27
 Cast AI,27
 Cerfrance Brocéliande,27
 CoLab,27
 Code Metal,27
 Dyna Robotics,27
+EDF UK,27
 Flagright.Com,27
-Grüns,27
 Harperinsure,27
-Hawkeyeinnovations,27
-Hometown Urgent Care,27
 Hotmart,27
 Interface Ai,27
+JCC Greater Boston,27
 Jumio,27
+Lighthouse Behavioral Health Solutions,27
 Lio (formerly askLio),27
 LivCor LLC,27
 Lpadesignstudios,27
 Mammoth,27
 Momentum Financial Services Group,27
+Morpho,27
 NABIS,27
 NavVis,27
 Nectar Social,27
 "New Leaf Energy, Inc.",27
 Objectway,27
 Octus,27
-Optro,27
 Orchard,27
 Orchestra,27
-Origin,27
 Otter,27
 Outpostnow,27
-Pariveda,27
 Phasor Engineering Inc,27
-Pleo,27
+"Pixelogic Media Partners, LLC",27
+Playson,27
 Prolific,27
 PureGym AG,27
 Qplix,27
+Qualified Health Pbc,27
+Radiant,27
 Reliant Rehabilitation,27
 Reltio,27
 Riskified,27
@@ -2085,22 +2091,26 @@ Rupf Verwaltungs GmbH,27
 STELZ B.V.,27
 Salla,27
 Scyne Advisory,27
-Semperis,27
 Senra Systems,27
+Slice Careers,27
 Solace,27
 Sosafe,27
 Sprout General Referrals,27
-Stedi,27
 Tilt,27
+Tilthq,27
+Umpisa Inc.,27
 VBP,27
 Versemedical,27
 Visium SA,27
 Vix Technology & Kuba,27
 Vonage,27
 Workman LLP,27
+Zeely,27
 adesso Netherlands,27
+iSchool,27
 360T,26
 AXQ Capital,26
+Ae,26
 Antithesis,26
 AppViewX,26
 Arcana Analytics,26
@@ -2122,28 +2132,24 @@ Foodics,26
 Foundry For Good,26
 Gbc Gruppe,26
 GiveDirectly,26
+Grüns,26
+Health Link,26
 Hover,26
 Hyde Park Developments,26
 Ignite IT,26
 Imagine Pediatrics,26
-Interrahealth,26
-JCC Greater Boston,26
-JOBI,26
+Imprint,26
 Jane,26
-Kissmyapps,26
+K Health,26
 LVMH,26
 Lakshya Digital,26
 Logos Space,26
 "Mack Molding, Inc.",26
-Meridianlink,26
 Moonbug Entertainment,26
 Nash,26
 NetEase Games,26
 Nudge,26
-Oddin.gg,26
 Onebrief,26
-"Pixelogic Media Partners, LLC",26
-Playson,26
 Race Communications,26
 Radmedics,26
 Redox,26
@@ -2158,12 +2164,10 @@ Vinci4D,26
 Virtual Staff 365,26
 Vivo Energy,26
 Vogel,26
+We Are Rosie,26
 Zafran Security,26
-iSchool,26
 A-point,25
-AND Digital,25
 AVIV Group,25
-Access Services,25
 Alamar Biosciences,25
 Alloy,25
 Applied Business Communications (ABcom),25
@@ -2175,61 +2179,75 @@ BERNARD Gruppe,25
 Backpack Healthcare,25
 Baidu USA,25
 Banco PAN,25
+Cadillac Formula 1® Team,25
 Cal Farley's Boys Ranch,25
 Checkatrade,25
 Chp Gruppe,25
 Clay Hospitality,25
 Coderite,25
 DataVisor,25
-Eqvilent,25
+Devsu,25
 First Circle Philippines,25
 Flagright,25
 FuseGlobal,25
-Gc Ai,25
 Goodfire,25
 Groupe LG2,25
 Hidden Events,25
 Holywater,25
 Home Market Foods,25
 Horace Mann,25
-Imprint,25
 Inizio Ignite,25
 Insurity India,25
-K Health,25
+Interrahealth,25
+JazzWorld,25
+Juicebox,25
 "Keyfactor, Inc.",25
+Kissmyapps,25
+Kombo,25
 LUXHOLD INVEST S.A.,25
 Lexroom,25
-Lighthouse Behavioral Health Solutions,25
 Liquidpiston,25
 Maker Lab,25
 Matera,25
+Meridianlink,25
 Miodottore,25
 National Network Logistics,25
 New York City Economic Development Corporation,25
 Nysonian,25
 Obsidian Security,25
+Ocean Casino Resort,25
+Oddin.gg,25
 Oscilar,25
+Oyster,25
 PRECIA MOLEN,25
 Paradigm Power Delivery Inc.,25
+Pariveda,25
+Phil,25
 Protege,25
 RES Consultant Group,25
 "RMF Engineering, Inc",25
-Razorpay Software Private Limited,25
 Relay,25
 Scorewarrior,25
 Scout Clean Energy,25
+Solvd,25
+Stedi,25
 Synvert,25
 Trivium,25
 TwynstraGudde Holding B.V.,25
+Upward Health,25
 Waad Education,25
+Warande,25
+Xendit,25
 Zinnia,25
+itD Tech,25
 "livingHR, The Work Agency™",25
 peopleworth,25
 360Volt Gmbh,24
 AbCellera,24
+Access Services,24
 Achieve,24
 Adjust,24
-Ae,24
+Amboss,24
 Assent,24
 Attain Sports,24
 Auctane,24
@@ -2237,24 +2255,20 @@ Bestow,24
 Beyond,24
 Biohub,24
 Bumbleinc,24
-Bunch,24
 Campus Fuer Christus 1,24
 Cape,24
 Chrono24,24
-Classdojo,24
 DCOH,24
 Dailypay,24
 Dataiku,24
-Davy,24
 Dev Technology,24
-Devsu,24
 Doss,24
 Dust,24
-Emerging Travel Group,24
 Erste Digital GmbH,24
 Fieldwire by Hilti,24
 Front,24
 Galvany,24
+Gc Ai,24
 Glinttglobal,24
 Goldair Handling,24
 Gérard Bertrand,24
@@ -2269,10 +2283,8 @@ Jeeves,24
 Junction,24
 Kalepa,24
 Keel Infrastructure,24
-Khan Academy,24
 LegalVision,24
 Lilliancare,24
-Linear,24
 MORROW & MORROW Medical,24
 Mill,24
 Mm Software Gmbh,24
@@ -2281,17 +2293,15 @@ Niemerszein,24
 Nippon Express Europe GmbH,24
 Northstrat,24
 Nucleus Global,24
-Ocean Casino Resort,24
 Osedea,24
 Otter.ai,24
-Oyster,24
-Phil,24
 Pivotal Health,24
 Platform Science,24
 Primer,24
 Prominence,24
 Rabot Energy,24
 Razorpay,24
+Razorpay Software Private Limited,24
 Reflect Orbital,24
 Rightway,24
 SPHEREA,24
@@ -2301,27 +2311,27 @@ Soulhouse,24
 Soulhouse,24
 Squer,24
 Sunday,24
+Super.Com,24
 Superpower,24
+Teamworks,24
 Tebra,24
+Telnyx,24
+Tesla Laboratories. Inc.,24
 The Brand House,24
 "TraceLink, Inc",24
 Tremendous,24
 URBANOVA.GROUP,24
-Upward Health,24
+Upgrade,24
 Urbanovagroup,24
 Virtahealth,24
 Vivid,24
-Warande,24
-Xendit,24
 Zenni Optical,24
 division50,24
-itD Tech,24
 metrocsg.com,24
 A&L Goodbody LLP,23
 ALU,23
 AlgaeCal,23
 Align Communications,23
-Amboss,23
 BRKZ,23
 BarentsKrans,23
 Beam Up,23
@@ -2331,9 +2341,9 @@ BÖCKELS Beste GmbH,23
 CaptivateIQ,23
 Catilas Resources Limited,23
 Claritypediatrics,23
+Costa Navarino,23
 "Couchbase, Inc.",23
 Critical Mass,23
-Darkroom,23
 Datatonic,23
 DeepHealth,23
 Deltavision,23
@@ -2343,24 +2353,26 @@ Elementa Therapie,23
 Elevation Capital,23
 Eliyan,23
 Ember,23
+Emerging Travel Group,23
 Empower Brands,23
 Eraneos,23
-FlowX.AI,23
+Firecrawl,23
+Fundamental Hospitality,23
 Glia,23
 Glossier,23
 GoCardless,23
 Gritt,23
+HeadFirst B.V.,23
 Hebbia Ai,23
-Hyperexponential,23
 Intrinsic,23
 Inyad,23
-Juicebox,23
+Khan Academy,23
 KoBold Metals Zambia,23
-Kombo,23
 Kooner Fleet Management Solutions,23
 Loonshot Games,23
 LoopMe,23
 "Michael & Associates, Attorneys at Law",23
+Mr. Blue,23
 MySigrid your Growth Partner,23
 Netwealth,23
 Nevis,23
@@ -2370,34 +2382,28 @@ Normalcomputing,23
 Nurix,23
 Nussli,23
 Nuuenergy,23
-Omni Analytics,23
 Openrouter,23
 Peakpeak,23
 Precisely International Jobs,23
 Prior Labs,23
 Qualia,23
 Red Cell Partners,23
+Regent,23
 Rent the Runway,23
-Runpod,23
 STAYERY.,23
-Samsung SDS America,23
-Seeq,23
 Shift Technology,23
 Snyk,23
 Socket,23
-Solvd,23
 Sona,23
 Starburst,23
 Sunday Natural,23
 Supreme Sports Hospitality GmbH,23
-Teamworks,23
-Tesla Laboratories. Inc.,23
 Together,23
-Upgrade,23
 Vannevar,23
 Vectra AI,23
+Vinmar International,23
 Visioneers,23
-We Are Rosie,23
+Withpulley,23
 Xendit,23
 "epay, a Euronet Worldwide Company",23
 onX,23
@@ -2416,53 +2422,63 @@ BlackSky,22
 Blip Global,22
 Blue State,22
 Braven,22
+Bridge33 Capital,22
+Bynder,22
+Classdojo,22
 Cloud Chamber,22
 Coursera,22
-Creatoriq,22
+Darkroom,22
+Davy,22
+EQT Group,22
 Fahrrad Xxl Stores,22
-Firecrawl,22
+FlowX.AI,22
 Forma.ai,22
+Foundry Robotics,22
 Friendventure,22
-Frontcareers,22
 G.RAU GmbH & Co. KG,22
 GOAT Group,22
 Gardinier,22
 Gesellschaft für Gesundheit und Pädagogik mbH,22
-HeadFirst B.V.,22
+Hyperexponential,22
 ICONIQ,22
+Infopro Digital Services Limited,22
 Juvigo Gmbh,22
 KPI Solutions,22
 Kairos Power,22
+Laba Group,22
 Lucidya,22
 Melio,22
+Merkur Versicherung AG,22
 Mesh,22
 Mesh,22
 Meshy,22
 Methodcommunications,22
 Mintel,22
-Mr. Blue,22
-Multiverse,22
 NMI,22
+Nerdwallet,22
 Nuuenergy,22
 Oc Hairsystems,22
 Odysseyml,22
+Omni Analytics,22
 Onbe,22
 Orbital,22
 Outdooractive,22
 Outmarket,22
+PGTEK,22
 Parallel,22
 Pendo.io,22
 Phoenix Software,22
 ROCO,22
 Red Carrot,22
-Redox,22
 Riverside Natural Foods Ltd.,22
 Rundoo,22
-Sawoo,22
-Shiftmove,22
+Runpod,22
+Samsung SDS America,22
+Seeq,22
 Spear Ai,22
 St vd Brink,22
 Steer,22
+Taxfix.Com,22
 Teleport,22
 Tenexlabs,22
 The Allen Institute for Artificial Intelligence,22
@@ -2473,16 +2489,15 @@ Upper Arlington,22
 Upvest,22
 VALEURIAD,22
 Veiligheidsregio Rotterdam-Rijnmond,22
-Vinmar International,22
 Vista Group,22
 Wilshire Advisors LLC,22
-Withpulley,22
 Wordsmith,22
 XAL,22
 Xaira Therapeutics,22
 Xapien,22
 commercetools,22
 ACLU - National Office,21
+AND Digital,21
 Abound,21
 Accso,21
 Alchemy,21
@@ -2494,23 +2509,21 @@ Assembledhq,21
 Astor & Sanders,21
 Astronomer,21
 "AvidXchange, Inc.",21
+Bachmann Chemical and Engineering,21
+Bauer Media Outdoor,21
 Boulevard,21
-Brightwheel,21
 BuildOps,21
 Bully Pulpit International,21
-Bynder,21
+CONTACT,21
 Codec,21
 Current,21
 Deep Blue Company,21
-EQT Group,21
 Enter Ai,21
-Envoy,21
 Eol,21
 Epidemic Sound,21
 Evorait,21
 FamilyWell,21
 Fmi,21
-Fundamental Hospitality,21
 Fundingcircle,21
 Gallatin AI,21
 Gecko Robotics,21
@@ -2519,29 +2532,29 @@ GoSpooky,21
 Greenworks,21
 Gridware,21
 Hanwha Energy USA,21
+Havoc,21
 Heritage Healthcare Services,21
 Hiive,21
+Hoffmann Brothers,21
 Homebase,21
 IT Careers Ireland,21
 Icarus,21
-Infinity Constellation,21
-Infopro Digital Services Limited,21
 Inspire11,21
 "Integrated Specialty Coverages, LLC",21
 Intelligent Technical Solutions,21
 "Kailera Therapeutics, Inc.",21
+Karo Healthcare,21
 Kramer Crew Gmbh Co Kg,21
 Kravet LLC,21
-Laba Group,21
+Kyowa Kirin North America,21
 Luxurypresence,21
 Medsien,21
-Merkur Versicherung AG,21
 MinIO,21
 Mintlify,21
 Mitratech,21
 Monumental,21
 Morguard,21
-Nerdwallet,21
+Multiverse,21
 Nextdoor,21
 Notebooksbilliger,21
 Odyssey,21
@@ -2550,34 +2563,32 @@ Omada Health,21
 One Of Us,21
 OptiSigns Inc.,21
 Orkes,21
-Otovo,21
 Outpost,21
-PGTEK,21
 Partyhat,21
 Pathlight School / Autism Resource Centre (Singapore),21
 Prijsvrij Vakanties,21
 Radai,21
 Reachdesk,21
 Red Sky,21
+Redox,21
 Reevo,21
-Regent,21
 Revel,21
 Reviderm Ag,21
 "SI-BONE, Inc",21
 SV Academy,21
 Salient Motion,21
 Savvy,21
+Sawoo,21
 Semafor,21
+Sentec,21
+Shiftmove,21
 Sidetrade,21
 Strategic Legal Practices,21
 SuperStaff,21
 Swarmaero,21
-Syndigo,21
 Taara,21
-Taxfix.Com,21
 Teamified,21
 Telepatia,21
-Telnyx,21
 Tempo Io,21
 Tennr,21
 Titanelectric Co,21
@@ -2606,48 +2617,47 @@ Arago,20
 Arlo,20
 Autoriteit Financiele Markten,20
 Azurity Pharmaceuticals - India,20
-Bachmann Chemical and Engineering,20
-Bauer Media Outdoor,20
 Betting Hero,20
 Blackline Safety,20
 Blacksmith,20
 Blue Energy,20
 Blueground,20
+Brightwheel,20
 Bäckerei Thollembeek GmbH & Co.KG,20
 Calyxo,20
 Carrot,20
-Claimsorted,20
 Comma Soft,20
 ComplyAdvantage,20
 Consent Management Platform (CMP) Usercentrics,20
+Creatoriq,20
+Crystalia Glass,20
 DaCodes,20
 Deepjudge,20
 Dodge Construction Network,20
 Efficient Computer,20
 EvolutionIQ,20
+Facet,20
 Feld Energy,20
 Flaglerhealth,20
 FlexDesk,20
 Flexcompute Inc.,20
-Foundry Robotics,20
+Friendliai,20
+Frontcareers,20
 Fulcrum,20
 Hack The Box,20
 "Halo Industries, Inc.",20
-Havoc,20
 HealthVerity,20
 HeyGen,20
 Hived,20
-Hoffmann Brothers,20
 Humanarchive,20
 INAUTALENT,20
 Iambic Therapeutics,20
 In The Pocket,20
 Incident,20
+Infinity Constellation,20
 InterWorks,20
 Jaded London,20
 Julhiet Sterwen,20
-Karo Healthcare,20
-Lafrance Hospitality,20
 Latent,20
 Lio,20
 Lorikeet,20
@@ -2669,6 +2679,9 @@ Ontario Transit Group,20
 OpenSesame,20
 Ovative Group,20
 Parafin,20
+Payscale,20
+Pergolux,20
+Poseidonaero,20
 Propeller,20
 Pylon,20
 Pylon Labs,20
@@ -2682,40 +2695,45 @@ Rox Data Corp,20
 SBB Cargo Deutschland GmbH,20
 San Antonio Behavioral Healthcare Hospital,20
 SeatGeek,20
-Sentec,20
 Slash Financial,20
 SmartBear,20
 Snappr,20
 Stack Ai,20
 Starpath.Space,20
 Stego Elektrotechnik,20
+Strategic Growth Partners,20
 Sumerge,20
+Sur,20
+Syndigo,20
+Talkspace,20
 Telio,20
 Tempo.io,20
 Tidal Grow AgriScience,20
 Toku,20
 Tomorrow,20
-Unity Advisory,20
 Vestwell,20
+Webai,20
+Webai,20
 Wemolo,20
-Wikimedia Foundation,20
 Withpace,20
 Worldwide Clinical Trials,20
+feld.energy,20
 naturéO,20
 A16Z New Media,19
 AI Acquisition,19
+ANINE BING,19
 ARCHIMED,19
 Activate Care,19
 Adams Street Partners,19
 Alongside,19
 Anyscale,19
-Anyvan,19
 Arena,19
+Backmarket,19
+Barkbus Mobile Grooming,19
 Basiccapital,19
 Bland,19
 Blue Star Families,19
-Bridge33 Capital,19
-Brigit,19
+Botsync,19
 ButterflyMX,19
 Cadence Health,19
 CallTek,19
@@ -2723,21 +2741,17 @@ Cantina.ai,19
 Capable,19
 Careem,19
 "Catch Creation, LLC",19
-Cepal Hellas Financial Services S.A.,19
 ClearScore Technology Limited,19
-Column,19
 Commify UK Ltd,19
 Conveo,19
-Crystalia Glass,19
 Electric Hydrogen,19
 Epic Games (French),19
 Everyday Dose Inc.,19
-Facet,19
 Forge Biologics,19
 Forward,19
 Foundationhealthcareers,19
 Freelance Latin America,19
-Friendliai,19
+Fullmind,19
 Fédération suisse pour la formation continue (FSEA),19
 Geo Digital,19
 Goodwatercap,19
@@ -2747,8 +2761,10 @@ Hiltermann Lease BV,19
 Hiya,19
 Horizon Industries,19
 Humaans,19
+HyPlus Technology GmbH,19
 Img,19
 Infinitum,19
+"International Dairy Queen, Inc.",19
 Inworld Ai,19
 Iterable,19
 Jobs Valence,19
@@ -2756,9 +2772,8 @@ John M. Corcoran & Company,19
 Junior,19
 KP Snacks,19
 Kin,19
-Kyowa Kirin North America,19
-LAcarGUY,19
 Labhouse,19
+Lafrance Hospitality,19
 Langdock,19
 Latamcent,19
 Latent,19
@@ -2769,27 +2784,22 @@ Life360,19
 Litera,19
 Liveramp,19
 Lunar Energy,19
-Lynk,19
-MariaDB plc,19
 MarqVision,19
-Mediatech,19
 Miller Transportation Group,19
 Mudflap,19
 Mutiny,19
 Nflfilms,19
 Nucleationcapital,19
+Numeric,19
 Odeko,19
-Olix,19
 OrangeTwist,19
 Pair Team,19
 Parachute Health,19
 Paraform,19
 Parallel Systems,19
-Pergolux,19
-Phonely AI,19
 Picogrid,19
 Picogrid,19
-Poseidonaero,19
+ProCook,19
 Recormedical,19
 Ripple Effect,19
 Rowspace,19
@@ -2797,15 +2807,13 @@ Rystad Energy,19
 Safelease,19
 Schrödinger,19
 Shepherd,19
+Shortstory,19
 Squaretrade,19
+Stellar Cyber,19
 Strada,19
-Strategic Growth Partners,19
-Sur,19
-Talkspace,19
 Talon.One,19
 Telli,19
 Tessera Labs,19
-The Arc of Ocean County,19
 Tin Can,19
 Toku,19
 TransMarket Group,19
@@ -2813,44 +2821,45 @@ Trusted Shops SE (DE),19
 Tutored by Teachers,19
 Uhlenhaus GRUPPE,19
 Ultra,19
-"Unconventional, Inc.",19
-Upside,19
-Vclusterlabs,19
+Unity Advisory,19
 VertiGIS GmbH,19
 Viataurus,19
 Vivvi Early Learning,19
 Wabash Valley Power Alliance,19
 Warp,19
+Wikimedia Foundation,19
 WildBrain,19
-feld.energy,19
 1Kosmos,18
-8Fleet Inc,18
-ANINE BING,18
 AXI Holding Services,18
 Accso – Accelerated Solutions GmbH,18
 Alcazar Energy,18
 Alex Staff Agency,18
 Altos Labs,18
 Amcglobalmedia,18
+American Battery Technology Company,18
 Anysignal,18
+Anyvan,18
 AssemblyAI,18
 Augury,18
 Aureliussystems,18
 Automattic Careers,18
 Avantgarde,18
-Barkbus Mobile Grooming,18
+Averna,18
 Basis Research,18
 Boost Inc,18
 Boulder Care,18
-"Bremer Whyte Brown & O'Meara, LLP",18
+Brooklyn Health,18
 Browserbase,18
 Buena,18
 Cambridge Mobile Telematics,18
 Carrot Fertility,18
+Centerfield,18
 Centivo,18
+Cepal Hellas Financial Services S.A.,18
 Check Technologies,18
 Cint,18
 Circuli Ion,18
+Claimsorted,18
 Creative Fabrica,18
 Curotec,18
 Duetto Research,18
@@ -2858,11 +2867,14 @@ Easygenerator,18
 Eclipse Trading,18
 Elation Health,18
 Endurance Energy,18
+Envoy,18
+Expressable,18
 Extend,18
 FalconX,18
 Flowengineering,18
 Forbes,18
 GROWE,18
+Geoprobe Systems®,18
 Greenhouse,18
 Hazel Health,18
 INEOS Automotive,18
@@ -2871,67 +2883,68 @@ Impower,18
 Independencepetgroup,18
 Infinity Natural Resources,18
 Interbrand,18
-"International Dairy Queen, Inc.",18
 Interview Engineering,18
 "Intuition Machines, Inc.",18
+Irth,18
 Itecor,18
 Join9Am,18
 K Id,18
 Keyrock,18
-Known,18
+LAcarGUY,18
 LRN Corporation,18
 Langdock,18
 Latchbio,18
 Leap,18
+LearnLux,18
 Lemfi,18
 Light Inc,18
 Lippe Personal GmbH,18
 Liquid Ai,18
 Lunarenergy,18
 Magnolia,18
+MariaDB plc,18
+Mediatech,18
 Menlosecurity,18
 Merit,18
 New Flag,18
 Nexusvp,18
 Niramedical,18
-Numeric,18
+Norm Ai,18
 O'Brien Veterinary Group,18
 Oceans,18
 Odeko,18
+Omaze,18
 Omnicom Health,18
 Opal Autism Centers,18
 Pacvue,18
 Padlet,18
-Pano Ai,18
 Parabilis Medicines,18
-Payscale,18
-PlanetArt,18
 Plum Fintech,18
-ProCook,18
 Profi Engineering Systems Ag,18
 Psi,18
 Quantummotion,18
 REGENT,18
+REPLOID Group AG,18
 RateHawk,18
 Red6,18
 Reka,18
 Runlayer,18
-Second Front Systems,18
-Shortstory,18
 Singular,18
+Sleeper,18
 Sweat Pants Agency,18
 Teton,18
+The Arc of Ocean County,18
 The Portal Agency,18
 Thermal Works,18
 Theta,18
 Typeface,18
-Valatam,18
+"Unconventional, Inc.",18
+Upside,18
+Vclusterlabs,18
 Vetoquinol,18
 Vibe,18
-Wealth Com,18
-Webai,18
-Webai,18
 Westborough Behavioral Healthcare Hospital,18
+Workwize,18
 Wwe,18
 AIOS,17
 Academy of Digital Industries,17
@@ -2941,82 +2954,74 @@ Akido Labs,17
 AlertMedia,17
 Alumni Ventures,17
 Ambiencehealthcare,17
-American Battery Technology Company,17
 Andela,17
-Annaautismcare,17
 April,17
 Arondite,17
 "Avetta, LLC",17
 Axle,17
 BGBx Consulting,17
 BW Energy,17
-Backmarket,17
 Believe,17
 Bland AI,17
 Bluehole Inc.,17
-Botsync,17
+Boom,17
 Branch AI,17
 Branch Metrics,17
 Breeze,17
-Brooklyn Health,17
 CADDi,17
-CONTACT,17
 Callosum,17
 Campus,17
-Centerfield,17
 Cloover,17
+Cloudzero,17
 Coast,17
 Coast,17
 Cognism,17
 Conveo,17
 Cove Indonesia,17
 Crexi,17
+Cuesta Partners,17
 DataDome,17
 Duvo,17
 ELEPHANT TECHNOLOGIES,17
+EatClub,17
 Eleos,17
 Elevation Autism Center,17
 Emergence,17
 Enero,17
 Envipco,17
 "Envoy Global, Inc.",17
-Expressable,17
 ExtraHop,17
 Feathery,17
-Filigran,17
-Fortanix,17
+Fibra,17
 Frida,17
 Fuel Cycle,17
 GBG,17
 Generalist,17
 Genetix Biotherapeutics,17
-Geoprobe Systems®,17
 Global Medical Virtual Assistants,17
 Gofishdigital,17
 Gorgias,17
-Granola,17
 Hanse Psychotherapie,17
 Hawk,17
 Higharc,17
 Homebound,17
 Hotel Seeklause,17
 HuizingHarvest B.V.,17
-HyPlus Technology GmbH,17
 Impinj,17
 Intergas,17
 Interplay,17
-Irth,17
 KMS Technology,17
 KRAFTON INDIA,17
 Kaizenlabs,17
 Keen,17
+Known,17
 Konew FinTech Corporation Limited,17
 LITIT,17
-LearnLux,17
 Lightspeed DMS,17
 Liqui Moly Gmbh,17
 LivePerson,17
 Mantra Health,17
+Maven Agi,17
 Maven Robotics,17
 Maxwell Energy System Pvt Ltd,17
 Mecka.Ai,17
@@ -3024,24 +3029,26 @@ Mercanis,17
 Merge Labs,17
 Montauk Capital,17
 Moss New York LLC,17
+Motorway,17
 Myedspacecareers,17
 Nedcargo,17
 Next Decade,17
-Norm Ai,17
 Observe.AI,17
 OfficeSpace Software,17
-Oneleet,17
 Orion180,17
 PIC,17
 Paddle,17
+Pano Ai,17
 Peak Management,17
 Pelago,17
 Percona,17
+Persona AI,17
+Phonely AI,17
 Photoroom,17
-Pindrop,17
+PlanetArt,17
 Plasmidsaurus,17
+Prelude,17
 Publiccloudgroup,17
-REPLOID Group AG,17
 Reach plc,17
 Rebag,17
 Rebellion,17
@@ -3050,43 +3057,50 @@ Relation,17
 Relocity,17
 Rescale,17
 Respond,17
+Sand Cherry Associates,17
 Scientech Research,17
 Scribd,17
 Scribdinc,17
+Second Front Systems,17
 Shift,17
 Siegfried,17
 Siena,17
 Signoz,17
-Sleeper,17
-Stellar Cyber,17
+Spring Fertility,17
 Stitch Fix,17
 Supporting Strategies,17
 TPG Careers Page,17
+Tem,17
+Thinkingbox,17
 Thrive Market,17
 Trapp,17
 Twelve Labs,17
 Twentyfour Industries,17
 Udacity,17
+Valatam,17
 Vector Atomic,17
+Vibe,17
 Virtuous,17
 Vita Green Health Product Company Limited,17
 Vox Media Group,17
 Walibi Holland,17
 War Child Alliance,17
+Wealth Com,17
 Woodward,17
-Workwize,17
 Workwize,17
 Wrapbook,17
 Yepoda,17
+Zoku,17
 iSpot,17
 nicos GmbH,17
 10a Labs,16
-Absurd Ventures,16
 Afresh,16
 Airtable,16
 Altitude Aerospace,16
+Ambrook,16
 Amplemarket,16
 "Anatomage, Inc.",16
+Annaautismcare,16
 Arcadia,16
 Artemis,16
 Assembly,16
@@ -3094,12 +3108,12 @@ Attain,16
 Audax Group,16
 Aurora Dairies Management Pty Ltd,16
 Auxmoney Gmbh,16
-Averna,16
 BTG Pactual Chile,16
 BWG Foods,16
 Biesterfeld,16
 Brandwatch,16
 Brave,16
+"Bremer Whyte Brown & O'Meara, LLP",16
 Brilla Schools,16
 Bureau,16
 CM.com,16
@@ -3118,19 +3132,20 @@ Counsel,16
 Craftzing,16
 Crosby,16
 Cruxclimate,16
-Cuesta Partners,16
 Cynet Corp,16
 DFDL,16
+DISA Technologies,16
 Dave Jones LLC,16
 Debenhams Group,16
 Easy2Cool Gmbh,16
-EatClub,16
 EnergyHub,16
-Fibra,16
+Filigran,16
 Filtronic,16
 Flagstone,16
 Flosports,16
+Fortanix,16
 Forum Ventures,16
+Fundcraft,16
 Garda Capital Partners,16
 GiveCampus,16
 Goinfinitum,16
@@ -3144,8 +3159,8 @@ INTEC Group,16
 Impact Performance Team,16
 KYN,16
 Karbon,16
+KnowledgeCity,16
 Korthauer,16
-Kraken Kinetics,16
 Kustomer,16
 LEAP Legal Software,16
 LandDesign,16
@@ -3159,12 +3174,12 @@ Marathon Health,16
 Maravai LifeSciences,16
 Masabi,16
 Mashgin,16
-Maven Agi,16
 Memodo Gmbh,16
+Menlo Research,16
 Merantix,16
 Metron,16
 Monaco,16
-Motorway,16
+Moxie,16
 Mr. Marine,16
 Nadia Care,16
 Neurophos,16
@@ -3175,19 +3190,17 @@ North Coast Seafoods,16
 Nova 401(k) Associates,16
 Nozomi Networks,16
 Obrcoolingtowers,16
-Omaze,16
-Omniscient,16
+Obrio,16
+Oneleet,16
 Options It,16
 Organox,16
 Outset,16
 Pallet,16
-Passage,16
 Pave,16
 People Can Fly,16
 Permian Resources,16
-Persona AI,16
 Phamily,16
-Prelude,16
+Pindrop,16
 ProArch,16
 Promos Consult Gmbh,16
 Pyrotek,16
@@ -3195,24 +3208,18 @@ Regent Bank,16
 Revel8,16
 Rocket Money,16
 Salsify Product Experience Management,16
-Sand Cherry Associates,16
+Satori Analytics Homepage,16
 Secfix,16
 Seven Senders,16
 SigNoz,16
 Six Flags Qiddiya City and Aquarabia,16
 Skyryse,16
-Solink,16
 Solstice,16
 Sourgum,16
-Spring Fertility,16
 Storyblok,16
-Sunrise Management,16
-Super.Com,16
 Swayable,16
 Syroco,16
 Syzygy Group,16
-Taskrabbit,16
-Taskrabbit,16
 Tempo Xyz,16
 The HALO Trust,16
 Thegroove,16
@@ -3222,16 +3229,17 @@ Triumph Arcade,16
 VBK,16
 Valeriehealth,16
 Vertical Aerospace,16
-Vibe,16
+Vistar,16
 Vocca,16
 Watney,16
 Welltech,16
 Wincent,16
 Yotpo,16
-Zoku,16
 a16z,16
 autarc,16
+eCabs App,16
 found Hamburg,16
+8Fleet Inc,15
 AIRS Medical Inc,15
 ALBAX Carrosserie - Mécanique - Groupe,15
 ALKU,15
@@ -3240,7 +3248,6 @@ About Goalhanger,15
 Aimplas,15
 Altana,15
 Alumis,15
-Ambrook,15
 Arbor Energy,15
 Array,15
 Avion,15
@@ -3248,6 +3255,7 @@ Away,15
 B2Spin,15
 Bakker Goedhart Brood & Specialiteiten,15
 Barfoots of Botley,15
+Basalt,15
 Bauer Hockey/ Cascade Maverik Lacrosse,15
 Berlin Space Technologies,15
 Better Collective A/S,15
@@ -3257,10 +3265,8 @@ Britive,15
 Broadway Ventures,15
 "Carbon, Inc.",15
 Celestino,15
-Charge Robotics,15
 Circu Li Ion,15
-Clarasight,15
-Cloudzero,15
+Clutch,15
 Compunet,15
 Concord Servicing,15
 Courier Health,15
@@ -3268,8 +3274,8 @@ Courtyard.io,15
 Creative Clicks B.V.,15
 Crossmedia Inc,15
 DENSO,15
-DISA Technologies,15
 Dashlane,15
+Desert Parkway Behavioral Healthcare Hospital,15
 Dienst Dommelvallei,15
 Enovetic,15
 Exmox Gmbh,15
@@ -3282,6 +3288,7 @@ First Resonance,15
 Fleetworthy,15
 Focal Systems,15
 Fullstack Academy,15
+Gainsight,15
 Garage,15
 Generate Biomedicines,15
 Globaldev Group,15
@@ -3293,7 +3300,6 @@ Haydenai,15
 Hazel,15
 Hebrew Public,15
 Hermann GmbH,15
-Hike Medical,15
 Hivehealth,15
 Honor,15
 HyperionDev,15
@@ -3305,16 +3311,16 @@ Kaizen,15
 Karya,15
 Kasa,15
 Kid's Country,15
+Kraken Kinetics,15
 Kreiosspace,15
 Kuda Technologies Ltd,15
 LawZero,15
 Layer Health,15
 League Inc.,15
-Learning Network,15
 Legion,15
-Lionshead Precision Metals,15
-Loveholidays,15
+Lucanet Group,15
 Luminai,15
+Lyric,15
 MGID,15
 MNTN,15
 Maincode,15
@@ -3332,8 +3338,8 @@ Nava PBC,15
 Nen Creative,15
 Newsweek,15
 Noah Medical,15
-Obrio,15
 OfficeSpace,15
+Omniscient,15
 On-Hire,15
 OpenEye,15
 Openwork,15
@@ -3347,39 +3353,41 @@ Paxos,15
 Pels Rijcken,15
 Pernod Ricard,15
 Phantom,15
-Phantom,15
 Polaroid,15
 Poolside,15
 Procurify,15
 Quandela,15
-Quartermaster,15
 RADAR,15
 RAFARM,15
 Relaytx,15
-Satori Analytics Homepage,15
-Signifyd,15
+Runware,15
 SimpliFed,15
 Sitemate,15
+Solink,15
 Solveintelligence,15
+Strider Technologies,15
 Substack,15
 Sumo Logic,15
+Sunrise Management,15
 Tako,15
+Taskrabbit,15
+Taskrabbit,15
+Tech Holding,15
 Terranova,15
 TetraScience,15
 The American Housing Corporation,15
 The Flex,15
 Theaterhotel Almelo,15
-Thinkingbox,15
 Treeswift,15
 Trinetix,15
 Uni Systems,15
 Van der Valk Hotel Apeldoorn - de Cantharel,15
 Van der Valk Plaza Resort Bonaire,15
-Vistar,15
 We Clone You,15
 Wpp Scangroup,15
 Yodeck,15
 Ziina,15
+Zipdev,15
 firsthand Health,15
 ília,15
 7shifts,14
@@ -3400,7 +3408,6 @@ Atticus,14
 Aviatrix,14
 Aypa Power,14
 BME Strategies,14
-Basalt,14
 Beaconai,14
 Bellroy,14
 Black Forest Labs,14
@@ -3411,21 +3418,21 @@ Camber,14
 Capital Bank,14
 Cedar,14
 Center for Employment Opportunities,14
+Central Moloney,14
 Channel Factory,14
 Chemin AI,14
 Clearstory,14
 CloudSEK,14
-Clutch,14
+Cocodelivery,14
 Codeway,14
 Coinflow,14
+Collective,14
 Conditess,14
 Construktiv Gmbh,14
 Corto Pty Ltd,14
 Cotap B.V.,14
 DBSync Inc,14
 Dandelion,14
-Demandbase,14
-Desert Parkway Behavioral Healthcare Hospital,14
 Diagrid,14
 DriveWealth,14
 Dymatrix,14
@@ -3439,11 +3446,8 @@ Far.Ai,14
 Fiducial,14
 Foundations Early Learning Center,14
 Franz Ziel GmbH,14
-Fundcraft,14
-Gainsight,14
 Gesis,14
 Goalhanger,14
-Golf Ranch,14
 Haast,14
 Halbersbacher Hospitality Group,14
 Headout LI,14
@@ -3464,28 +3468,28 @@ Journey,14
 Juniz Energy,14
 KPMG in Ukraine,14
 Kayzen,14
-KnowledgeCity,14
 Konovo,14
 Laundryheap,14
-Leandata,14
+Lavendo,14
+Law Offices of Sabrina Li,14
+Leadbank,14
+Learning Network,14
 Lefebvre Sdu,14
-Lightbank,14
+Lionshead Precision Metals,14
 Little Learner Children's Academy,14
 Little Words Project,14
 Liveye,14
 LlamaIndex,14
 Luminair,14
 Lyell Immunopharma,14
-Lyric,14
-"MWResource, Inc.",14
 "MX Technologies, Inc.",14
 Majority,14
 Make,14
 Mam Baby,14
 Material Bank,14
 Mattermost,14
-Medraai,14
 "MetOx International, Inc.",14
+Metriport,14
 Mirakl - Labs,14
 Modera Wealth Management,14
 Moment Energy,14
@@ -3493,7 +3497,6 @@ Monk,14
 Moonpig,14
 Moss Holding Company,14
 Multiecom 1,14
-Museum of Ice Cream,14
 Mway,14
 Nachsorgeklinik Am Straussee Ggmbh,14
 Naughty Dog,14
@@ -3513,8 +3516,11 @@ Patlytics • Premier AI-Powered Patent Intelligence,14
 Paystand,14
 Placer.ai,14
 Plain Concepts,14
+Posh,14
+"Prove Cyber Resilience with Realistic Drills, Exercises and Immersive Labs",14
 QCP,14
 Qdrant.Tech,14
+Quartermaster,14
 RD Station,14
 Read Ai,14
 Recursion,14
@@ -3523,7 +3529,8 @@ Reltix,14
 Resolve,14
 Revivn,14
 Rondo Energy,14
-Runware,14
+SPD Technology,14
+SPT Labtech,14
 Sayari,14
 Searchable,14
 Security Level 5,14
@@ -3531,15 +3538,17 @@ Sent,14
 Setpoint,14
 Sherpakids,14
 Sidecar Health,14
+Signifyd,14
 Simpleclosure,14
 Spindrift,14
+Swarmer,14
 Sygaldry Technologies,14
-Tech Holding,14
-Tem,14
 The Flowery NY,14
+Thermal Engineering International,14
 Tomo Mortgage,14
 Tradetracker,14
 Tri,14
+Trust Wallet,14
 Tryzens Global,14
 V2 Digital,14
 Victory Home Remodeling,14
@@ -3547,9 +3556,9 @@ VulnCheck,14
 Warren,14
 Wavenet,14
 "World Business Lenders, LLC",14
+Xometry Europe,14
 Yoodli AI Roleplays,14
 ZeroAvia,14
-eCabs App,14
 salesUp,14
 10Beauty,13
 42Watt,13
@@ -3558,7 +3567,6 @@ ALX Africa,13
 ANANTARA Holding,13
 AURORA,13
 AVANCO GmbH,13
-Abacum,13
 Abtrace,13
 Aceve,13
 Adbaker Gmbh,13
@@ -3566,13 +3574,13 @@ Ahrefs,13
 AiPrise,13
 Aidey,13
 Airbyte,13
+Airbyte,13
 Alfred Schuon,13
 Alternativepayments,13
 Amina,13
 Ankerbrot Bäckerei,13
 ApotheCom,13
 Arcsen,13
-"Associated Students, Inc.",13
 Attivo Partners,13
 Audiohook,13
 Aveniq AG,13
@@ -3591,12 +3599,13 @@ Bugcrowd,13
 "Cain Watters & Associates, LLC",13
 Camber,13
 Cambridge Innovation Center,13
-Central Moloney,13
+Cellanome,13
 Chowdeck,13
 Claus Group,13
+Coastal,13
 Cobalt,13
+Cobot,13
 Collana,13
-Collective,13
 Conduit Health,13
 Cordance,13
 Curri,13
@@ -3604,6 +3613,7 @@ Cuspai,13
 Cycle,13
 Dailymotion,13
 David Ai,13
+Demandbase,13
 Duck Duck Go,13
 Dunia,13
 ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES,13
@@ -3613,18 +3623,20 @@ Ellipsislabs,13
 Ennatuurlijk,13
 Enterprise Precast Concrete,13
 Entrix,13
+Ether.Fi,13
 Everwest,13
 FP Markets,13
 Finout,13
 Fitt,13
-Flexion Robotics,13
 Flip,13
 FourKites,13
 Furtherai,13
 General Medicine,13
 Get E,13
 Glydways,13
+Golf Ranch,13
 Gradial,13
+Graphitehq,13
 Guidion,13
 H&Z Group,13
 H3X Technologies,13
@@ -3648,32 +3660,25 @@ Kellerhals Carrard,13
 Kemmler Kemmler Gmbh,13
 Kenn Borek Air,13
 Ki,13
-Knit,13
 Knott,13
 KoBold Metals DRC,13
 Kota,13
 Kroo Bank Ltd,13
 LINK,13
 LYRA,13
-Lavendo,13
-Law Offices of Sabrina Li,13
-Leadbank,13
 LeafLink,13
 LearnUpon,13
 Lionakis,13
 LogicGate,13
 Long Island Speech,13
-Lucanet Group,13
+MCD Global Health,13
 Machine Learning Reply,13
 Maybern,13
-Menlo Research,13
+Medraai,13
 Mercura,13
-Metriport,13
-Miter,13
 Moment,13
-Moxie,13
+Museum of Ice Cream,13
 MyFitnessPal,13
-Nest Health,13
 NetDocuments,13
 New Castle Metal,13
 Noctrix Health,13
@@ -3689,26 +3694,26 @@ Onventis,13
 Orukatx,13
 Oula,13
 Ownwell,13
+Phantom,13
 Phoenix,13
 Phoenix,13
 Picklerobot,13
 Planet Technologies,13
 PointOne,13
-Posh,13
 Praml,13
+Probook,13
 Process Street,13
 Prodigal,13
 Promise,13
-"Prove Cyber Resilience with Realistic Drills, Exercises and Immersive Labs",13
 Pyka,13
+Q ENERGY,13
 RESILIV,13
+Rain Technologies,13
 Recyclesaurus,13
 Rewire,13
 Right Hook Digital,13
 Russmedia,13
 SP Associates,13
-SPD Technology,13
-SPT Labtech,13
 Sanction Scanner,13
 Sauna.Ai,13
 Scout Space,13
@@ -3718,7 +3723,6 @@ Sequoia,13
 Seyna,13
 Siegfriednass,13
 Sierra Forest Products,13
-Sierra Studio,13
 SmarterDx,13
 Spearbio,13
 Spectrum Life,13
@@ -3726,9 +3730,8 @@ Squiz,13
 Starcloud,13
 Starfish Space Inc,13
 Startale Group,13
-Strider Technologies,13
 Suena Energy,13
-Swarmer,13
+Sunset Magazine,13
 Synology,13
 Teamstyria,13
 Teliogroup,13
@@ -3736,11 +3739,8 @@ Tensec,13
 Terralayr,13
 The Banner,13
 The Mather in Tysons,13
-Thermal Engineering International,13
 Titan,13
 Tpg Gmbh,13
-Triple Point,13
-Trust Wallet,13
 Turquoise Health,13
 Unipromet Ltd. Čačak,13
 Unit8 SA,13
@@ -3748,7 +3748,7 @@ VEGA Americas,13
 Watchmaker Genomics,13
 Wayflyer,13
 Wood Rodgers Inc.,13
-Xometry Europe,13
+XR Extreme Reach,13
 "YELM US Associates, LLC",13
 Zyte,13
 epilot GmbH,13
@@ -3760,6 +3760,7 @@ xalution,13
 1Nce,12
 2N TELEKOMUNIKACE a.s.,12
 5WPR,12
+Abacum,12
 Abacus Insights,12
 Abakus Center,12
 Addepto,12
@@ -3776,7 +3777,6 @@ Arabic.AI,12
 "Archera • Insured cloud commitments for AWS, Azure, and Google",12
 Ardent,12
 Aspect Biosystems,12
-AsureQuality,12
 Atis Systems,12
 Auctor,12
 August,12
@@ -3785,7 +3785,6 @@ Axle Energy,12
 BVNK,12
 Binti,12
 Blink - The Employee App,12
-Bloomerang,12
 Blue Sky Plumbing & Heating,12
 Bondora,12
 Brellium,12
@@ -3795,26 +3794,23 @@ CCM Europe,12
 CGS Immersive,12
 Canopy Works,12
 Cedar Wellness -,12
-Cellanome,12
 Checkmk Gmbh,12
 Chow Co ApS,12
 Clarionhg,12
-Clasp Group,12
-Classdojo,12
 Clearbank,12
-Coastal,12
-Cobot,12
-Cocodelivery,12
+Clearsite Industrial Services,12
 Collectly,12
 CommerceIQ,12
 Comstruct,12
 Crazy Maple Studio,12
+Creditgenie,12
 CreditorWatch,12
 Debiopharm,12
 Deblock,12
 DotActiv,12
 E Source,12
 Edenspiekermann Gmbh,12
+Element61,12
 Element61,12
 Ellipsis,12
 Emberacollection,12
@@ -3825,8 +3821,9 @@ FLO EV Charging,12
 Fanvue.Com,12
 Favorited,12
 Fenergo,12
-Fortreum,12
-Genomics,12
+Flexion Robotics,12
+Footprint,12
+Generate,12
 Getsafe,12
 GiveCampus,12
 Gogolook,12
@@ -3836,7 +3833,6 @@ H3X Technologies,12
 Handspring,12
 Heliux,12
 HiddenLayer,12
-Hived NV,12
 Honeybook,12
 Human Rights Watch,12
 IANS Research,12
@@ -3845,15 +3841,18 @@ InCharge Energy,12
 InfoTrack US,12
 Innovative Beauty Group,12
 Insight Investment,12
+Jalasoft,12
 January,12
 Jump App,12
 Juul Labs,12
+Knit,12
 Krea,12
 LMC,12
 LTK USA,12
-Label Your Data,12
 Lancedb,12
+LastPass,12
 Laurel,12
+Leandata,12
 LightForce Orthodontics,12
 Limble,12
 Linqia,12
@@ -3862,20 +3861,22 @@ Lnds,12
 Lobster Data Gmbh,12
 Loft Federal,12
 "Loka, Inc",12
+Loveholidays,12
+Lyka,12
 M2X Energy Inc,12
-MCD Global Health,12
 Madison Logic,12
 Malbon,12
+March Networks,12
 Matia,12
 Mega Group International S.A.,12
 Merantix Capital,12
 "Mercari, Inc. (India)",12
 Miramace,12
+Miter,12
 Mochi Health,12
 Modern Health,12
 Momo Medical,12
 Motherduck,12
-Moxfive,12
 Msg,12
 Muuuh Gmbh,12
 NGHC,12
@@ -3883,6 +3884,7 @@ NVE Experience Agency,12
 Nanit,12
 Nasoft.eg,12
 Neon,12
+Nest Health,12
 Netbird,12
 Netquest,12
 "New Engen, Inc.",12
@@ -3918,9 +3920,9 @@ Pointr,12
 Portcullis Group,12
 Ptg,12
 Rail Innovators Group,12
-Rain Technologies,12
 "RapidFort, Inc.",12
 Rational,12
+RealAdvisor S.A.,12
 Relevanceai,12
 Revive Pathway,12
 Rezilient Health,12
@@ -3929,27 +3931,24 @@ Richpanel,12
 River Rock Academy,12
 Riverflex,12
 SOKOL GxP Services,12
-Salient,12
-Salma Health,12
 Scarlet,12
 School of Coding,12
 Segmenta,12
 Seon,12
 Sibylline Ltd,12
+Sierra Studio,12
 Sinn Power,12
-Starbridge,12
 Starlink Aviation,12
 Stay Group,12
 Suite Studios,12
 Sunset,12
-Sunset Magazine,12
 Synapse Analytics,12
 Synapticon,12
 Synvert Xgeeks,12
 TDS Global Solutions,12
+Tapcart,12
 Technica Engineering GmbH,12
 Technopolis Group,12
-Texas Health Action,12
 "The Kenjya-Trusant Group , LLC",12
 Topline Pro,12
 Udemy,12
@@ -3958,11 +3957,10 @@ United States Tennis Association-Pacific Northwest Section,12
 VISASQ/COLEMAN,12
 Vitalize,12
 Viz.Ai,12
+Vizrt,12
 Volka Games,12
 Westbridge Group,12
-XR Extreme Reach,12
 Zaelab,12
-Zipdev,12
 eJam,12
 getolo GmbH,12
 iBanFirst,12
@@ -3971,26 +3969,21 @@ montamo GmbH,12
 nyra health,12
 zendbox,12
 2K Madrid,11
-9 Mothers,11
 ABBYY,11
 APIVITA S.A,11
 "ASSYST, Inc.",11
 AVIS Greece,11
-Abi Global Health,11
-Accurx,11
+Accela,11
 Acquia,11
-Acquisition,11
 Aegis Ventures,11
 Affinidi,11
 "AffirmedRx, PBC",11
 AirHelp,11
-Airbyte,11
 Airship,11
 Akasa,11
 Aleph,11
 Almanac Hotels,11
 Amika,11
-Amref Health Africa,11
 Anantara Holding GmbH,11
 Ankar,11
 Annexon Biosciences,11
@@ -3999,7 +3992,10 @@ Apheris,11
 "AppGate Cybersecurity, Inc.",11
 Arkham Technologies,11
 Asghh,11
+"Associated Students, Inc.",11
+AsureQuality,11
 Athletics - Business Operations,11
+Atira,11
 AutoProff,11
 Avelion Group,11
 Awsi,11
@@ -4009,7 +4005,11 @@ Batoncorporation,11
 Bicara Therapeutics,11
 Binance.Us,11
 Bitfinex,11
+Bloomerang,11
+Branchinsurance,11
+Bree,11
 Breezeway,11
+Bubble,11
 Buzz Solutions,11
 CAIS,11
 CLEVR Digital Transformation,11
@@ -4017,9 +4017,10 @@ Capital Technology Group,11
 Capstone Investment Advisors,11
 Carbmee,11
 Chan Zuckerberg Initiative,11
+Clasp Group,11
+Classdojo,11
 Clearchanneloutdoor,11
-Clearsite Industrial Services,11
-Comfy Org,11
+Cloudlinux,11
 Compound,11
 Coreflow,11
 Corridor,11
@@ -4032,30 +4033,23 @@ Debut,11
 "Definitive Healthcare, US",11
 Deputy,11
 Devoted Studios,11
-Devsavant,11
 Doji,11
 Driestroom,11
 Dynamo AI,11
 EMARKETER,11
 EOS France,11
 Elgin Energy,11
-Empirical,11
-Ether.Fi,11
+Empleo,11
 Evolv Technologies Inc.,11
 Facilities Management Express,11
 Figure Lending,11
-Finch Legal,11
 Fleek,11
-Footprint,11
-Fullmind,11
+Fortreum,11
 G S B,11
 G-20 Group,11
 Galileo,11
 General Legal,11
-Generate,11
 Gimlet,11
-Glimpse,11
-GoodHabitz,11
 Grabagun,11
 Gravityclimate,11
 Green.Earth,11
@@ -4065,35 +4059,28 @@ Hellyeah,11
 Hirotec,11
 IE,11
 INNERGY,11
-IONATE,11
 Igtp,11
 Inbrain Neuroelectronics,11
 IntegraFEC,11
 Intellectsoft,11
 Intrinsic Safety,11
-InventYOU AB,11
 Iun,11
-Jalasoft,11
 Jeanlen,11
 Junction,11
 Kairos Project,11
-Ketryx,11
+Klim,11
 Knowunity,11
 Konica Minolta Business Solutions,11
 Kyra,11
-LastPass,11
-LifeMD,11
 Locinox,11
 Loopio,11
 Lumos,11
 Lupusconsulting,11
-Lyka,11
 M2X Energy,11
 Mach9,11
 Madhive,11
 Madhive,11
 Manifest Services SA,11
-March Networks,11
 MedMe Health,11
 Merces B.V.,11
 Method,11
@@ -4104,12 +4091,14 @@ Mob Entertainment,11
 Mobiik,11
 Momo Medical,11
 MoneyHero Group,11
+Moxfive,11
 NFI Group Inc.,11
 Nango,11
 Neptune Medical,11
 NeueHealth,11
 Newcombandcompany,11
 Nghs,11
+Normlaw,11
 Nothing,11
 Nova Credit,11
 Nteractive,11
@@ -4121,7 +4110,7 @@ OUTsurance,11
 Oakbrother GmbH & Co. KG,11
 Oberender AG,11
 Oddball,11
-Ooma,11
+Old Mill,11
 Orfium,11
 Ottimate,11
 Overstory,11
@@ -4142,7 +4131,6 @@ Prosper,11
 Prosper Ai,11
 Protera Technologies,11
 Puulse Marketing,11
-Q ENERGY,11
 Realmalliance,11
 Red Points,11
 Reflex,11
@@ -4154,29 +4142,32 @@ Rnrs.Solutions,11
 Roofr,11
 SAS BENETVIC,11
 SNV,11
+Salma Health,11
 Scan Com,11
+Seccl,11
 Second Nature,11
 Simvia,11
 Skroutz S.A,11
 Skylight,11
+Smarkets Predictions,11
 Smartvillage,11
 Soda Data,11
-Sofarocean,11
 Southgeeks,11
 Sparrow,11
 Specright,11
 Squint.Ai,11
 StaffRight,11
+Starbridge,11
 Stellarentertainment,11
 Stellic,11
 Suki AI,11
 Sunrise,11
 Switchboard,11
 Synack,11
-Syndio,11
 TPAPT,11
 TRIP Advocaten Notarissen,11
 Tebi,11
+The Focusrite Group,11
 Tycho Ai,11
 Typeform,11
 U-Drive,11
@@ -4184,19 +4175,19 @@ Ultralytics,11
 UnitX,11
 Uniti,11
 "Urban Grid Solar Projects, LLC",11
+Validus Risk Management,11
 Vera Institute of Justice,11
 Vital Lyfe,11
-Vizrt,11
 Workwhilejobs,11
 Wrshealth,11
 Wscad,11
 Wunderkind,11
 Ziplines Education,11
+goodstack.io,11
 mainstreetanesthesia.com,11
 pony.ai,11
 proindividuum GmbH,11
 shopware AG,11
-teamLFG,11
 uniteus.com,11
 1-800 Contacts,10
 1000heads,10
@@ -4206,9 +4197,10 @@ ALARA GROUP,10
 AMODA,10
 ATUM Ventures,10
 Abu Dhabi Investment Authority,10
-Accela,10
+Acquisition,10
 Aiwyn,10
 Albiware Inc.,10
+Alembic,10
 Allego,10
 Allen + Shariff Corporation,10
 Allied Maker,10
@@ -4224,27 +4216,25 @@ Arena Club,10
 Ascend,10
 Astrome Technologies,10
 Ataraxis Ai,10
-Atira,10
 AtoB Fuel Card,10
 Authentic,10
 Axelera AI,10
 Azumo,10
 Bayesianhealth,10
 Betterup,10
+Billups,10
 Birgo,10
 Blue Cube Services,10
 "BlueLabs, Inc.",10
 BlueOptima,10
 Boiler Tube Company of America,10
-Branchinsurance,10
-Bubble,10
 CENTRALE LYON,10
 Calendly.com,10
 Cin7,10
 "Civiltec Engineering, Inc",10
 Ckm Group,10
+Claritas Rx,10
 Climeworks,10
-Cloudlinux,10
 Coinmerce,10
 CompanyCam,10
 Concert Health,10
@@ -4257,10 +4247,10 @@ Crunchtime,10
 Delplayagroup,10
 Deluxe Holiday Homes,10
 Descript,10
+Devsavant,10
 Distributed Spectrum │ Home,10
 Ditto,10
 Doximity,10
-Duna,10
 Dutchie,10
 E2B,10
 ENVIEM,10
@@ -4268,18 +4258,19 @@ Ecixgroup,10
 Edri,10
 Electrosonic,10
 ElevateBio,10
-Eliza,10
 Emil Group Gmbh,10
-EnsoData,10
 Envelio,10
 Enz,10
 EpicData,10
 Equada,10
 Erasca,10
 EverService,10
+F2 Ai,10
+FE fundinfo,10
 FULL Creative,10
 Fidus Systems,10
 Finary,10
+Finch Legal,10
 Findly,10
 Founders Forum Group,10
 "From Day One, Inc.",10
@@ -4290,6 +4281,7 @@ Gemeente Lansingerland,10
 Giga,10
 Glimpse,10
 GoGuardian,10
+GoodHabitz,10
 Got Light.,10
 Gradientrobotics,10
 Granica,10
@@ -4303,17 +4295,19 @@ HeinenoordZicht Groep,10
 Hellobrightline,10
 Helpscout,10
 Hilbert,10
+Hived NV,10
 Homa,10
 Home Solutions,10
+Hometogo,10
 Hostaway,10
 Hotwire Italy,10
 Hubble Network,10
 IEX Group,10
+IONATE,10
 Immediate Media Co,10
 Inceptive,10
 Innatera,10
 Intellistack,10
-Intervalo Colombia,10
 Interwell Health,10
 Jupus,10
 Kantega,10
@@ -4322,7 +4316,9 @@ Keune Haircosmetics Manufacturing B.V.,10
 Klue,10
 "Koley Jessen P.C., L.L.O",10
 Kunai,10
+LIGHTFEATHER IO LLC,10
 LIQID Investments,10
+Label Your Data,10
 Labelbox,10
 LanceDB,10
 Learned,10
@@ -4330,6 +4326,8 @@ Learner Education,10
 Lease a Bike,10
 Lemlist,10
 Level.works,10
+Liaison International,10
+Lightspeed Systems,10
 Linkup,10
 Local Initiatives Support Corporation,10
 LocalStack,10
@@ -4357,16 +4355,15 @@ Nautilus Biotechnology,10
 Neon Aerospace,10
 Neurosoft,10
 Nift,10
-Normlaw,10
 North Houston Pole Line,10
 Notable,10
 November Five,10
 Oberer,10
 Obvio,10
 OfferUp,10
-Ohalo,10
-Old Mill,10
+Offerup,10
 Old South Carriage Co,10
+Ooma,10
 Open Influence Inc.,10
 Originhq,10
 Orsini,10
@@ -4375,17 +4372,19 @@ Our Home,10
 PT Telkomsel Ekosistem Digital,10
 Parsley Health,10
 Patreon,10
+Peek,10
 Pete's RV Center,10
 Phoebe Work,10
 Pika,10
+Pointfive,10
 PolyAI,10
 Popmenu,10
+Prime,10
 Promise,10
 Propel,10
 Prosci,10
 Railinnovators,10
 Real,10
-RealAdvisor S.A.,10
 "Recurly, Inc.",10
 Red Antler,10
 Reliantcreditrepair,10
@@ -4394,9 +4393,9 @@ Rundstedt,10
 SORACOM,10
 Saltbox,10
 Sarah Smith Fund,10
+Scandit,10
 Schiller International University,10
-Seccl,10
-Semgrep App Security Platform,10
+Sendbird,10
 Shakepay,10
 Shopmonkey,10
 Sibill,10
@@ -4404,31 +4403,31 @@ SimpleCITI,10
 Sjef,10
 Skeholding,10
 Smartkarma,10
+Smoker & Company LLC,10
+Sofarocean,10
 Spaceium Inc,10
 Spaitial,10
 Square One,10
 Stanley Stella,10
 Stellar Entertainment,10
 Strohm,10
+Syndio,10
 Syntiant,10
-Taxbit,10
 Tenstreet,10
 The Common Market,10
-The Focusrite Group,10
 TheSoul Group,10
 Torstar,10
 Tovala,10
 Traide Ai,10
 Trendtours,10
+Triple Point,10
 Ubica Robotics,10
 VSA Partners,10
-Validus Risk Management,10
 Valinor Enterprises,10
 Van der Valk Hotel Venlo,10
 Vanna Health Inc,10
 Variant,10
 Vector,10
-Veezu,10
 Venture Media,10
 Veo - Corporate Careers,10
 Veriff,10
@@ -4446,33 +4445,34 @@ Workleap,10
 Wulf Objektbetreuung,10
 X-PHY,10
 XTX Markets,10
-Xds,10
 Xenon7,10
 Yaqeen,10
 Zania,10
 Zapier,10
+Zefir,10
 Zello,10
 ahc GmbH,10
 atlantic.vc,10
 atlantic.vc,10
 audibene / hear.com,10
 de Witte Bergen,10
-goodstack.io,10
+teamLFG,10
 zara,10
 ÖJAB – Österreichische JungArbeiterBewegung,10
 Ηπειρωτική Βιομηχανία Εμφιαλώσεων Α.Ε. (ΒΙΚΟΣ),10
 4D Molecular Therapeutics,9
+9 Mothers,9
 A Plus Garage Doors - Utah,9
 A2e Technologies,9
 ACRELEC,9
 AGAD Technology,9
 AOTI,9
 AbilityPath,9
+Accurx,9
 AcuityMD,9
 Affinitiv,9
 AirHelp,9
 "Albert & Mackenzie, LLP",9
-Alembic,9
 AltaLink,9
 Alvotech,9
 Amconco,9
@@ -4491,9 +4491,9 @@ Axontic,9
 BLACKLANE,9
 BRUNT Workwear,9
 Balance,9
+Bankjoy,9
 Beeflow,9
 Beyond Imaging,9
-Billups,9
 Bitmovin,9
 Bitterpower Gmbh,9
 Blend,9
@@ -4501,7 +4501,6 @@ BlueCrest Capital Management,9
 Bnberry,9
 Brainstack,9
 Brooke Charter Schools,9
-Build My Great Team,9
 Built Technologies,9
 Business Insider,9
 CB,9
@@ -4514,14 +4513,14 @@ Careers.Azx.Io,9
 Carvia Gmbh,9
 Choco,9
 Chronext,9
-Claritas Rx,9
 ClearCourse,9
 Clinius,9
 Codex,9
 Cogna,9
 Coinhako,9
+Contoro,9
 Coreoftheheart,9
-Creditgenie,9
+Criticalloop,9
 Cs Opleidingen,9
 Custom Connect,9
 DC Thomson,9
@@ -4538,6 +4537,7 @@ E.ON Inhouse Consulting GmbH,9
 EUROFORMATION GROUPE,9
 Egnyte Content Cloud for Enterprises,9
 Eidu,9
+Eliza,9
 Elmhurst University,9
 Elumina Health,9
 Enigma,9
@@ -4554,12 +4554,11 @@ Flint AI,9
 Form3,9
 Fourvenues,9
 Frontera,9
-Fulkers Bailey Russell,9
 GEN PLUS Group,9
-Generalrobotics,9
 Geneva Trading,9
 Genz-Ryan,9
 Getground,9
+Glimpse,9
 Grahamcapital,9
 GrandBrands (Grand Furniture & Ashley Furniture Southeastern VA),9
 Grocery TV,9
@@ -4572,7 +4571,6 @@ Harrison.Ai,9
 Highdive,9
 Highland Spring Group,9
 Hilscher,9
-Hometogo,9
 Hoyerhandel,9
 Husk Power Systems,9
 IDnow,9
@@ -4582,25 +4580,24 @@ Ignite Reading,9
 Impiricus,9
 Inertia,9
 Innova Market Insights,9
+InventYOU AB,9
 Irregular,9
 Jordan Park Group,9
 JustPark,9
 KH Aerospace,9
+Ketryx,9
 Kibernetik Ag,9
 "Kiddom, a Digital Curriculum Platform for K-12",9
 Kindbridge Behavioral Health,9
 Kinexus Group,9
-Klim,9
 Knox Systems,9
 Koahlabs,9
 Koin Limited,9
 LI-COR,9
-LIGHTFEATHER IO LLC,9
 Lattice,9
+Lawhive,9
 LawnStarter,9
 Levitate,9
-Liaison International,9
-Lightspeed Systems,9
 Lilt,9
 Litify,9
 Loki,9
@@ -4617,12 +4614,14 @@ Manifest Os,9
 Manna,9
 Marabu Airlines,9
 Marloo,9
+Moderntreasury,9
 Modus,9
 Monarchmoney,9
 Moreton Capital Partners,9
 Muck Rack,9
 Murmuration,9
 NORIT Activated Carbon,9
+Nanonets,9
 Nationgraph,9
 Ndax Canada Inc.,9
 Neighborly Software,9
@@ -4631,22 +4630,22 @@ Neural Earth,9
 Newston Automated Solutions,9
 Noctua Technology,9
 Nomic.Ai,9
-Novo,9
 Nychdc,9
 ODK Media,9
 OLIPOP,9
 ON2IT B.V.,9
 Oes,9
 Ogilvy MENA,9
+Ohalo,9
 Open,9
 Orennia,9
 Orga Soft,9
 Orum,9
+Outersignal,9
 Outrider,9
 PHĀEA,9
 PLUS Communications,9
 PWR PACK INTERNATIONAL B.V.,9
-Peek,9
 Perforce Software,9
 Perrysicecream,9
 Petrotowery,9
@@ -4656,7 +4655,6 @@ Plain,9
 Posthog,9
 PowerGen Renewable Energy,9
 Premier Systems,9
-Prime,9
 ProRata.AI,9
 Protegrity,9
 Protocol,9
@@ -4664,34 +4662,31 @@ Protocol,9
 REAL DEV INC,9
 Realm,9
 RegScale,9
-RemoteStar,9
 Roadrunner,9
 Roofr,9
 Rudolf Weber Gebäudereinigung und Gebäudedienste SE & Co. KG,9
 Runsybil Jobs,9
-Scandit,9
-Sendbird,9
+SMB Team,9
+Semgrep App Security Platform,9
 Seneca,9
 Simple Ai,9
 Singulier,9
 Skopos Group,9
 Skyflow,9
-Smarkets Predictions,9
 SmartRent,9
-Smoker & Company LLC,9
 SoLa Impact,9
 Sourcegraph,9
 Sozialhummel Ggmbh,9
 Sphynx,9
 Spotlight Sports Group,9
 Standinsurance,9
-Stoke Space / 100% reusable rockets / USA,9
 Storytellingcompany,9
 Suger,9
 SupplyCore,9
 Sweedpos.Com,9
+Sydecar,9
+Sydecar,9
 Tauber,9
-Techtorch,9
 The Brydon Group,9
 Thermoteknix,9
 Thetustingroup,9
@@ -4704,30 +4699,33 @@ Trust Bank,9
 Unicornpro,9
 Uniswap,9
 Valutico,9
+Veezu,9
 Velsera,9
 Veracode,9
 "Vestmark, Inc.",9
+Vidmob,9
 Vitabiotics,9
 WaterAid,9
+Webranking,9
 Whitecollars,9
 Widas,9
 Woonplus Schiedam,9
 Wynd Labs,9
 XTM International,9
 Xapo Bank,9
+Xds,9
 ZHD Stevedores,9
-Zefir,9
 Zero Motorcycles Inc.,9
 Zicasso,9
 adaptit.gr,9
 clinius-zahnaerzteEN,9
 eleQtron GmbH,9
 getransports,9
-veritree,9
 3Red Partners,8
 AG1,8
 ASI Government,8
 AWL,8
+Abi Global Health,8
 Accepted Home,8
 Access Healthcare Associates,8
 Acentria Insurance,8
@@ -4745,6 +4743,7 @@ Altus Power,8
 Amber Charter Schools,8
 American Concrete Products,8
 Amexio,8
+Amref Health Africa,8
 Amsterdam Music Harbour,8
 Anteriad,8
 Apera AI Inc,8
@@ -4754,17 +4753,15 @@ Aro Homes,8
 Athereon,8
 Atlas,8
 Augustin Beck Gmbh Co Kg,8
-Axiad,8
-Bankjoy,8
 Bankjoy,8
 Bees Bears Gmbh,8
-Benepass,8
 Bennie,8
 Beparallel,8
 Bidease,8
 Bitcap,8
 Bitrise,8
 Blenheim Chalcot,8
+Blissway,8
 Blossom Health,8
 Blueberrypediatrics,8
 Blueforte,8
@@ -4773,10 +4770,13 @@ BoostDraft,8
 Braeburn,8
 Branch,8
 Branchlab,8
+Build My Great Team,8
 Buildkite,8
 ButcherBox,8
 CAELISTIC Ulm GmbH,8
+CEQUENS,8
 CF Montréal,8
+Cairn Partners,8
 Cambio,8
 Cancos Tile & Stone,8
 Cannabis & Glass,8
@@ -4789,23 +4789,21 @@ Children's residential and educational care,8
 Cinder,8
 Ciroos,8
 Clariti Cloud Inc.,8
-Cledara,8
+Clarium,8
+Close,8
 CocuSocial,8
 College Track,8
 Comind,8
 Conception,8
 Context&,8
-Contoro,8
 Cory Group,8
 Council Capital,8
 Co–Star,8
 CrewAI,8
-Criticalloop,8
 Culligan Ireland,8
 Curewiki,8
 D ONE,8
 DTX,8
-Dave,8
 De Schatberg & FEC Sevenum,8
 Delta,8
 Deutschherrenhof,8
@@ -4817,11 +4815,9 @@ Eat N Go Limited,8
 Eikon Therapeutics,8
 Ekho,8
 Elite Technology,8
-Encuadrado,8
 Euroleague Entertainment Services Slu,8
 Event Inc,8
 Expel,8
-FE fundinfo,8
 Fairphone,8
 Faro Health Inc.,8
 Fetch Pet Health,8
@@ -4830,12 +4826,14 @@ FlexCar,8
 Flipdish,8
 Flipper,8
 Flock,8
+Foxelligroup,8
+Fulkers Bailey Russell,8
 FutureWhiz,8
 GN Corporations,8
 "GW&K Investment Management, LLC",8
 Gamut,8
+Gearset,8
 Glomo,8
-Goodshuffle,8
 Gopagroup,8
 Gorillalogic,8
 Govradar,8
@@ -4868,24 +4866,23 @@ Just Russel,8
 KEYENCE FRANCE,8
 KLYMA GmbH,8
 KORRES NATURAL PRODUCTS,8
-KRAFTON Americas,8
 KRUSH Labs B.V.,8
 Kahoot!,8
 Kindermissionswerk Die Sternsinger E V,8
 Knowunity,8
 Kognitos,8
-Kojo,8
 Kranz Consulting,8
 "Kuros Biosciences, Inc.",8
 LRK,8
-Lawhive,8
 Ledger,8
 Legalist,8
 Leingang E-Commerce GmbH,8
 Lens,8
 Lenus,8
+LifeMD,8
 Lifescienceconnect,8
 Liganova Horizon,8
+Lithic,8
 Lob,8
 Locus Robotics,8
 Lotushealth,8
@@ -4902,24 +4899,23 @@ Mellownoir,8
 Mergemoney,8
 Merkur zavarovalnica d.d.,8
 Mesa Moving and Storage,8
+Metergrid,8
 Meticulous AI,8
 Microbyte,8
-Mindex,8
-Minerva,8
 Miris,8
 Moab,8
 Modernfi,8
-Moderntreasury,8
 Momentous,8
 Monterail,8
 Morningconsult,8
 Multi Media LLC,8
+Mytomorrows,8
 N2JSoft,8
 Naba,8
-Nanonets,8
 Navax,8
 Nebulock,8
 Netlution,8
+Novo,8
 Nu Quantum Ltd,8
 Nuance Labs,8
 Numa,8
@@ -4933,14 +4929,12 @@ Onecareer,8
 Openevidence,8
 Opes Mobility,8
 Opusclip,8
-Outersignal,8
 Oval,8
 PIXALIONE,8
 Packners Gmbh,8
 Panorama Education,8
 Parachute Home,8
 Partsbase,8
-Passport,8
 Pearmill,8
 People.ai,8
 PerfectServe,8
@@ -4950,7 +4944,6 @@ Pine Park Health,8
 Planet A Foods,8
 Playground,8
 Pogo,8
-Pointfive,8
 Powerlattice,8
 PrimeWorks,8
 Proterahealth,8
@@ -4958,6 +4951,7 @@ Proto Town,8
 Ptv Logistics,8
 Public Cyprus,8
 Pump.co,8
+"RIVO Holdings, LLC",8
 RPA,8
 RTL,8
 Rail Delivery Group,8
@@ -4966,14 +4960,13 @@ Rausch International Group Gmbh,8
 Redapt,8
 Redpeak,8
 Releaf,8
+RemoteStar,8
 Resorcer.Com,8
 Restream,8
 Rigeto,8
 Rippling,8
 Robeauté,8
-Rossum.Ai,8
 Rumble - Career Page,8
-SMB Team,8
 SPREAD AI,8
 Sawhorse Productions,8
 Schleser,8
@@ -4982,10 +4975,10 @@ Sentradel,8
 ShiftCare,8
 Shiftkey,8
 Shippo,8
-Sift,8
 Signifly,8
 Simplesense,8
 Singleton Construction,8
+Slingshotai,8
 Solidroad,8
 Solvinity,8
 Speed up Your WordPress Website with WP Rocket,8
@@ -4993,8 +4986,6 @@ SpyCloud,8
 Stacks,8
 Stadium,8
 Stora,8
-Sydecar,8
-Sydecar,8
 TJM Labs,8
 TRU,8
 Taekus,8
@@ -5009,6 +5000,7 @@ Tillo,8
 Tilt,8
 Timmermann,8
 Tldr.Tech,8
+Top Hat,8
 Tuerlinckx Tax Lawyers,8
 Turion Space,8
 Turion Space,8
@@ -5024,7 +5016,6 @@ Velocity,8
 Ventrata,8
 Vessev,8
 Viam,8
-Vidmob,8
 Visual Components,8
 Vitalize,8
 Vmray Gmbh,8
@@ -5034,14 +5025,11 @@ Wakam,8
 Wallapop,8
 Whiteshield,8
 Widynski Roick,8
-Willow Health,8
 Wonderly,8
 Workit Health,8
 Workwave,8
-WorldFish,8
 Worldly,8
 Worth,8
-Xantium,8
 ZADRA-Gruppe,8
 Zeal Group,8
 Zipmend,8
@@ -5050,13 +5038,14 @@ doola,8
 efm,8
 gaiia,8
 invygo,8
+veritree,8
 work4u,8
 A. Hatzopoulos SA,7
 AT Osborne B.V.,7
 Abundant,7
 Actionstep,7
+Acuity Insights,7
 Acurus,7
-Ada,7
 Aditude,7
 Adsquare,7
 "Adswerve, Inc",7
@@ -5085,18 +5074,19 @@ Augmodo,7
 Aura,7
 AutoLeap,7
 Avenir Collective,7
+Axle Health,7
 BRAVO - A Cooperative Company,7
 Banyan Canopy Group,7
 BathWorks Michigan,7
 Baton (A Ryder Technology Lab),7
 Bca Autoauktionen Gmbh,7
 Beam AI,7
+Benepass,7
 BerlinRosen,7
 BigDataCorp,7
 BigID,7
 Blackbird Labs Inc,7
 Bloom,7
-BlueCherry,7
 BlueTuskr,7
 Bluevine - India,7
 Boss Search Group,7
@@ -5105,27 +5095,26 @@ Boulder Housing Partners,7
 Breakmark,7
 Bunge Magdeburg GmbH,7
 C-Serv,7
-CEQUENS,7
 CF2i,7
 Cadre Hospice,7
-Cairn Partners,7
+Cam Tran,7
 Cambridge Boston Alignment Initiative,7
 Cambridge GaN Devices,7
 Careers with WM Partners' Portfolio Companies,7
 CertifyOS,7
-Chamber,7
 Chargecloud Gmbh,7
+Chase Design Group,7
 CircleCI,7
-CircleLink Health,7
+Circonomit,7
 Claimini Gmbh,7
-Clarium,7
 ClassWallet,7
 Clever Harvey,7
-Close,7
 Community FoodBank of New Jersey,7
+Concourse,7
 Cortex,7
 Cycle0,7
 Cylib Gmbh,7
+Dave,7
 Dedalus Labs,7
 Delivery Associates,7
 Dex,7
@@ -5137,7 +5126,6 @@ Edia,7
 Effectis,7
 Elainesworld,7
 Engineers Gate,7
-Epignosis,7
 Evolve,7
 Fable,7
 Feathr,7
@@ -5147,9 +5135,8 @@ Fiddler Ai,7
 Flagship Amsterdam,7
 Flatiron,7
 Flexa,7
+"Fluent, LLC",7
 Fondation Clair Bois,7
-Fourier,7
-Foxelligroup,7
 Gardec,7
 GeroDigital,7
 Glitch Productions,7
@@ -5185,15 +5172,13 @@ Jasper.ai,7
 Join the FOLX Team!,7
 Jump,7
 Justplay Gmbh,7
+KRAFTON Americas,7
 Karbon Card,7
 "Kard Financial, Inc.",7
-"Kincell Bio, LLC",7
 Kindred,7
-Kira,7
 Knak,7
 Kolb,7
 Kraus Partner Unternehemensberatung,7
-"Lakefront Biotherapeutics, Inc.",7
 Lalive Law,7
 Langfuse,7
 Laravel,7
@@ -5206,6 +5191,7 @@ Lighthouse Electric,7
 Lilt Corporate,7
 Lingraphica,7
 Loancrate,7
+Logic20/20 Inc.,7
 Lokalise,7
 Lyst,7
 MEMIC,7
@@ -5232,22 +5218,17 @@ Mosaic,7
 Mpc,7
 Mubi,7
 Murj,7
-Mytomorrows,7
 Nachbur AG,7
 New Energy Nexus,7
 Newboxes,7
 Nexwafe 1,7
 Nile Fresh (Pty) Ltd,7
-Nirvana,7
 Northvectordynamics,7
 Notabene,7
 Nova Wealth,7
 Ntt Data Aivista,7
-OGC Global,7
 Occam Solutions,7
 Octaura,7
-Offerup,7
-Ollama,7
 Onapsis,7
 One Acre Fund - Kenya,7
 OpenWorks Engineering,7
@@ -5265,6 +5246,7 @@ Papa,7
 Papa,7
 Paragon Germany GmbH,7
 Parasail,7
+Passport,7
 "PayNearMe, Inc.",7
 PetLabCo.,7
 Petdesk,7
@@ -5286,9 +5268,11 @@ RAKUNA,7
 Ravenna,7
 Rayonier,7
 Realmhealth,7
+Recharge,7
 RedHelm,7
 Redpine,7
 Reev,7
+Reflexrobotics,7
 Remilia,7
 Rent a car - Enterprise,7
 Replicant,7
@@ -5308,9 +5292,9 @@ Self Financial,7
 Seqera,7
 Seqera.Io,7
 "Seso Inc.,",7
+Sift,7
 Signal,7
 Simple AI,7
-Slingshotai,7
 Smartling,7
 Solidroad,7
 Sonio,7
@@ -5322,6 +5306,8 @@ Stream Data Centers,7
 Superdial,7
 Supernal,7
 Sweep,7
+Techtorch,7
+Texas Health Action,7
 Texas Public Policy Foundation,7
 Texture,7
 The Semios Group,7
@@ -5337,13 +5323,13 @@ Tread,7
 Trever,7
 Triptease,7
 Tte Strategy,7
+Turbopuffer,7
 Twindo,7
 Tyba,7
 Umweltdienste Bohn Gmbh,7
 Unify,7
 Unlearn,7
 Unwrap,7
-Vals Ai,7
 Vantage,7
 Vecten,7
 Vega,7
@@ -5351,16 +5337,20 @@ Verisoul,7
 ViaSun Corporation,7
 Vic.Ai,7
 Vironix AI,7
+Visioncontracting,7
 Voltida,7
 Vortexa,7
 Voxidea-Stafi,7
 Voyfai,7
 Weave,7
 What3Words,7
+WorldFish,7
+Xantium,7
 Xayn,7
 "Xos, Inc.",7
-Ycombinator,7
-Zoomlogi,7
+Yondr,7
+Zapier,7
+Zirtual,7
 die Bayerische,7
 e-Luscious,7
 highlightai.com,7
@@ -5376,7 +5366,6 @@ ASTONJET,6
 Aam2Core Holding Ag,6
 Able,6
 ActivTrak,6
-Acuity Insights,6
 Advertising Specialty Institute,6
 Agentmail,6
 Ai Academy,6
@@ -5391,17 +5380,15 @@ Ansa Biotechnologies,6
 Antverpia,6
 Apollo Graphql,6
 Applied Value,6
-Artsy,6
-Aspora,6
 Aspora,6
 Atlan,6
+Atlasonc,6
 Attendi,6
 Auros,6
 Auros,6
 Avantium,6
 Avian,6
 Avōq,6
-Axle Health,6
 BMAT Music Innovators,6
 BPD,6
 Basin Health Companies,6
@@ -5433,12 +5420,13 @@ Capchase,6
 Carbon Direct,6
 Career Opportunities,6
 Carewell,6
-Carmoola,6
+Centari,6
 Certus,6
+Chamber,6
 Charterhouse,6
 Circles,6
-Circonomit,6
 Clarksconsultingconnection,6
+Cledara,6
 Climate,6
 CloudMasonry,6
 Cloudtalk,6
@@ -5458,7 +5446,6 @@ Davistechnologymanagement,6
 Daystar Power,6
 De Beyart,6
 Delphi,6
-DigitalGenius,6
 DomainTools,6
 DonorsChoose,6
 Double Eleven,6
@@ -5466,13 +5453,16 @@ ECP,6
 ELSA Speak,6
 EXUS,6
 Education Development Center,6
+Eightandfour,6
 Eisen,6
 Elcogen,6
 Elexon Charging,6
 Ellyundstoffl Grandir,6
 Elyos AI,6
 Emirates Investment Authority,6
+EnsoData,6
 Entelios,6
+Epignosis,6
 Eqs Group,6
 Equal Ventures,6
 Equals Money,6
@@ -5489,20 +5479,21 @@ FleetPartners,6
 Foley,6
 GHGSAT,6
 GMF Steel Group,6
+Gadge USA,6
 Gateb,6
-Gearset,6
+GetResponse,6
 Gigaton,6
 Glyphic Biotechnologies,6
 Gptzero,6
 Gratia,6
 Grey US,6
-Gridcare,6
 Gridunity,6
 Gypsy Collective,6
 HAI Group,6
+HG Insights,6
 HIROTEC AMERICA,6
+Halobraid,6
 Happl,6
-Harmonic Security Inc,6
 Harper Group,6
 Hausmeister Krause,6
 HeadQuarters,6
@@ -5520,35 +5511,33 @@ Immutable,6
 Imubit,6
 Index Soft,6
 "Indigo Slate, A Zensar company",6
-Inflection AI,6
 Infoquest,6
 Insomniac Games,6
 Ipg Automotive Gmbh,6
-JOHO Group GmbH,6
 KERNEL,6
 KHAITE,6
 KNOREX,6
 Kayne Anderson Capital Advisors,6
-Kernel,6
-Keycard Labs,6
+"Kincell Bio, LLC",6
 Kingdom,6
+Kira,6
 Kiutra,6
 Knowunity,6
 Kodiak Solutions,6
+Kojo,6
 Korechi.golf,6
 Kura Oncology,6
 Kyon Energy Gmbh,6
 LAV - LEGA ANTI VIVISEZIONE,6
+"Lakefront Biotherapeutics, Inc.",6
 Letmeship,6
+LevelTen Energy,6
 LeydenJar Technologies,6
 Limbic,6
-Lithic,6
-Logic20/20 Inc.,6
 Loot Labs,6
 Ltv,6
 Lydian,6
 "M and M Heating, Cooling, Plumbing and Electrical",6
-M-studio,6
 MFE Formwork Technology,6
 MKO,6
 MODIFI GmbH,6
@@ -5565,10 +5554,11 @@ Meissner Bolte,6
 Mia Labs,6
 Microbot Medical,6
 Microhealth,6
+Miller-Remick,6
+Mindex,6
 Monizze,6
 Mr Apple Careers site,6
 Mrsool,6
-MyHeritage,6
 NATIONAL,6
 NOVVA Data Centers,6
 Nafeza,6
@@ -5578,6 +5568,7 @@ Nestmed,6
 Netzstrategen,6
 Neura Health,6
 Neuroelectrics,6
+Nirvana,6
 Nomic Bio,6
 Nonprofit Finance Fund,6
 Northramp LLC,6
@@ -5602,6 +5593,7 @@ Or Technology,6
 Orbital Operations,6
 Osecoelfab,6
 Ounce of Care,6
+Our National Conversation,6
 Outro Health,6
 Outward,6
 P2 Proces- en projectmanagers B.V.,6
@@ -5631,7 +5623,6 @@ Quora,6
 RDI,6
 ROVC Technische Opleidingen B.V.,6
 Ready,6
-Recharge,6
 Regard,6
 Reklamehealth,6
 Remberg,6
@@ -5640,13 +5631,14 @@ Renew Home,6
 Reproductive Freedom for All,6
 RetinAI Medical,6
 "Riva International, Inc.",6
+Rossum.Ai,6
 Ruediger Dachbau,6
 SafeBreach,6
 SalesCaptain,6
 Santikos Collection,6
 Saxpowergmbh,6
 See what’s used. Bill with confidence. AssistIQ,6
-Sharebite,6
+Servant,6
 Shift5,6
 Shiftsmart,6
 Shinesty,6
@@ -5657,7 +5649,7 @@ SmartAsset,6
 Softwareseni,6
 Span,6
 Span.App,6
-Sprocket Security,6
+Sprig,6
 Square Enix,6
 Standardmetrics,6
 Steer,6
@@ -5676,48 +5668,42 @@ The Beauty Tech Group Trading Limited,6
 The Better Money Company,6
 The Lumber Manufactory,6
 Thesis,6
-Third Way,6
 This is Gain Ltd,6
 Thndr,6
 Thomas Park,6
 Thoropass,6
 Tilda Research,6
 Tinkermode,6
-Top Hat,6
-Town of Stony Plain,6
+"Toyota Financial Services, KINTO and KINTO JOIN",6
 Tradeify,6
 Trever,6
 Troostwijk Taxaties,6
 Trócaire,6
 TurboTenant,6
-Twelve,6
 Ufenau Capital Partners,6
-Ultimate Knowledge,6
 Uni Seeburg,6
 VPteam,6
-Vector,6
+Vals Ai,6
 Vego Garden,6
 Velan Studios,6
 Verana Health,6
-Vermilion Cliffs Ventures,6
 VillageReach,6
 VirtueStaff,6
-Visioncontracting,6
 WSI,6
 Wagemann + Partner,6
 Wakuli,6
 Westfalia Fruit,6
 Wifinity,6
 Wild Balance,6
+Willow Health,6
 Wirescreen,6
+Witnessai,6
 Wohn Und Pflegeheim Utzigen,6
 Woonzorg Nederland,6
 Workhero,6
 Wraithwatch,6
-Xeltis,6
 Xillium Professional Services,6
 Yoursquares,6
-Zapier,6
 Zen Sherpa LLC,6
 Zimex,6
 Zinc Network,6
@@ -5732,8 +5718,9 @@ inKind,6
 inconsultinginc.com,6
 status C AG,6
 uMed,6
-10x Genomics,5
+10x Value Partners GmbH,5
 11 bit studios,5
+27th Street Corporate Office,5
 31Tenconsulting,5
 31st Union,5
 3Degrees,5
@@ -5741,8 +5728,6 @@ ABF,5
 ACLU of Northern California,5
 AFS Energy B.V.,5
 ALLNET.ITALIA S.p.A.,5
-Aardvark Studios,5
-Ace IT Careers,5
 Aceable,5
 Adstronauts GmbH,5
 Adèle Express MTL,5
@@ -5757,6 +5742,7 @@ Altura,5
 Anodize,5
 Anterior,5
 "Aperia Technologies, Inc",5
+Apexx,5
 Arb Interactive,5
 Architus,5
 Arena,5
@@ -5766,7 +5752,6 @@ Artosai,5
 Assistant Launch,5
 Assistme,5
 Assurasource,5
-Atlasonc,5
 Atomic Cartoons,5
 Attention Arc,5
 Audi Interaction GmbH,5
@@ -5785,6 +5770,7 @@ Bell Cabinetry,5
 Ben,5
 Biteam,5
 Bizee,5
+Blackstone Shooting Sports,5
 Blenheim Chalcot India,5
 Blk,5
 Blue Rose Research,5
@@ -5794,17 +5780,18 @@ Booksy,5
 Braveheart Bio,5
 Bridge to Enter Advanced Mathematics (BEAM),5
 BusPlanner,5
+Cadmus,5
 CallRail,5
-Cam Tran,5
 Careers Greenhouse,5
+Carmoola,5
 Cbbhr,5
-Centari,5
-Centreforeffectivealtruism,5
 Certitaste,5
 Chaos Theory,5
 Chaparral Medical Group,5
 CisLunar Industries,5
 Citrushealthgroup,5
+Citylitics,5
+Civilgrid,5
 Civilgrid,5
 Clariti Cloud Inc.,5
 Clean USA Water Mold and Fire Damage Restoration,5
@@ -5823,6 +5810,7 @@ Corti,5
 Credal.ai,5
 Cryptonext Security,5
 Csh,5
+CubX Inc.,5
 Cuculus Gmbh,5
 Cyvl,5
 Decentralized Masters,5
@@ -5832,16 +5820,17 @@ Deskbird,5
 Develocity,5
 Develop Health,5
 Digital Extremes,5
+DigitalGenius,5
 Digitec Gmbh,5
 Dmb,5
 Docyt,5
 Droppie,5
 Dt Shop,5
-Eightandfour,5
 Electric Ireland Superhomes,5
 Elephant Digital,5
 Ello,5
 Enboarder,5
+Encuadrado,5
 Engel Voelkers Hamburg Residential,5
 Eskandary Finanzkonzepte GmbH,5
 Euphoric,5
@@ -5853,11 +5842,8 @@ Fernández,5
 Finoa,5
 Fizz,5
 Flashfood,5
-Flashpoint.Io,5
 Flexoptix,5
-"Fluent, LLC",5
 Forefront RF,5
-FormAssembly Inc.,5
 Forum Verlag,5
 Friends of the High Line,5
 Fruity Pack,5
@@ -5865,12 +5851,9 @@ Funnel Leasing,5
 Furo,5
 G+D Netcetera,5
 GP Bullhound,5
-GSR Markets,5
-Gadge USA,5
 GamePoint,5
 Genmo,5
 Geoforce,5
-GetResponse,5
 Global Laser Enrichment,5
 Gluecklichegaeste,5
 Go2 Markets,5
@@ -5881,24 +5864,23 @@ Goxeedealer,5
 Grai,5
 Grayoak,5
 Green Tree School And Services,5
+Gridcare,5
 Groma,5
 Group14 Technologies,5
 HCS,5
-Halobraid,5
 Hameln Pharma,5
+Harmonic Security Inc,5
 Heinekamp,5
 Helical,5
 Helloprint,5
-HeyMilo AI,5
 Hirehire,5
 Hive,5
 Hivemq,5
 Hometap,5
-Humwork,5
+Humwork.ai,5
 IFT,5
 Idenergy,5
 Imux,5
-Ineproid,5
 Inflect,5
 Inkomoko,5
 InnerPlant,5
@@ -5908,6 +5890,7 @@ Instinct,5
 Intelic,5
 Invest Lithuania,5
 Iverify,5
+JOHO Group GmbH,5
 Jones Knowles Ritchie,5
 Joy,5
 Judgmentlabs,5
@@ -5915,17 +5898,17 @@ Jump Crypto,5
 Juna,5
 Kanopi Studios,5
 Keuerleber Gmbh,5
+Keycard Labs,5
 Kit,5
 KiwiCo Inc.,5
 Klara Fardiga Film,5
 Klareco,5
 Kodex,5
+Kodex,5
 Koro Shop,5
 Kugler,5
 Learningculture,5
 Legatics,5
-LevelTen Energy,5
-Lightly,5
 Lincoln Avenue Communities,5
 "LinkSquares, Inc.",5
 Lippincott,5
@@ -5938,6 +5921,7 @@ Luminovo,5
 Lyto Brands Group,5
 M Booth Health,5
 M-Files,5
+M-studio,5
 MGH Marketing & Advertising,5
 Magentic,5
 Make-A-Wish America,5
@@ -5953,10 +5937,8 @@ Medscout,5
 Meow,5
 Merantix Momentum,5
 Merantix Momentum,5
-Miller-Remick,5
 Mishimoto,5
 Momos,5
-Montecarlodata,5
 Moonwatt,5
 Movement Labs,5
 Moving Doors,5
@@ -5977,6 +5959,7 @@ Nobile Group,5
 Novaswiss,5
 Novicap,5
 Novo Holdings,5
+OGC Global,5
 OPENLANE Europe,5
 Ogilvy Health UK,5
 Omnilex,5
@@ -5990,7 +5973,6 @@ Orca,5
 Oredata Yazılım Anonim Şirketi,5
 Orendtstudios,5
 Origina Ltd,5
-Our National Conversation,5
 Outcomes4Me,5
 PHIX Photonics Assembly,5
 PLENETUDE,5
@@ -6001,6 +5983,8 @@ PenFinancial Credit Union,5
 Perdue Office Interiors,5
 Peregrine Team,5
 Performanze,5
+Petal,5
+Petrotec Qatar,5
 Pi School - Machine Intelligence meets Human Creativity,5
 Pilot Fiber,5
 Pixability,5
@@ -6018,14 +6002,12 @@ Pyck,5
 Q-Fin,5
 Quality Care LLC,5
 Quarks Tech,5
-"RIVO Holdings, LLC",5
 RN VENTURESLAB LIMITED,5
 ROGER,5
 RWinvest,5
 Raceon,5
 Rainforest Pay,5
 Rapdev,5
-Raylu Ai,5
 RealWork,5
 Recraft,5
 Reliance,5
@@ -6037,32 +6019,30 @@ Runwise,5
 SCHEUNPFLUG - WIR PFLEGEN,5
 SalesPatriot,5
 Sanoptis,5
-Sans,5
 Schroeschoe,5
 Scoreplay,5
 Sculpted By Aimee,5
+Security Risk Advisors,5
 Seen,5
-Servant,5
 Sfcompute,5
+Sharebite,5
 Shipping Technology,5
 Si-Ware Systems,5
 Simply.TV,5
 Singlequantum,5
-Sisense,5
 Skymavis,5
 Slapend Rijk B.V.,5
 Slcyber,5
 Smappee,5
 Spekit,5
 Spotzer Digital,5
-Sprig,5
 Spring Venture Group,5
 Stacvalley,5
 Stage,5
 Steamship Insurance Management Services Ltd,5
 Stensul,5
 Storyteq,5
-Stream,5
+Sumble Inc,5
 Supercritical,5
 Sword Technologies,5
 Syarah,5
@@ -6073,25 +6053,23 @@ Talixo,5
 Taod,5
 Tapblaze,5
 Tava,5
-TaxValet,5
 Team for the planet,5
 Texa,5
 The Local Project,5
 The Proactive Technology Group,5
 The Sales Centre co,5
 Thiemt GmbH,5
+Third Way,5
 Tifin,5
 Tiugo Technologies,5
 Topsort,5
-"Toyota Financial Services, KINTO and KINTO JOIN",5
-Tractable,5
 Transloop,5
 Triedge Investments,5
 Trimexa,5
 Triskele Labs,5
-Turbopuffer,5
-Tyrolit,5
+Twelve,5
 UAI Group,5
+Ultimate Knowledge,5
 Unite America,5
 Uptempo,5
 Valletta Credit Finance Corporation Ltd,5
@@ -6100,6 +6078,7 @@ Van der Valk Hotel Nazareth,5
 Vanilla,5
 Veracross,5
 Veridas 1,5
+Vermilion Cliffs Ventures,5
 Verne Robotics,5
 Vertical Semiconductor,5
 Vio,5
@@ -6109,12 +6088,11 @@ Weleda Benelux SE,5
 Wellster Healthtech Group,5
 Wheel,5
 Wizards,5
-Wordbank,5
 Workstate,5
+World Central Kitchen,5
 Xcelerant,5
+Xeltis,5
 Yohumanize,5
-Yondr,5
-You.com,5
 Zayzoon,5
 Zero Friction,5
 Zoe,5
@@ -6124,7 +6102,6 @@ barre3,5
 inepro,5
 kybun Joya Retail,5
 nyn consulting GmbH,5
-quip,5
 tapouts,5
 tmp,5
 valantic NL,5
@@ -6132,6 +6109,7 @@ valantic NL,5
 3St Kommunikation,4
 ATUM,4
 Ab Närpes Trä & Metall,4
+Accord,4
 Advidi,4
 Agavegames,4
 Ahmed Group,4
@@ -6157,11 +6135,11 @@ Baqend,4
 Bartlett Wealth Management,4
 Be Maschinenmesser Gmbh,4
 Bicycle Therapeutics,4
-Blackstone Shooting Sports,4
 Blooming Health,4
 Boingo,4
 Bold Metrics,4
 Boost Group,4
+Borrowell,4
 Bracebridge Capital,4
 Bridgecom Semiconductors,4
 Bringg,4
@@ -6171,6 +6149,7 @@ Buildingminds,4
 Bunkerhillhealth,4
 CItizen Health,4
 Calibrant,4
+Cambium,4
 Cambrium,4
 Cantieri Digitali Medtech,4
 Careerstrengo,4
@@ -6180,12 +6159,13 @@ Cartelligent,4
 Caruso,4
 Catena,4
 Celebrate,4
+Centre for Information Resilience,4
+Centreforeffectivealtruism,4
 Chakra Labs,4
 Checkly,4
 Chimera Entertainment,4
 Citizen,4
 Citizen,4
-Civilgrid,4
 Clearstone,4
 Clive Daniel Home,4
 Clubhouse,4
@@ -6221,24 +6201,25 @@ Eternal Sun Group BV,4
 EthonAI,4
 Eupago Hub,4
 Eventual,4
-Eventualcomputing,4
 Exec,4
 Fact Finder,4
 Ferilli's Hospitality Group,4
 Fifth Element,4
+Flashpoint.Io,4
 Flipturn,4
 FloatMe,4
 Fluxx,4
 Flybotix,4
+Focus,4
 Fomo Labs,4
 Fondation Officielle de la Jeunesse,4
+FormAssembly Inc.,4
 Formo Foods GmbH,4
 Founders Foundation Ggmbh,4
 Foxen,4
 Freeday,4
 Friedrich PICARD GmbH & Co. KG,4
 Frp,4
-GOAL Honduras,4
 GPV Slovakia (Nova) s.r.o.,4
 Galileo Learning,4
 Gamechanger,4
@@ -6261,8 +6242,8 @@ Guidewheel,4
 Guild,4
 HEOR,4
 HERO Software GmbH,4
-HG Insights,4
 Hatch,4
+Haus,4
 HeatTransformers BV,4
 Helin Data,4
 Helius,4
@@ -6296,13 +6277,10 @@ International Football Institute,4
 Isptech,4
 Julius,4
 Katkin,4
-Kickstarter PBC,4
 Kingdom,4
-Kodex,4
 Kolibri Fm Leipzig,4
 LOGEX,4
 Labor Quade,4
-Ladder,4
 Lago,4
 Lang Garten,4
 Leantech,4
@@ -6340,17 +6318,18 @@ Menhir Photonics,4
 Menhir Photonics AG,4
 Merlin,4
 Method,4
-Mind Friend,4
 Mintmcp,4
 Moabits,4
 Mobbin.Com,4
 MobilityWare,4
 Mono Software,4
+Montecarlodata,4
 Munich Security Services GmbH,4
 N4 Gmbh,4
 NEM Energy,4
 Navax Software,4
 Nebul Bv,4
+Netpreme,4
 Neudata │ Your trusted partner for alternative data and market data insights,4
 Neuroelectrics,4
 Neutreeno,4
@@ -6370,7 +6349,6 @@ ONEX,4
 Oag,4
 Obsidiansystems,4
 Obviant,4
-Oceanus,4
 One Acre Fund - Ethiopia,4
 Open Core Ventures,4
 OpenMined,4
@@ -6388,6 +6366,7 @@ Outschool,4
 Overviewenergy,4
 Overwatch Construction Management,4
 Owkin,4
+Oxando Gmbh,4
 Oxygen At Work Ag,4
 PAX Labs,4
 Pacaso,4
@@ -6401,11 +6380,7 @@ PermaCorp Group,4
 Permutive,4
 Perry Street Software,4
 Perrymanbc,4
-Petal,4
 Petiteamelie,4
-Petrotec Qatar,4
-Philo,4
-Phlair,4
 Pinkston,4
 Piraeus Bank,4
 Plantura,4
@@ -6436,17 +6411,16 @@ Revive Media,4
 Rewind Backups,4
 Rhythm360,4
 Rmkble,4
-Rockbot,4
 SEO Sherpa,4
 SPARETECH,4
 Sail,4
 Sangoma,4
 Sanktoberholz Retreat,4
+Sans,4
 Sequel,4
 Shook,4
 Sig,4
 Simpledcard,4
-Snapdocs,4
 Sonia,4
 Soravia,4
 Sozialdienst katholischer Frauen e.V. Berlin,4
@@ -6456,8 +6430,8 @@ Splice,4
 Stacker,4
 Stadtbäckerei Westerhorstmann GmbH & Co. KG,4
 Stilta,4
+Stream,4
 Studyportals,4
-Swarmia,4
 Swift Solar,4
 Swisslinx,4
 Sylvera,4
@@ -6474,9 +6448,11 @@ Tigera,4
 Timescapes,4
 Timocom GmbH,4
 Tinasburritos,4
+Town of Stony Plain,4
 Trail of Bits,4
 Transitionzero,4
 Truckoo Gmbh,4
+Tyrolit,4
 UP42 GmbH,4
 Ubiops,4
 Ubitricity Gmbh,4
@@ -6498,9 +6474,7 @@ WePractice (Psychotherapeutische Leitungsfunktionen),4
 Wellist,4
 Whop. Create or run businesses with AI,4
 Wilsonhartnell,4
-Winnow,4
 Woods Distribution,4
-World Central Kitchen,4
 Wortstark,4
 Xogene Services LLC,4
 Xolife,4
@@ -6514,23 +6488,22 @@ fischer Edelstahlrohre Austria GmbH,4
 get on top gmbh,4
 hampr,4
 iFood Indicações,4
+ifeel,4
 inExhaust,4
 ngrok.com,4
 rebuy,4
 simplee,4
 sonnenschutz.de-B1 AG,4
+testRigor AI-Based Automated Testing Tool,4
 -ASG-,3
 .txt,3
 12twenty,3
-27th Street Corporate Office,3
 360X Music Ag,3
 ACI Learning,3
 "AG Consulting Partners, Inc.",3
 APPARATUS,3
 "ARS Pharmaceuticals Operations, Inc.",3
 Accelecom,3
-Accord,3
-Acumen,3
 Additiveai,3
 Aditum Bio,3
 Advengers,3
@@ -6554,7 +6527,6 @@ Andotechnologies,3
 Angel City Football Club,3
 Anthro,3
 AnywhereWorks,3
-Apexx,3
 Aquant,3
 Arenanet,3
 Ark Veterinary Hospital & Urgent Care,3
@@ -6578,10 +6550,10 @@ BlueConic,3
 Bon Secours Wellness Arena,3
 Bookkeeper360,3
 Boon,3
-Borrowell,3
 Bounce Insights,3
 Braintrust Tutors,3
 Bratte,3
+Brelle,3
 Brenger,3
 British Asian Trust,3
 Brooklyn Waldorf School,3
@@ -6592,23 +6564,21 @@ Butter,3
 CAPRI CONSULT GmbH,3
 CELUM GmbH,3
 CLUB 24 CONCEPT GYMS,3
-Cambium,3
 Cambly,3
 CapIntel,3
 Caralegal,3
 Caribou,3
 Celonic Ag,3
 Center for Volunteer & Nonprofit Leadership (CVNL),3
-Centre for Information Resilience,3
 Cero,3
 Certania,3
 Chatbase,3
 Chief,3
 Chilipiper,3
-Citylitics,3
 Classicairecare,3
 Cleeng,3
 Climate Corps,3
+ClimateWorks Foundation,3
 Cloud Astro,3
 CloudSmiths,3
 CloudSmiths,3
@@ -6618,6 +6588,7 @@ Collective Residential,3
 Compliancy Group LLC.,3
 Conifers.ai,3
 Contentful,3
+Contentoo,3
 Convergint Federal Solutions,3
 Copper.co,3
 Cover Whale Insurance Solutions,3
@@ -6627,7 +6598,6 @@ Credit Linked Beheer,3
 Creyos,3
 Crunch Analytics,3
 Cside,3
-Cybcube,3
 DNSFilter,3
 Dance,3
 Datamaran,3
@@ -6657,6 +6627,7 @@ Eisele Flugdienst GmbH,3
 Elan Wonen,3
 Elanza,3
 Elbdudler,3
+Ellipsis Marketing LTD,3
 Emaratech,3
 Emuca,3
 Enable Data Incorporated,3
@@ -6674,6 +6645,7 @@ Escape,3
 Ethereum Foundation,3
 European Endowment for Democracy,3
 Eventfirst,3
+Eventualcomputing,3
 Ew Biotech,3
 Exeon Analytics,3
 Exnaton Ag,3
@@ -6687,7 +6659,6 @@ Ferryhealth,3
 Ferryscanner,3
 Fiscal.ai,3
 Floy,3
-Focus,3
 Focuseconomics,3
 Found,3
 Frisbii,3
@@ -6715,7 +6686,6 @@ Grover,3
 Gruenhorn,3
 Hanover,3
 HatchTech B.V.,3
-Haus,3
 Hayfin Capital Management,3
 Hexafarms,3
 Hinoki,3
@@ -6725,19 +6695,16 @@ Hogastdeutschland,3
 Hologram,3
 Homeward,3
 Hummingbird,3
-Hypercubic,3
 IK Partners,3
 IMI,3
-IMPACT,3
-IMPACT,3
 "INSAIT - Institute for Computer Science, Artificial Intelligence and Technology",3
 ISM,3
 Imbue,3
 Imikansas,3
 Imprint Engine,3
-Imubiosciences,3
 Inconcertcx,3
 Incora,3
+Ineproid,3
 Infinity by ProjectX,3
 Inflo,3
 Instabase,3
@@ -6752,8 +6719,10 @@ Juno,3
 Just Food Company,3
 Kantox,3
 Kernal Biologics,3
+Kernel,3
 Khonraad,3
 Kolmargroup,3
+Konica Minolta Sensing Americas,3
 Konvu,3
 Konzepthaus Consulting Gmbh,3
 Kreative Kids Childcare Center,3
@@ -6769,7 +6738,6 @@ Lind Media,3
 Linkservesolutions,3
 Lintum,3
 Listan Gmbh,3
-LiveData,3
 Lively,3
 "Lively, Inc.",3
 Logical Intelligence,3
@@ -6778,7 +6746,6 @@ Lumics Gmbh Co Kg,3
 Luminegroup,3
 Luxera Energy,3
 MAG (Mines Advisory Group),3
-MPF Federal,3
 Machine26,3
 Mad Recycling,3
 Madano,3
@@ -6786,7 +6753,6 @@ Magic Spoon,3
 MailerLite,3
 Malengo,3
 Manara,3
-Manifold AI,3
 Marktguruat,3
 Mastra,3
 Maxxarena,3
@@ -6800,7 +6766,6 @@ Midstatespring,3
 Mikinok Enterprises,3
 Milani Cosmetics,3
 MobilityPlus,3
-Modash,3
 Movement Strategy,3
 Movexm,3
 Mp Corporate Finance,3
@@ -6808,7 +6773,6 @@ Médecins Sans Frontières Suisse,3
 NIBC.com,3
 National Western Center,3
 Nelson Education LTD,3
-Netpreme,3
 Neurocom Sa,3
 New Life Community Church,3
 Nexrail Lease,3
@@ -6840,7 +6804,6 @@ Ottawa Safety Council,3
 Ovatient,3
 Overtone,3
 Owlet Baby Care,3
-Oxando Gmbh,3
 Oy Mirka Ab,3
 P2P.Org,3
 PMMG Group GmbH,3
@@ -6855,7 +6818,6 @@ Pleez,3
 Plentyone,3
 Plum Inc,3
 Polarsteps,3
-Polygon Labs,3
 Positive Minds Gmbh 1,3
 Powerus,3
 Praxisgemeinschaft Forchtenberg,3
@@ -6881,9 +6843,10 @@ Retentionx,3
 Reveal Embedded Analytics,3
 Rinse,3
 Riverbank,3
+Rockbot,3
 Rolling Arrays Technologies,3
 Rollstack,3
-Root Access,3
+Rootglobal,3
 Rovex Technologies Corporation,3
 Rtarchitektur,3
 SAPI,3
@@ -6900,8 +6863,11 @@ Sensoryminds,3
 Servistio,3
 Sherry FitzGerald,3
 Signal Ai,3
+Silvur,3
 Situation Group,3
 Skyscanner,3
+Snapdocs,3
+Social Impact Partners,3
 SolAmerica Energy,3
 SolidarMed,3
 Somnio Software,3
@@ -6926,6 +6892,7 @@ Synapticure,3
 Talk360,3
 Tandempv,3
 Target,3
+TaxValet,3
 Teal Health,3
 Texlock Gmbh,3
 The Business of Fashion,3
@@ -6933,10 +6900,8 @@ The Investigo Group,3
 The Next Ad Agency,3
 The Pharm,3
 The Predictive Index,3
-The Shipyard,3
 The Smart Agency,3
 Thomann GmbH,3
-Thpltd,3
 Thunkable,3
 Tidely,3
 Timelessvapes,3
@@ -6957,6 +6922,7 @@ Upstreamtech,3
 Urban Sports Club,3
 Usaycompare,3
 Utahgaragedoors,3
+V7Labs.Com,3
 VNO-NCW en MKB-Nederland,3
 Van der Valk Hotel Mechelen,3
 Van der Valk Hotel Verviers,3
@@ -6967,7 +6933,6 @@ Vtc,3
 Walrus,3
 Warden AI,3
 Wattstor,3
-Weave Grid,3
 WebProps.org,3
 Weel,3
 WellsColeman,3
@@ -6977,7 +6942,7 @@ Wingspan,3
 Wingspan,3
 Winona,3
 Wire 1,3
-Wiser Solutions,3
+Wordbank,3
 Xaver,3
 Zefr,3
 Zentrum Kindesentwicklung,3
@@ -6997,6 +6962,7 @@ sofatutor GmbH,3
 2U,2
 3C Deutschland,2
 5minlab,2
+A La C.A.R.T.E. Solutions,2
 AM/PM Door Inc,2
 AMBeR - ArcelorMittal Belgium Recycling,2
 AMCON,2
@@ -7006,6 +6972,7 @@ Abg Intellectual Property Law,2
 Academy of Medical Sciences,2
 Accure,2
 Activ,2
+Acumen,2
 Aevoloop,2
 Agital,2
 Agorate,2
@@ -7059,11 +7026,11 @@ Binalyze,2
 BioMed Realty,2
 Blue Sky Utility,2
 Blueprint,2
+Blumen,2
 Bolster,2
 Boostlingo,2
 Boostly,2
 Botario,2
-Brale,2
 Brandl Talos,2
 Breakwater Accounting + Advisory,2
 Bridgit,2
@@ -7071,6 +7038,7 @@ Britishrowing,2
 Buerklin Gmbh Co Kg,2
 Buildarocket,2
 Bund,2
+CNC Agency,2
 Cachet,2
 Camelback Ventures,2
 Capital Development Services,2
@@ -7080,6 +7048,7 @@ Careers at Lineate,2
 Cargo One,2
 Carry1st,2
 Castle Group,2
+Cats & Dogs,2
 Ccv,2
 "Centric Services, Inc.",2
 Children1St,2
@@ -7096,7 +7065,6 @@ Come Work with Us,2
 Commodity Hero,2
 Conduit,2
 Confiant,2
-Contentoo,2
 Contentpass,2
 Convergent Energy and Power,2
 Coosto,2
@@ -7109,6 +7077,7 @@ Crop.photo,2
 Csl Li,2
 Ctrl Up,2
 Culture Biosciences,2
+Cybcube,2
 Cyberpeace Institute,2
 Cyted,2
 D Und H Dachbau,2
@@ -7133,7 +7102,6 @@ Einwert,2
 Elbowbeach,2
 Electric Plant Company,2
 Electronicpowerdesign,2
-Ellipsis Marketing LTD,2
 Endo Networks,2
 Eneco eMobility,2
 Engitix Limited,2
@@ -7177,8 +7145,6 @@ Grafisch Lyceum Utrecht,2
 Great Question,2
 Greatquestion,2
 Greyparrot,2
-GroundTruth,2
-Groundnews,2
 HICX.com,2
 HUMY,2
 HYPR,2
@@ -7193,6 +7159,7 @@ Holepunch,2
 Holidaypirates,2
 Holocene Gmbh,2
 Hygraph,2
+Hypercubic,2
 IO Global,2
 IOSH,2
 Iddqd,2
@@ -7201,9 +7168,9 @@ Imfusion,2
 Immel Construction,2
 Impacttg,2
 Impalastudios,2
+Imubiosciences,2
 Inalab,2
 Infiniteroots,2
-Innovative Home Renovations,2
 Instruqt,2
 Integral Health,2
 Integrated Solutions,2
@@ -7211,7 +7178,6 @@ Integrated Solutions,2
 International Food Connectors,2
 Intradiem,2
 Investforwomen,2
-Ivanti,2
 Jitsu,2
 Joinbetter,2
 Jomboy Media,2
@@ -7223,7 +7189,6 @@ Juno,2
 Juro,2
 Justtrack,2
 Kariyer,2
-Kate Schwartz Physical Therapy,2
 Keep Northern Ireland Beautiful,2
 "Kernal Biologics, Inc.",2
 Kettle & Fire,2
@@ -7234,7 +7199,6 @@ King Art Gmbh,2
 Kognity,2
 Kolb Distribution Ltd,2
 Kollex,2
-Konica Minolta Sensing Americas,2
 Kora,2
 Koru UX Design LLP,2
 Labric,2
@@ -7270,11 +7234,9 @@ MUD\WTR,2
 Macaw Lt,2
 Makersite GmbH,2
 MangoDesk,2
-Manychat,2
 Marqeta,2
 Massimo Dutti,2
 Matchory,2
-Mather Headquarters,2
 Maximustribe,2
 Medrio,2
 Merchant Growth,2
@@ -7286,7 +7248,6 @@ Micon International,2
 Microblink,2
 Mid-States Companies,2
 Migaku,2
-Mighty Networks,2
 Mindgrub,2
 Minut,2
 Miri,2
@@ -7305,7 +7266,6 @@ Much Better Adventures,2
 Mymoneymatters,2
 Mystenlabs,2
 Narvar,2
-NaturalMotion,2
 Nautilus Solar Energy,2
 Net Tec Ingenieurgesellschaft Mbh,2
 Netkum AG,2
@@ -7320,6 +7280,7 @@ Ng Voice,2
 Nictiz,2
 Node Energy,2
 Node Robotics Gmbh,2
+Norfolk County,2
 Novo Nordisk Foundation,2
 Nrs,2
 NuView,2
@@ -7331,7 +7292,6 @@ Obsidiantx,2
 Odan Laboratories Ltd.,2
 Odds Scanner,2
 One Acre Fund - Global,2
-One Acre Fund - Malawi,2
 One Acre Fund - Uganda,2
 Online Dialogue,2
 Openhands,2
@@ -7359,6 +7319,7 @@ Pharoslabs,2
 Pierce Insurance,2
 Pina,2
 Pioneer Europe Rd Center,2
+Polygon Labs,2
 Pools (fka Withfriends),2
 Preisenergie,2
 Primary,2
@@ -7368,10 +7329,11 @@ Project Eaden 1,2
 Project Q,2
 Promik,2
 Pulpo Wms,2
+Purple Carrot,2
 Purple Strategies,2
 Quantilope Gmbh,2
 Quontic,2
-Re7 Capital,2
+Raylu Ai,2
 Readyon,2
 RealityMine,2
 Realty Resources,2
@@ -7404,12 +7366,10 @@ Shawarma Guys,2
 Shipzero,2
 Siftwell Analytics,2
 Silvestergroup,2
-Silvur,2
 Simmentalerbier,2
 SimplyInsured,2
 Size-Up,2
 Slash Digital,2
-Social Impact Partners,2
 Sola Insurance,2
 Solugen,2
 Somerce,2
@@ -7432,6 +7392,7 @@ Teamdynamix,2
 Telestream,2
 The Downsizers LLC,2
 The Padre Hotel,2
+The Shipyard,2
 The Telegraph,2
 Themindcompany,2
 Themlc,2
@@ -7456,7 +7417,6 @@ Union of Concerned Scientists,2
 Unitelabs,2
 Unqork Enterprise Application Development Platform,2
 Uxma,2
-V7Labs.Com,2
 VSPARTICLE B.V.,2
 Ververica GmbH,2
 Viboo,2
@@ -7465,9 +7425,11 @@ Vitable Health,2
 "Volta Labs, Inc.",2
 Voucherify,2
 WPT Global,2
+Wacom Europe GmbH,2
 Wafer,2
 Wagmo,2
 Waterplan,2
+Weave Grid,2
 Weiss Asset Management,2
 WellSaid,2
 Whippet London,2
@@ -7497,6 +7459,7 @@ A Million Ads,1
 A&M Architects SA,1
 AIMMS,1
 ATASS Sports,1
+Aaron School,1
 Adams Street Partners,1
 Adfix,1
 Adlicious,1
@@ -7510,7 +7473,6 @@ Allure Beauty Concepts,1
 Allwyn North America,1
 Alterome,1
 Alvarium Beer Co.,1
-Anglehealth,1
 Applied Blockchain,1
 Arbeiten bei ORCAYA,1
 Arc,1
@@ -7523,7 +7485,6 @@ Avant Arte,1
 Avantpark Dk,1
 Avidly Design Bu,1
 Azeti,1
-BARK,1
 BLAZE - Cannabis Dispensary POS Software,1
 BRUM Patenti,1
 Banxware,1
@@ -7562,7 +7523,6 @@ Capital Gymnastics - Round Rock,1
 CareAcross,1
 Careers in AI for Chemistry,1
 Carly,1
-Cats & Dogs,1
 ChargerHelp,1
 Cinemo,1
 Citex Group,1
@@ -7574,13 +7534,13 @@ Classavo,1
 Clearwaters.IT,1
 Clever Quarters,1
 Climate Policy Radar,1
-ClimateWorks Foundation,1
 Climatepartner Gmbh,1
 Clyso Gmbh,1
 Coba,1
 CodeHunter,1
 Compliance Instituut,1
 Cosphatec,1
+Covalent Networks,1
 Covermanager,1
 Crisalix Labs Slu,1
 Crk,1
@@ -7632,7 +7592,6 @@ Flooid,1
 Flowspace,1
 Flusso Ltd,1
 Flux,1
-Food System Innovations,1
 Foodforecast,1
 Forward Institute,1
 Friendlycaptcha,1
@@ -7685,7 +7644,6 @@ Hydrogrid,1
 Iam Cloud,1
 Iges Mobility Gmbh,1
 Imagine IT,1
-Immunefi,1
 Impact Expansion,1
 Inclusive Hub,1
 "Indigenous Pact PBC, Inc.",1
@@ -7740,6 +7698,7 @@ Lingopanda,1
 Links Academy,1
 Litcreate,1
 Little Accounting Services,1
+LiveData,1
 Livediligence,1
 Lone Rock Point,1
 Lowquotes.ie,1
@@ -7747,6 +7706,7 @@ Luciq (formerly Instabug),1
 Lumoview,1
 Luxuryrentalsmiamibeach,1
 M&I,1
+MPF Federal,1
 MSD,1
 Magic,1
 MainSpring -,1
@@ -7762,6 +7722,7 @@ Michigan Online School,1
 Micro Schools Network,1
 Micro:bit Educational Foundation,1
 Midwichgroupplc,1
+Mind Friend,1
 Mindable Health,1
 Mobilexpense,1
 Mogli Technologies,1
@@ -7780,12 +7741,12 @@ Ndd Medical Technologies Inc,1
 Neurocaregroup,1
 New Views,1
 Newleos,1
+Newstory,1
 Nexightgroup,1
 Nextron Systems,1
 Nimbl,1
 Noble,1
 Nobu Hotel Toronto,1
-Norfolk County,1
 North Georgia EMC,1
 Nous rejoindre S3NS,1
 Ntara,1
@@ -7803,7 +7764,6 @@ OeAD-GmbH – Agentur für Bildung und Internationalisierung,1
 Offstream,1
 Okticket,1
 One Acre Fund - Nigeria,1
-One Acre Fund - Tanzania,1
 Onpoint,1
 Onside,1
 Openfertility,1
@@ -7834,7 +7794,6 @@ Prokeep,1
 Provision IAM,1
 Proxymity,1
 Public,1
-Purple Carrot,1
 Pyreg Gmbh,1
 Pääkaupunkiseudun Kaupunkiliikenne Oy,1
 QaamGo Media GmbH,1
@@ -7844,6 +7803,7 @@ Radley,1
 Raft,1
 Raw Group,1
 RaySecur,1
+Re7 Capital,1
 Rebuy,1
 Red Classic,1
 Rehau New Ventures,1
@@ -7941,6 +7901,7 @@ Valve,1
 Vantel,1
 Vapaus,1
 Veecle,1
+Via Health,1
 Viberoptix,1
 Vision Group Ag,1
 Vocali,1
@@ -7948,7 +7909,6 @@ Volt.io,1
 VotingWorks,1
 WEBQAM Groupe,1
 WEconnect Health,1
-Wacom Europe GmbH,1
 Wallround,1
 Weicon Ro,1
 Welcome to Lifeline Hospital Asansol,1
