@@ -2,11 +2,10 @@
 
 Roles listing Paris as their location.
 
-_2,244 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
+_2,229 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| VENDEUR CONSEIL - CDI H/F | BOULANGER | Paris, fr | 2026-09-05 |
 | Chef de Partie (H/F/X) | AccorHotel | Paris, fr | 2026-09-05 |
 | Agent de réservation / Guest Relation (H/F/X) | AccorHotel | Paris, fr | 2026-09-05 |
 | Responsable de Magasin - F/H | Courir | Paris, fr | 2026-09-04 |
@@ -16,6 +15,7 @@ _2,244 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Director, Product (M/F/X) | HelloFresh | Paris, Paris, France | 2026-09-04 |
 | Revenue Operations Analyst, Paris | Mirakl | Paris, France | 2026-09-04 |
 | Product Designer IA H/F | NEXTON | Paris, fr | 2026-09-04 |
+| EMPLOYE COMMERCIAL (H/F) | Groupement Mousquetaires | Le Touquet-Paris-Plage, fr | 2026-09-04 |
 | Automotive Sales Consultant- Toyota of Paris | Sonic Automotive | Paris, us | 2026-09-04 |
 | Développeur sénior Drupal (H/F) | NEXTON | Paris, fr | 2026-09-04 |
 | Business Development Representative (BDR) | Zefir | Paris | 2026-09-04 |
@@ -85,14 +85,14 @@ _2,244 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Tech Lead Java / Angular (H/F) | Talan | Paris, fr | 2026-09-04 |
 | Engineering Manager | Believe | Paris, fr | 2026-09-04 |
 | ALTERNANCE - Chargé RH & Talents - F/H | ALTAREA | Paris, fr | 2026-09-04 |
-| PRN Physical Therapist Assistant (PTA) - Outpatient | H2 Health | Paris, United States | 2026-09-04 |
 | PRN Physical Therapist (PT) - Outpatient | H2 Health | Paris, United States | 2026-09-04 |
+| PRN Physical Therapist Assistant (PTA) - Outpatient | H2 Health | Paris, United States | 2026-09-04 |
 | Directeur Technique F/H | ALTAREA | Paris, fr | 2026-09-03 |
 | Consultant.e Change Management - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-03 |
 | Consultant.e RH - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-03 |
 | Consultant.e RH/Change - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-03 |
-| Project Manager, European Industrial Partnerships \| Chef de projet, Partenariats Européens industriels et Stratégiques | Vast | Paris, France | 2026-09-03 |
 | Project Manager, Human Spaceflight and Satellites \| Chef de projet, vols spatiaux habités et satellites | Vast | Paris, France | 2026-09-03 |
+| Project Manager, European Industrial Partnerships \| Chef de projet, Partenariats Européens industriels et Stratégiques | Vast | Paris, France | 2026-09-03 |
 | Policy Analyst | OECD | Paris, fr | 2026-09-03 |
 | Chef de Projet PMO / Analyste Financier Senior H/F | NEXTON | Paris, fr | 2026-09-03 |
 | CHARGE(E) DE PROJETS / DATA ANALYST CDD - Paris 17ème H/F | REXEL | PARIS, fr | 2026-09-03 |
@@ -195,20 +195,20 @@ _2,244 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Hôtesse de Caisse / Hôte de Caisse - F/H | Courir | PARIS, fr | 2026-09-02 |
 | Vendeuse / Vendeur - F/H | Courir | PARIS, fr | 2026-09-02 |
 | Chargé(e) de Stock - F/H | Courir | PARIS, fr | 2026-09-02 |
-| AI Engineer - Security - F/H/N | Octo | Paris, fr | 2026-09-02 |
 | Stage - AI Engineer - Security - F/H/N | OCTO Technology | Paris, fr | 2026-09-02 |
+| AI Engineer - Security - F/H/N | Octo | Paris, fr | 2026-09-02 |
 | AI engineer - Agentic / GEN AI - F/H/N | Octo | Paris, fr | 2026-09-02 |
 | Stage - AI engineer - Agentic / GEN AI - F/H/N | OCTO Technology | Paris, fr | 2026-09-02 |
-| Agent Ops | Octo | Paris, fr | 2026-09-02 |
 | Stage Agent Ops - F/H/N | OCTO Technology | Paris, fr | 2026-09-02 |
-| Stage - Implémentation de modèles d’IA à l’edge - F/HN | OCTO Technology | Paris, fr | 2026-09-02 |
+| Agent Ops | Octo | Paris, fr | 2026-09-02 |
 | Implémentation de modèles d’IA à l’edge | Octo | Paris, fr | 2026-09-02 |
+| Stage - Implémentation de modèles d’IA à l’edge - F/HN | OCTO Technology | Paris, fr | 2026-09-02 |
 | Product Owner Technique H/F | NEXTON | Paris, fr | 2026-09-02 |
 | Stage - Implémentation d'un agent de code IA souverain et sécuritaire - F/H/N | OCTO Technology | Paris, fr | 2026-09-02 |
 | Implémentation d'un agent de code IA souverain et sécuritaire | Octo | Paris, fr | 2026-09-02 |
 | Data/AI Engineer | Octo | Paris, fr | 2026-09-02 |
 | Stage Data/AI Engineer - F/H/N | OCTO Technology | Paris, fr | 2026-09-02 |
-| (Senior) Short-Term Flex Optimisation Analyst – Automated Flexibility Trading (m/f/d) | Statkraft | Paris, fr | 2026-09-02 |
+| Short-Term Flex Optimisation Analyst – Automated Flexibility Trading (m/f/d) | Statkraft | Paris, fr | 2026-09-02 |
 | Business Analyst Payments - H/F | Talan | Paris, fr | 2026-09-02 |
 | Senior Social Media Manager - France | Deliveroo | Paris - Main Office | 2026-09-02 |
 | Senior Hardware Design Engineer | Arago | Paris Offices | 2026-09-02 |
@@ -231,8 +231,8 @@ _2,244 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Développeur SAP BTP Intégration Suite Expérimenté - F/H | Talan | Paris, fr | 2026-09-01 |
 | Senior Recruiter (Contractor) | Photoroom | Paris | 2026-09-01 |
 | Senior Talent Acquisition Partner (Contractor) | Photoroom | Paris | 2026-09-01 |
-| Développeur·euse·x | Octo | Paris, fr | 2026-09-01 |
 | Stage - Développeur·euse·x - L'assurance qualité logicielle de demain - F/H/N | OCTO Technology | Paris, fr | 2026-09-01 |
+| Développeur·euse·x | Octo | Paris, fr | 2026-09-01 |
 | PT Sales Advisor - Le Bon Marché (24h/week) | ANINE BING | Paris, FR | 2026-09-01 |
 | French Legal Intern | FeverUp | Paris | 2026-09-01 |
 | EXPERT SERVICE CLIENT - CDD H/F | BOULANGER | PARIS, fr | 2026-09-01 |
@@ -248,8 +248,8 @@ _2,244 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Product Manager Design System H/F | NEXTON | Paris, fr | 2026-09-01 |
 | Juriste Droit Boursier (F/H/NB) | Ubisoft | Paris, fr | 2026-09-01 |
 | Account Manager Junior – Grands Comptes | Wavestone | Paris, fr | 2026-09-01 |
-| Consultant en organisation & IA - F/H/N | Octo | Paris, fr | 2026-09-01 |
 | Stage - Consultant en organisation & IA - F/H/N | OCTO Technology | Paris, fr | 2026-09-01 |
+| Consultant en organisation & IA - F/H/N | Octo | Paris, fr | 2026-09-01 |
 | IT Support & Security Assistant (M/F) - APPRENTICESHIP | Prose | Paris | 2026-09-01 |
 | Business Development Representative (BDR) | Vocca | Paris | 2026-09-01 |
 | Stage - Product design - Design system et IA Literacy - F/H/N | OCTO Technology | Paris, fr | 2026-09-01 |
@@ -293,10 +293,10 @@ _2,244 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Software Engineer | Vocca | Paris | 2026-08-31 |
 | Développeur·euse·x | Octo | Paris, fr | 2026-08-31 |
 | Stage - Développeur·euse·x - Stratégie de réécriture applicative assistée par IA - F/H/N | OCTO Technology | Paris, fr | 2026-08-31 |
-| IA Mobile Engineer | Octo | Paris, fr | 2026-08-31 |
 | Stage - IA Mobile Engineer - F/H/N | OCTO Technology | Paris, fr | 2026-08-31 |
-| Développeur·euse·x | Octo | Paris, fr | 2026-08-31 |
+| IA Mobile Engineer | Octo | Paris, fr | 2026-08-31 |
 | Stage - Développeur·euse·x - Moderniser une application Front - F/H/N | OCTO Technology | Paris, fr | 2026-08-31 |
+| Développeur·euse·x | Octo | Paris, fr | 2026-08-31 |
 | Pre-Sales | Alan | Paris, France | 2026-08-31 |
 | Growth Marketing Manager (F/M/NB) | Ubisoft | Paris, fr | 2026-08-31 |
 | Agency Development Lead – LinkedIn Marketing Solutions | LinkedIn | Paris, fr | 2026-08-31 |

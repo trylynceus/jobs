@@ -2,12 +2,32 @@
 
 Roles whose title reads as design.
 
-_12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
+_12,602 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| Delivery Driver (05383) - 1812-C Winchester Road Suite C | Domino's | Huntsville, us | 2026-09-05 |
+| Senior Talent Acquisition Partner, Manila (Call Center Leadership & High-volume Operations) | Careers at Eucalyptus | Manila, Manila, Philippines | 2026-09-07 |
+| Staff Visual Designer [L6-1] (Coupang Eats) | Coupang Internal | Seoul, South Korea | 2026-09-07 |
+| Staff Visual Designer (Coupang Eats) | Coupang | Seoul, South Korea | 2026-09-07 |
+| Senior Recruiter (Contract) | Airbyte | United States | 2026-09-06 |
+| SR Recruiter | Mint Cannabis |  | 2026-09-06 |
+| Recruiting Coordinator | Hex Technologies | SF | 2026-09-06 |
+| Director, Talent Acquisition Transformation | NICE | Israel - Raanana | 2026-09-06 |
+| Senior Recruiting Coordinator | Luxcapital |  | 2026-09-06 |
+| Product Designer | Wix | Tel Aviv, il | 2026-09-06 |
+| Social User Acquisition Manager | Connecteam | Tel Aviv District, Israel | 2026-09-06 |
+| Delivery Driver: East Wenatchee - 595 Grant Road, Suite 595-1 | Domino's | East Weatchee, us | 2026-09-06 |
+| Chef de Partie (Continental Cuisine - Hot & Cold) \| VIP Family | Apt Resources | Abu Dhabi, United Arab Emirates | 2026-09-06 |
+| Mid/Senior Embedded Linux Software Engineer \| Telematics | Teltonika | Kaunas, Lithuania | 2026-09-06 |
+| EMPLOYE LIBRE-SERVICE LIQUIDES CDI 30H | Groupement Mousquetaires | Izon, fr | 2026-09-05 |
+| Junior Product Designer | Clera | Munich | 2026-09-05 |
+| Founding Product Designer | Clera | San Francisco | 2026-09-05 |
+| Founding Product Designer | Clera | Copenhagen | 2026-09-05 |
+| Fractional Founding Designer | Clera | San Francisco | 2026-09-05 |
+| Visual Designer | Clera | Vienna | 2026-09-05 |
+| MODELE INTERMARCHE - RESPONSABLE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | saint maximin, fr | 2026-09-05 |
 | Spacecraft Embedded Linux Engineer II | Varda Space Industries | El Segundo, California, United States | 2026-09-05 |
+| RESPONSABLE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | Saint-Maximin-la-Sainte-Baume, fr | 2026-09-05 |
 | Motion / 3D Designer | We Are Rosie | New York, us | 2026-09-05 |
 | Sr. Enablement Strategist - Smart Buildings | Realpage |  | 2026-09-05 |
 | Senior Recruitment and Retention Analyst | City of New York | New York City, us | 2026-09-05 |
@@ -18,13 +38,16 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Adjoint de Rayon Fruits et Légumes H/F | METRO/MAKRO | Sassenage, fr | 2026-09-05 |
 | Réceptionniste de nuit en hôtellerie H/F | AccorHotel | LYON, fr | 2026-09-05 |
 | Conseiller de vente Fruits & Légumes F/H | METRO/MAKRO | Wattrelos, fr | 2026-09-05 |
+| Employé commercial fruits et légumes (H/F) | Groupement Mousquetaires | Valence, fr | 2026-09-05 |
 | Collaborative Health Clinical Faculty (part-time): St. Louis, MO | Covista | St. Louis, us | 2026-09-05 |
 | Complex Adult Health/Critical Care Clinical Faculty (Part-Time)- St. Louis, Missouri | Covista | St. Louis, us | 2026-09-05 |
 | Capstone Clinical Faculty (part-time): St. Louis, MO | Covista | St. Louis, us | 2026-09-05 |
 | Maternal Child Clinical Faculty (Part-Time/BSNOL Program): St. Louis, Missouri | Covista | St. Louis, us | 2026-09-05 |
 | Senior Recruiter | Poseidonaero | Alameda | 2026-09-05 |
 | Senior UX Researcher, Customer & Partner Experience | ServiceNow | Chicago, us | 2026-09-05 |
+| Social Media & Communications Designer \| Fluent C2 English Role | Puulse Marketing | Colombia | 2026-09-05 |
 | Graphic Designer & Social Media Coordinator | Law Offices of Sabrina Li | Taiwan | 2026-09-05 |
+| Recruiter Voice | Datamark, Inc. | Chennai, India | 2026-09-05 |
 | Jr. Digital Designer | Monks | Mexico City | 2026-09-04 |
 | Product Designer, Growth Pricing & Revenue Systems | Gusto, Inc. | Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid | 2026-09-04 |
 | Senior Technical Recruiter | Valar Atomics | Orangeville, Utah, United States | 2026-09-04 |
@@ -34,9 +57,9 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Product Designer, Evals & Prompts | Anthropic | San Francisco, CA | 2026-09-04 |
 | Senior Experience Designer – Banner | EVERSANA | Chicago, us | 2026-09-04 |
 | Staff Engineer - Launch Fluids Engineering | Relativity Space | Long Beach, California, United States | 2026-09-04 |
-| Principal Product Designer | Offerup | California | 2026-09-04 |
+| Principal Product Designer, Brand and Experience | Offerup | California | 2026-09-04 |
 | Principal Product Designer, Brand and Experience (Contract, Hands-On) | OfferUp | California | 2026-09-04 |
-| Principal Product Designer | Offerup | Bellevue, WA | 2026-09-04 |
+| Principal Product Designer. Brand and Experience | Offerup | Bellevue, WA | 2026-09-04 |
 | Principal Product Designer. Brand and Experience (Contract, Hands-On) | OfferUp | Bellevue, WA | 2026-09-04 |
 | Team Lead, G&A Recruiter | Trm Labs | United States | 2026-09-04 |
 | Nurse Practitioner (Remote, SC License Required) | Galileo | Remote, United States | 2026-09-04 |
@@ -65,6 +88,7 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Equipment Reliability Engineer | Jack Link's Protein Snacks | Perry, us | 2026-09-04 |
 | Senior Product Designer II | Handshake | San Francisco, CA | 2026-09-04 |
 | Field Technician Equipment Maintenance Specialist | AECOM | Vaughan, ca | 2026-09-04 |
+| EMPLOYE FRUITS ET LEGUMES (H/F) CONFIRME | Groupement Mousquetaires | Limoges, fr | 2026-09-04 |
 | Creative Designer | Accenture Federal Services | Arlington, VA | 2026-09-04 |
 | Staff Product Designer, Customer & Partner Experience | ServiceNow | Orlando, us | 2026-09-04 |
 | G&A Recruiter | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-04 |
@@ -90,14 +114,14 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Harlingen, TX | 2026-09-04 |
 | Senior Interactive Designer | Webai | Austin, TX | 2026-09-04 |
 | Senior Interactive Designer | Webai | Austin, TX | 2026-09-04 |
-| Recruiting Coordinator (Contract) | Cloudflare |  | 2026-09-04 |
 | Recruiting Coordinator (Contract) | Cloudflare | Hybrid | 2026-09-04 |
+| Recruiting Coordinator (Contract) | Cloudflare |  | 2026-09-04 |
 | Customer Service Agent English Speaker - Night Shifts (m/f/d) - Availability to start on 14th September required | SIXT | Lisbon, pt | 2026-09-04 |
 | Associate Creative Director, Copy (Pharma Ad Agency Experience Required) | EVERSANA | Chicago, us | 2026-09-04 |
 | Guidance, Navigation & Control Engineer | Helsing | London | 2026-09-04 |
 | Recruiter | Clera | San Francisco | 2026-09-04 |
 | City Hall Building Manager (0923) - Real Estate Division, Office of City Administrator | City and County of San Francisco | San Francisco, us | 2026-09-04 |
-| Sales Development Representative - Dutch, Flemish & French Speaking (Benelux/Europe) | Nivoda | Remote - European timezone | 2026-09-04 |
+| Sales Development Representative - Dutch/Flemish & French Speaking (Benelux-Europe) | Nivoda | Remote - European timezone | 2026-09-04 |
 | Patient Recruiter | Care Access | USA Remote | 2026-09-04 |
 | Recruiting Coordinator | Vanta | London, UK | 2026-09-04 |
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Hutto, TX | 2026-09-04 |
@@ -109,6 +133,8 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Senior Product Designer | Kayak | Berlin | 2026-09-04 |
 | Senior Product Designer, K4B | Kayak | Berlin Office | 2026-09-04 |
 | 2027 Equity Middle Office Intern | Schonfeld | New York, New York, United States | 2026-09-04 |
+| EMPLOYÉ AU RAYON FRUITS ET LÉGUMES (H/F) | Groupement Mousquetaires | Cugnaux, fr | 2026-09-04 |
+| RESPONSABLE DE SECTEUR ÉPICERIE LIQUIDE DPH (H/F) | Groupement Mousquetaires | Cugnaux, fr | 2026-09-04 |
 | RECRUITMENT & COMMUNITY RELATIONS MANAGER | Home Instead | Loughborough, gb | 2026-09-04 |
 | Head of Growth, Benelux & Nordics (Experience & Engineering) | DEPT® | Amsterdam, Rotterdam; Netherlands | 2026-09-04 |
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Woodland, CA | 2026-09-04 |
@@ -169,7 +195,6 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Equipier Commercial Univers Sec CDI F/H | METRO/MAKRO | Annecy, fr | 2026-09-04 |
 | Senior Product Designer, Content Design & Language Systems | Docebo | Toronto, Ontario | 2026-09-04 |
 | Presuit Secretary | Morgan & Morgan, P.A. | Philadelphia, Pennsylvania, United States | 2026-09-04 |
-| Mechanical Designer – Hydroelectric Facilities | AECOM | Halifax, ca | 2026-09-04 |
 | Talent Acquisition Coordinator | HSMC | Milford, us | 2026-09-04 |
 | FR - Commis de cuisine H/F | Hana Group | Montereau, fr | 2026-09-04 |
 | Auxiliaire de vie H/F | Ouihelp | Marcq-en-Baroeul | 2026-09-04 |
@@ -182,13 +207,12 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Praktikum in der Personalentwicklung und Recruiting | Bosch Group | München, de | 2026-09-04 |
 | Senior Early Careers Recruiter | Wise | Tallinn, ee | 2026-09-04 |
 | Senior Structural CAD Designer - Bridges | Egis Group | Edmonton, ca | 2026-09-04 |
-| Staff Product Designer | Sarah Smith Fund | San Francisco | 2026-09-04 |
 | Staff Product Designer | F2 Ai | San Francisco | 2026-09-04 |
+| Staff Product Designer | Sarah Smith Fund | San Francisco | 2026-09-04 |
 | Senior Structural CAD Designer - Bridges | Egis Group | Kingston, ca | 2026-09-04 |
 | Senior UI/UX Designer | Perry Street Software | Remote | 2026-09-04 |
 | Ingénieur Qualité Produit - Secteur Aéronautique H/F | ALTEN | Toulouse, fr | 2026-09-04 |
 | FR_Equipier Commercial - CDD F/H | METRO/MAKRO | Nancy, fr | 2026-09-04 |
-| Senior Designer - Electrical (Resources + Industry) | AECOM | Centurion, za | 2026-09-04 |
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Abilene, TX | 2026-09-04 |
 | Talent Acquisition Specialist | Devoteam | Lisboa, pt | 2026-09-04 |
 | Supervisor de Vendas - São José/SC - Forquilhinhas | Agibank | São José, Santa Catarina, Brasil | 2026-09-04 |
@@ -196,7 +220,6 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Luxury Reservation Consultant / French Speaker (Part-Time) | AccorCorpo | Barcelona, es | 2026-09-04 |
 | Auxiliaire de vie H/F | Ouihelp | Castelnau le lez | 2026-09-04 |
 | Product Designer (Milan) | Eightsleep | Milan | 2026-09-04 |
-| Ingénieur(e) hydraulique et gestion des eaux | AECOM | Montréal, ca | 2026-09-04 |
 | Heavy Equipment CDL Driver | EquipmentShare | Krum, TX | 2026-09-04 |
 | Heavy Equipment CDL Driver | EquipmentShare | O'Fallon, IL (Advanced Solutions) | 2026-09-04 |
 | Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Okmulgee, OK (Onsite Yard) | 2026-09-04 |
@@ -236,6 +259,7 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Manager d'équipe de Chefs de Projet PLM - IDF | Sopra Steria Corporate | Courbevoie, fr | 2026-09-04 |
 | STAFF PRODUCT DESIGNER SÊNIOR - VISUAL DESING | iFood | Remoto | 2026-09-04 |
 | Junior Vertriebler Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hannover, de | 2026-09-04 |
+| MODELE INTERMARCHE - RESPONSABLE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | LONGNY-AU-PERCHE, fr | 2026-09-04 |
 | Building Services Technician | Frasers Group | Shirebrook, gb | 2026-09-04 |
 | Building Services Engineer | Frasers Group | Shirebrook, gb | 2026-09-04 |
 | Site Management Associate (Japanese Skill required) | PSI CRO | Bangkok, th | 2026-09-04 |
@@ -267,6 +291,7 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Spécialiste Matériaux et Procédés (Aéronautique) F/H | ALTEN | Toulouse, fr | 2026-09-04 |
 | Sr Talent Acquisition Partner | Vectra AI | Texas City, Texas, United States | 2026-09-04 |
 | Second de Cuisine (H/F) - Restaurant gastronomique 1* Michelin | Relais & Châteaux | Strasbourg, fr | 2026-09-04 |
+| employé fruits et legumes (H/F) | Groupement Mousquetaires | Castanet-Tolosan, fr | 2026-09-04 |
 | Finance Business Partner Systems (12 Months FTC - Anaplan Model builder) | Wise | London, gb | 2026-09-04 |
 | FPGA-Designer till Försvarsindustrin | AFRY | Stockholm, se | 2026-09-04 |
 | Femme de chambre / Valet de chambre du Chambard***** Relais&Châteaux | Relais & Châteaux | Kaysersberg Vignoble, fr | 2026-09-04 |
@@ -281,31 +306,6 @@ _12,651 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Consultant.e Junior en Transformation Digitale - Cloud Connect : Comment moderniser les infrastructures face aux défis technologiques et organisationnels ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-04 |
 | Consultant.e Junior en Transformation Digitale - Cloud Connect : Comment adapter les systèmes d'information aux enjeux de résilience et de souveraineté ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-04 |
 | Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE) | Wavestone | Paris, fr | 2026-09-04 |
-| Designer | Menlo Research | Singapore | 2026-09-04 |
-| Ingénieur Qualité Produit H/F | ALTEN | Fougères, fr | 2026-09-04 |
-| Superviseur travaux GC H/F | ASSYSTEM | Toulon, fr | 2026-09-04 |
-| Elektronikdesigner | AFRY | Stockholm, se | 2026-09-04 |
-| Linux Security Engineer | Sopra Steria Corporate | Flanders/Brussels, be | 2026-09-04 |
-| ASSISTANT ADMINISTRATIF DE TRAVAUX F/H - TEMPS PARTIEL | Ingérop | SAINT-HOSTIEN, fr | 2026-09-04 |
-| Equipment Engineer - Manufacturing Engineering | Western Digital | Bayan Lepas, my | 2026-09-04 |
-| OUTLET - Responsable d'Equipe - F/H | Courir | STE GENEVIEVE DES BOIS, fr | 2026-09-04 |
-| INGENIEUR D'AFFAIRES CVC / FLUIDES - ENVIRONNEMENT CONTROLE F/H | Ingérop | Cébazat, fr | 2026-09-04 |
-| Assistant Travaux H/F | Spie batignolles | Le Grand-Quevilly, fr | 2026-09-04 |
-| Medior Uitvoerder Civiel | BESIX | Arnhem, nl | 2026-09-04 |
-| Opérateur Réseaux (H/F) | Veolia Environnement SA | Cluses, fr | 2026-09-04 |
-| Ingénieur Chargé d'Affaires Fluides (H/F) | ALTEN | Montoir-de-Bretagne, fr | 2026-09-04 |
-| Graphic Designer - Generalist | Bellroy | Collingwood, Victoria, Australia | 2026-09-04 |
-| Chargé d'Affaires Réglementaires Produits Chimiques H/F | SOCOTEC | Puteaux, fr | 2026-09-04 |
-| Chargé d'Affaires Evaluation des Risques Sanitaires et Environnementaux H/F | SOCOTEC | Paris la Defense, fr | 2026-09-04 |
-| Recruiting & Onboarding Lead \| SAP SuccessFactors Implementierung (m/w/x) | REWE International Dienstleistungsgesellschaft m.b.H | Wiener Neudorf, at | 2026-09-04 |
-| Commis de cuisine H/F | Hana Group | Ibos, fr | 2026-09-04 |
-| Senior Project Designer | Umdasch Group | Floresti, ro | 2026-09-04 |
-| Junior Project Designer | Umdasch Group | Floresti, ro | 2026-09-04 |
-| Project Designer | Umdasch Group | Floresti, ro | 2026-09-04 |
-| Technician Manufacturing Equipment | Sandisk | Batu Kawan, my | 2026-09-04 |
-| Auxiliaire de vie H/F | Ouihelp | Haubourdin | 2026-09-04 |
-| Auxiliaire de vie H/F | Ouihelp | Faches-Thumesnil | 2026-09-04 |
-| Auxiliaire de vie H/F | Ouihelp | Lille | 2026-09-04 |
 
 ---
 

@@ -2,10 +2,12 @@
 
 Roles listing Amsterdam as their location.
 
-_1,613 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
+_1,612 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Senior Software Engineer — Infra Agent Systems | Together AI | Amsterdam | 2026-09-06 |
+| Field Engineer / Forward Deployed Engineer | Clera | Amsterdam | 2026-09-05 |
 | Financial Controller | B&S International | Amsterdam, nl | 2026-09-05 |
 | Project Management Principal | Metyis | Amsterdam, Netherlands | 2026-09-05 |
 | Data Governance Lead (Amsterdam, NLD) | B Lab | Amsterdam, NL; London, UK; São Paulo, BR | 2026-09-04 |
@@ -72,9 +74,9 @@ _1,613 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Senior Product Designer - Digital Relive | Polarsteps | Amsterdam | 2026-09-03 |
 | Commercial Finance Manager BeNeLux & E-Commerce | Jack Link's Protein Snacks | Amsterdam, nl | 2026-09-03 |
 | Team Assistant \| Real Estate Advisory Services | Colliers International EMEA | Amsterdam, nl | 2026-09-03 |
-| Diesel Mechanic Technician | Miller Transportation Group | Amsterdam, United States | 2026-09-03 |
 | Personal Trainer - Amsterdam | Ultimate Performance | Amsterdam, Netherlands | 2026-09-03 |
 | Body Shop Technician | Miller Transportation Group | Amsterdam, United States | 2026-09-03 |
+| Diesel Mechanic Technician | Miller Transportation Group | Amsterdam, United States | 2026-09-03 |
 | Legal Commercial Counsel, EMEA | Axon | Amsterdam, North Holland, Netherlands | 2026-09-02 |
 | Solutions Architect (Pre-sales) - Benelux Strategic Accounts | Databricks | Amsterdam, Netherlands | 2026-09-02 |
 | Vice President, Demand Generation (ALT: Revenue Marketing) | Backbase | Amsterdam | 2026-09-02 |
@@ -162,7 +164,6 @@ _1,613 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Project Manager (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Warsaw, Masovian Voivodeship, Poland | 2026-08-27 |
 | Rental Sales Agent (m/v/d) | SIXT | Amsterdam, nl | 2026-08-27 |
 | Onboarding Specialist - Netherlands | Tebi | Amsterdam | 2026-08-27 |
-| Duty Supervisor | Etihad Airways | Amsterdam, nl | 2026-08-27 |
 | Java Engineer in Java Application Core Components team | Adyen | Amsterdam | 2026-08-27 |
 | Senior Compliance Manager | Backbase | Amsterdam | 2026-08-27 |
 | Enterprise Expansion Account Executive | Snowflake | NL-Amsterdam | 2026-08-27 |
@@ -200,8 +201,8 @@ _1,613 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | AI Product Manager | Workwize | Amsterdam | 2026-08-26 |
 | Head of Accounting & Tax | MODIFI GmbH | Amsterdam, Netherlands | 2026-08-26 |
 | EMEA Sales Development Representative | Lucid Software | Amsterdam, NL | 2026-08-25 |
-| Medior Managed Services Engineer | Reliance | Amsterdam | 2026-08-25 |
 | Project Engineer | Reliance | Amsterdam | 2026-08-25 |
+| Medior Managed Services Engineer | Reliance | Amsterdam | 2026-08-25 |
 | Mid-level Backend Engineer, IAM | Datasnipper | Amsterdam | 2026-08-25 |
 | Senior Backend Engineer | Datasnipper | Amsterdam | 2026-08-25 |
 | Merchant Fraud Analyst | Adyen | Amsterdam | 2026-08-25 |
@@ -211,8 +212,8 @@ _1,613 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Vrachtwagenchauffeur Kipper | Boskalis | Amsterdam, nl | 2026-08-25 |
 | Front Office Agent | Odysseyhotelgroup | Amsterdam, Netherlands | 2026-08-25 |
 | Director, EU Supply Chain | Acadia Pharmaceuticals Inc. | Amsterdam, North Holland, Netherlands | 2026-08-24 |
-| Sales Development Representative - German Speaking | Nuvei | Netherlands, North Holland, Amsterdam | 2026-08-24 |
 | Sales Development Representative - Italian Speaking | Nuvei | Amsterdam | 2026-08-24 |
+| Sales Development Representative - German Speaking | Nuvei | Netherlands, North Holland, Amsterdam | 2026-08-24 |
 | Staff Backend Engineer – AI | Stream | Amsterdam office | 2026-08-24 |
 | Principal Value Engineer | Celonis | Amsterdam, Netherlands | 2026-08-24 |
 | Engineering Manager | Tebi | Amsterdam | 2026-08-24 |
@@ -305,7 +306,6 @@ _1,613 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Founding Account Executive - API & AI Platform | Creative Fabrica | Amsterdam, North Holland, Netherlands | 2026-08-19 |
 | Senior Credit Risk Analyst - Netherlands | Riverbank | Amsterdam, nl | 2026-08-19 |
 | Store Manager (Amsterdam) | Vuori, Inc | Amsterdam, nl | 2026-08-19 |
-| Medior Producer | DEPT® | Amsterdam | 2026-08-19 |
 
 ---
 

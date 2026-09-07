@@ -2,7 +2,7 @@
 
 Roles listing Madrid as their location.
 
-_894 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
+_889 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -26,6 +26,7 @@ _894 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Team Manager | Primark | Madrid, es | 2026-09-04 |
 | Business Performance Senior Manager | FeverUp | Madrid | 2026-09-04 |
 | Técnico.a EHS | Veolia Environnement SA | Rivas-Vaciamadrid, es | 2026-09-04 |
+| Business Development Representative - Spanish Market | Amenitiz | Madrid | 2026-09-04 |
 | Department Manager | Primark | Madrid, es | 2026-09-04 |
 | Junior Salesforce Security Consultant | Sika AG | Madrid, es | 2026-09-04 |
 | Senior Revenue Ops | Alan | Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France; Madrid, Spain; Barcelona, Spain | 2026-09-04 |
@@ -89,11 +90,11 @@ _894 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Director, Regional Partners - SEUR | Wiz, Inc. | Madrid, Spain | 2026-09-02 |
 | Account Development Associate (English Speaker) | FeverUp | Madrid | 2026-09-02 |
 | Clinical Research Associate II | Ergomed | Madrid, es | 2026-09-02 |
-| UAV Development Technical Lead | Destinus | Madrid, Spain | 2026-09-02 |
-| Sales & Marketing Director | Hustler Marketing | Madrid, Spain | 2026-09-02 |
-| Motion Designer, Freelance (Remote) | 1000heads | Madrid, Spain | 2026-09-02 |
-| Freelance Recruiter - Work Remote In Spain | Mercier Consultancy Group | Madrid, Spain | 2026-09-02 |
 | Workplace Lead | Destinus | Madrid, Spain | 2026-09-02 |
+| Sales & Marketing Director | Hustler Marketing | Madrid, Spain | 2026-09-02 |
+| UAV Development Technical Lead | Destinus | Madrid, Spain | 2026-09-02 |
+| Freelance Recruiter - Work Remote In Spain | Mercier Consultancy Group | Madrid, Spain | 2026-09-02 |
+| Motion Designer, Freelance (Remote) | 1000heads | Madrid, Spain | 2026-09-02 |
 | Salesforce Senior Technical Architect | Cabify | Madrid | 2026-09-01 |
 | Customer Insights & Strategy Lead - Affiliate Marketing (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; Iași, Iași, Romania; London, England, United Kingdom; Madrid, Madrid, Spain; Manchester, England, United Kingdom; Milano, Milan, Italy; Warsaw, Masovian Voivodeship, Poland | 2026-09-01 |
 | Global Incentives Intern | Nexthink | Madrid, es | 2026-09-01 |
@@ -148,8 +149,8 @@ _894 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Project Management Office Administrator | The Adaptavist Group | Madrid, es | 2026-08-28 |
 | Global Operations Intern - Start January 2027 | FeverUp | Madrid | 2026-08-28 |
 | Junior DevOps Consultant | Devoteam | Madrid, es | 2026-08-28 |
-| Software Engineer - Frontend | Auctane | Madrid, ES | 2026-08-28 |
 | Software Engineer - Java | Auctane | Madrid, ES | 2026-08-28 |
+| Software Engineer - Frontend | Auctane | Madrid, ES | 2026-08-28 |
 | Consultor de Remediación M365 a GWS | Devoteam | Madrid, es | 2026-08-28 |
 | Multi-Hotel Revenue Manager \| 12-Month Fixed-Term Contract | AccorCorpo | Madrid, es | 2026-08-28 |
 | Legal & Compliance Ops | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-08-28 |
@@ -190,8 +191,8 @@ _894 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Telesales Agent – French Speaking | lastminute.com | Madrid, es | 2026-08-26 |
 | Specialist/Snr Specialist Study Start Up and Regulatory Affairs | Ergomed | Madrid, es | 2026-08-26 |
 | Analytics Engineer | Celonis | Madrid, Spain | 2026-08-26 |
-| Head of Legal Engineering | Legora | Madrid | 2026-08-26 |
 | Head of Legal Engineering, Spain | Legora | Madrid | 2026-08-26 |
+| Head of Legal Engineering | Legora | Madrid | 2026-08-26 |
 | Client Solutions Director (Advertising & Creative Operations) | OLIVER Agency | Madrid, Spain | 2026-08-26 |
 | Internship Event Project Manager - German speaker | FeverUp | Madrid | 2026-08-26 |
 | Process Optimization & Automation Manager | FeverUp | Madrid | 2026-08-26 |
@@ -294,9 +295,9 @@ _894 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Engineering Manager .NET | Auctane | Madrid, ES | 2026-08-17 |
 | Commercial & Operations Support Graduate (Intership) | Coface | Madrid, es | 2026-08-17 |
 | Global Content Graduated Internship (12 months) | Celonis | Madrid, Spain | 2026-08-17 |
+| Social Creative & Art Director | We Are Social | Madrid, Spain | 2026-08-16 |
 | Creative Community Manager | We Are Social | Madrid, Spain | 2026-08-16 |
 | Social- First Project Manager | We Are Social | Madrid, Spain | 2026-08-16 |
-| Social Creative & Art Director | We Are Social | Madrid, Spain | 2026-08-16 |
 | Legal Engineer, Madrid | Harvey | Madrid | 2026-08-14 |
 | SEO Outreach Specialist - Spain (12 month contract) | Canva | Madrid, es | 2026-08-14 |
 | Product Manager | OPSWAT | Madrid, Madrid, Spain; Veszprém, Veszprém, Hungary | 2026-08-14 |
@@ -305,7 +306,6 @@ _894 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Senior Security Engineer - Spain | Auctane | Barcelona, ES; Madrid, ES; Mallorca, ES; Sevilla, ES; Valencia, ES | 2026-08-14 |
 | Lead Finance Business Partner | Celonis | Madrid, Spain | 2026-08-14 |
 | Enterprise Account Manager | Adyen | Madrid | 2026-08-14 |
-| Mozo/a de Almacén | Fernández | Madrid, Spain | 2026-08-14 |
 
 ---
 

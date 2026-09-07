@@ -2,10 +2,18 @@
 
 Roles listing New York as their location.
 
-_12,749 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
+_12,724 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Accounting Manager | Kalshi | New York Office | 2026-09-06 |
+| Staff Software Engineer | Valon | New York | 2026-09-06 |
+| Senior Software Engineer | Valon | New York | 2026-09-05 |
+| Senior Workplace Experience Coordinator | Fomo Labs | New York City | 2026-09-05 |
+| Founding Engineer | Clera | New York | 2026-09-05 |
+| Founding Engineer | Clera | New York | 2026-09-05 |
+| Operations Associate | Nen Creative | New York City | 2026-09-05 |
+| Software Engineer: Internal Automation | Rogo | New York City | 2026-09-05 |
 | Motion / 3D Designer | We Are Rosie | New York, us | 2026-09-05 |
 | Account Services Representative | NBCUniversal | New York, us | 2026-09-05 |
 | Analyst, Commerce Analytics (Contract) | NBCUniversal | New York, us | 2026-09-05 |
@@ -62,7 +70,6 @@ _12,749 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Finance & Strategy, Datacenter Strategic Initiatives | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-04 |
 | Senior Manager, Infrastructure Asset Accounting | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-04 |
 | Senior L&D Specialist | Gusto, Inc. | Denver, CO - Hybrid; Las Vegas, NV - Remote; New York, New York, United States; Phoenix, AZ - Remote; San Francisco, CA - Hybrid | 2026-09-04 |
-| Procurement Operations Business Partner, R&D Operations | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-04 |
 | Transformation Associate | Harvey | New York | 2026-09-04 |
 | Product Design Leader, Banking | Gusto, Inc. | Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid | 2026-09-04 |
 | Security engineer, application security | Writer | New York City, NY | 2026-09-04 |
@@ -115,6 +122,7 @@ _12,749 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Supervisor, Media Planning | BarkleyOKRP | Kansas City, MO / Chicago, IL / New York, NY / Denver, CO / Remote | 2026-09-04 |
 | Associate Director, Managed Business Services | Oscar Health | New York, New York, United States | 2026-09-04 |
 | Head of Data & Analytics | Orchestra | New York, N.Y., Washington, D.C., or San Francisco, C.A. | 2026-09-04 |
+| Head of Data & Analytics | Orchestra | New York, N.Y., Washington, D.C., or San Francisco, C.A | 2026-09-04 |
 | Account Executive, Scale, MEGS | Braze | New York City | 2026-09-04 |
 | Senior Program Manager- Program Management (Portfolio/PMO) | Turner & Townsend | New York, us | 2026-09-04 |
 | Growth Marketing Lead, Programmatic & Video | Brex | New York, New York, United States | 2026-09-04 |
@@ -163,7 +171,6 @@ _12,749 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Sales Strategy and Operations Associate | LinkedIn | New York, us | 2026-09-04 |
 | Senior Manager, GTM Systems | Alloy | New York City | 2026-09-04 |
 | 2027 Systematic COO Intern | Schonfeld | New York, New York, United States | 2026-09-04 |
-| Retail Operations Manager | AccorHotel | New York, us | 2026-09-04 |
 | 2027 Equity Middle Office Intern | Schonfeld | New York, New York, United States | 2026-09-04 |
 | Technical Product Support Specialist | Bubble | NYC, New York | 2026-09-04 |
 | 2027 DMFI Technology Intern | Schonfeld | New York, New York, United States | 2026-09-04 |
@@ -280,32 +287,25 @@ _12,749 open · showing the 300 most recent · updated 2026-09-06 04:19 UTC_
 | Supervisor, Paid Social | BarkleyOKRP | Kansas City, MO; Denver, CO; Chicago, IL; New York, NY; Remote | 2026-09-04 |
 | VP of Engineering, Product Platform | Squarespace | New York City | 2026-09-04 |
 | Manager, Technical Deployment (Financial Services) | Anthropic | New York City, NY | 2026-09-04 |
-| Senior Python Data Scraping Engineer (Freelance) | Mindrift | New York, United States | 2026-09-04 |
-| Content Designer | Atria Health and Research Institute | New York, United States | 2026-09-04 |
-| AI Trainer - Freelance Data Annotator | Mindrift - Data annotation | New York, United States | 2026-09-04 |
 | Talent Acquisition Lead | Premium Merchant Funding | New York, United States | 2026-09-04 |
-| People Operations Generalist | Future Publishing | New York, United States | 2026-09-04 |
-| Freelance Annotator (English) - AI Trainer | Mindrift - Data annotation | New York, United States | 2026-09-04 |
-| People Operations & Benefits Generalist | Future Publishing | New York, United States | 2026-09-04 |
-| Account Manager | Chase Design Group | New York, United States | 2026-09-04 |
 | Senior Vice President, Investments | Bridge33 Capital | New York, United States | 2026-09-04 |
-| Remote OT (Occupational Therapist) New York State K-12 Schools | Fullmind | New York, United States | 2026-09-04 |
-| Partnership Operations Manager (AdTech) | Fluent, LLC | New York, United States | 2026-09-04 |
+| Senior Python Data Scraping Engineer (Freelance) | Mindrift | New York, United States | 2026-09-04 |
 | Marketing Operations Manager, Partnerships (AdTech) | Fluent, LLC | New York, United States | 2026-09-04 |
-| Account Director | Chase Design Group | New York, United States | 2026-09-04 |
+| Remote OT (Occupational Therapist) New York State K-12 Schools | Fullmind | New York, United States | 2026-09-04 |
+| People Operations Generalist | Future Publishing | New York, United States | 2026-09-04 |
+| People Operations & Benefits Generalist | Future Publishing | New York, United States | 2026-09-04 |
+| Partnership Operations Manager (AdTech) | Fluent, LLC | New York, United States | 2026-09-04 |
 | Senior Campaign Copywriter | Chase Design Group | New York, United States | 2026-09-04 |
+| Account Director | Chase Design Group | New York, United States | 2026-09-04 |
+| Freelance Annotator (English) - AI Trainer | Mindrift - Data annotation | New York, United States | 2026-09-04 |
+| Account Manager | Chase Design Group | New York, United States | 2026-09-04 |
+| AI Trainer - Freelance Data Annotator | Mindrift - Data annotation | New York, United States | 2026-09-04 |
+| Content Designer | Atria Health and Research Institute | New York, United States | 2026-09-04 |
 | Manager, Account Executive \| Commercial | Ramp | New York, NY (HQ) | 2026-09-03 |
 | Sales Strategy, Operational Excellence | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-03 |
 | Head Coach | sweetgreen | New York, NY | 2026-09-03 |
 | Sales Development Representative, Mid-Market | Ramp | New York, NY (HQ) | 2026-09-03 |
 | Sales Development Representative, SMB | Ramp | New York, NY (HQ) | 2026-09-03 |
-| Business Development Manager - Drug Discovery | Eurofins | New York, us | 2026-09-03 |
-| Senior Revenue Enablement Manager | Dashlane | New York, NY | 2026-09-03 |
-| Sr Strategic Sourcing Mgr | ServiceNow | New York, us | 2026-09-03 |
-| Brand Designer, Creative Studio | Notion | New York, New York | 2026-09-03 |
-| [US-HQ] Global CX Continuous Improvement Manager | HelloFresh | New York, NY, United States; Newark, NJ, United States | 2026-09-03 |
-| Sales Development Representative | Wingspan | New York | 2026-09-03 |
-| Sales Development Representative | Wingspan | New York | 2026-09-03 |
 
 ---
 
