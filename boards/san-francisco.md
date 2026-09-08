@@ -2,12 +2,24 @@
 
 Roles listing San Francisco as their location.
 
-_12,559 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
+_12,548 open · showing the 300 most recent · updated 2026-09-08 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Senior Revenue Accountant | Databricks | Mountain View, California; San Francisco, California | 2026-09-08 |
+| Associate, Strategic Finance - Online Subscriptions | LinkedIn | San Francisco, us | 2026-09-07 |
+| Royal Service Agent (Hotel Phone Operator) | AccorHotel | San Francisco, us | 2026-09-07 |
+| Senior Software Engineer - Video Performance - (Bay area only) | Canva | San Francisco, us | 2026-09-07 |
+| Revenue Operations Manager | Workstream | San Francisco | 2026-09-06 |
 | Senior Data Analytics Engineer, Hardware Quality | Ōura | Hybrid - San Francisco, California | 2026-09-06 |
+| Senior Data Analytics Engineer, Hardware Quality | Ouraring | San Francisco, California | 2026-09-06 |
+| Staff Software Engineer - Video Performance - (Bay area only) | Canva | San Francisco, us | 2026-09-06 |
+| Staff Software Engineer, Model Infrastructure | Harvey | San Francisco | 2026-09-06 |
+| Senior Software Engineer, Model Infrastructure | Harvey | San Francisco | 2026-09-06 |
 | Global Supply Manager, Electronics & PCBA | Redwood Materials | San Francisco, California, United States | 2026-09-06 |
+| Agent Reliability Engineer, GTM | LangChain | San Francisco, CA | 2026-09-06 |
+| Solutions Engineer, Mid-Market, SF | Factory | San Francisco, CA | 2026-09-06 |
+| Site Selection Lead | Openai | San Francisco | 2026-09-06 |
 | Founding Full Stack Engineer | Clera | San Francisco | 2026-09-06 |
 | Materials and Process Engineer | Amperesand | Reno, Nevada, United States; San Francisco, California, United States | 2026-09-06 |
 | Account Executive - Public Sector | Promise | San Francisco | 2026-09-05 |
@@ -64,8 +76,6 @@ _12,559 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 | Sr./Staff Technical Program Manager - Lithium | Marianaminerals | San Francisco HQ | 2026-09-04 |
 | Content Marketing Manager | Harvey | San Francisco | 2026-09-04 |
 | Staff Software Engineer | Scopely | US - San Francisco, California, United States | 2026-09-04 |
-| Senior AI Architect | Sia | San Francisco, us | 2026-09-04 |
-| Senior AI Architect | Sia | San Francisco, us | 2026-09-04 |
 | Senior Investigator & Legal Analyst - SF Ethics Commission (TEX 1823) | City and County of San Francisco | San Francisco, us | 2026-09-04 |
 | Energy Regulatory Lead | Openai | San Francisco | 2026-09-04 |
 | Product Manager, API Platform | Glean | San Francisco Bay Area | 2026-09-04 |
@@ -122,7 +132,6 @@ _12,559 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 | Head of Data & Analytics | Orchestra | New York, N.Y., Washington, D.C., or San Francisco, C.A. | 2026-09-04 |
 | Account Executive, Scale, MEGS | Braze | San Francisco | 2026-09-04 |
 | Senior AI/ML Engineer | Metriport | San Francisco | 2026-09-04 |
-| Product Marketing Manager (PMM) | Sia | San Francisco, us | 2026-09-04 |
 | Growth Marketing Lead, Programmatic & Video | Brex | San Francisco, California, United States | 2026-09-04 |
 | Senior Growth Marketing Manager, Paid Social | Brex | San Francisco, California, United States | 2026-09-04 |
 | Aircraft Software Integration Intern (Spring 2027) | Zipline | South San Francisco, California, USA | 2026-09-04 |
@@ -199,8 +208,8 @@ _12,559 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 | Associate Platform Engineer | Aechelon Technology | South San Francisco, California | 2026-09-04 |
 | Vendor Management Coordinator | CoreWeave | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | 2026-09-04 |
 | AE Productivity Lead | Serval | San Francisco | 2026-09-04 |
-| Staff Product Designer | Sarah Smith Fund | San Francisco | 2026-09-04 |
 | Staff Product Designer | F2 Ai | San Francisco | 2026-09-04 |
+| Staff Product Designer | Sarah Smith Fund | San Francisco | 2026-09-04 |
 | Senior Director, Product Partnerships | Flex | New York, NY; San Francisco, CA | 2026-09-04 |
 | Engineering at Nourish | Nourish | New York, NY / San Francisco, CA / Remote | 2026-09-04 |
 | Strategic Solutions Engineer - San Francisco, CA | Fictiv | San Francisco, CA Office | 2026-09-04 |
@@ -234,7 +243,6 @@ _12,559 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 | Senior Staff Software Engineer, Financial Crimes | Ripple | San Francisco, CA, United States | 2026-09-04 |
 | Implementation Specialist | Bobyard | San Francisco | 2026-09-04 |
 | Director/Senior Manager of Revenue Cycle Management - Remote or Hybrid San Francisco | Claritypediatrics | San Francisco Bay Area | 2026-09-04 |
-| Director of Corporate Development (remote work) | Cloudlinux | San Francisco, United States | 2026-09-04 |
 | Mid-Level Software Engineer | EQL Tech | San Francisco, United States | 2026-09-04 |
 | Software Engineer, Product | Descript | San Francisco, CA or Remote, US | 2026-09-03 |
 | 1654 Accountant III - Capital Finance - Recreation and Park Department | City and County of San Francisco | San Francisco, us | 2026-09-03 |
@@ -263,11 +271,9 @@ _12,559 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 | Scale Growth Account Executive, AI Native | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY | 2026-09-03 |
 | Head of Enterprise Demand Generation | Airops | New York City or San Francisco | 2026-09-03 |
 | Software Engineer (Ray Core) | Anyscale | San Francisco | 2026-09-03 |
-| JUNIOR DEVELOPER FOR TOOLS DEPARTMENT | Bosch Group | San Francisco, cr | 2026-09-03 |
 | Project Controller | Kranz Consulting | San Francisco Bay Area | 2026-09-03 |
 | Senior Demand Generation Manager | Glean | San Francisco, CA | 2026-09-03 |
 | VIOLENCE RESPONSE ANALYST (1823) | City and County of San Francisco | San Francisco, us | 2026-09-03 |
-| Marketing Strategy & Operations Consultant | Sia | San Francisco, us | 2026-09-03 |
 | Director of Nursing, Laguna Honda Hospital (0943 Manager VIII) | City and County of San Francisco | San Francisco, us | 2026-09-03 |
 | Executive Programs Lead, Americas | Openai | San Francisco | 2026-09-03 |
 | Director of Engineering, AI Agents | Asana | San Francisco | 2026-09-03 |
@@ -277,8 +283,8 @@ _12,559 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 | Associate, Client Coordination - Grants Management | ICONIQ | San Francisco, California, United States | 2026-09-03 |
 | Full Stack Software Engineer, Product Explorations | Openai | San Francisco | 2026-09-03 |
 | Director of Industry Standards | Zipline | South San Francisco, California, USA | 2026-09-03 |
-| Engineering Manager, DoorDash for Business | DoorDash USA | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY | 2026-09-03 |
 | Senior University Recruiter | DoorDash USA | San Francisco, CA | 2026-09-03 |
+| Engineering Manager, DoorDash for Business | DoorDash USA | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY | 2026-09-03 |
 | Electrical Engineer | Planet | San Francisco, CA | 2026-09-03 |
 | Staff Network Engineer, App Platform | Scale AI | San Francisco, CA | 2026-09-03 |
 | Temporary Project Manager | OLLY PBC | San Francisco, CA | 2026-09-03 |
@@ -300,12 +306,6 @@ _12,559 open · showing the 300 most recent · updated 2026-09-07 04:15 UTC_
 | Clinical Psychologist (2574) - Citywide - H00048 | City and County of San Francisco | San Francisco, us | 2026-09-03 |
 | Medical Record Technician (2112) – Department of Public Health - H00188 | City and County of San Francisco | San Francisco, us | 2026-09-03 |
 | Patient Accounts Supervisor (1663) - Dept. of Public Health - (163395) | City and County of San Francisco | San Francisco, us | 2026-09-03 |
-| Senior Behavioral Health Clinician (2932) - Citywide - H00041 | City and County of San Francisco | San Francisco, us | 2026-09-03 |
-| Strategic Account Executive | Navan | Palo Alto, CA or San Francisco, CA | 2026-09-03 |
-| Behavioral Health Clinician (2930) - Citywide - H00042 | City and County of San Francisco | San Francisco, us | 2026-09-03 |
-| Research Counsel | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-03 |
-| Manager, Technical Account Management | Hightouch | San Francisco | 2026-09-03 |
-| Senior Software Engineer, Platform | Scale AI | San Francisco, CA; New York, NY | 2026-09-03 |
 
 ---
 
