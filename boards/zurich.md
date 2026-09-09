@@ -2,10 +2,12 @@
 
 Roles listing Zurich as their location.
 
-_284 open · updated 2026-09-08 04:17 UTC_
+_282 open · updated 2026-09-09 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Workplace Experience Coordinator, 80-100% (human) | Neura Robotics Gmbh | Zurich | 2026-09-07 |
+| Workplace Experience Coordinator, 80-100% (Mensch) | Neura Robotics Gmbh | Zurich | 2026-09-07 |
 | Specialist - Footwear Testing - Performance | On | Zurich | 2026-09-07 |
 | Senior Consultant - Business Analyst, Reporting & MIS (Private Banking) | Capco | Switzerland - Zurich | 2026-09-07 |
 | Marketing Officer | Alpen Partners AG | Zurich / Freienbach | 2026-09-07 |
@@ -40,8 +42,8 @@ _284 open · updated 2026-09-08 04:17 UTC_
 | Senior Lead Copywriter, Apparel | On | London; Zurich | 2026-08-25 |
 | Senior Lead - Distributor Operations | On | Zurich | 2026-08-25 |
 | Senior Specialist - Footwear Tooling Engineer | On | Zurich | 2026-08-25 |
-| Part Time Shift Supervisor | ThisWay | Lake Zurich, United States | 2026-08-25 |
 | Part Time Product Demonstrator | ThisWay | Lake Zurich, United States | 2026-08-25 |
+| Part Time Shift Supervisor | ThisWay | Lake Zurich, United States | 2026-08-25 |
 | Senior Lead - Marketing Operations and GTM Readiness | On | Zurich | 2026-08-24 |
 | Global Merchandising Head Of Lifestyle & Special Projects | On | Zurich | 2026-08-24 |
 | Store Advisor (Part time) | On | Zurich | 2026-08-24 |
@@ -72,58 +74,55 @@ _284 open · updated 2026-09-08 04:17 UTC_
 | Technical Pre-Sales Engineer | Deepjudge | Zurich HQ | 2026-08-18 |
 | Technical Purchasing Specialist – Humanoid (Mensch) | Neura Robotics Gmbh | Zurich | 2026-08-17 |
 | Technical Purchasing Specialist – Humanoid (human) | Neura Robotics Gmbh | Zurich | 2026-08-17 |
-| Senior Specialist - Product Quality Intelligence | On | Zurich | 2026-08-13 |
-| Senior Specialist - Innovation Concept Design | On | Zurich | 2026-08-13 |
-| Senior Lead - Accessories Material Development | On | Zurich | 2026-08-13 |
-| Head of Business Process Excellence | On | Zurich | 2026-08-13 |
-| Lead - Accessories Developer (Technical) Bags | On | Zurich | 2026-08-13 |
-| Senior Lead, People Analytics | On | Zurich | 2026-08-13 |
-| Senior Specialist - Group Accounting CAPEX | On | Zurich | 2026-08-13 |
-| Global Head of Brand Events | On | Zurich | 2026-08-13 |
 | Senior Lead - Exhibiton Programming | On | Zurich | 2026-08-13 |
-| Senior Lead - Footwear Developer | On | Zurich | 2026-08-13 |
-| Head of Engineering - Customer Experience | On | Zurich | 2026-08-13 |
-| Specialist - Material Quality | On | Zurich | 2026-08-13 |
-| Principal Data Scientist | On | London; Zurich | 2026-08-13 |
-| Senior Specialist - Finance Systems | On | Zurich | 2026-08-13 |
+| Global Senior Director of Brand Apparel Marketing | On | Zurich | 2026-08-13 |
+| Head of Product Management Tennis | On | Zurich | 2026-08-13 |
+| Lead - Robotics and PLC Engineer | On | Zurich | 2026-08-13 |
+| Senior Lead - Brand Environment Design | On | Zurich | 2026-08-13 |
+| Lead - Sports Engineer | On | Zurich | 2026-08-13 |
+| Senior Specialist - Footwear Design | On | Zurich | 2026-08-13 |
+| Senior Specialist - LightSpray Footwear Developer | On | Zurich | 2026-08-13 |
+| Senior Specialist - Innovation Concept Design | On | Zurich | 2026-08-13 |
+| Senior Specialist - Product Quality Intelligence | On | Zurich | 2026-08-13 |
 | Senior Specialist - New Store Openings Project Manager, DMS | On | Zurich | 2026-08-13 |
 | Senior Specialist - Innovation Footwear Developer | On | Zurich | 2026-08-13 |
-| Head of - Apparel Materials Development (Performance) | On | Zurich | 2026-08-13 |
-| Head of Creative, Core Brand Design | On | Zurich | 2026-08-13 |
-| Lead - Apparel Graphic Design | On | Zurich | 2026-08-13 |
-| Lead - Inbound Transportation Operations | On | Zurich | 2026-08-13 |
-| Lead - Polymer Process Engineer, Lightspray | On | Zurich | 2026-08-13 |
-| Senior Director of Brand Moments | On | Zurich | 2026-08-13 |
-| Senior Lead - Commercialization Engineer | On | Zurich | 2026-08-13 |
-| Senior Lead - Distribution Center Network Design & Planning | On | Zurich | 2026-08-13 |
-| Senior Lead - Footwear Design, Performance Running | On | Zurich | 2026-08-13 |
-| Senior Lead - Global Portfolio & Pricing | On | Zurich | 2026-08-13 |
-| Senior Specialist - 3D Footwear Modeller | On | Zurich | 2026-08-13 |
-| Head of Product Management Tennis | On | Zurich | 2026-08-13 |
+| Lead - Accessories Developer (Technical) Bags | On | Zurich | 2026-08-13 |
+| Senior Specialist - Group Accounting CAPEX | On | Zurich | 2026-08-13 |
+| Senior Specialist - Finance Systems | On | Zurich | 2026-08-13 |
 | Senior HR Specialist, South Europe (French Labor Law Mandatory) | On | Zurich | 2026-08-13 |
 | Lead - Footwear Material Designer | On | Zurich | 2026-08-13 |
 | Program Manager - Global Distributor-led Store Business | On | Zurich | 2026-08-13 |
 | Sample Maker | On | Zurich | 2026-08-13 |
-| Senior Lead - Footwear Tooling Engineer | On | Zurich | 2026-08-13 |
+| Global Head of Brand Events | On | Zurich | 2026-08-13 |
+| Senior Lead - Footwear Developer | On | Zurich | 2026-08-13 |
+| Senior Lead - Footwear Design, Performance Running | On | Zurich | 2026-08-13 |
+| Lead - Footwear Developer - PAD + Young Movers | On | Zurich | 2026-08-13 |
+| Senior Lead - Commercialization Engineer | On | Zurich | 2026-08-13 |
+| Head of Creative, Core Brand Design | On | Zurich | 2026-08-13 |
+| Head of - Apparel Materials Development (Performance) | On | Zurich | 2026-08-13 |
+| Senior Lead - Apparel Material Development (Performance) | On | Zurich | 2026-08-13 |
 | Senior Lead - Copy | On | Zurich | 2026-08-13 |
+| Senior Lead - Global Portfolio & Pricing | On | Zurich | 2026-08-13 |
+| Senior Lead, People Analytics | On | Zurich | 2026-08-13 |
 | Senior Lead - Footwear Testing | On | Zurich | 2026-08-13 |
 | Senior Lead - Footwear Developer | On | Zurich | 2026-08-13 |
 | Senior Lead - Footwear Costing | On | Zurich | 2026-08-13 |
-| Senior Specialist - LightSpray Footwear Developer | On | Zurich | 2026-08-13 |
-| Senior Specialist - Footwear Design | On | Zurich | 2026-08-13 |
-| Lead - Sports Engineer | On | Zurich | 2026-08-13 |
-| Global Senior Director of Brand Apparel Marketing | On | Zurich | 2026-08-13 |
-| Senior Lead - Brand Environment Design | On | Zurich | 2026-08-13 |
-| Lead - Robotics and PLC Engineer | On | Zurich | 2026-08-13 |
+| Lead - Apparel Graphic Design | On | Zurich | 2026-08-13 |
+| Principal Data Scientist | On | London; Zurich | 2026-08-13 |
+| Lead - Inbound Transportation Operations | On | Zurich | 2026-08-13 |
+| Lead - Polymer Process Engineer, Lightspray | On | Zurich | 2026-08-13 |
 | Lead - Footwear Tooling Engineer | On | Zurich | 2026-08-13 |
-| Lead - Footwear Developer - PAD + Young Movers | On | Zurich | 2026-08-13 |
 | Lead - Apparel Testing | On | Zurich | 2026-08-13 |
 | Fit Model (Flexible, Part-Time Opportunity) | On | Zurich | 2026-08-13 |
+| Senior Lead - Distribution Center Network Design & Planning | On | Zurich | 2026-08-13 |
+| Senior Lead - Accessories Material Development | On | Zurich | 2026-08-13 |
+| Senior Lead - Footwear Tooling Engineer | On | Zurich | 2026-08-13 |
+| Senior Specialist - 3D Footwear Modeller | On | Zurich | 2026-08-13 |
 | Senior Solution Engineer | Snowflake | CH-Zurich-MSO | 2026-08-13 |
 | Senior Solution Engineer | Snowflake | CH-Zurich-MSO | 2026-08-13 |
 | Technical Implementation Manager (all genders) - Hardware Installation Planning | Wemolo | Zurich, Switzerland | 2026-08-13 |
-| Enterprise Account Executive, Growth | MongoDB | Zurich | 2026-08-12 |
 | Account Executive, Growth | MongoDB | Zurich | 2026-08-12 |
+| Enterprise Account Executive, Growth | MongoDB | Zurich | 2026-08-12 |
 | Embedded Software Engineer - SoM | Harmattan Ai | Zurich | 2026-08-12 |
 | Senior Robotics Engineer | Sereact | Zurich | 2026-08-11 |
 | Machine Learning Platform Engineer | Bjakcareer | Zurich, Switzerland | 2026-08-11 |
@@ -152,8 +151,6 @@ _284 open · updated 2026-09-08 04:17 UTC_
 | Senior Talent Acquisition Specialist | Bjakcareer | Zurich, Switzerland | 2026-08-02 |
 | Account Manager (m/w/d) | StepStone Group | Zurich, ch | 2026-07-31 |
 | Director of Engineering - Mission Intelligence | Harmattan Ai | Zurich | 2026-07-28 |
-| Enterprise Account Executive \| in Österreich | DeepL AI Platform | Zurich | 2026-07-28 |
-| Enterprise Account Executive \| in Österreich | DeepL AI Platform | Zurich | 2026-07-28 |
 | Account Executive \| in Österreich (m/w/d) | DeepL AI Platform | Zurich | 2026-07-28 |
 | Customer Success Manager | Bottomline | Switzerland, Zurich | 2026-07-27 |
 | Robotics Perception & State Estimation Engineer - Humanoid (Mensch) | Neura Robotics Gmbh | Zurich | 2026-07-27 |
@@ -169,8 +166,8 @@ _284 open · updated 2026-09-08 04:17 UTC_
 | Software Engineer in Test, Robotics Middleware & Systems - Humanoid (human) | Neura Robotics Gmbh | Zurich | 2026-07-21 |
 | Implementation Manager - Bilingual (English/French) | Benchling | Zurich, Switzerland | 2026-07-20 |
 | Implementation Manager | Benchling | Zurich, Switzerland | 2026-07-17 |
-| Member of Technical Staff, Diffusion World Models & Robotics | Odyssey | Zurich | 2026-07-14 |
 | Member of Technical Staff, Diffusion World Models & Robotics | Odysseyml | Zurich | 2026-07-14 |
+| Member of Technical Staff, Diffusion World Models & Robotics | Odyssey | Zurich | 2026-07-14 |
 | Robot Platform Engineer - Humanoid (human) | Neura Robotics Gmbh | Zurich | 2026-07-14 |
 | Robot Platform Engineer - Humanoid (Mensch) | Neura Robotics Gmbh | Zurich | 2026-07-14 |
 | Production Engineer | Deepjudge | Zurich HQ | 2026-07-10 |
@@ -201,7 +198,7 @@ _284 open · updated 2026-09-08 04:17 UTC_
 | Computer Vision Engineer | Harmattan Ai | Zurich | 2026-06-18 |
 | Genesys Solution Architect | Capco | Switzerland - Zurich | 2026-06-17 |
 | Lab Engineer | Skydio | Zurich, Switzerland | 2026-06-16 |
-| Working Student Quality Assurance part-time (40-60%) | Deepjudge | Zurich HQ | 2026-06-10 |
+| Working Student Quality Assurance (40-60%) | Deepjudge | Zurich HQ | 2026-06-10 |
 | Product Support Analyst | Benchling | Zurich, Switzerland | 2026-06-04 |
 | Senior Consultant | Alpha Financial Markets Consulting | Zurich | 2026-06-04 |
 | Field Talent Community | HelloFresh | Aurora, Colorado, United States; Aurora, IL, United States; Burr Ridge, IL, United States; Irving, TX, United States; Lake Zurich, Illinois, United States; Newark, NJ, United States; Phoenix, AZ, United States | 2026-06-02 |
@@ -222,8 +219,8 @@ _284 open · updated 2026-09-08 04:17 UTC_
 | Senior Autonomy Engineer - Deep Learning | Skydio | Zurich, Switzerland | 2026-05-27 |
 | Account Executive - DACH (m/f/d) | Aminocollective | Zurich | 2026-05-24 |
 | Account Executive - DACH (m/f/d) | Tandem Health | Zurich | 2026-05-24 |
-| Senior Account Executive - DACH (m/f/d) | Tandem Health | Zurich | 2026-05-24 |
 | Senior Account Executive - DACH (m/f/d) | Aminocollective | Zurich | 2026-05-24 |
+| Senior Account Executive - DACH (m/f/d) | Tandem Health | Zurich | 2026-05-24 |
 | SMB Account Executive | Benchling | Zurich, Switzerland | 2026-05-20 |
 | SMB Account Executive | Benchling | Zurich, Switzerland | 2026-05-20 |
 | VP, Enterprise Products & Solutions EMEA | Blockstream | Zurich | 2026-05-20 |
@@ -244,8 +241,8 @@ _284 open · updated 2026-09-08 04:17 UTC_
 | Founding Engineer – SF Hackerhouse (Visa sponsored; $3M pre-seed) | Clera | Zurich | 2026-03-23 |
 | Numerical Modeling Engineer | Proxima Fusion | Zurich | 2026-03-12 |
 | Backend Software Engineer - Indexing | Deepjudge | Zurich HQ | 2026-03-03 |
-| Forward Deployed Engineer - German Speaking | Happyrobot.Ai | Zurich | 2026-02-18 |
 | Forward Deployed Engineer - German Speaking | HappyRobot | Zurich | 2026-02-18 |
+| Forward Deployed Engineer - German Speaking | Happyrobot.Ai | Zurich | 2026-02-18 |
 | Solutions Architect | Blockstream | Zurich | 2026-02-10 |
 | DevOps Engineer | Blockstream | Zurich | 2026-02-10 |
 | Product Owner | Blockstream | Zurich | 2026-02-10 |
@@ -262,34 +259,35 @@ _284 open · updated 2026-09-08 04:17 UTC_
 | Enterprise Account Director – EU/DACH (German-Speaking) | Deepjudge | Zurich HQ | 2026-01-16 |
 | (Senior) Consultant für BSI Projekte (m/w/d) | Capco | Switzerland - Zurich | 2025-12-12 |
 | Applied AI Engineer | Deepjudge | Zurich HQ | 2025-11-13 |
-| Private Banking Assistant | Alpen Partners AG | Zurich / Freienbach |  |
-| (Senior) Account Executive w/m/d | Viboo | Zurich |  |
-| Portfolio Manager / Trader | Alpen Partners AG | Zurich / Freienbach |  |
-| Fundraiser:in Face to Face Deutschschweiz | Médecins Sans Frontières Suisse | Zurich, Suisse |  |
-| Technicien d'entretien - Parlant français | PureGym AG | Zurich, Schweiz |  |
-| Property Development Manager (6 Month FTC) | PureGym AG | Zurich, Schweiz |  |
-| Project Manager Operations | Boost Inc | Switzerland - Zurich |  |
 | Open Application | Swisslinx | Zurich |  |
 | Director, Business Development | TransPerfect | Zurich, Switzerland |  |
-| Procurement Manager (6 Month FTC) | PureGym AG | Zurich, Schweiz |  |
-| Strategy - Energy Infrastructure - Intern | EIGHT ADVISORY SAS | Zurich, Suisse |  |
-| Science Manager – Nature-based Solutions (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| Recruiter*in (Deutsch als Muttersprache) | Swisslinx | Zurich |  |
-| Principal Design Engineer - Mechanical Equipment (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| Customer Care Lead, Boostbar - Zürich (100%) | Boost Inc | Switzerland - Zurich |  |
 | Sales Development Representative, Boostbar - Zürich (100%) | Boost Inc | Switzerland - Zurich |  |
-| Sales Manager (m/w/d) für IT-Recruitment & Projekte mit eigenem Kundennetzwerk für den Standort Zürich gesucht | Swisslinx | Zurich |  |
 | HR Business Partner | Trina Solar 1 | Switzerland - Zurich Office |  |
-| Cost Manager (Kalkulator)- Construction | PureGym AG | Zurich, Schweiz |  |
 | Speculative Intership Enquiries | Restor | Zurich |  |
-| Graduate Recruitment Consultants, Zurich, Switzerland (On-site) | Swisslinx | Zurich |  |
+| Private Banking Assistant | Alpen Partners AG | Zurich / Freienbach |  |
+| Customer Care Lead, Boostbar - Zürich (100%) | Boost Inc | Switzerland - Zurich |  |
+| Science Manager – Nature-based Solutions (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
 | Sorbent Module Product Owner (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
 | HSE & Facility Senior Manager (100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
 | Senior Partnership Development Manager (100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| Lead EIC Engineer (100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| SUBSTITUT*INNEN - ZÜRICH | Lalive Law | Zurich (ZRH) |  |
-| Senior Software Engineer | Viboo | Zurich |  |
 | Interhome - Founders' Associate [German-speaking] (m/f/d) | Hometogo | Zurich |  |
+| Technicien d'entretien - Parlant français | PureGym AG | Zurich, Schweiz |  |
+| Strategy - Energy Infrastructure - Intern | EIGHT ADVISORY SAS | Zurich, Suisse |  |
+| Senior Software Engineer | Viboo | Zurich |  |
+| Graduate Recruitment Consultants, Zurich, Switzerland (On-site) | Swisslinx | Zurich |  |
+| SUBSTITUT*INNEN - ZÜRICH | Lalive Law | Zurich (ZRH) |  |
+| Lead EIC Engineer (100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| (Senior) Account Executive w/m/d | Viboo | Zurich |  |
+| Sales Associate (German Speaker) | TransPerfect | Zurich, Switzerland |  |
+| Portfolio Manager / Trader | Alpen Partners AG | Zurich / Freienbach |  |
+| Procurement Manager (6 Month FTC) | PureGym AG | Zurich, Schweiz |  |
+| Sales Manager (m/w/d) für IT-Recruitment & Projekte mit eigenem Kundennetzwerk für den Standort Zürich gesucht | Swisslinx | Zurich |  |
+| Cost Manager (Kalkulator)- Construction | PureGym AG | Zurich, Schweiz |  |
+| Project Manager Operations | Boost Inc | Switzerland - Zurich |  |
+| Principal Design Engineer - Mechanical Equipment (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| Property Development Manager (6 Month FTC) | PureGym AG | Zurich, Schweiz |  |
+| Recruiter*in (Deutsch als Muttersprache) | Swisslinx | Zurich |  |
+| Fundraiser:in Face to Face Deutschschweiz | Médecins Sans Frontières Suisse | Zurich, Suisse |  |
 
 ---
 
