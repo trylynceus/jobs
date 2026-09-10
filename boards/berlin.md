@@ -2,28 +2,90 @@
 
 Roles listing Berlin as their location.
 
-_3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
+_3,152 open · showing the 300 most recent · updated 2026-09-10 04:20 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Lab Assistant | Eurofins | New Berlin, us | 2026-09-10 |
+| Enterprise, Solutions Consultant | Navan | Berlin, Germany | 2026-09-09 |
+| Lebensmitteltechnolog*in / Laborant*in (m/w/d) Auftragserfassung Lebensmittellabor | SGS | Berlin, de | 2026-09-09 |
+| Senior Analytics Engineer - Quick Commerce | Delivery Hero | Berlin, de | 2026-09-09 |
+| AI Sales Executive (m/w/d) | Devoteam | Berlin, de | 2026-09-09 |
+| Growth Manager (Berlin) | Almedia | Berlin | 2026-09-09 |
+| Senior Growth Manager (Berlin) | Almedia | Berlin | 2026-09-09 |
+| Sicherheitsmitarbeiter (m/w/d) im Revierdienst Wedding/Lichtenberg | Securitas | Berlin, de | 2026-09-09 |
+| GSSK / Geprüfte Schutz- und Sicherheitskraft (m/w/d) \| 18,26 €/Std.\| Sicherer Arbeitsplatz mit Zukunft | Securitas | Berlin, de | 2026-09-09 |
+| Senior Software Engineer | Kayak | Berlin | 2026-09-09 |
+| GSSK-Mitarbeiter (m/w/d) Einsatzleitung in Berlin-Tiergarten | Securitas | Berlin, de | 2026-09-09 |
+| Global Service Delivery Specialist for Mobility Services (m/w/div.) - Remote Fahrzeugdiagnostik | Bosch Group | Berlin, de | 2026-09-09 |
+| Business Development Manager (DACH Region) | Sigma Software | Berlin, de | 2026-09-09 |
+| Engineering Manager (m/f/d) | Affinidi | Berlin, Germany | 2026-09-09 |
+| Leiter:in Recht & Integriertes Managementsystem | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-09 |
+| Consulting Engineer | MongoDB | Berlin | 2026-09-09 |
+| Senior Data Engineer - (Fintech Data) | Delivery Hero | Berlin, de | 2026-09-09 |
+| Schichtleiter*in GMP Produktion (m/w/d) | LGC | Berlin, de | 2026-09-09 |
+| Staff Product Designer - (Logistics, Customer) | Delivery Hero | Berlin, de | 2026-09-09 |
+| Junior Inbetriebnahmeingenieur IQ (all gender) | ALTEN | Berlin, de | 2026-09-09 |
+| Unified Communications Engineer:in | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-09 |
+| Shopfloor Manufacturing Engineer (all gender) | ALTEN | Berlin, de | 2026-09-09 |
+| German Tax Specialist (f/m/d) | Upvest | Berlin | 2026-09-09 |
+| Train Validation Engineer (all gender) | ALTEN | Berlin, de | 2026-09-09 |
+| Enterprise Sales Manager | Adyen | Berlin | 2026-09-09 |
+| Senior Engineering Manager (m/f/d) | Affinidi | Berlin, Germany | 2026-09-09 |
+| Engineering Manager - Fintech Payments | Delivery Hero | Berlin, de | 2026-09-09 |
+| Inbetriebnahmeingenieur IQ (all gender) | ALTEN | Berlin, de | 2026-09-09 |
+| BTA / MTA – QC Technician Microbiology (m,w,d) | LGC | Berlin, de | 2026-09-09 |
+| QC Technician (Product) (m,w,d) | LGC | Berlin, de | 2026-09-09 |
+| QC Technician (Material) (m,w,d) | LGC | Berlin, de | 2026-09-09 |
+| QC Scientist* Microbiology (m,w,d) | LGC | Berlin, de | 2026-09-09 |
+| Praktikum: Praktikant*in KI-Engineering – Fertigung & Logistik (w/m/div.) | Bosch Group | Berlin, de | 2026-09-09 |
+| Internship AI Engineering Intern - Manufacturing & Logistics | Bosch Group | Berlin, de | 2026-09-09 |
+| Team Lead Anti-Financial Crime Operations (m/f/x) | Scalable GmbH | Berlin, de | 2026-09-09 |
+| Customer Success Manager | Rootglobal | Berlin | 2026-09-09 |
+| Techniker (w\|m\|d) für Elektronik in der Kaffeeproduktion | JACOBS DOUWE EGBERTS | Berlin, de | 2026-09-09 |
+| Junior Operations Specialist (w/m/d) | Enpal | Berlin | 2026-09-09 |
+| Analytics Engineer (m/f/d) | Enpal | Berlin | 2026-09-09 |
+| Office Manager – Empfang & Administration (all genders) | Sunday Natural | Berlin | 2026-09-09 |
+| Senior Ingenieur im Bereich Hoch-/ Höchstspannungskabel (m/w/d) | AFRY | Berlin, de | 2026-09-09 |
+| Senior Ingenieur Hochspannungstechnik mit Schwerpunkt Umspannwerke (m/w/d) | AFRY | Berlin, de | 2026-09-09 |
+| VERKÄUFER/IN TEILZEIT MIT LAGERTÄTIGKEIT (M/W/D) – Berlin Treptow (30 Std) | JYSK | Berlin, de | 2026-09-09 |
+| Care Expert - Customer Training (m/f/d) | Voize | Berlin | 2026-09-09 |
+| Care Expert - Customer Training (m/f/d) | voize | Berlin | 2026-09-09 |
+| Forward Deployed Engineer | Clera | Berlin | 2026-09-08 |
+| Sales Intern | Clera | Berlin | 2026-09-08 |
+| Product Engineer | Clera | Berlin | 2026-09-08 |
+| Product Engineer (Full-Stack) | Clera | Berlin | 2026-09-08 |
+| Founding GTM Engineer | Clera | Berlin | 2026-09-08 |
+| Founding Engineer | Clera | Berlin | 2026-09-08 |
+| Member of Commercial Staff | Clera | Berlin | 2026-09-08 |
+| Founding Engineer | Clera | Berlin | 2026-09-08 |
+| Founding Marketer (Growth, GTM) | Clera | Berlin | 2026-09-08 |
+| AI Quality Evaluator - German (12-month contract) | Canva | Berlin, de | 2026-09-08 |
 | Associate, Hero Support (12 Month Contract) | Delivery Hero | Berlin, de | 2026-09-08 |
 | Technical Client Success Specialist (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; Iași, Iași, Romania; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Paris, Paris, France; Warsaw, Masovian Voivodeship, Poland | 2026-09-08 |
 | Senior Manager - Warranty and Services Expert (f/m/x) | AUTO1 Group | Berlin, de | 2026-09-08 |
 | People Analytics Manager (m/f/x) | Scalable GmbH | Berlin, de | 2026-09-08 |
+| Content Marketing Specialist Scandinavia | Pergolux | Berlin \| SCAN Team | 2026-09-08 |
 | Sales Development Representative, SME & Growth Business | Airwallex | DE - Berlin | 2026-09-08 |
+| Program Director - Germany | Iceye | Berlin | 2026-09-08 |
+| Head of Data & AI (f/m/d) | voize | Berlin | 2026-09-08 |
 | Head of Data & AI (f/m/d) | Voize | Berlin | 2026-09-08 |
 | Verkäuferin Obst & Gemüse (m/w/d) - 35h / Woche | METRO/MAKRO | Berlin, de | 2026-09-08 |
 | Vertriebsmitarbeiter Innendienst / METRO Markt (m/w/d) | METRO/MAKRO | Berlin, de | 2026-09-08 |
 | Senior Data Scientist — Data Cloud Acceleration | Zeta Global | Berlin, Germany; Copenhagen, Denmark; Prague | 2026-09-08 |
 | Director, Customer Success | NICE | Germany - Berlin | 2026-09-08 |
+| Director of Revenue Operations (m/f/x) | Eye Security | Berlin - hybrid | 2026-09-08 |
+| Senior Google Shopping & Product Feed Manager (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-08 |
 | Elektroingenieur:in Anlagenbetrieb Kraftwerksgruppe Reuter/Reuter West | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-08 |
 | Working Student - Partner Sales, Benelux and Nordics Market (m/f/d) | Pliant | Berlin, Berlin (Hybrid) | 2026-09-08 |
-| Elektroniker / Sicherheitstechniker - Gebiet Berlin / Brandenburg (w/m/div.) | Bosch Group | Berlin, de | 2026-09-08 |
+| Associate Account Executive Germany (f/m/d) | Upvest | Berlin | 2026-09-08 |
 | Accounts Receivable Agent B2B (m/f/d)- Dutch speaker | SIXT | Berlin, de | 2026-09-08 |
+| Partnerships Lead (f/m/x) | Doinstruct | Berlin | 2026-09-08 |
+| Venture Building Internship - New Venture (w/m/d) | Enpal | Berlin | 2026-09-08 |
 | Application Security Engineer (f/m/d) | Awin | Berlin, Berlin, Germany; Madrid, Madrid, Spain; Milano, Milan, Italy; Warsaw, Masovian Voivodeship, Poland | 2026-09-08 |
 | Account Manager, SME & Growth | Airwallex | DE - Berlin | 2026-09-08 |
 | Sicherheitsmitarbeiter (m/w/d) für Empfang mit Sicherungs- und Veranstaltungsaufgaben | Securitas | Berlin, de | 2026-09-08 |
-| Associate Director Principal Contracting North Germany (m/f/d) | Turner & Townsend | Berlin, de | 2026-09-08 |
+| Senior Director, Health & Safety Operations Europe | HelloFresh | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; UK ; Warszawa, Masovian Voivodeship, Poland | 2026-09-08 |
 | Geschäftsleiter eines Großmarkts (m/w/d) - Raum Berlin | METRO/MAKRO | Berlin, de | 2026-09-08 |
 | Senior Software Engineer, Cloud Platform | Rivianvw.Tech | Berlin | 2026-09-08 |
 | Legal Counsel, Privacy | Delivery Hero | Berlin, de | 2026-09-08 |
@@ -33,20 +95,19 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Solutions Architect I | Planet | Berlin, Germany | 2026-09-08 |
 | Senior Bid & Proposal Manager (m/w/d) \| Teamleitung Commercial Support | Securitas | Berlin, de | 2026-09-08 |
 | Team Lead Bid & Proposal Management (m/w/d) | Securitas | Berlin, de | 2026-09-08 |
+| Projektmanager (w/m/d) Verkehrsinfrastruktur | Drees & Sommer SE | Berlin, de | 2026-09-08 |
 | Praktikum Business Development – Shopping | CHECK24 | Berlin, de | 2026-09-08 |
 | IT Security Engineer (w/m/d) | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-08 |
 | Customer Success Manager - German Market (Berlin) | Lexroom | Berlin | 2026-09-08 |
 | BDR Team Manager - German Market (Berlin) | Lexroom | Berlin | 2026-09-08 |
-| Medical Science Liaison Neuroscience (all genders) für Berlin, Sachsen, Sachsen-Anhalt, Brandenburg und Mecklenburg- Vorpommern | AbbVie | Berlin, de | 2026-09-08 |
+| [GLOBAL/INT] [MARKETING] Staff Analyst (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-08 |
 | (Senior) Product Manager - Mobile Core (m/f/x) | Scalable GmbH | Berlin, de | 2026-09-08 |
 | Customer Service Agent Scandinavia | Pergolux | Berlin \| DACH Team | 2026-09-08 |
-| Senior Data Engineer - (Fintech) | Delivery Hero | Berlin, de | 2026-09-08 |
 | Working Student Finance (all genders) | Q ENERGY | Berlin, Germany | 2026-09-08 |
-| Founder’s Associate - Creative Projects (m/w/d) | Beam AI | Berlin, Germany | 2026-09-08 |
 | Teamleiter Sales (all genders) | getolo GmbH | Berlin, Germany | 2026-09-08 |
+| Founder’s Associate - Creative Projects (m/w/d) | Beam AI | Berlin, Germany | 2026-09-08 |
 | Sales Coordinator KAM (f/m/d) | Koro Shop | Berlin | 2026-09-07 |
 | VP Associate (m/f/d) | Buena | Berlin | 2026-09-07 |
-| Senior Analytics Engineer - Quick Commerce | Delivery Hero | Berlin, de | 2026-09-07 |
 | AI Platform Engineer (m/f/x) | Scalable GmbH | Berlin, de | 2026-09-07 |
 | Senior Manager Global Price & Discount Strategy (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-07 |
 | Commis de Rang NENI (m/f/d) | AccorHotel | Berlin, de | 2026-09-07 |
@@ -56,7 +117,6 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Strategic Projects Manager (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-07 |
 | Mitarbeiter:in im Kraftwerksschichtbetrieb Dezentrale Anlagen / E-Technik | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-07 |
 | Kraftwerker:in im Tagesdienst / Dezentrale Anlagen | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-07 |
-| Projektmanager (w/m/d) Verkehrsinfrastruktur | Drees & Sommer SE | Berlin, de | 2026-09-07 |
 | Director Engineering, Retail Media& Marketplace | Redcare Pharmacy | Berlin, de | 2026-09-07 |
 | Senior Product Owner - Data & Analytics (m/f/d) | Yepoda | Berlin | 2026-09-07 |
 | Strategic Projects Internship (w/m/d) | Enpal | Berlin | 2026-09-07 |
@@ -64,19 +124,19 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Solutions Architect - CustomerLake | Databricks | Berlin, Germany | 2026-09-07 |
 | Head of Financial Crime & MLRO - Germany | Wise | Berlin, de | 2026-09-07 |
 | Senior Backend Engineer (m/f/d) - Agent SDK | Voize | Berlin | 2026-09-07 |
-| Senior Backend Engineer - Kotlin (m/f/d) | voize | Berlin | 2026-09-07 |
+| Senior Backend Engineer (m/f/d) | voize | Berlin | 2026-09-07 |
 | Junior Consultant (w/m/d) Resilienz- und Sicherheitsberatung | Drees & Sommer SE | Berlin, de | 2026-09-07 |
-| Engineering Lead - B2B Integrations Team (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-07 |
+| Engineering Lead - B2B Integrations Team (m/f/d) | Raisin | Berlin, Germany | 2026-09-07 |
 | Engineering Lead - B2B Integrations Team (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-07 |
 | Customer Success Manager - High Touch (m/f/d) | Voize | Berlin | 2026-09-07 |
 | Customer Success Manager - High Touch (m/f/d) | voize | Berlin | 2026-09-07 |
 | Product Designer (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-07 |
-| Product Designer (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-07 |
+| Product Designer (m/f/d) | Raisin | Berlin, Germany | 2026-09-07 |
 | Jnr. Customer Success Manager - German Speaking (m/f/d) | Voize | Berlin | 2026-09-07 |
 | Account executive enterprise, central europe | Watershed | Berlin | 2026-09-07 |
 | PreSales Engineer, Civ Gov and Commercial | Planet | Berlin, Germany | 2026-09-07 |
 | Senior Manager, Product Design - (Logistics, Service Efficiency) | Delivery Hero | Berlin, de | 2026-09-07 |
-| Customer Success Manager - German Speaking (m/f/d) | voize | Berlin | 2026-09-07 |
+| Jnr. Customer Success Manager - German Speaking (m/f/d) | voize | Berlin | 2026-09-07 |
 | Mitarbeiter Finance & Accounting / Quereinsteiger (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Berlin, de | 2026-09-07 |
 | Kraftwerker:in (Elektriker:in oder Mechaniker:in) für den Kraftwerksschichtbetrieb Kraftwerksgruppe Reuter/Reuter West | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-07 |
 | Senior IT Governance, Risk & Compliance Manager | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-07 |
@@ -100,11 +160,10 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Head of Engineering | Clera | Berlin | 2026-09-04 |
 | Software Engineer - AI | Clera | Berlin | 2026-09-04 |
 | Applied AI Engineer - AI & Automation | Clera | Berlin | 2026-09-04 |
-| Senior Product Designer | Kayak | Berlin | 2026-09-04 |
 | Senior Product Designer, K4B | Kayak | Berlin Office | 2026-09-04 |
 | Senior Product Designer | Kayak | Berlin | 2026-09-04 |
 | Senior Product Designer | Kayak | Berlin | 2026-09-04 |
-| Senior Data Platform Engineer, Intelligent Platforms (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-04 |
+| Senior Product Designer | Kayak | Berlin | 2026-09-04 |
 | Video Content Creative | Butternut Box | Berlin | 2026-09-04 |
 | AI Platform Engineer (f/m/d) | IDnow | Berlin, Berlin, Germany; München, Bavaria, Germany | 2026-09-04 |
 | Werkstudent:in - Legal | Amboss | Berlin | 2026-09-04 |
@@ -113,9 +172,7 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Scaled Customer Success Manager (Berlin) | Kombo | Berlin Office | 2026-09-04 |
 | (Senior) People Operations Manager (f/m/d) | Bunch | Berlin | 2026-09-04 |
 | Commercial Expansion Intern | Pergolux | Berlin \| Global Team | 2026-09-04 |
-| Kundenservice / Call Center Agent (d/m/w) | AUTO1 Group | Berlin, de | 2026-09-04 |
 | Senior Backend Engineer (Platform Team) | Kombo | Berlin Office | 2026-09-04 |
-| Engineering Manager (m/f/d) | AutoScout24 | Amsterdam (Netherlands); Berlin (Germany); Düsseldorf (Germany); Munich (Germany) | 2026-09-04 |
 | Senior Software Engineer (Rust) - remote in the EU | Mirantis | Berlin, de | 2026-09-04 |
 | Working Student Venture Development Tech (w/m/d) | Enpal | Berlin | 2026-09-04 |
 | Senior Full-Stack Engineer - Team Decide | Taktile | Berlin Office | 2026-09-04 |
@@ -129,25 +186,23 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Senior Software Engineer (Backend) | Navan | Berlin, Germany | 2026-09-04 |
 | Senior Software Engineer, Expense | Navan | Berlin, Germany | 2026-09-04 |
 | (Junior) Key Account Manager – French Speaker (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-04 |
-| (Junior) Key Account Manager – French Speaker (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-04 |
+| (Junior) Key Account Manager (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-04 |
 | Staff Forward Deployed Engineer | Databricks | Berlin, Germany; Munich, Germany | 2026-09-04 |
 | Senior Frontend Developer (all genders) | Lightspeedhq | Berlin | 2026-09-04 |
 | Pricing Director (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-04 |
-| Growth Marketing Manager (f/m/d) | Voize | Berlin | 2026-09-04 |
 | Growth Marketing Manager (f/m/d) | voize | Berlin | 2026-09-04 |
-| Senior Software Engineer - Fintech | Delivery Hero | Berlin, de | 2026-09-04 |
-| Senior Fullstack Software Engineer (Kotlin/Java/React) - Fintech | Delivery Hero | Berlin, de | 2026-09-04 |
+| Growth Marketing Manager (f/m/d) | Voize | Berlin | 2026-09-04 |
 | Account Executive (Mid-Market) (Fluent In German) (Position located in Berlin, Germany) | KnowBe4 | Berlin, Germany | 2026-09-04 |
 | Senior Lead Product Strategy (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-09-04 |
 | Front Office Manager (m/w/d) | Motel One | Berlin, de | 2026-09-04 |
 | Mid-Market Account Executive DACH (m/w/d) | Sosafe | Berlin | 2026-09-04 |
 | Client Service Associate (m/f/x) | Scalable GmbH | Berlin, de | 2026-09-04 |
 | Senior Vendor Management (m/f/d) | SIXT | Berlin, de | 2026-09-04 |
-| Marketplace Manager (m/f/d) | Niboline | Berlin | 2026-09-04 |
 | Junior Marketplace Specialist (m/w/d) | Niboline | Berlin | 2026-09-04 |
+| Marketplace Manager (m/f/d) | Niboline | Berlin | 2026-09-04 |
 | Zahntechniker (m/w/d) CAD/CAM & Prothetik Berlin | DEIN DENTAL / EDG | Berlin, de | 2026-09-04 |
-| Sales Team Lead (all genders) | getolo GmbH | Berlin, Germany | 2026-09-04 |
 | Grid Connection Engineer (m/w/d) | Q ENERGY | Berlin, Germany | 2026-09-04 |
+| Sales Team Lead (all genders) | getolo GmbH | Berlin, Germany | 2026-09-04 |
 | Data Scientist | Clera | Berlin | 2026-09-03 |
 | Senior People and Culture Manager | Clera | Berlin | 2026-09-03 |
 | Junior Recipe Developer (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-03 |
@@ -177,7 +232,6 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Praktikant:in Projektmanagement (w/m/d) | Enpal | Berlin | 2026-09-03 |
 | Praktikant:in Sales Operations (w/m/d) | Enpal | Berlin | 2026-09-03 |
 | Enterprise Sales Manager, Platforms | Adyen | Berlin | 2026-09-03 |
-| Senior Data Scientist (Maternity Cover) - (Logistics, Workforce) | Delivery Hero | Berlin, de | 2026-09-03 |
 | Associate Director Marketing Lifecycle, CC outbound | HelloFresh | Berlin, Berlin, Germany | 2026-09-03 |
 | Senior Software Engineer (Stream Processing) | Nebius | Amsterdam, Netherlands; Berlin, Germany; United Kingdom | 2026-09-03 |
 | Servicetechniker (m/w/d) Wärmepumpen | Galvany | Berlin | 2026-09-03 |
@@ -229,11 +283,8 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Head of Growth - Germany | Butternut Box | Berlin | 2026-09-02 |
 | Founding Product Engineer | Clera | Berlin | 2026-09-02 |
 | Founding Engineer | Clera | Berlin | 2026-09-02 |
-| Founders Associate - Sales | Clera | Berlin | 2026-09-02 |
-| Revenue Operations Manager (m/f/d) - Sales Ops & Strategy | Voize | Berlin | 2026-09-02 |
 | Revenue Operations Manager (m/f/d) | voize | Berlin | 2026-09-02 |
-| Generalist Operator / Early-Stage Founding Team Member | Clera | Berlin | 2026-09-02 |
-| Performance Marketing Manager | Clera | Berlin | 2026-09-02 |
+| Revenue Operations Manager (m/f/d) - Sales Ops & Strategy | Voize | Berlin | 2026-09-02 |
 | Product Lead - Adtech | Almedia | Berlin | 2026-09-02 |
 | Associate Director, Customer Compensation & Policy | HelloFresh | Berlin, Berlin, Germany | 2026-09-02 |
 | Channel Partner Manager - DACH (m/f/d) | Freshworks | Berlin, de | 2026-09-02 |
@@ -248,64 +299,13 @@ _3,142 open · showing the 300 most recent · updated 2026-09-09 04:17 UTC_
 | Junior Food Stylist - (x/f/m) | HelloFresh | Berlin, Berlin, Germany | 2026-09-02 |
 | Senior Compliance Manager (Legal, Privacy & AI Governance) (f/m/x) | Seven Senders | Berlin, de | 2026-09-02 |
 | Senior Partner Manager SI, DACH | n8n | Berlin Office | 2026-09-02 |
-| Finance Manager Group Consolidation & Reporting | Clera | Berlin | 2026-09-02 |
 | Bauüberwacher (w/m/d) Straßen- und Ingenieurbau | Drees & Sommer SE | Berlin, de | 2026-09-02 |
 | Senior Indirect Procurement Category Manager - Marketing (All genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-02 |
 | Product Operations Lead (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; London, England, United Kingdom | 2026-09-02 |
-| Senior Platform Product Manager (m/f/d) | Statista | Hamburg or Berlin | 2026-09-02 |
-| Customer Success Manager - Scale (m/f/d) | Voize | Berlin | 2026-09-02 |
 | Customer Success Manager - Scale (m/f/d) | voize | Berlin | 2026-09-02 |
+| Customer Success Manager - Scale (m/f/d) | Voize | Berlin | 2026-09-02 |
 | Empfangsmitarbeiter (m/w/d) | Motel One | Berlin, de | 2026-09-02 |
-| Abteilungsleitung Umwelt- und Naturschutzplanung (m/w/d) | AFRY | Berlin, de | 2026-09-02 |
 | Business Analytics & Growth Internship (w/m/d) | Enpal | Berlin | 2026-09-02 |
-| Strategy, Tech & Operations Internship (w/m/d) | Enpal | Berlin | 2026-09-02 |
-| Internship - Machine Learning Research Engineer | Perplexity | Berlin | 2026-09-02 |
-| Senior Pricing Manager (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-02 |
-| Senior Full-Stack Engineer - Team Agent | Taktile | Berlin Office | 2026-09-02 |
-| Leiter:in Operatives Controlling (N-2) | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-02 |
-| Bioinformatician* (m/f/d) - Fixed-term contract | LGC | Berlin, de | 2026-09-02 |
-| Bioinformatician - Befristeter Vertrag (m/w/d) | LGC | Berlin, de | 2026-09-02 |
-| Senior Customer Success Manager | NICE | Germany - Berlin | 2026-09-02 |
-| Organic Growth Content Marketer | Almedia | Berlin | 2026-09-02 |
-| Kosmetikerin mit Massagetätigkeit (m/w/d) gesucht | Soulhouse | Berlin, Germany | 2026-09-02 |
-| Head of Finance (all genders) | getolo GmbH | Berlin, Germany | 2026-09-02 |
-| Kosmetikerin mit Massagetätigkeit (m/w/d) | Soulhouse | Berlin, Germany | 2026-09-02 |
-| EMEA Senior Product Marketing Manager | Parloa | Berlin Office; London Office; Munich Office; Remotely in Germany | 2026-09-01 |
-| Product Management Intern | Trawa | Berlin HQ | 2026-09-01 |
-| Werkstudent Content & Brand (m/w/d) | Clera | Berlin | 2026-09-01 |
-| GTM Engineer | Clera | Berlin | 2026-09-01 |
-| Working Student - Language Specialist UK English (m/f/d) | voize | Berlin | 2026-09-01 |
-| Working Student - Language Specialist UK English (m/f/d) | Voize | Berlin | 2026-09-01 |
-| Customer Insights & Strategy Lead - Affiliate Marketing (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; Iași, Iași, Romania; London, England, United Kingdom; Madrid, Madrid, Spain; Manchester, England, United Kingdom; Milano, Milan, Italy; Warsaw, Masovian Voivodeship, Poland | 2026-09-01 |
-| Junior DevOps Engineer (f/m/x) | Seven Senders | Berlin, de | 2026-09-01 |
-| PR Manager (m/f/d) | Yepoda | Berlin | 2026-09-01 |
-| (Senior) Credit Risk Manager (m/f/d) | Raisin | Berlin, Berlin, Germany; Frankfurt a. M.; Hamburg; Munich | 2026-09-01 |
-| (Senior) Credit Risk Manager (m/f/d) | Raisin | Berlin, Berlin, Germany; Frankfurt a. M.; Hamburg; Munich | 2026-09-01 |
-| Event Producer (Internship) | FeverUp | Berlin | 2026-09-01 |
-| Solutions Architect, Pre-Sales - German Defense & Intelligence | Planet | Berlin, Germany | 2026-09-01 |
-| Arbeitsplaner:in Spezialgebiet wiederkehrende Prüfungen in der Instandhaltung HKW Marzahn / Klingenberg | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-01 |
-| Senior Product Manager - Core Experience | n8n | Berlin Office | 2026-09-01 |
-| Solution Architect (m/w/d) – Financial Services | Capco | Germany - Berlin | 2026-09-01 |
-| Abteilungsleitung Unternehmensfinanzierung & Treasury (m/w/d) | ENERTRAG SE | Berlin, de | 2026-09-01 |
-| Account Executive - Mid-market | Telli | Berlin | 2026-09-01 |
-| Working Student Supply Planning (all genders) | Sunday Natural | Berlin | 2026-09-01 |
-| Werkstudent (w/m/d) - Asset und Property Management | Heimstaden | Berlin, de | 2026-09-01 |
-| Werkstudent:in Office Management (w/m/d) | Enpal | Berlin | 2026-09-01 |
-| Vertriebsinnendienst (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-09-01 |
-| Zahnmedizinische Prophylaxeassistenz / ZMP (m/w/d) Berlin | DEIN DENTAL / EDG | Berlin, de | 2026-09-01 |
-| Working Student Graphic Designer | Almedia | Berlin | 2026-09-01 |
-| Customer Sales Consultant dutch - Berlin Office | audibene / hear.com | Berlin, Berlin, Germany | 2026-09-01 |
-| Business Development Manager DACH (m/f/d) | Freshworks | Berlin, de | 2026-09-01 |
-| UA Manager | Almedia | Berlin | 2026-09-01 |
-| Working Student – Talent Acquisition (m/w/d) | Pergolux | Berlin \| Global Team | 2026-09-01 |
-| Business Operations Manager | Careers at Tide | Berlin, Germany | 2026-09-01 |
-| Massage Expert (m/f/d) Wanted | Soulhouse | Berlin, Germany | 2026-09-01 |
-| Massage Expert (m/f/d) | Soulhouse | Berlin, Germany | 2026-09-01 |
-| Investment Manager (all genders) | Q ENERGY | Berlin, Germany | 2026-09-01 |
-| Founder’s Associate | Netbird | Berlin | 2026-08-31 |
-| Customer Service Agent — Investment & Pension Products (m/f/d) | Raisin | Berlin, Berlin, Germany; Hamburg | 2026-08-31 |
-| Customer Service Agent — Investment & Pension Products (m/f/d) | Raisin | Berlin, Berlin, Germany; Hamburg | 2026-08-31 |
-| Head of Accounting (m/f/x) | Scalable GmbH | Berlin, de | 2026-08-31 |
 
 ---
 
