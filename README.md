@@ -1,10 +1,10 @@
 # Lynceus — live job listings, straight from company careers pages
 
-**258,147 open roles** at **7,883 companies**,
-**44,907** of them remote. Read from each employer's own careers
+**257,761 open roles** at **7,828 companies**,
+**44,524** of them remote. Read from each employer's own careers
 page and job feed — never reposted from another board.
 
-_Last updated: 2026-09-10 04:20 UTC_
+_Last updated: 2026-09-11 04:16 UTC_
 
 Search it conversationally at **[trylynceus.com](https://trylynceus.com)** — describe
 what you want in plain English and get the companies actually hiring for it.
@@ -12,26 +12,26 @@ In private beta; early access from the same page.
 
 ## Browse
 
-- [Remote](boards/remote.md) — 44,907 roles
-- [Berlin](boards/berlin.md) — 3,152 roles
-- [London](boards/london.md) — 7,756 roles
-- [Paris](boards/paris.md) — 2,285 roles
-- [Amsterdam](boards/amsterdam.md) — 1,612 roles
-- [Munich](boards/munich.md) — 1,539 roles
-- [Madrid](boards/madrid.md) — 895 roles
-- [Barcelona](boards/barcelona.md) — 965 roles
-- [Dublin](boards/dublin.md) — 974 roles
-- [Lisbon](boards/lisbon.md) — 491 roles
-- [Zurich](boards/zurich.md) — 279 roles
-- [Stockholm](boards/stockholm.md) — 475 roles
-- [New York](boards/new-york.md) — 12,683 roles
-- [San Francisco](boards/san-francisco.md) — 12,437 roles
-- [Engineering](boards/engineering.md) — 59,848 roles
-- [Data & AI](boards/data-ai.md) — 34,725 roles
-- [Design](boards/design.md) — 12,670 roles
-- [Product](boards/product.md) — 13,540 roles
-- [Sales](boards/sales.md) — 22,128 roles
-- [Marketing](boards/marketing.md) — 10,705 roles
+- [Remote](boards/remote.md) — 44,524 roles
+- [Berlin](boards/berlin.md) — 3,140 roles
+- [London](boards/london.md) — 7,751 roles
+- [Paris](boards/paris.md) — 2,256 roles
+- [Amsterdam](boards/amsterdam.md) — 1,603 roles
+- [Munich](boards/munich.md) — 1,552 roles
+- [Madrid](boards/madrid.md) — 896 roles
+- [Barcelona](boards/barcelona.md) — 961 roles
+- [Dublin](boards/dublin.md) — 978 roles
+- [Lisbon](boards/lisbon.md) — 494 roles
+- [Zurich](boards/zurich.md) — 283 roles
+- [Stockholm](boards/stockholm.md) — 476 roles
+- [New York](boards/new-york.md) — 12,601 roles
+- [San Francisco](boards/san-francisco.md) — 12,501 roles
+- [Engineering](boards/engineering.md) — 59,797 roles
+- [Data & AI](boards/data-ai.md) — 34,596 roles
+- [Design](boards/design.md) — 12,701 roles
+- [Product](boards/product.md) — 13,555 roles
+- [Sales](boards/sales.md) — 22,073 roles
+- [Marketing](boards/marketing.md) — 10,626 roles
 
 ## Data
 
@@ -39,9 +39,9 @@ In private beta; early access from the same page.
 | --- | --- |
 | [`data/jobs.csv`](data/jobs.csv) | The 5,000 most recently posted roles |
 | [`data/jobs.json`](data/jobs.json) | The same, as JSON |
-| [`data/companies.csv`](data/companies.csv) | All 7,883 companies with open roles |
+| [`data/companies.csv`](data/companies.csv) | All 7,828 companies with open roles |
 
-The data files carry the most recent slice rather than all 258,147
+The data files carry the most recent slice rather than all 257,761
 roles. The full set is ~38MB, which GitHub will not render and which would add a
 new multi-megabyte blob to this repository every day.
 
@@ -58,21 +58,21 @@ kind of work.
 
 | Company | Open roles |
 | --- | --- |
-| Bjakcareer | 3,072 |
-| BAYADA Home Health Care | 2,561 |
-| SpaceX | 2,348 |
-| Anduril Industries | 2,235 |
-| Carvana | 1,702 |
-| Openai | 1,445 |
+| Bjakcareer | 3,088 |
+| BAYADA Home Health Care | 2,557 |
+| SpaceX | 2,376 |
+| Anduril Industries | 2,274 |
+| Carvana | 1,719 |
+| Openai | 1,441 |
 | Upstream Rehabilitation | 1,219 |
 | Veterinary Emergency Group (VEG) | 1,133 |
 | Speechify | 1,086 |
 | ALO | 1,085 |
-| EquipmentShare | 984 |
-| Databricks | 868 |
-| Pavago | 826 |
+| EquipmentShare | 983 |
+| Databricks | 869 |
+| Pavago | 825 |
 | Fuku | 759 |
-| Rentokil Initial | 738 |
+| Rentokil Initial | 731 |
 
 ## How this is built
 
