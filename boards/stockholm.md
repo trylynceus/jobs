@@ -2,10 +2,12 @@
 
 Roles listing Stockholm as their location.
 
-_494 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
+_495 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| AI Engineer | Clera | Stockholm | 2026-09-13 |
+| Investment Banking Internship | GP Bullhound | Stockholm, Sweden | 2026-09-13 |
 | Enterprise Account Executive | MongoDB | Stockholm | 2026-09-11 |
 | Engineering Manager - Foundations | Legora | Stockholm HQ | 2026-09-11 |
 | System Specialist | Aceve | Stockholm | 2026-09-11 |
@@ -39,8 +41,8 @@ _494 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Senior Mechanical Design Engineer | Neko Health | Stockholm | 2026-09-10 |
 | Skyddsvakt till Securitas Stockholm Östermalm | Securitas | Stockholm, se | 2026-09-10 |
 | Senior IT Projektledare | AFRY | Stockholm, se | 2026-09-10 |
-| Säljare till Goa Gubbar Fisk | Saleshub | Stockholm, Sweden | 2026-09-10 |
 | Accountant - Accounting team | Vizrt | Stockholm, Sweden | 2026-09-10 |
+| Säljare till Goa Gubbar Fisk | Saleshub | Stockholm, Sweden | 2026-09-10 |
 | Technical Chief of Staff | Clera | Stockholm | 2026-09-09 |
 | Junior Consultant to M&A Deal Transformation (Stockholm) – Jan 2027 | Deloitte | Stockholm, se | 2026-09-09 |
 | Central Business Controller till Securitas Sverige | Securitas | Stockholm, se | 2026-09-09 |
@@ -63,8 +65,8 @@ _494 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Anbudsingenjör, Civil Stockholm | NCC | Stockholm, se | 2026-09-08 |
 | Technical Presales Architect | IFS. AI-Powered Software Built for Your Industry | Stockholm, se | 2026-09-08 |
 | Team Lead – Evergreen Product Management, Private Capital | EQT Group | Stockholm, Stockholm, Sweden | 2026-09-08 |
-| Senior Financial Accountant / Finance Manager - Nordics | Vix Technology & Kuba | Stockholm, Sweden | 2026-09-08 |
 | Senior Java Developer - Test Data Platform | InventYOU AB | Stockholm, Sweden | 2026-09-08 |
+| Senior Financial Accountant / Finance Manager - Nordics | Vix Technology & Kuba | Stockholm, Sweden | 2026-09-08 |
 | Account Director, Digital Natives - Nordics | Openai | Stockholm, Sweden | 2026-09-07 |
 | Technical Intern, Frontend Development | Redpine | Redpine HQ, central Stockholm | 2026-09-07 |
 | Experienced Salesforce Program Manager at Deloitte Digital | Deloitte | Stockholm, se | 2026-09-07 |
@@ -77,8 +79,8 @@ _494 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | GCP Looker Practice Lead - Nordics | Devoteam | Stockholm, se | 2026-09-04 |
 | Accounting Manager | Kognity | Stockholm | 2026-09-04 |
 | Business Development Associate, Key Accounts (Stockholm) | Ideals | Stockholm, Sweden | 2026-09-04 |
-| SDR till Closers Only | Saleshub | Stockholm, Sweden | 2026-09-04 |
 | Global Patient Safety Compliance & Quality Specialist | Karo Healthcare | Stockholm, Sweden | 2026-09-04 |
+| SDR till Closers Only | Saleshub | Stockholm, Sweden | 2026-09-04 |
 | People Enablement Lead | Neko Health | Stockholm | 2026-09-03 |
 | Senior Security Operations Engineer | Tandem Health | Stockholm | 2026-09-03 |
 | Senior GRC Engineer | Tandem Health | Stockholm | 2026-09-03 |
@@ -171,9 +173,9 @@ _494 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Project Manager | Legora | Stockholm | 2026-08-18 |
 | Security Engineer, Corporate | Lovable | Stockholm | 2026-08-18 |
 | Client Director | Nexthink | Stockholm, se | 2026-08-18 |
-| Senior Platform Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
-| Investment Professionals Associate - EU | EQT Group | Amsterdam, North Holland, Netherlands; København, Capital Region of Denmark, Denmark; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Paris, Paris, France; Stockholm, Stockholm, Sweden; Zürich, Zürich, Switzerland | 2026-08-18 |
 | Applied AI Lead | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
+| Investment Professionals Associate - EU | EQT Group | Amsterdam, North Holland, Netherlands; København, Capital Region of Denmark, Denmark; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Paris, Paris, France; Stockholm, Stockholm, Sweden; Zürich, Zürich, Switzerland | 2026-08-18 |
+| Senior Platform Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
 | Application Security Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
 | Design Director | Mentimeter | Stockholm | 2026-08-18 |
 | Social Media Lead | Lovable | Stockholm | 2026-08-17 |
@@ -253,8 +255,8 @@ _494 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Platform Specialist | Legora | Stockholm HQ | 2026-07-30 |
 | Senior AI Engineer | Tandem Health | Stockholm | 2026-07-29 |
 | Account Executive | Neuralconcept | Stockholm | 2026-07-29 |
-| Senior Web Designer | Legora | Stockholm | 2026-07-29 |
 | Senior Web Designer | Legora | Stockholm HQ | 2026-07-29 |
+| Senior Web Designer | Legora | Stockholm | 2026-07-29 |
 | Lead Project Manager (Swedish speaker) | Celonis | Stockholm, Sweden | 2026-07-29 |
 | Workforce Planner, Sweden | Neko Health | Stockholm | 2026-07-28 |
 | Demand Generation Marketing Manager | Adyen | Stockholm | 2026-07-28 |
@@ -292,8 +294,8 @@ _494 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Key Account Manager | Delta Electronics | Stockholm, se | 2026-07-09 |
 | Business Partner IFS | Karo Healthcare | Stockholm, Sweden | 2026-07-09 |
 | Designer, Brand & Product | Redpine | Redpine HQ, central Stockholm | 2026-07-08 |
-| Fullstack Engineer | Legora | Stockholm HQ | 2026-07-08 |
 | Fullstack Engineer | Legora | Stockholm | 2026-07-08 |
+| Fullstack Engineer | Legora | Stockholm HQ | 2026-07-08 |
 | Head of Customer Experience | Lovable | Stockholm | 2026-07-08 |
 | Nordic Brand Manager | Karo Healthcare | Stockholm, Sweden | 2026-07-07 |
 | Software Integration Engineer | Applied | Stockholm | 2026-07-06 |
@@ -303,9 +305,7 @@ _494 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Optics Engineering Lead | Neko Health | Stockholm | 2026-07-03 |
 | Key Account Manager - Strategic Accounts | Mentimeter | Stockholm | 2026-07-03 |
 | Revenue Operations Specialist | Tandem Health | Stockholm | 2026-07-03 |
-| Workplace Technology Lead - Stockholm | Legora | Stockholm HQ | 2026-07-03 |
 | Workplace Technology Lead | Legora | Stockholm | 2026-07-03 |
-| Senior Product Manager, Data / ML | Mentimeter | Stockholm | 2026-07-03 |
 
 ---
 

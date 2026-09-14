@@ -2,16 +2,59 @@
 
 Roles whose title reads as design.
 
-_12,532 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
+_12,501 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Senior/Staff Product Designer | Clera | Munich | 2026-09-13 |
+| Junior Product Designer | Clera | Munich | 2026-09-13 |
+| Software Engineer II - Builder Experience - Platform Engineering Productivity | Elastic | United States | 2026-09-13 |
+| Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Beaumont, TX | 2026-09-13 |
+| Auxiliar Tecnico | Sika AG | Quito, ec | 2026-09-13 |
+| General Manager(08031) - 313 S. Broadway Street, Suite 5 | Domino's | Joshua, us | 2026-09-13 |
+| Social Media Manager - St. Louis | The Boutique COO | St. Louis, United States | 2026-09-13 |
+| Partner Acquisition Lead - Business Services | Engine | Remote - US | 2026-09-12 |
+| Partner Acquisition Lead - Transportation | Engine | Remote - US | 2026-09-12 |
 | Founding Product Designer | Clera | Copenhagen | 2026-09-12 |
 | Fractional Founding Designer | Clera | San Francisco | 2026-09-12 |
 | Visual Designer | Clera | Vienna | 2026-09-12 |
+| Senior Digital Experience Designer | FuseGlobal | Saint Louis, MO | 2026-09-12 |
 | Senior Technical Recruiter | Envoy | San Francisco, CA | 2026-09-12 |
 | Senior Product Designer | Mercor | San Francisco | 2026-09-12 |
+| Embedded Linux Engineer II | Varda Space Industries | El Segundo, California, United States | 2026-09-12 |
+| Equipier Commercial LS Frais/Extra-Frais - CDI F/H | METRO/MAKRO | Ville-la-Grand, fr | 2026-09-12 |
+| TECHNICIEN DE MAINTENANCE - TRAVAUX NEUFS ET MÉTROLOGIE H/F | Veolia Environnement SA | Ponts-et-Marais, fr | 2026-09-12 |
 | User Experience Designer | Metaforms | Bengaluru | 2026-09-12 |
+| RESPONSABLE TRAITEUR / CUISINE ET FAIT SUR PLACE RAYONS TRAD (H/F) | Groupement Mousquetaires | Cherbourg-en-Cotentin, fr | 2026-09-12 |
+| EMPLOYE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | SEVRE MOINE, fr | 2026-09-12 |
+| General Manager - Novotel Hanoi Thai Ha & Novotel Suites Hanoi | AccorCorpo | Hanoi, vn | 2026-09-12 |
+| EMPLOYE COMMERCIAL LIQUIDE (H/F) | Groupement Mousquetaires | Râches, fr | 2026-09-12 |
+| Cuisinier H/F. | Groupement Mousquetaires | Cherbourg-en-Cotentin, fr | 2026-09-12 |
+| EMPLOYE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | Landévant, fr | 2026-09-12 |
+| Geotechnical Designer (for projects in Sweden) | AFRY | Kraków, pl | 2026-09-12 |
+| Geotechnical Designer (for projects in Sweden) | AFRY | Poznań, pl | 2026-09-12 |
+| Bridge Designer (for projects in Norway) | AFRY | Kraków, pl | 2026-09-12 |
+| Junior Bridge Designer (for projects in Sweden) | AFRY | Kraków, pl | 2026-09-12 |
+| Bridge Designer (for projects in Norway) | AFRY | Poznań, pl | 2026-09-12 |
+| Junior Bridge Designer (for projects in Sweden) | AFRY | Poznań, pl | 2026-09-12 |
+| Assistant Structural Designer (for BIM projects in Sweden) | AFRY | Kraków, pl | 2026-09-12 |
+| Assistant Structural Designer (for BIM projects in Sweden) | AFRY | Poznań, pl | 2026-09-12 |
+| Bridge Designer (for projects in Finland) | AFRY | Poznań, pl | 2026-09-12 |
+| Junior Road and Drainage Designer (for projects in Sweden) | AFRY | Kraków, pl | 2026-09-12 |
+| Junior Road and Drainage Designer (for projects in Sweden) | AFRY | Poznań, pl | 2026-09-12 |
+| Structural Designer for wastewater treatment plants (for projects in Switzerland) | AFRY | Kraków, pl | 2026-09-12 |
+| Structural Designer for wastewater treatment plants (for projects in Switzerland) | AFRY | Poznań, pl | 2026-09-12 |
+| Hydrotechnical Designer (for projects in Germany) | AFRY | Kraków, pl | 2026-09-12 |
+| Hydrotechnical Designer (for projects in Germany) | AFRY | Poznań, pl | 2026-09-12 |
+| Tekla Structures/BIM Structural Designer (for projects in Switzerland) | AFRY | Kraków, pl | 2026-09-12 |
+| Tekla Structures/BIM Structural Designer (for projects in Switzerland) | AFRY | Poznań, pl | 2026-09-12 |
+| Junior Water & Wastewater Designer (for projects in Norway) | AFRY | Kraków, pl | 2026-09-12 |
+| Junior Water & Wastewater Designer (for projects in Norway) | AFRY | Poznań, pl | 2026-09-12 |
+| HVAC Designer (for projects in Germany) | AFRY | Kraków, pl | 2026-09-12 |
+| HVAC Designer (for projects in Germany) | AFRY | Poznań, pl | 2026-09-12 |
+| Recruiter, GTM - AMER | Chainalysis Careers | New York | 2026-09-12 |
+| MODELE INTERMARCHE - RESPONSABLE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | UZERCHE, fr | 2026-09-12 |
+| FR_Equipier Commercial LS Frais/Extra-Frais - CDD F/H | METRO/MAKRO | Montpellier, fr | 2026-09-12 |
 | Senior Graphic Designer (m/f/d) | Playground | Remote Germany | 2026-09-12 |
 | Principal Software Engineer - Builder Experience - Platform Engineering Productivity | Elastic | Poland | 2026-09-12 |
 | Principal Software Engineer - Builder Experience - Platform Engineering Productivity | Elastic | Portugal | 2026-09-12 |
@@ -22,19 +65,23 @@ _12,532 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Anderson, SC | 2026-09-12 |
 | Senior Recruiting Coordinator [fixed-term contract] | Anthropic | Dublin, IE | 2026-09-12 |
 | Senior Recruiting Coordinator [fixed-term contract] | Anthropic | London, UK | 2026-09-12 |
-| Customer Service Rep(06420) - 5101 SE 29th Street Suite 107 Del City, OK 73115 | Domino's | Del City, us | 2026-09-12 |
-| Assistant Manager(09657) - 819 SW 19th Street, Suite 100 | Domino's | Moore, us | 2026-09-12 |
-| Customer Service Rep(05304) - 2075 E. Main, Suite A | Domino's | Siloam Springs, us | 2026-09-12 |
-| Assistant Manager(06420) - 5101 SE 29th Street Suite 107 Del City, OK 73115 | Domino's | Del City, us | 2026-09-12 |
-| Customer Service Rep (07248) - 2835 19th Ave Suite 200 | Domino's | Forest Grove, us | 2026-09-12 |
 | Technical Recruiter, Early Talent | Glean | Mountain View, CA | 2026-09-12 |
 | Senior Recruiting Coordinator [fixed-term contract] | Anthropic | Remote-Friendly, United States | 2026-09-12 |
 | Project Manager, People Mergers & Acquisitions (M&A) | Stripe | SF, SEA, NYC, US-Rem | 2026-09-12 |
 | Asistente de Inspección Equipos Eléctricos | SGS | Talcahuano, cl | 2026-09-12 |
 | Senior UX Designer | SeatGeek | New York, New York | 2026-09-12 |
 | Senior UX Designer | SeatGeek | Remote - United States | 2026-09-12 |
-| Field Nurse Practitioner - St. Louis, MO ($5,000 Sign-On Bonus) | Advantmed | St. Louis, United States | 2026-09-12 |
+| Talent Acquisition Manager | Weekday AI | Hat Yai, Thailand | 2026-09-12 |
+| Fleet, Equipment & Yard Supervisor | Scalesource | Rogers, United States | 2026-09-12 |
 | M26311 Asistente Administrativo de Flotilla (Locally Recruited) | CIMMYT | Texcoco, Mexico | 2026-09-12 |
+| GLOBAL PARTICIPANTS NEEDED - FINAL RECRUITMENT (ENG-French Background Required) | Volga Partners | Canada | 2026-09-12 |
+| GLOBAL PARTICIPANTS NEEDED - FINAL RECRUITMENT (ENG-CN/Viet Background Required) | Volga Partners | China | 2026-09-12 |
+| Field Nurse Practitioner - St. Louis, MO ($5,000 Sign-On Bonus) | Advantmed | St. Louis, United States | 2026-09-12 |
+| GLOBAL PARTICIPANTS NEEDED - FINAL RECRUITMENT (ENG-Spanish Background Required) | Volga Partners | Portugal | 2026-09-12 |
+| GLOBAL PARTICIPANTS NEEDED - FINAL RECRUITMENT (ENG-French Background Required) | Volga Partners | Albania | 2026-09-12 |
+| GLOBAL PARTICIPANTS NEEDED - FINAL RECRUITMENT (ENG-French Background Required) | Volga Partners | Haiti | 2026-09-12 |
+| Fleet, Equipment & Yard Supervisor | Scalesource | Springdale, United States | 2026-09-12 |
+| GLOBAL PARTICIPANTS NEEDED - FINAL RECRUITMENT (ENG-Spanish Background Required) | Volga Partners | Argentina | 2026-09-12 |
 | Product Designer | Pylon Labs | San Francisco | 2026-09-11 |
 | Heavy Equipment Shop Technician (Mechanic) | EquipmentShare | Omaha, NE | 2026-09-11 |
 | Heavy Equipment CDL Driver | EquipmentShare | St. Louis, MO | 2026-09-11 |
@@ -177,7 +224,6 @@ _12,532 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Integrated Designer | BGBx | United States | 2026-09-11 |
 | EMPLOYE(E) rayon LIQUIDES | Groupement Mousquetaires | La Farlède, fr | 2026-09-11 |
 | Cuisinier (H/F) | Groupement Mousquetaires | Foix, fr | 2026-09-11 |
-| VENDEUR CONSEIL - CDD H/F (Cdi possible par la suite) du 28/09 au 31/10 | BOULANGER | Marseille, fr | 2026-09-11 |
 | Learner Recruitment Specialist: Johannesburg | ALX Africa | Johannesburg, South Africa | 2026-09-11 |
 | Clinical Recruiter (Healthcare) | Daybreak Health | Remote | 2026-09-11 |
 | Clinical Recruiter (Healthcare) | Daybreak Health | Remote | 2026-09-11 |
@@ -252,7 +298,6 @@ _12,532 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | VERKÄUFER/IN TEILZEIT (M/W/D) – Buxtehude (20 Std) | JYSK | Buxtehude, de | 2026-09-11 |
 | Analyste en assurance qualité linguistique (LQA) espagnol latino-américain / LQA Analyst, Spanish Latin American | 2K | Montréal, Quebec, Canada | 2026-09-11 |
 | Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Krefeld, de | 2026-09-11 |
-| Urban Designer | City of New York | New York City, us | 2026-09-11 |
 | UX Researcher | Xendit | Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore | 2026-09-11 |
 | QA Engineer (ATM Acquiring & Payment Processing) | Salmon Group | Metro Manila | 2026-09-11 |
 | Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Krefeld, de | 2026-09-11 |
@@ -261,51 +306,6 @@ _12,532 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Kiel, de | 2026-09-11 |
 | Equipier Commercial - CDD F/H | METRO/MAKRO | Caissargues, fr | 2026-09-11 |
 | Product Designer | ServiceNow | Hyderabad, in | 2026-09-11 |
-| VERKÄUFER/IN TEILZEIT (M/W/D) – Cuxhaven (20 Std) | JYSK | Cuxhaven, de | 2026-09-11 |
-| Visual merchandising Designer - Internship | Max Mara Fashion Group | Reggio Emilia, it | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Bielefeld, de | 2026-09-11 |
-| Multimedia Designer | Appnovation Technologies | Malaysia | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Wolfsburg, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Osnabrück, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Oldenburg (Oldb), de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hannover, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Bremerhaven, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Bremen, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Braunschweig, de | 2026-09-11 |
-| Contrôleur de gestion Groupe - Frais Généraux H/F | Egis Group | Paris, fr | 2026-09-11 |
-| Lead UX & Tools - H/F/NB | Ubisoft | Paris, fr | 2026-09-11 |
-| Chef de Cuisine - Pilotage Nouveau Concept Italien CDI | Relais & Châteaux | Aix-en-Provence, fr | 2026-09-11 |
-| Mechanical Engineer – ADAS HPC (High-Performance Computing) Systems & Liquid Cooling (Orin/Thor) in Architecture and Network Solutions R&D \| AUMOVIO Korea | Aumovio | Seongnam-si, kr | 2026-09-11 |
-| Talent Acquisition Partner - Technology | Xyz Reality | London Office | 2026-09-11 |
-| EMPLOYÉ RAYON FRUITS ET LÉGUMES (H/F) | Groupement Mousquetaires | LES VILLAGES VOVEENS, fr | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Paderborn, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Dortmund, de | 2026-09-11 |
-| Equipier Commercial - CDI F/H | METRO/MAKRO | Portet-sur-Garonne, fr | 2026-09-11 |
-| Junior Talent Acquisition Specialist - Dutch Speaking | Evolution | Birkirkara, mt | 2026-09-11 |
-| CARISTE PARC MATERIAUX H/F CDI | Groupement Mousquetaires | La Teste-de-Buch, fr | 2026-09-11 |
-| Associate Director-HR AI Solution Architect role with experience in building and deploying enterprise AI | NielsenIQ | Mumbai, in | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Wuppertal, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Mönchengladbach, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Köln, de | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hagen, de | 2026-09-11 |
-| Menuisier H/F | LAPEYRE | Auxerre, fr | 2026-09-11 |
-| FinCrime AML/CTF Manager (Relocation to Luxembourg) | Satispay | Porto, Purtugal | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Düsseldorf, de | 2026-09-11 |
-| Extracurricular Internship: UX/UI Designer (f/m/div.) | Bosch Group | Aveiro, pt | 2026-09-11 |
-| Auxiliaire de vie H/F | Ouihelp | Châteaugiron | 2026-09-11 |
-| FinCrime AML/CTF Manager (Relocation to Luxembourg) | Satispay | Lisbon, Portugal | 2026-09-11 |
-| FinCrime AML/CTF Manager (Relocation to Luxembourg) | Satispay | UK, London | 2026-09-11 |
-| FinCrime AML/CTF Manager (Relocation to Luxembourg) | Satispay | Poland, Cracow | 2026-09-11 |
-| Extracurricular Internship: UX and Product Documentation (f/m/div.) | Bosch Group | Aveiro, pt | 2026-09-11 |
-| Vertriebsmitarbeiter Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hamburg, de | 2026-09-11 |
-| EMPLOYE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | URCUIT, fr | 2026-09-11 |
-| Building Services Engineer | Frasers Group | Shirebrook, gb | 2026-09-11 |
-| Ingénieur/e Data – Services Publics – Bordeaux | Sopra Steria Corporate | Mérignac, fr | 2026-09-11 |
-| UX/UI Designer \| Intch | Hirehire | Remote | 2026-09-11 |
-| Technicien.ne Réseaux d’Eau Potable | Veolia Environnement SA | Château-Gontier-sur-Mayenne, fr | 2026-09-11 |
-| Product Designer (Connect) | 42Dot | Pangyo (Software Dream Center), South Korea | 2026-09-11 |
-| Accountmanager Buitendienst | B&S International | Amsterdam, nl | 2026-09-11 |
-| Chef/cheffe de projet IT - Services Financiers - Bordeaux | Sopra Steria Corporate | Mérignac, fr | 2026-09-11 |
 
 ---
 

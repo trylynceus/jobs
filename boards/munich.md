@@ -2,10 +2,25 @@
 
 Roles listing Munich as their location.
 
-_1,514 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
+_1,523 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Senior/Staff Product Designer | Clera | Munich | 2026-09-13 |
+| Customer Success Manager | Clera | Munich | 2026-09-13 |
+| AI Engineer - Model Training & Deployment | Clera | Munich | 2026-09-13 |
+| Strategy & Operations - Product Growth | Clera | Munich | 2026-09-13 |
+| Founding People & Talent Lead | Clera | Munich | 2026-09-13 |
+| Head of Product Design | Clera | Munich | 2026-09-13 |
+| Customer Support Engineer | Clera | Munich | 2026-09-13 |
+| Senior Business Development Representative | Clera | Munich | 2026-09-13 |
+| Revenue Operations Manager | Clera | Munich | 2026-09-13 |
+| Sales Intern | Clera | Munich | 2026-09-13 |
+| Account Executive | Clera | Munich | 2026-09-13 |
+| Senior Full Stack Engineer | Clera | Munich | 2026-09-13 |
+| Full Stack Engineer | Clera | Munich | 2026-09-13 |
+| Junior Product Designer | Clera | Munich | 2026-09-13 |
+| Founding Product Engineer | Clera | Munich | 2026-09-13 |
 | Member of Commercial Staff | Clera | Munich | 2026-09-12 |
 | Founding Product Engineer | Clera | Munich | 2026-09-12 |
 | Head of Growth | Clera | Munich | 2026-09-12 |
@@ -15,7 +30,6 @@ _1,514 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Spacecraft Thermal Engineer | The Exploration Company | Munich, Germany | 2026-09-11 |
 | Senior Software Engineer (GOlang, AI domain) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-09-11 |
 | AI & Backend Engineer | Clera | Munich | 2026-09-11 |
-| Founding Product Engineer | Clera | Munich | 2026-09-11 |
 | Manager, Applied AI Engineering (Codex) | Openai | Munich, Germany | 2026-09-11 |
 | Accountant - Part time | Helsing | Munich | 2026-09-11 |
 | Demand & Supply Planner | Red Bull | Munich, de | 2026-09-11 |
@@ -25,6 +39,7 @@ _1,514 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Senior Embedded Software Engineer | The Exploration Company | Munich, Germany | 2026-09-11 |
 | Flight Software Engineer | The Exploration Company | Munich, Germany | 2026-09-11 |
 | Product Engineer | Clera | Munich | 2026-09-11 |
+| Senior AI Engineer / AI Architect (all gender) | ALTEN | Munich, de | 2026-09-11 |
 | Community Manager | infinitSpace | Munich | 2026-09-11 |
 | Talent Acquisition Intern (all genders) | Lio | Munich Office | 2026-09-11 |
 | SAP BRIM Functional Lead - Digital Platforms - Germany | Infosys Consulting - Europe | Munich, Germany | 2026-09-11 |
@@ -68,8 +83,8 @@ _1,514 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Guidance, Navigation, & Control Engineer | Helsing | Munich | 2026-09-10 |
 | Director, Sovereign Cloud Partner Development | ServiceNow | Munich, de | 2026-09-10 |
 | Robotics Software Engineer - Grasping | Intrinsic | Munich, Germany | 2026-09-10 |
-| Internship - Data & AI \| Consulting (from February 2027) | Interpath Advisory | Munich, Germany | 2026-09-10 |
 | Senior Manager Group Accounting & IFRS (m/f/d) | SAP Fioneer | Munich, Germany | 2026-09-10 |
+| Internship - Data & AI \| Consulting (from February 2027) | Interpath Advisory | Munich, Germany | 2026-09-10 |
 | Electrical Engineer (F/M/D) – Maternity leave cover ~1 year | NavVis | Munich Onsite (NavVis GmbH) | 2026-09-09 |
 | Intern Human Resource Management | H&Z Group | Munich | 2026-09-09 |
 | Intern Post Merger Integration & Strategy Execution (m/f/d) | H&Z Group | Munich | 2026-09-09 |
@@ -85,12 +100,6 @@ _1,514 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Working Student Business Development & Growth Strategy (all genders) | Wemolo | Munich | 2026-09-09 |
 | Flottenkoordinator Autovermietung (m/w/d) Flughafen in Teilzeit | SIXT | Munich, de | 2026-09-09 |
 | Senior Robotic Systems Engineer | Clera | Munich | 2026-09-09 |
-| Founding Deployment Strategist | Clera | Munich | 2026-09-09 |
-| Enterprise Account Executive | Clera | Munich | 2026-09-09 |
-| Forward Deployed Engineer, DACH | Clera | Munich | 2026-09-09 |
-| Enterprise AI Transformation Lead, DACH | Clera | Munich | 2026-09-09 |
-| Founders Associate | Clera | Munich | 2026-09-09 |
-| Founding Engineer (Full-Stack/AI) | Clera | Munich | 2026-09-09 |
 | (Senior) Frontend Engineer - Visual Experiences | Celonis | Munich, Germany | 2026-09-09 |
 | Account Executive, Commercial Accounts (Public) | Veeam Software | Munich, Germany | 2026-09-09 |
 | Senior Software Engineer | Celonis | Munich, Germany | 2026-09-09 |
@@ -297,15 +306,6 @@ _1,514 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Senior AI Product Designer (all genders) | Avelios Medical | Munich | 2026-08-18 |
 | HR Generalist | Spire Global | Munich, Germany | 2026-08-18 |
 | Werkstudent:in Social Media | Brainlab | Munich, de | 2026-08-18 |
-| Mitarbeiter Cafeteria & Facility Services (m/w/d) | AutoScout24 | Munich (Germany) | 2026-08-18 |
-| Koch/Küchenhilfe (m/w/d) – Betriebsgastronomie & Küchenorganisation | AutoScout24 | Munich (Germany) | 2026-08-18 |
-| Sales Manager | Tacto | Munich | 2026-08-17 |
-| Account Director, Startups | Openai | Munich, Germany | 2026-08-17 |
-| Account Director, Startups | Openai | Munich, Germany | 2026-08-17 |
-| Account Executive (all genders) | Lio (formerly askLio) | Munich Office | 2026-08-17 |
-| Commercial Account Executive \| DACH | DeepL AI Platform | Munich | 2026-08-17 |
-| Commercial Account Executive \| DACH (m/w/d) | DeepL AI Platform | Munich | 2026-08-17 |
-| Commercial Account Executive \| DACH | DeepL AI Platform | Munich | 2026-08-17 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 Roles listing Paris as their location.
 
-_2,414 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
+_2,404 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -173,11 +173,11 @@ _2,414 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Account Manager junior \| Artificial Intelligence & Digital Transformation | Wavestone | Paris, fr | 2026-09-10 |
 | Stagiaire - Evenementiel (F/H/X) | AVIV Group | Paris, fr | 2026-09-10 |
 | Tech Lead Data H/F | NEXTON | Paris, fr | 2026-09-10 |
+| Rag&Bone Responsable Adjoint Flagship Le Marais | Guess Europe Sagl | Paris, France | 2026-09-10 |
 | Strategic Partner Pre-Sales & Customer Success Manager | Viva.com | Paris, France | 2026-09-10 |
-| Office Manager | Robeauté | Paris, France | 2026-09-10 |
 | Head of Studio | One Of Us | Paris, France | 2026-09-10 |
 | Rag&Bone - CDI 35H Conseiller(e) de vente - Flagship le Marais | Guess Europe Sagl | Paris, France | 2026-09-10 |
-| Rag&Bone Responsable Adjoint Flagship Le Marais | Guess Europe Sagl | Paris, France | 2026-09-10 |
+| Office Manager | Robeauté | Paris, France | 2026-09-10 |
 | Nurse Practitioner/Physician Assistant | Theoriamedical | Paris, IL | 2026-09-09 |
 | Medical Director/Attending Physician | Theoriamedical | Paris, IL | 2026-09-09 |
 | Enterprise, Solutions Consultant | Navan | Paris, FR | 2026-09-09 |
@@ -222,7 +222,6 @@ _2,414 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Stage – Assistant(e) Communication & Événementiel (Hackathons Adopt AI) | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-09-09 |
 | Data Analyst / Développeur Python & BI H/F | NEXTON | Paris, fr | 2026-09-09 |
 | Module Lead, Guidance & Control | Harmattan Ai | Paris | 2026-09-09 |
-| Equipier Commercial - Caisse CDD F/H | METRO/MAKRO | Paris, fr | 2026-09-09 |
 | AI Deployment Strategist - 6 months internship (end of study) | Vocca | Paris | 2026-09-09 |
 | HR Business Partner | Ubisoft | Paris, fr | 2026-09-09 |
 | UX RESEARCHER H/F | NEXTON | Paris, fr | 2026-09-09 |
@@ -238,10 +237,10 @@ _2,414 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Responsable Marketing & Communications -F/H -CDD | ALTAREA | Paris, fr | 2026-09-09 |
 | IT Support Specialist | Singulier | Paris, France | 2026-09-09 |
 | Retail Customer Service and Sales Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-08 |
-| IT Support Technician Intern | Datadog | Paris, France | 2026-09-08 |
 | Product Management Intern | Datadog | Paris, France | 2026-09-08 |
-| Applied Science Intern | Datadog | Paris, France | 2026-09-08 |
+| IT Support Technician Intern | Datadog | Paris, France | 2026-09-08 |
 | Software Engineering Intern | Datadog | Paris, France | 2026-09-08 |
+| Applied Science Intern | Datadog | Paris, France | 2026-09-08 |
 | Enterprise Account Manager | Nexthink | Paris, fr | 2026-09-08 |
 | Principal Thermo-Mechanical Engineer- Paris/Grenoble | Vinci4D | Paris / Gernoble | 2026-09-08 |
 | Lead Product Manager - AI Platform | Joko | Paris | 2026-09-08 |
@@ -306,6 +305,7 @@ _2,414 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Chirurgien-Dentiste - Omnipratique H/F - Paris 14ème | DENTEGO | Paris, fr | 2026-09-08 |
 | Chirurgien-Dentiste - Omnipratique H/F - Paris 15ème | DENTEGO | Paris, fr | 2026-09-08 |
 | Stage de fin d'études - Business Development \| Artificial Intelligence & Digital Transformation | Wavestone | Paris, fr | 2026-09-08 |
+| Solution Architect | Theodo | Paris | 2026-09-08 |
 
 ---
 

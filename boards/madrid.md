@@ -2,10 +2,11 @@
 
 Roles listing Madrid as their location.
 
-_848 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
+_842 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| VENDEDOR/A | JYSK | Madrid, es | 2026-09-12 |
 | Arquitecto/a de interoperabilidad con IA (LLM) (m/f/d) | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla y Valencia, es | 2026-09-11 |
 | Senior Software Engineer | Workato | Barcelona, Spain; Madrid, Spain | 2026-09-11 |
 | Senior Consultant – Economic Studies & Regulation | Veolia Environnement SA | Madrid, es | 2026-09-11 |
@@ -193,9 +194,9 @@ _848 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Director, Regional Partners - SEUR | Wiz, Inc. | Madrid, Spain | 2026-09-02 |
 | Clinical Research Associate II | Ergomed | Madrid, es | 2026-09-02 |
 | Freelance Recruiter - Work Remote In Spain | Mercier Consultancy Group | Madrid, Spain | 2026-09-02 |
+| UAV Development Technical Lead | Destinus | Madrid, Spain | 2026-09-02 |
 | Workplace Lead | Destinus | Madrid, Spain | 2026-09-02 |
 | Motion Designer, Freelance (Remote) | 1000heads | Madrid, Spain | 2026-09-02 |
-| UAV Development Technical Lead | Destinus | Madrid, Spain | 2026-09-02 |
 | Sales & Marketing Director | Hustler Marketing | Madrid, Spain | 2026-09-02 |
 | Salesforce Senior Technical Architect | Cabify | Madrid | 2026-09-01 |
 | Customer Insights & Strategy Lead - Affiliate Marketing (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; Iași, Iași, Romania; London, England, United Kingdom; Madrid, Madrid, Spain; Manchester, England, United Kingdom; Milano, Milan, Italy; Warsaw, Masovian Voivodeship, Poland | 2026-09-01 |
@@ -219,8 +220,8 @@ _848 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Revenue Ops Sr. Associate | FeverUp | Madrid | 2026-09-01 |
 | Growth Graduate Program | FeverUp | Madrid | 2026-09-01 |
 | Operations Analyst | FeverUp | Madrid | 2026-09-01 |
-| Senior Operations Administrator | Control Risks | Madrid, Spain | 2026-09-01 |
 | High Voltage Technician | Fuse Energy | Madrid, Spain | 2026-09-01 |
+| Senior Operations Administrator | Control Risks | Madrid, Spain | 2026-09-01 |
 | Account Executive | Legora | Madrid | 2026-08-31 |
 | Senior Information Security GRC Analyst | OneTrust | Madrid, Spain | 2026-08-31 |
 | Growth Strategy Manager (Portuguese speaker) | FeverUp | Madrid | 2026-08-31 |
@@ -243,8 +244,8 @@ _848 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Applied AI Architect | Anthropic | Madrid, Spain | 2026-08-28 |
 | IT Service Engineer | Celonis | Madrid, Spain | 2026-08-28 |
 | Global Operations Intern - Start January 2027 | FeverUp | Madrid | 2026-08-28 |
-| Software Engineer - Fullstack | Auctane | Madrid, ES | 2026-08-28 |
 | Software Engineer - Java | Auctane | Madrid, ES | 2026-08-28 |
+| Software Engineer - Fullstack | Auctane | Madrid, ES | 2026-08-28 |
 | Multi-Hotel Revenue Manager \| 12-Month Fixed-Term Contract | AccorCorpo | Madrid, es | 2026-08-28 |
 | Legal & Compliance Ops | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-08-28 |
 | Compliance Ops Builder | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-08-28 |
@@ -254,8 +255,8 @@ _848 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Account Executive (Portuguese Speaker) | FeverUp | Madrid | 2026-08-28 |
 | Growth Strategy Manager- Italian speaker | FeverUp | Madrid | 2026-08-28 |
 | CS Transformation & Implementation Specialist | lastminute.com | Madrid, es | 2026-08-28 |
-| Data Engineer | MediaRadar | Madrid, Spain | 2026-08-28 |
 | Encargada / Responsable de Tienda (Sector Retail) - Zona Noroeste de Madrid | Mr. Blue | Madrid, Spain | 2026-08-28 |
+| Data Engineer | MediaRadar | Madrid, Spain | 2026-08-28 |
 | HR Generalist | Monks | Madrid | 2026-08-27 |
 | Senior Application Product Manager - Oracle Transformation Solutions | Celonis | Madrid, Spain | 2026-08-27 |
 | Data Engineer (Madrid based) | Auctane | Madrid, ES | 2026-08-27 |
@@ -302,10 +303,9 @@ _848 open · showing the 300 most recent · updated 2026-09-13 04:18 UTC_
 | Revenue Operations | FeverUp | Madrid | 2026-08-24 |
 | Account Manager - Trade Credit Insurance | Coface | Madrid, es | 2026-08-24 |
 | Legal Counsel (Commercial General) | FeverUp | Madrid | 2026-08-24 |
+| Pipeline Engineer (remote work) | Cloudlinux | Madrid, Spain | 2026-08-24 |
 | Prácticas remuneradas en departamento comercial | Treatwell | Madrid, Spain | 2026-08-24 |
 | Talent Acquisition Intern | Destinus | Madrid, Spain | 2026-08-24 |
-| Pipeline Engineer (remote work) | Cloudlinux | Madrid, Spain | 2026-08-24 |
-| Director, Global Supply Chain & Strategic Sourcing | Rondo Energy | Madrid | 2026-08-21 |
 
 ---
 
