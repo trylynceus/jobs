@@ -2,26 +2,86 @@
 
 Roles listing New York as their location.
 
-_12,586 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
+_12,488 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Manager, Customer Success – Strategic Consumer Tech | Anthropic | Boston, MA; San Francisco, CA \| New York City, NY; San Francisco, CA \| Seattle, WA; Washington, DC | 2026-09-15 |
+| Recruiting Analytics Data Engineer | Anthropic | New York City, NY; San Francisco, CA \| New York City, NY \| Seattle, WA; Seattle, WA | 2026-09-15 |
+| Sales & Service Lead - The Westchester | ALO | White Plains, New York, United States | 2026-09-14 |
+| Product Marketing Manager, Special Projects | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-14 |
+| Product Marketing Manager, Platform | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-14 |
+| Sr. Solutions Architect (Pre Sales) | The Nielsen Company | New York, us | 2026-09-14 |
+| Forward Deployed Engineer | Venn | New York, New York, United States | 2026-09-14 |
+| Sr CRM Account Executive - Financial Services | ServiceNow | New York, us | 2026-09-14 |
+| Front Desk Associates, Brookfield Place | Equinox | New York, us | 2026-09-14 |
+| Manager, Partner Management | Versant | New York, us | 2026-09-14 |
+| Senior Client Partner, Mid-Market (B2C Services Acquisitions) | Reddit | New York City, NY | 2026-09-14 |
+| AI/ML Product Strategy Lead | Arcesium LLC | New York | 2026-09-14 |
+| Advisory Solution Consultant – Security, Identity & Exposure Management - East Coast-Banking (Armis/Veza) | ServiceNow | New York, us | 2026-09-14 |
+| Staff Product Manager | Oscar Health | New York, New York, United States | 2026-09-14 |
+| Director of Performance Marketing | Relay | New York, NY | 2026-09-14 |
+| Project Accounting Supervisor OR Project Accounting Manager | AECOM | New York, us | 2026-09-14 |
+| Maintenance Associates, Rockefeller Center | Equinox | New York, us | 2026-09-14 |
+| Director, Analytics (Media) | VaynerMedia LLC | United States- New York, NY | 2026-09-14 |
+| Enterprise Engineer | PhysicsX | New York, United States | 2026-09-14 |
+| Experience Lead, Brookfield Place | Equinox | New York, us | 2026-09-14 |
+| Devops Engineer | PhysicsX | New York, United States | 2026-09-14 |
+| Account Executive, Product Sales - Billing | Stripe | New York, San Francisco, Seattle, Atlanta, Chicago | 2026-09-14 |
+| Sales Manager, AI | Stripe | New York or San Francisco | 2026-09-14 |
+| Data Science Analyst, Advanced Consumer Insights | Versant | New York, us | 2026-09-14 |
+| Engineering Manager | NBCUniversal | New York, us | 2026-09-14 |
+| Sr. Product Designer | NBCUniversal | New York, us | 2026-09-14 |
+| CPQ Architect | Go Nimbly | Remote - California, Colorado, Georgia, Illinois, Massachusetts, New Hampshire, New York, North Carolina, Oregon, Pennsylvania, Texas, Utah | 2026-09-14 |
+| Copywriter | Monks | New York, United States | 2026-09-14 |
+| Generalist, Human Resources | NBCUniversal | New York, us | 2026-09-14 |
+| Veterinary Operations Coordinator | Alliance Animal Health | New York, us | 2026-09-14 |
+| Analyst, Streaming Monetization, Insights | NBCUniversal | New York, us | 2026-09-14 |
+| Lifeguards, Greenwich Ave | Equinox | New York, us | 2026-09-14 |
+| Assistant General Manager, NYC | Equinox | New York, us | 2026-09-14 |
+| Sr. Manager, Transformation Enablement & Readiness | Versant | New York, us | 2026-09-14 |
+| Credit Workflow Strategist | Octus | New York, New York, United States | 2026-09-14 |
+| Director, Experiential Production | Orchestra | New York, NY OR Los Angeles, CA | 2026-09-14 |
+| Director, TA Operations & Enablement | Appian Corporation | Albany, New York; Atlanta, Georgia; Austin, Texas; Baltimore, Maryland; Boston, Massachusetts; Charlotte, North Carolina; Chicago, Illinois; Cleveland, Ohio; Dallas, Texas; Denver, Colorado; Detroit, Michigan; McLean, Virginia | 2026-09-14 |
+| Privacy & Security Program Manager | Nanit | New York, NY (Hybrid); New York, NY (Remote) | 2026-09-14 |
+| Regional Manager, Facilities | Equinox | New York, us | 2026-09-14 |
+| 2027 Fundamental Equity COO Intern | Schonfeld | New York, New York, United States | 2026-09-14 |
+| Women in Trading and Technology Internship (WiTTI) – Winter 2027 | Hudson River Trading | New York, NY, United States | 2026-09-14 |
+| Assistant General Counsel, Employment (Senior Director) | Equinox | New York, us | 2026-09-14 |
+| Mid-Market Account Director - Talent Solutions | LinkedIn | New York, us | 2026-09-14 |
+| Technical Recruiter | Nourish | New York, NY | 2026-09-14 |
+| Software Engineer - Java | Squarespace | New York City | 2026-09-14 |
+| Software Engineering Intern, iOS (Summer 2027) | Robinhood | Menlo Park, CA; New York, NY | 2026-09-14 |
+| Crypto Partnership Intern (Summer 2027) | Robinhood | New York, NY | 2026-09-14 |
+| Crypto Operations Intern (Summer 2027) | Robinhood | New York, NY | 2026-09-14 |
+| Software Engineering Intern, Android (Summer 2027) | Robinhood | Menlo Park, CA; New York, NY | 2026-09-14 |
+| Software Engineering Intern, Backend (Summer 2027) | Robinhood | Bellevue, WA; Menlo Park, CA; New York, NY | 2026-09-14 |
+| People Partner Intern (Summer 2027) | Robinhood | New York, NY | 2026-09-14 |
+| Vendor Management Intern (Summer 2027) | Robinhood | New York, NY | 2026-09-14 |
+| Associate Product Manager (New Grad) | Robinhood | Menlo Park, CA; New York, NY | 2026-09-14 |
+| Software Engineering Intern, Web (Summer 2027) | Robinhood | Menlo Park, CA; New York, NY | 2026-09-14 |
+| Accounting Intern (Summer 2027) | Robinhood | New York, NY | 2026-09-14 |
+| Senior Reporter, PharmaVoice | Informa Group Plc. | New York, us | 2026-09-14 |
+| AI Trainer - English-Spanish Bilingual Speaker - Voice Recording | Mindrift - Data annotation | New York, United States | 2026-09-14 |
 | Senior Member of Technical Staff (Applied AI) | Solstice | New York City | 2026-09-13 |
 | Head of Revenue - Banking and Wealth | Plaid | New York City Office | 2026-09-13 |
 | Founding Head of Growth | Nollahealth | New York City | 2026-09-13 |
 | Founding Engineer | Clera | New York | 2026-09-13 |
+| Stockroom Sales Associate (Part Time) - Herald Square | Primark | New York, us | 2026-09-13 |
 | Claims Solutions Partner | Claimsorted | New York | 2026-09-13 |
 | Founding Community & Marketing Manager | Claimsorted | New York | 2026-09-13 |
 | Site Reliability Engineer | Tennr | New York City Office | 2026-09-13 |
 | Senior Infrastructure Engineer | Tennr | New York City Office | 2026-09-13 |
 | AI Implementation Analyst (Construction Management) - Gryps | Pear Vc | New York City | 2026-09-13 |
 | Enforcement Operations Lead, Cloud Partners | Anthropic | San Francisco, CA \| New York City, NY \| Washington, DC | 2026-09-13 |
+| Partner Manager - Channel Partnerships | Consent Management Platform (CMP) Usercentrics | New York, United States | 2026-09-13 |
 | Part-Time In-Home Veterinarian | Lap of Love | New York, United States | 2026-09-13 |
+| Freelance Annotator (English) - AI Trainer | Mindrift - Data annotation | New York, United States | 2026-09-13 |
 | Full-Time In-Home Veterinarian | Lap of Love | New York, United States | 2026-09-13 |
 | Business Operations Coordinator | Dreamthree | New York City | 2026-09-12 |
 | Founding Product Manager | General Legal | New York, New York, United States | 2026-09-12 |
 | Manager, Omnichannel Trade Marketing - Ulta | LVMH Perfumes & Cosmetics | New York, us | 2026-09-12 |
-| Director of ISV and Strategic Growth Partners | Anaplan | New York-Remote, MN | 2026-09-12 |
+| Director of ISV and Strategic Growth Partners | Anaplan | New York City-Remote, United States | 2026-09-12 |
 | Content Marketing Manager | Clera | New York | 2026-09-12 |
 | Client Success Manager | Maven Clinic | New York, NY; Remote, US (Hub cities) | 2026-09-12 |
 | Knowledge Strategy, Senior Associate \| Housing | Eliseai | New York City | 2026-09-12 |
@@ -61,7 +121,6 @@ _12,586 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 | Wellness Associate | City of New York | New York City, us | 2026-09-12 |
 | Director | City of New York | New York City, us | 2026-09-12 |
 | Legal Assistant | City of New York | New York City, us | 2026-09-12 |
-| Campaign Manager | City of New York | New York City, us | 2026-09-12 |
 | PROGRAM COORDINATOR | City of New York | New York City, us | 2026-09-12 |
 | Supervising Public Health Nurse, Bureau of School Health | City of New York | New York City, us | 2026-09-12 |
 | Bookkeeper II | City of New York | New York, us | 2026-09-12 |
@@ -81,9 +140,9 @@ _12,586 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 | Core Strategy Senior Lead | Faire | New York City, NY; San Francisco, CA | 2026-09-12 |
 | Director, Revenue Strategy & Operations (Large Customer Sales) | Reddit | New York City, NY | 2026-09-12 |
 | Senior UX Designer | SeatGeek | New York, New York | 2026-09-12 |
-| Creador(a) de Contenido POV para IA - Remoto | Mindrift - Data annotation | New York, United States | 2026-09-12 |
 | AI Trainer - Freelance Data Annotator | Mindrift - Data annotation | New York, United States | 2026-09-12 |
 | Co-Founder & CEO - AI Content Intelligence for Professional Services | FutureSight | New York, United States | 2026-09-12 |
+| Creador(a) de Contenido POV para IA - Remoto | Mindrift - Data annotation | New York, United States | 2026-09-12 |
 | Technical Co-founder (CTO) - AI for Automotive Retail | FutureSight | New York, United States | 2026-09-12 |
 | Senior Staff Machine Learning Engineer | ServiceNow | New York, us | 2026-09-11 |
 | Virtual Primary Care Physician - NY, DC or CA Licensed | One Medical | New York, New York | 2026-09-11 |
@@ -111,7 +170,6 @@ _12,586 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 | High School Spanish Teacher | Uncommon Schools | New York, us | 2026-09-11 |
 | Regulatory and Compliance, ERISA - Senior Vice President | iCapital | New York, New York, United States | 2026-09-11 |
 | Head of Technology Partnerships | Telnyx | New York, New York; San Francisco, CA | 2026-09-11 |
-| Business Operations Senior Manager | Oscar Health | New York, New York, United States | 2026-09-11 |
 | Technical Project Manager - Data Center Infrastructure/Cabling | Align Communications | New York, New York, United States | 2026-09-11 |
 | Treasury Operations Associate | Lithic | New York, New York, United States | 2026-09-11 |
 | Data Center Cabling Foreman | Align Communications | New York, New York, United States | 2026-09-11 |
@@ -160,13 +218,11 @@ _12,586 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 | Global Communications Insights Manager | AB InBev \| Growth Group | New York, US | 2026-09-11 |
 | Account Supervisor | Ogilvy Health US | New York, New York | 2026-09-11 |
 | Part-Time Sr Food & Beverage Associate, NYC | Chief | New York | 2026-09-11 |
-| BIM Specialist IV | AECOM | New York, us | 2026-09-11 |
 | Project Manager, Ogilvy Health | Ogilvy Health US | New York, New York | 2026-09-11 |
 | Marketing Operations Manager | OneTrust | New York, New York | 2026-09-11 |
 | Senior Enterprise Account Executive, Growth | MongoDB | New York City | 2026-09-11 |
 | Director, Relationship Management | Vestwell | New York, NY \| King of Prussia, PA | 2026-09-11 |
 | Head Bartender | Moss New York LLC | New York, NY 10036 | 2026-09-11 |
-| Senior Director, Corporate Development | Oscar Health | New York, New York, United States | 2026-09-11 |
 | Associate, Go-to-Market Sales Strategy & Analytics | Vestwell | New York, NY | 2026-09-11 |
 | Technical Support Engineer II - W&B | CoreWeave | Livingston, NJ / New York, NY | 2026-09-11 |
 | Data Analyst Intern (Summer 2027) | Lyft | New York, NY | 2026-09-11 |
@@ -179,7 +235,6 @@ _12,586 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 | Account Executive, Enterprise NYC or Boston, MA | OneTrust | New York, New York | 2026-09-11 |
 | Experienced Veterinary Technician | Alliance Animal Health | New York, us | 2026-09-11 |
 | Operations Lead | Superdial | New York City | 2026-09-11 |
-| Senior Procurement Specialist (Construction Works and Services) | AECOM | New York, us | 2026-09-11 |
 | Senior Project Manager | SOCOTEC | New York, us | 2026-09-11 |
 | Technical Education Specialist | Notion | New York, New York | 2026-09-11 |
 | Experienced Veterinary Assistant | Alliance Animal Health | New York, us | 2026-09-11 |
@@ -200,24 +255,18 @@ _12,586 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 | Geospatial Systems Engineer | Langan Engineering & Environmental Services | Austin, TX; Charlotte, NC; Chicago, IL; Denver, CO; Irvine, CA; New York, NY; Parsippany, NJ; Philadelphia, PA; Phoenix, AZ; San Francisco, California, United States; Seattle, WA | 2026-09-11 |
 | VP Facilities Engineering & Critical Infrastructure | NBCUniversal | New York, us | 2026-09-11 |
 | US Web3 Channels & Community Lead | OKX | New York, United States; San Jose, California, United States | 2026-09-11 |
-| Bilingual APP - Virtual Urgent Care | Oscar Health | New York, New York, United States | 2026-09-11 |
-| NP/PA - Virtual Urgent Care | Oscar Health | New York, New York, United States | 2026-09-11 |
 | Project Manager | Grey US | New York | 2026-09-11 |
-| NP/PA - Virtual Urgent Care | Oscar Health | New York, New York, United States | 2026-09-11 |
 | Founding Account Manager | Clera | New York | 2026-09-11 |
 | Founding GTM Lead | Clera | New York | 2026-09-11 |
 | Veterinary Assistant - NY Float | Small Door Veterinary | New York Float | 2026-09-11 |
-| NP/PA - Virtual Urgent Care | Oscar Health | New York, New York, United States | 2026-09-11 |
 | Founding Engineer | Clera | New York | 2026-09-11 |
 | Forward Deployed Engineer | Clera | New York | 2026-09-11 |
 | Growth Marketing Manager, Performance | Levanta | New York (Remote), Washington (Remote), California (Remote), Florida (Remote), Texas (Remote), Ohio (Remote), Utah (Remote), Michigan (Remote), Pennsylvania (Remote), DC, (Remote), Maryland (Remote), Colorado (Remote), North Carolina (Remote) | 2026-09-11 |
-| Contract Executive Recruiter | Oscar Health | New York, New York, United States | 2026-09-11 |
 | Clip and Photo Research Assistant | NBCUniversal | New York, us | 2026-09-11 |
 | Assistant Community Manager | The Scion Group | Catherine Commons, Ithaca, New York, United States | 2026-09-11 |
 | Software Engineer Intern, Fullstack (Summer 2027) | Lyft | New York, NY | 2026-09-11 |
 | Data Science Intern, Algorithms (Summer 2027) | Lyft | New York, NY | 2026-09-11 |
 | Enterprise Account Executive, U.S. | Taxbit | New York, New York | 2026-09-11 |
-| Proposal Specialist II (Hybrid - NYC Metro) | AECOM | New York, us | 2026-09-11 |
 | Vice President, Integrated Solutions | Highwire | New York, New York, United States | 2026-09-11 |
 | Vice President, Integrated Marketing | Highwire | California, United States; Massachusetts, United States; New Jersey, United States; New York, United States | 2026-09-11 |
 | Social Lead | Nanit | New York, NY (Hybrid) | 2026-09-11 |
@@ -250,62 +299,13 @@ _12,586 open · showing the 300 most recent · updated 2026-09-14 04:19 UTC_
 | Pilates Manager, East 92nd Street | Equinox | New York, us | 2026-09-11 |
 | AI Deployment Specialist, Beneficial Deployments | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-11 |
 | Specialist, Sports Marketing | NBCUniversal | New York, us | 2026-09-11 |
-| Generalist, Human Resources | NBCUniversal | New York, us | 2026-09-11 |
 | Weekend Office Admin - Downtown Manhattan | Job Mobz | New York, us | 2026-09-11 |
 | Litigation Assistant | Morgan & Morgan, P.A. | Manhattan, New York, United States | 2026-09-11 |
 | Customer Success Associate | Runwise | New York, New York | 2026-09-11 |
 | Enterprise Account Executive, East Coast | Commure | New York City, NY | 2026-09-11 |
-| Regional Manager, Facilities | Equinox | New York, us | 2026-09-11 |
 | People Operations Associate | Via | New York City | 2026-09-11 |
 | Senior Product Manager - Revenue Optimization | Adyen | New York | 2026-09-11 |
 | Marketing | Lm Studio | New York City | 2026-09-11 |
-| Business Operations Analyst | Madhive | Madhive HQ (New York, NY) | 2026-09-11 |
-| Executive Director of Facilities | Schwarzman Animal Medical Center | 510 East 62nd Street, New York, NY 10065 | 2026-09-11 |
-| Seasonal Ambassador -Upper West Side | Lush Handmade Cosmetics | New York, New York, United States | 2026-09-11 |
-| Employment and Commercial Counsel Lead, US @ Neko | Jobs Page 4Dc2685B Eb82 46D1 A3F9 1F0764Dba814 | New York | 2026-09-11 |
-| Senior Solutions Consultant (Pre-Sales) II | The Nielsen Company | New York, us | 2026-09-11 |
-| Senior Network Engineer II | Blink Health | New York, NY; Pittsburgh, PA | 2026-09-11 |
-| Fitness Equipment Repair Technician | Equinox | New York, us | 2026-09-11 |
-| Deputy Director, Support Transition | ACLU - National Office | New York, New York, United States | 2026-09-11 |
-| Elementary Teacher | Uncommon Schools | New York, us | 2026-09-11 |
-| Director, Security | NBCUniversal | New York, us | 2026-09-11 |
-| HR Generalist | City of New York | New York City, us | 2026-09-11 |
-| Aquatic Specialist | City of New York | New York City, us | 2026-09-11 |
-| Community Associate | City of New York | New York City, us | 2026-09-11 |
-| Supervisor of Time Management and Employee Benefits | City of New York | New York City, us | 2026-09-11 |
-| Executive Director of Payroll, Time Management, and Employee Benefits | City of New York | New York City, us | 2026-09-11 |
-| COORDINATED ENTRY COORDINATOR | City of New York | New York City, us | 2026-09-11 |
-| Project Development Coordinator for Planning | City of New York | New York City, us | 2026-09-11 |
-| Seed Team Coordinator | City of New York | New York City, us | 2026-09-11 |
-| Director, Federally Assisted Portfolio Preservation Programs for the Division of Preservation Finance | City of New York | New York City, us | 2026-09-11 |
-| Project Development Coordinator for Crotona Park | City of New York | New York City, us | 2026-09-11 |
-| Senior Data Associate, Children and Family Well-being | City of New York | New York City, us | 2026-09-11 |
-| Java Developer | City of New York | New York City, us | 2026-09-11 |
-| Project Development Coordinator for Assistant Commissioner for Operations | City of New York | New York City, us | 2026-09-11 |
-| Investigative Analyst | City of New York | New York City, us | 2026-09-11 |
-| Assistant General Counsel | City of New York | New York City, us | 2026-09-11 |
-| Assistant General Counsel | City of New York | New York City, us | 2026-09-11 |
-| Assistant General Counsel | City of New York | New York City, us | 2026-09-11 |
-| Customer Service Representative | City of New York | New York City, us | 2026-09-11 |
-| CARETAKER X (HA) | City of New York | New York City, us | 2026-09-11 |
-| RESIDENT BUILDING SUPERINTENDENT (HA) | City of New York | New York City, us | 2026-09-11 |
-| Director (Cost Controls) | City of New York | New York City, us | 2026-09-11 |
-| College Aide | City of New York | New York City, us | 2026-09-11 |
-| Expert Backend Engineer | Wiz, Inc. | New York City | 2026-09-11 |
-| HEAVY-DUTY CLEANINGS SERVICES COORDINATOR | City of New York | New York City, us | 2026-09-11 |
-| Contract Analyst | City of New York | New York City, us | 2026-09-11 |
-| CARETAKER X (HA) | City of New York | New York City, us | 2026-09-11 |
-| CITY CUSTODIAL ASSISTANT | City of New York | New York City, us | 2026-09-11 |
-| Associate Commissioner | City of New York | New York City, us | 2026-09-11 |
-| Timekeeping Associate | City of New York | New York City, us | 2026-09-11 |
-| Developmental Disabilities Unit Liaison | City of New York | New York City, us | 2026-09-11 |
-| BOB- Supervisor Carpenter | City of New York | New York City, us | 2026-09-11 |
-| Cybersecurity Senior Project Manager | City of New York | New York City, us | 2026-09-11 |
-| Overnight Sales Associate - Herald Square | Primark | New York, us | 2026-09-11 |
-| US MLRO & Financial Crimes Officer | Copper.co | New York | 2026-09-11 |
-| Genesys Cloud CX Training Specialist (part-time) | Miratech | New York, us | 2026-09-11 |
-| Senior Regulatory and Securities Attorney | Flow Traders | New York | 2026-09-11 |
-| Account Executive, USA | Headout LI | New York | 2026-09-11 |
 
 ---
 
