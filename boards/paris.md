@@ -2,11 +2,17 @@
 
 Roles listing Paris as their location.
 
-_2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
+_2,413 open · showing the 300 most recent · updated 2026-09-16 04:20 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Workplace Experience Manager | Docebo | Paris, France | 2026-09-15 |
+| Embedded Software Engineer - GCS | Harmattan Ai | Paris | 2026-09-15 |
+| User Acquisition - Events | Amo | Paris | 2026-09-15 |
+| Account Director, Digital Natives - France | Openai | Paris, France | 2026-09-15 |
+| Operations Manager, Offer Operations | Joko | Paris | 2026-09-15 |
 | General Manager (06958) | Domino's | Paris, us | 2026-09-15 |
+| Product Designer | Clera | Paris | 2026-09-14 |
 | Technicien de maintenance postes électriques HTB F/H | RTE | Seyssinet-Pariset, fr | 2026-09-14 |
 | Stage - Data Protection : concevoir les formations de demain | Wavestone | Paris, fr | 2026-09-14 |
 | Stage - Comment l’IA peut-elle piloter et accélérer la transformation de la résilience des organisations ? | Wavestone | Paris, fr | 2026-09-14 |
@@ -17,6 +23,7 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Data Analyst H/F | NEXTON | Paris, fr | 2026-09-14 |
 | Ingénieur principal / Ingénieure principale en intelligence artificielle | OECD | Paris, fr | 2026-09-14 |
 | Senior AI Engineer | OECD | Paris, fr | 2026-09-14 |
+| Senior AI Engineer - Search & Recommendation - Patient Team (x/f/m) | Doctolib | Paris, Paris, France | 2026-09-14 |
 | Chef de Projet IT & IAM Manager (Transition Entra ID) H/F | NEXTON | Paris, fr | 2026-09-14 |
 | Business Segment Lead | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-09-14 |
 | Business Segment Lead | Alan | Paris, France | 2026-09-14 |
@@ -42,10 +49,15 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Testeur QA fonctionnel H/F | NEXTON | Paris, fr | 2026-09-14 |
 | Ingénieur validation et vérification – Ferroviaire - CDI (H/F) | ALTEN | Paris, fr | 2026-09-14 |
 | Responsable de Projets Transverses & Gestion des Changements H/F | NEXTON | Paris, fr | 2026-09-14 |
+| Enterprise Account Executive - EMEA | DataDome | France - Paris | 2026-09-14 |
 | Conduite du Changement / Business Analyst H/F | NEXTON | Paris, fr | 2026-09-14 |
+| Account Executive Energy & Utilities | Snowflake | FR-Paris | 2026-09-14 |
+| Developer Advocate - Service Management EMEA | Datadog | Paris, France | 2026-09-14 |
 | Consultant·e Junior (Analyst) en Transformation Digitale – CTO/CIO Advisory - CDI | Wavestone | Paris, fr | 2026-09-14 |
 | Ingénieur NetDevOps Observabilité H/F | NEXTON | Paris, fr | 2026-09-14 |
 | Ingénieur/e commercial/e – F/H | ALTEREA | Paris, fr | 2026-09-14 |
+| Senior Compliance Specialist | Datadog | Paris, France | 2026-09-14 |
+| Corporate Development Lead (x/f/m) | Doctolib | Paris, Paris, France | 2026-09-14 |
 | Stage \| Chef de Projet H/F - Senseo x Tour de France | JACOBS DOUWE EGBERTS | Paris, fr | 2026-09-14 |
 | Director, Distribution Support - Raffles & Fairmont (part of Accor) F/H/X | AccorCorpo | Paris, fr | 2026-09-14 |
 | Sr. Onboarding Specialist (12 month contract) | OpenTable | Paris, France | 2026-09-14 |
@@ -59,6 +71,7 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Talent Acquisition Specialist - CDI (H/F) | Wavestone | Paris, fr | 2026-09-14 |
 | Leader Customer Success Digital Europe | Quadient | Paris, fr | 2026-09-14 |
 | Category Manager - Facilities and Professional Services | Ubisoft | Paris, fr | 2026-09-14 |
+| Principal Partner Manager - Channels (EMEA GSI) | Datadog | Amsterdam, The Netherlands; Berlin, Germany; Copenhagen, Denmark; London, United Kingdom; Paris, France; Stockholm, Sweden | 2026-09-14 |
 | Business Analyst Front Office _ taux non linéaires - H/F | Talan | Paris, fr | 2026-09-14 |
 | Post trade Business Analyst - H/F | Talan | Paris, fr | 2026-09-14 |
 | Final year internship - Marketing Data Scientist | Sia | Paris, fr | 2026-09-14 |
@@ -67,6 +80,7 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Category Manager - Facilities and Professional Services (F/H/NB) | Ubisoft | Paris, fr | 2026-09-14 |
 | EMPLOYE COMMERCIAL (H/F) | Groupement Mousquetaires | Le Touquet-Paris-Plage, fr | 2026-09-14 |
 | Consultant Confirmé Product Owner IA - F/H/N | OCTO Technology | Paris, fr | 2026-09-14 |
+| Velocity Account Executive - DACH Market | Prelude | Paris, France | 2026-09-14 |
 | Assistant Store Manager - Weekend Max Mara | Max Mara Fashion Group | Paris, fr | 2026-09-14 |
 | Consultant Senior Microsoft 365, Power Platform & IA Générative (H/F) | Talan | Paris, fr | 2026-09-14 |
 | Tech Lead Cloud (Microsoft Azure / AWS / GCP) H/F | Talan | Paris, fr | 2026-09-14 |
@@ -90,8 +104,8 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Business Analyst Retail Banking - H/F | Talan | Paris, fr | 2026-09-14 |
 | Purchasing Department Intern (M/F) / Orient Express Sailing Yacht | AccorCorpo | Paris, fr | 2026-09-14 |
 | Chef de projet lean (H/F) | Veolia Environnement SA | Paris, fr | 2026-09-14 |
-| Senior Software Engineer (Node.js, Kafka) | Gramian Consulting Group | Paris, France | 2026-09-13 |
 | Engineering Manager - Infrastructure / SRE | Gramian Consulting Group | Paris, France | 2026-09-13 |
+| Senior Software Engineer (Node.js, Kafka) | Gramian Consulting Group | Paris, France | 2026-09-13 |
 | Consultant Planisware H/F | ASSYSTEM | Paris, fr | 2026-09-11 |
 | Founding Account Executive, France/Nordics | Telnyx | Paris, France | 2026-09-11 |
 | Forward Deployed Engineer, France/Nordics | Telnyx | Paris, France | 2026-09-11 |
@@ -116,7 +130,6 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Stage de fin d'études - Consultant.e Financial Services / Terrain d’Expertise Retail Banking | Wavestone | Paris, fr | 2026-09-11 |
 | Stage de fin d'études - Consultant.e Financial Services / Terrain d’Expertise Operational Resilience | Wavestone | Paris, fr | 2026-09-11 |
 | Global Account Manager, Telco - France (New Acquisition) | Everpure | Paris, France | 2026-09-11 |
-| Account Executive terrain - Pau (x/f/m) | Doctolib | Paris, Paris, France | 2026-09-11 |
 | Stage de fin d'études - Consultant.e Financial Services / Terrain d’Expertise Insurance | Wavestone | Paris, fr | 2026-09-11 |
 | Stage de fin d'études - Consultant.e Financial Services / Terrain d’Expertise Sustainability | Wavestone | Paris, fr | 2026-09-11 |
 | Stage de fin d'études - Consultant.e Financial Services / Terrain d’Expertise Finance | Wavestone | Paris, fr | 2026-09-11 |
@@ -252,11 +265,11 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Account Manager junior \| Artificial Intelligence & Digital Transformation | Wavestone | Paris, fr | 2026-09-10 |
 | Stagiaire - Evenementiel (F/H/X) | AVIV Group | Paris, fr | 2026-09-10 |
 | Tech Lead Data H/F | NEXTON | Paris, fr | 2026-09-10 |
-| Rag&Bone Responsable Adjoint Flagship Le Marais | Guess Europe Sagl | Paris, France | 2026-09-10 |
 | Rag&Bone - CDI 35H Conseiller(e) de vente - Flagship le Marais | Guess Europe Sagl | Paris, France | 2026-09-10 |
 | Strategic Partner Pre-Sales & Customer Success Manager | Viva.com | Paris, France | 2026-09-10 |
-| Office Manager | Robeauté | Paris, France | 2026-09-10 |
 | Head of Studio | One Of Us | Paris, France | 2026-09-10 |
+| Rag&Bone Responsable Adjoint Flagship Le Marais | Guess Europe Sagl | Paris, France | 2026-09-10 |
+| Office Manager | Robeauté | Paris, France | 2026-09-10 |
 | Nurse Practitioner/Physician Assistant | Theoriamedical | Paris, IL | 2026-09-09 |
 | Medical Director/Attending Physician | Theoriamedical | Paris, IL | 2026-09-09 |
 | Enterprise, Solutions Consultant | Navan | Paris, FR | 2026-09-09 |
@@ -280,6 +293,7 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Chargé de Data RH et Performance Groupe H/F | Egis Group | Paris, fr | 2026-09-09 |
 | People Analytics & Performance Specialist M/F | Egis Group | Paris, fr | 2026-09-09 |
 | Chef de projet Technico-Fonctionnel DAM & UX H/F | NEXTON | Paris, fr | 2026-09-09 |
+| Payment Performance Analyst Intern | Backmarket | Paris | 2026-09-09 |
 | Software Engineer I | Checkout.Com | Paris | 2026-09-09 |
 | Sales Graduate Program (SDR - AEC) | Zefir | Paris | 2026-09-09 |
 | Fraud and Risk Officer Intern | Backmarket | Paris | 2026-09-09 |
@@ -292,20 +306,6 @@ _2,415 open · showing the 300 most recent · updated 2026-09-15 04:18 UTC_
 | Credit Risk Analyst (Internship) | iBanFirst | Paris | 2026-09-09 |
 | Consulting - Manager / Manager Senior - Data, IA & IA Générative - Paris (H/F) | Talan | Paris, fr | 2026-09-09 |
 | Consulting - Manager / Senior manager – Digital Workplace - Office 365 - CDI - Paris H/F | Talan | Paris, fr | 2026-09-09 |
-| Associate Corporate Communications Manager (10 months Mission) | Mirakl | Paris, France | 2026-09-09 |
-| Directeur de salle adjoint - H/F | Gardinier | Paris, fr | 2026-09-09 |
-| Stage – Assistant(e) Communication & Événementiel (Hackathons Adopt AI) | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-09-09 |
-| Data Analyst / Développeur Python & BI H/F | NEXTON | Paris, fr | 2026-09-09 |
-| Module Lead, Guidance & Control | Harmattan Ai | Paris | 2026-09-09 |
-| AI Deployment Strategist - 6 months internship (end of study) | Vocca | Paris | 2026-09-09 |
-| HR Business Partner | Ubisoft | Paris, fr | 2026-09-09 |
-| UX RESEARCHER H/F | NEXTON | Paris, fr | 2026-09-09 |
-| Corporate Finance Intern | Voodoo | Paris | 2026-09-09 |
-| Consultant Data Gouvernance - H/F - CDI | Talan | Paris, fr | 2026-09-09 |
-| IT Quant & Commando Front Office – BFI & Énergie - H/F | Talan | Paris, fr | 2026-09-09 |
-| Consultant(e) conformité Data | Talan | Paris, fr | 2026-09-09 |
-| Chef de projet Activation B2B (H/F/X) - France (Paris) | Sunday Natural | Paris | 2026-09-09 |
-| Business Analyst Asset Management (Front, Middle & Back Office) - H/F | Talan | Paris, fr | 2026-09-09 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 Roles listing Zurich as their location.
 
-_264 open · updated 2026-09-15 04:18 UTC_
+_259 open · updated 2026-09-16 04:20 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -61,7 +61,6 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Head of Pricing | On | Zurich | 2026-08-20 |
 | GenAI/ML Engineer | Capco | Switzerland - Zurich | 2026-08-20 |
 | Head of EMEA Enterprise Solution Consulting R&D | Benchling | Zurich, Switzerland | 2026-08-19 |
-| Head of EMEA Enterprise Solution Consulting R&D | Benchling | Zurich, Switzerland | 2026-08-19 |
 | RE/RS, Data Understanding - Foundations | Openai | Zurich, Switzerland | 2026-08-19 |
 | RE/RS, Data Understanding - Foundations | Openai | Zurich, Switzerland | 2026-08-19 |
 | Lead - Anaplan Model Builder | On | Zurich | 2026-08-19 |
@@ -70,14 +69,12 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Technical Pre-Sales Engineer | Deepjudge | Zurich HQ | 2026-08-18 |
 | Technical Purchasing Specialist – Humanoid (Mensch) | Neura Robotics Gmbh | Zurich | 2026-08-17 |
 | Technical Purchasing Specialist – Humanoid (human) | Neura Robotics Gmbh | Zurich | 2026-08-17 |
-| Senior Lead, People Analytics | On | Zurich | 2026-08-13 |
-| Lead - Apparel Testing | On | Zurich | 2026-08-13 |
 | Lead - Accessories Developer (Technical) Bags | On | Zurich | 2026-08-13 |
-| Senior Lead - Brand Environment Design | On | Zurich | 2026-08-13 |
-| Senior Lead - Global Portfolio & Pricing | On | Zurich | 2026-08-13 |
-| Senior Specialist - Group Accounting CAPEX | On | Zurich | 2026-08-13 |
-| Senior Specialist - Footwear Design | On | Zurich | 2026-08-13 |
+| Lead - Apparel Graphic Design | On | Zurich | 2026-08-13 |
+| Lead - Apparel Testing | On | Zurich | 2026-08-13 |
 | Senior Lead - Footwear Testing | On | Zurich | 2026-08-13 |
+| Head of Creative, Core Brand Design | On | Zurich | 2026-08-13 |
+| Senior Specialist - Innovation Concept Design | On | Zurich | 2026-08-13 |
 | Lead - Inbound Transportation Operations | On | Zurich | 2026-08-13 |
 | Sample Maker | On | Zurich | 2026-08-13 |
 | Fit Model (Flexible, Part-Time Opportunity) | On | Zurich | 2026-08-13 |
@@ -88,30 +85,32 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Lead - Footwear Tooling Engineer | On | Zurich | 2026-08-13 |
 | Lead - Robotics and PLC Engineer | On | Zurich | 2026-08-13 |
 | Program Manager - Global Distributor-led Store Business | On | Zurich | 2026-08-13 |
+| Lead - Polymer Process Engineer, Lightspray | On | Zurich | 2026-08-13 |
+| Lead - Footwear Developer - PAD + Young Movers | On | Zurich | 2026-08-13 |
+| Senior Lead - Accessories Material Development | On | Zurich | 2026-08-13 |
+| Senior Specialist - LightSpray Footwear Developer | On | Zurich | 2026-08-13 |
+| Senior Lead - Distribution Center Network Design & Planning | On | Zurich | 2026-08-13 |
+| Global Senior Director of Brand Apparel Marketing | On | Zurich | 2026-08-13 |
+| Senior Lead - Footwear Tooling Engineer | On | Zurich | 2026-08-13 |
+| Senior Specialist - 3D Footwear Modeller | On | Zurich | 2026-08-13 |
+| Lead - Sports Engineer | On | Zurich | 2026-08-13 |
+| Senior Specialist - Footwear Design | On | Zurich | 2026-08-13 |
+| Senior Specialist - Finance Systems | On | Zurich | 2026-08-13 |
+| Senior Specialist - Group Accounting CAPEX | On | Zurich | 2026-08-13 |
+| Senior Lead - Global Portfolio & Pricing | On | Zurich | 2026-08-13 |
+| Senior Lead - Brand Environment Design | On | Zurich | 2026-08-13 |
 | Senior Lead - Apparel Material Development (Performance) | On | Zurich | 2026-08-13 |
 | Senior Lead - Footwear Costing | On | Zurich | 2026-08-13 |
 | Senior Lead - Footwear Developer | On | Zurich | 2026-08-13 |
-| Senior Specialist - Finance Systems | On | Zurich | 2026-08-13 |
+| Senior Lead, People Analytics | On | Zurich | 2026-08-13 |
+| Director of Sports Science | On | Zurich | 2026-08-13 |
 | Senior Specialist - Innovation Footwear Developer | On | Zurich | 2026-08-13 |
 | Senior Specialist - New Store Openings Project Manager, DMS | On | Zurich | 2026-08-13 |
 | Global Director of Brand Events | On | Zurich | 2026-08-13 |
-| Senior Lead - Footwear Tooling Engineer | On | Zurich | 2026-08-13 |
-| Senior Specialist - 3D Footwear Modeller | On | Zurich | 2026-08-13 |
 | Senior Lead - Footwear Developer | On | Zurich | 2026-08-13 |
 | Senior Lead - Commercialization Engineer | On | Zurich | 2026-08-13 |
 | Senior Lead - Footwear Design, Performance Running | On | Zurich | 2026-08-13 |
 | Senior Specialist - Product Quality Intelligence | On | Zurich | 2026-08-13 |
-| Lead - Footwear Developer - PAD + Young Movers | On | Zurich | 2026-08-13 |
-| Lead - Polymer Process Engineer, Lightspray | On | Zurich | 2026-08-13 |
-| Senior Specialist - Innovation Concept Design | On | Zurich | 2026-08-13 |
-| Head of Creative, Core Brand Design | On | Zurich | 2026-08-13 |
-| Lead - Apparel Graphic Design | On | Zurich | 2026-08-13 |
-| Senior Lead - Distribution Center Network Design & Planning | On | Zurich | 2026-08-13 |
-| Senior Specialist - LightSpray Footwear Developer | On | Zurich | 2026-08-13 |
-| Global Senior Director of Brand Apparel Marketing | On | Zurich | 2026-08-13 |
-| Director of Sports Science | On | Zurich | 2026-08-13 |
-| Lead - Sports Engineer | On | Zurich | 2026-08-13 |
-| Senior Lead - Accessories Material Development | On | Zurich | 2026-08-13 |
 | Senior Solution Engineer | Snowflake | CH-Zurich-MSO | 2026-08-13 |
 | Senior Solution Engineer | Snowflake | CH-Zurich-MSO | 2026-08-13 |
 | Technical Implementation Manager (all genders) - Hardware Installation Planning | Wemolo | Zurich, Switzerland | 2026-08-13 |
@@ -121,6 +120,8 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Senior Software Engineer, Core Experiences - Zurich, Switzerland | Speechify | Zurich, Switzerland | 2026-08-11 |
 | Senior Software Engineer, Windows/Desktop Applications - Zurich, Switzerland | Speechify | Zurich, Switzerland | 2026-08-11 |
 | Software Engineer, Data Infrastructure & Acquisition - Zurich, Switzerland | Speechify | Zurich, Switzerland | 2026-08-11 |
+| Analyst, Desktop Support - Information & Technology | StepStone Group | Zurich | 2026-08-11 |
+| Analyst, Evergreen Portfolio Management - Private Debt | StepStone Group | Zurich | 2026-08-11 |
 | Senior Robotics Engineer | Sereact | Zurich | 2026-08-11 |
 | Machine Learning Platform Engineer | Bjakcareer | Zurich, Switzerland | 2026-08-11 |
 | [US-DC] Pit Operator | HelloFresh | Lake Zurich, Illinois, United States | 2026-08-07 |
@@ -129,6 +130,7 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | System Engineer - Humanoid (Mensch) | Neura Robotics Gmbh | Zurich | 2026-08-06 |
 | System Engineer - Humanoid (human) | Neura Robotics Gmbh | Zurich | 2026-08-06 |
 | Senior Computer Vision Engineer (Action Recognition) | Scandit | Zurich | 2026-08-06 |
+| 2026 Private Debt Product Management Intern | StepStone Group | Zurich | 2026-08-05 |
 | Senior Security Engineer, Software | Scopely | CH - Zurich, Switzerland | 2026-08-05 |
 | Software Engineer | Proton | Geneva, Zurich | 2026-08-05 |
 | Frontend Engineer | Deepjudge | Zurich HQ | 2026-08-05 |
@@ -143,8 +145,6 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Flight Guidance & Motion Planning Engineer | Harmattan Ai | Zurich | 2026-08-03 |
 | Flight Control & Dynamics Engineer | Harmattan Ai | Zurich | 2026-08-03 |
 | Software Engineer, Platform - Zurich, Switzerland | Speechify | Zurich, Switzerland | 2026-08-03 |
-| Senior Talent Acquisition Specialist | Bjakcareer | Zurich, Switzerland | 2026-08-02 |
-| Account Manager (m/w/d) | StepStone Group | Zurich, ch | 2026-07-31 |
 | Director of Engineering - Mission Intelligence | Harmattan Ai | Zurich | 2026-07-28 |
 | Account Executive \| in Österreich (m/w/d) | DeepL AI Platform | Zurich | 2026-07-28 |
 | Customer Success Manager | Bottomline | Switzerland, Zurich | 2026-07-27 |
@@ -174,8 +174,6 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Senior Research Scientist (m/f/d) | Sereact | Zurich | 2026-07-08 |
 | Foundation and generative models for biomolecules | Inceptive | Berlin, Germany or Palo Alto, CA or Zurich, Switzerland | 2026-07-08 |
 | Open Apply | Inceptive | Palo Alto, Berlin, or Zurich | 2026-07-08 |
-| Associate, Talent Acquisition | Bjakcareer | Zurich, Switzerland | 2026-07-07 |
-| Talent Acquisition Specialist | Bjakcareer | Zurich, Switzerland | 2026-07-07 |
 | Business Operations Associate | Bjakcareer | Zurich, Switzerland | 2026-07-07 |
 | Founder's Office Lead | Bjakcareer | Zurich, Switzerland | 2026-07-07 |
 | Head of Strategy and Product | Bjakcareer | Zurich, Switzerland | 2026-07-07 |
@@ -196,9 +194,6 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Senior Consultant | Alpha Financial Markets Consulting | Zurich | 2026-06-04 |
 | Field Talent Community | HelloFresh | Aurora, Colorado, United States; Aurora, IL, United States; Burr Ridge, IL, United States; Irving, TX, United States; Lake Zurich, Illinois, United States; Newark, NJ, United States; Phoenix, AZ, United States | 2026-06-02 |
 | Entrepreneur in Residence | Bjakcareer | Zurich, Switzerland | 2026-05-30 |
-| Assistant Recruitment Manager | Bjakcareer | Zurich, Switzerland | 2026-05-30 |
-| Associate Manager, Talent Acquisition | Bjakcareer | Zurich, Switzerland | 2026-05-30 |
-| Senior Recruiter, Product & Engineering | Bjakcareer | Zurich, Switzerland | 2026-05-30 |
 | Autonomy Engineer - ML & DL Infrastructure | Skydio | Zurich, Switzerland | 2026-05-27 |
 | Software Engineer - Cloud Simulation & Full-Stack | Skydio | Zurich, Switzerland | 2026-05-27 |
 | Software Engineer - Autonomy Infrastructure, Systems and Tools | Skydio | Zurich, Switzerland | 2026-05-27 |
@@ -226,8 +221,8 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Founding Engineer – SF Hackerhouse (Visa sponsored; $3M pre-seed) | Clera | Zurich | 2026-03-23 |
 | Numerical Modeling Engineer | Proxima Fusion | Zurich | 2026-03-12 |
 | Backend Software Engineer - Indexing | Deepjudge | Zurich HQ | 2026-03-03 |
-| Forward Deployed Engineer - German Speaking | Happyrobot.Ai | Zurich | 2026-02-18 |
 | Forward Deployed Engineer - German Speaking | HappyRobot | Zurich | 2026-02-18 |
+| Forward Deployed Engineer - German Speaking | Happyrobot.Ai | Zurich | 2026-02-18 |
 | Solutions Architect | Blockstream | Zurich | 2026-02-10 |
 | DevOps Engineer | Blockstream | Zurich | 2026-02-10 |
 | Product Owner | Blockstream | Zurich | 2026-02-10 |
@@ -244,32 +239,32 @@ _264 open · updated 2026-09-15 04:18 UTC_
 | Enterprise Account Director – EU/DACH (German-Speaking) | Deepjudge | Zurich HQ | 2026-01-16 |
 | (Senior) Consultant für BSI Projekte (m/w/d) | Capco | Switzerland - Zurich | 2025-12-12 |
 | Applied AI Engineer | Deepjudge | Zurich HQ | 2025-11-13 |
-| Property Development Manager (6 Month FTC) | PureGym AG | Zurich, Schweiz |  |
-| Private Banking Assistant | Alpen Partners AG | Zurich / Freienbach |  |
-| Project Manager Operations | Boost Inc | Switzerland - Zurich |  |
-| Interhome - Founders' Associate [German-speaking] (m/f/d) | Hometogo | Zurich |  |
-| Fundraiser:in Face to Face Deutschschweiz | Médecins Sans Frontières Suisse | Zurich, Suisse |  |
-| Sorbent Module Product Owner (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| Strategy - Energy Infrastructure - Intern | EIGHT ADVISORY SAS | Zurich, Suisse |  |
-| Lead EIC Engineer (100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| Sales Manager (m/w/d) für IT-Recruitment & Projekte mit eigenem Kundennetzwerk für den Standort Zürich gesucht | Swisslinx | Zurich |  |
-| Customer Care Lead, Boostbar - Zürich (100%) | Boost Inc | Switzerland - Zurich |  |
-| Open Application | Swisslinx | Zurich |  |
+| Project Manager Operations, Boostbar - Zürich (100%) | Boost Inc | Switzerland - Zurich |  |
+| Cost Manager (Kalkulator)- Construction | PureGym AG | Zurich, Schweiz |  |
 | Recruiter*in (Deutsch als Muttersprache) | Swisslinx | Zurich |  |
-| Graduate Recruitment Consultants, Zurich, Switzerland (On-site) | Swisslinx | Zurich |  |
-| Procurement Manager (6 Month FTC) | PureGym AG | Zurich, Schweiz |  |
-| HSE & Facility Senior Manager (100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| Principal Design Engineer - Mechanical Equipment (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| Technicien d'entretien - Parlant français | PureGym AG | Zurich, Schweiz |  |
+| Sorbent Module Product Owner (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| Customer Care Lead, Boostbar - Zürich (100%) | Boost Inc | Switzerland - Zurich |  |
+| Property Development Manager (6 Month FTC) | PureGym AG | Zurich, Schweiz |  |
+| Strategy - Energy Infrastructure - Intern | EIGHT ADVISORY SAS | Zurich, Suisse |  |
 | HR Business Partner | Trina Solar 1 | Switzerland - Zurich Office |  |
+| Sales Manager (m/w/d) für IT-Recruitment & Projekte mit eigenem Kundennetzwerk für den Standort Zürich gesucht | Swisslinx | Zurich |  |
+| Graduate Recruitment Consultants, Zurich, Switzerland (On-site) | Swisslinx | Zurich |  |
+| HSE & Facility Senior Manager (100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| Open Application | Swisslinx | Zurich |  |
+| Director, Business Development | TransPerfect | Zurich, Switzerland |  |
+| Interhome - Founders' Associate [German-speaking] (m/f/d) | Hometogo | Zurich |  |
+| Science Manager – Nature-based Solutions (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| Fundraiser:in Face to Face Deutschschweiz | Médecins Sans Frontières Suisse | Zurich, Suisse |  |
+| Principal Design Engineer - Mechanical Equipment (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
+| Sales Associate (German Speaker) | TransPerfect | Zurich, Switzerland |  |
+| Portfolio Manager / Trader | Alpen Partners AG | Zurich / Freienbach |  |
+| Procurement Manager (6 Month FTC) | PureGym AG | Zurich, Schweiz |  |
+| Technicien d'entretien - Parlant français | PureGym AG | Zurich, Schweiz |  |
+| Senior Software Engineer | Viboo | Zurich |  |
 | (Senior) Account Executive w/m/d | Viboo | Zurich |  |
 | Account Executive | TransPerfect | Zurich, Switzerland |  |
-| Portfolio Manager / Trader | Alpen Partners AG | Zurich / Freienbach |  |
-| Director, Business Development | TransPerfect | Zurich, Switzerland |  |
-| Senior Software Engineer | Viboo | Zurich |  |
-| Science Manager – Nature-based Solutions (80-100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
-| Sales Associate (German Speaker) | TransPerfect | Zurich, Switzerland |  |
-| Cost Manager (Kalkulator)- Construction | PureGym AG | Zurich, Schweiz |  |
+| Private Banking Assistant | Alpen Partners AG | Zurich / Freienbach |  |
+| Lead EIC Engineer (100%) | Climeworks | Opfikon, Zurich, Switzerland |  |
 
 ---
 
