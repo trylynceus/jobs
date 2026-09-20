@@ -2,7 +2,7 @@
 
 Roles listing Madrid as their location.
 
-_827 open · showing the 300 most recent · updated 2026-09-19 04:19 UTC_
+_825 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -12,6 +12,7 @@ _827 open · showing the 300 most recent · updated 2026-09-19 04:19 UTC_
 | Senior GCP Data Analyst | Devoteam | Madrid, es | 2026-09-18 |
 | Becario de Gestión Comercial y CRM | Veolia Environnement SA | Madrid, es | 2026-09-18 |
 | ReCompis Sopra Steria: ¡Conecta y gana! | Sopra Steria Corporate | Madrid, es | 2026-09-18 |
+| Senior Platform Security Engineer | Taxfix.Com | Madrid | 2026-09-18 |
 | Desarrollador Senior Python (Híbrido) | Devoteam | Madrid, es | 2026-09-18 |
 | Technical Account Manager | Vonage | Spain, Madrid | 2026-09-18 |
 | Senior Dynamics 365 Developer | SGS | Madrid, es | 2026-09-18 |
@@ -118,8 +119,8 @@ _827 open · showing the 300 most recent · updated 2026-09-19 04:19 UTC_
 | Agent Check- in & Logistics (m/f/d) - Madrid Atocha | SIXT | Madrid, es | 2026-09-15 |
 | Consultor/a – Servicios de Movilidad (Automoción) | MSX International | Madrid, es | 2026-09-15 |
 | Analista Programador Cobol / AS400 | Devoteam | Madrid, es | 2026-09-15 |
-| Performance Marketing | Happyrobot.Ai | Madrid | 2026-09-14 |
 | Performance Marketing | HappyRobot | Madrid | 2026-09-14 |
+| Performance Marketing | Happyrobot.Ai | Madrid | 2026-09-14 |
 | Senior Scrum Master | Colliers International EMEA | Madrid, es | 2026-09-14 |
 | Consulting Internship - January 2027 Intake | Roland Berger | Madrid, es | 2026-09-14 |
 | HRBP | FeverUp | Madrid | 2026-09-14 |
@@ -178,8 +179,8 @@ _827 open · showing the 300 most recent · updated 2026-09-19 04:19 UTC_
 | Ingeniero/a IA Agentica (m/f/d) | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla y Valencia, es | 2026-09-09 |
 | Atlassian Architect | Devoteam | Madrid, es | 2026-09-09 |
 | Associate Applied (AI) Value Engineer (Japan) - Orbit Program | Celonis | Madrid, Spain | 2026-09-09 |
-| Senior Automation Engineer (remote work) | Cloudlinux | Madrid, Spain | 2026-09-09 |
 | Platform Engineer (remote work) | Cloudlinux | Madrid, Spain | 2026-09-09 |
+| Senior Automation Engineer (remote work) | Cloudlinux | Madrid, Spain | 2026-09-09 |
 | Forward Deployed Engineer - Madrid (Spanish-speaking) | Openai | Madrid, Spain | 2026-09-08 |
 | Software Engineering Intern | Datadog | Madrid, Spain | 2026-09-08 |
 | Principal Country HR Partner - Fixed Term | OneTrust | Madrid, Spain | 2026-09-08 |
@@ -250,7 +251,6 @@ _827 open · showing the 300 most recent · updated 2026-09-19 04:19 UTC_
 | Growth Organic Strategy Manager | FeverUp | Madrid | 2026-09-03 |
 | Operations Analyst | FeverUp | Madrid | 2026-09-03 |
 | Senior Creative Copywriter | We Are Social | Madrid, Spain | 2026-09-03 |
-| Técnico Electromecánico/ Mecatrónico de Producción | Destinus | Madrid, Spain | 2026-09-03 |
 | Legal Commercial Counsel, EMEA | Axon | Madrid, Spain | 2026-09-02 |
 | Head of Growth - Cinema | FeverUp | Madrid | 2026-09-02 |
 | Key Account Manager | Lenus | Madrid, Spain | 2026-09-02 |
@@ -263,10 +263,10 @@ _827 open · showing the 300 most recent · updated 2026-09-19 04:19 UTC_
 | Senior Flutter Developer with English (m/f/d) | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla y Valencia, es | 2026-09-02 |
 | AI Technical Lead & Pre-Sales | Glinttglobal | Madrid | 2026-09-02 |
 | Director, Regional Partners - SEUR | Wiz, Inc. | Madrid, Spain | 2026-09-02 |
-| Motion Designer, Freelance (Remote) | 1000heads | Madrid, Spain | 2026-09-02 |
-| Workplace Lead | Destinus | Madrid, Spain | 2026-09-02 |
 | Sales & Marketing Director | Hustler Marketing | Madrid, Spain | 2026-09-02 |
 | Freelance Recruiter - Work Remote In Spain | Mercier Consultancy Group | Madrid, Spain | 2026-09-02 |
+| Motion Designer, Freelance (Remote) | 1000heads | Madrid, Spain | 2026-09-02 |
+| Workplace Lead | Destinus | Madrid, Spain | 2026-09-02 |
 | Salesforce Senior Technical Architect | Cabify | Madrid | 2026-09-01 |
 | Global Incentives Intern | Nexthink | Madrid, es | 2026-09-01 |
 | Lead AI Consultant (Field) | Celonis | Madrid, Spain | 2026-09-01 |
