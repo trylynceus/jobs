@@ -2,22 +2,32 @@
 
 Roles listing Paris as their location.
 
-_2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
+_2,422 open · showing the 300 most recent · updated 2026-09-21 04:18 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | Inside Sales Representative (Paris, France) | Figma | Paris, France | 2026-09-18 |
+| Senior Architect Design Systems H/F | NEXTON | Paris, fr | 2026-09-18 |
 | Expert Immobilier Junior H/F | EOS France | Paris, fr | 2026-09-18 |
+| Alliance Manager - F/H/N | OCTO Technology | Paris, fr | 2026-09-18 |
 | Conseiller Clientèle H/F | EOS France | Paris, fr | 2026-09-18 |
 | Data Annotator | Harmattan Ai | Paris | 2026-09-18 |
 | Directeur de Restaurant H/F – Paris | Barrière | PARIS, fr | 2026-09-18 |
+| MODELE INTERMARCHE - BOULANGER (H/F) | Groupement Mousquetaires | Cormeilles-en-Parisis, fr | 2026-09-18 |
 | Stage - Développement Commercial et Performance Hospitalière (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-18 |
 | France Content Specialist | Amo | Paris | 2026-09-18 |
 | Stage - Talent Acquisition Coordinator (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-18 |
+| Product Manager - Platform Management | Mirakl - Labs | Paris, France | 2026-09-18 |
+| Delivery Manager - F/H/N | OCTO Technology | Paris, fr | 2026-09-18 |
 | Assistant(e) dentaire qualifié(e) H/F | DENTEGO | Paris, fr | 2026-09-18 |
 | Stage - Analyste de la stratégie commerciale (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-18 |
+| Dessinateur/trice Projeteur Bâtiment – F/H | ALTEREA | Paris, fr | 2026-09-18 |
 | Consultant – Energy, Utilities & Low Carbon Solutions | Sia | Paris, fr | 2026-09-18 |
+| Coordinateur / Coordinatrice études projet (CEP) ferroviaire | Artelia | Paris, fr | 2026-09-18 |
 | Senior Product Manager - Product Led Growth- Paris (x/f/m) | Doctolib | Paris, Paris, France | 2026-09-18 |
+| Assistant chef / Assistante cheffe de projet ferroviaire | Artelia | Paris, fr | 2026-09-18 |
+| Ingénieur / Ingénieure OPC Ferroviaire | Artelia | Paris, fr | 2026-09-18 |
+| Ingénieur / Ingénieure OPC système | Artelia | Paris, fr | 2026-09-18 |
 | Events Operations Apprentice | Backmarket | Paris | 2026-09-18 |
 | Final Year Internship Consultant in Financial Transformation | Sia | Paris, fr | 2026-09-18 |
 | Financial Transformation Manager | Sia | Paris, fr | 2026-09-18 |
@@ -25,9 +35,13 @@ _2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Marketing Data Scientist Consultant | Sia | Paris, fr | 2026-09-18 |
 | Operations Research Consultant | Sia | Paris, fr | 2026-09-18 |
 | Senior - Data Scientist & AI Consultant | Sia | Paris, fr | 2026-09-18 |
+| Consultant Senior/Tech Lead AI Engineer F/H/N | OCTO Technology | Paris, fr | 2026-09-18 |
 | Analyste Sécurité Groupe H/F | Egis Group | Paris, fr | 2026-09-18 |
 | SEO & AI Content Specialist | Pennylane | Paris | 2026-09-18 |
+| Consultant AI Engineer confirmé - F/H/N | OCTO Technology | Paris, fr | 2026-09-18 |
 | Group Security Analyst H/F | Egis Group | Paris, fr | 2026-09-18 |
+| Chef / Cheffe de projet études ferroviaire (CEP) - Signalisation | Artelia | Paris, fr | 2026-09-18 |
+| Vendeur responsable de réserve (H/F) - JFR | JYSK | Paris, fr | 2026-09-18 |
 | Site Reliability Engineer, AI Platform | Algolia | Paris, France | 2026-09-18 |
 | Senior Site Reliability Engineer, AI Platform | Algolia | Paris, France | 2026-09-18 |
 | Employé(e) Polyvalent(e) Petit-Déjeuner (H/F) | Relais & Châteaux | Paris, fr | 2026-09-18 |
@@ -37,6 +51,7 @@ _2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Assistant(e) dentaire qualifié(e) H/F | DENTEGO | Paris, fr | 2026-09-18 |
 | Stage – Chargé de l’accompagnement au changement et de communication digitale F/H | RTE | Paris - La Defense, fr | 2026-09-18 |
 | Data Platform Lead | REXEL | Paris, fr | 2026-09-18 |
+| Sales Development Representative F/H CDI | Julhiet Sterwen | Paris, fr | 2026-09-18 |
 | Stagiaire BAC+4 – Coordinateur Challenge Innovation Climat à la Fondation Egis H/F | Egis Group | Paris, fr | 2026-09-18 |
 | Principal Platform Engineer \|\| Identity Platform (AuthN/AuthZ) | IFS. AI-Powered Software Built for Your Industry | Paris, fr | 2026-09-18 |
 | Associate UX Designer | Dataiku | France, Paris | 2026-09-18 |
@@ -46,7 +61,10 @@ _2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Senior Software Engineer, Frontend | Sorare | Paris | 2026-09-18 |
 | ESG Performance & Reporting Manager | Sia | Paris, fr | 2026-09-18 |
 | Coiffeur / Coiffeuse | PROVALLIANCE | Paris, fr | 2026-09-18 |
+| Chef de Projets en audits et tests d'intrusion (F/H) | ADVENS | Paris, fr | 2026-09-18 |
+| Consultant en Cybersécurité OT/IOT (F/H) | ADVENS | Paris, fr | 2026-09-18 |
 | SAP Program Manager S/4HANA (H/F) | Teamwork Corporate | Paris, fr | 2026-09-18 |
+| Consultant Sénior en Cybersécurité (F/H) | ADVENS | Paris, fr | 2026-09-18 |
 | Senior Consultant – Health Insurance | Sia | Paris, fr | 2026-09-18 |
 | Stage Data Specialist Hors-Domicile (H/F) | Red Bull | Paris, fr | 2026-09-18 |
 | Automated Testing Module Lead | Harmattan Ai | Paris | 2026-09-18 |
@@ -57,6 +75,7 @@ _2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Consulting - Manager / Senior manager – Digital Workplace - Office 365 - CDI - Paris H/F | Talan | Paris, fr | 2026-09-18 |
 | Stage - FP&A Analyst (x/f/m) - mars 2027 | Doctolib | Paris, Paris, France | 2026-09-18 |
 | Consulting - Manager / Manager Senior - Data, IA & IA Générative - Paris (H/F) | Talan | Paris, fr | 2026-09-18 |
+| DevOps & IT infrastructure Engineer | Robeauté | Paris, France | 2026-09-18 |
 | Staff Backend Engineer, Integrations | Vibe | Paris | 2026-09-17 |
 | Senior Associate - Accounts Receivable - Collections | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-17 |
 | Principal Security Engineer | Vibe | Paris | 2026-09-17 |
@@ -167,9 +186,9 @@ _2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Développeur/se C# .NET finance de marché - Services Financiers - Ile-de-France | Sopra Steria Corporate | Paris, fr | 2026-09-17 |
 | Juriste M&A/Droit des sociétés | Sopra Steria Corporate | Paris, fr | 2026-09-17 |
 | Territory Sales Manager (France) | Xds | Paris, France | 2026-09-17 |
+| Direct Team Manager | Viva.com | Paris, France | 2026-09-17 |
 | Head of Design Operations | Keller Executive Search | Paris, France | 2026-09-17 |
 | Internship - Stage du fin d’etudes | Two Circles | Paris, France | 2026-09-17 |
-| Direct Team Manager | Viva.com | Paris, France | 2026-09-17 |
 | Retail Customer Service Associate - Contract Opportunity | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-16 |
 | Mobile Telecommunications Support Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-16 |
 | Senior Associate - Accounts Payables | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-16 |
@@ -208,7 +227,6 @@ _2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Business Analyst Data & Conformité AML H/F | NEXTON | Paris, fr | 2026-09-16 |
 | Product Manager - Secteur Hôtelier H/F | NEXTON | Paris, fr | 2026-09-16 |
 | Product Designer Expert IA H/F | NEXTON | Paris, fr | 2026-09-16 |
-| Stage Trade Marketing Hors-Domicile (H/F) | Red Bull | Paris, fr | 2026-09-16 |
 | Organic Growth Hacker - Paper.io 2 | Voodoo | Paris | 2026-09-16 |
 | Enterprise Account Executive, Dubai | Hightouch | Paris | 2026-09-16 |
 | Senior Regional Project Developer | Akuo | Paris, fr | 2026-09-16 |
@@ -271,7 +289,6 @@ _2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Technical Sourcer | Arago | Paris Offices | 2026-09-15 |
 | Business Analyst Transverse Finance - H/F | Talan | Paris, fr | 2026-09-15 |
 | Workplace Experience Manager - 12-Month Contract | Docebo | Paris, France | 2026-09-15 |
-| Adjoint caisses de nuit F/H | METRO/MAKRO | Paris, fr | 2026-09-15 |
 | Embedded Software Engineer - GCS | Harmattan Ai | Paris | 2026-09-15 |
 | Final year Internship - CIO, Data & AI Advisory | Sia | Paris, fr | 2026-09-15 |
 | User Acquisition - Events | Amo | Paris | 2026-09-15 |
@@ -289,23 +306,6 @@ _2,429 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | AI Designer— Motion & Génératif (H/F) - CDI - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-09-15 |
 | Sr Manager Payment and Distribution Partnership, Mobile Business Development (F/H/NB) | Ubisoft | Paris, fr | 2026-09-15 |
 | Senior User Researcher | Alan | Paris, France | 2026-09-15 |
-| Senior Product Manager - Dictation | Nabla | Paris office | 2026-09-15 |
-| Director, GTM Partnerships, SME & growth | Airwallex | FR - Paris | 2026-09-15 |
-| Marketing Video Artist - Portfolio Games | Voodoo | Paris | 2026-09-15 |
-| Demi-chef de partie - CDI - 39H | Gardinier | Paris, fr | 2026-09-15 |
-| Chef de partie cuisine H/F | Gardinier | Paris, fr | 2026-09-15 |
-| Commis de cuisine H/F | Gardinier | Paris, fr | 2026-09-15 |
-| Développeur Frontend – Web / iOS / Android H/F | NEXTON | Paris, fr | 2026-09-15 |
-| PMO Audio / Vidéo H/F | NEXTON | Paris, fr | 2026-09-15 |
-| Consultant – Data Analyst | Sia | Paris, fr | 2026-09-15 |
-| Applied AI Engineer | Sia | Paris, fr | 2026-09-15 |
-| Forward Deployed Engineer | Sia | Paris, fr | 2026-09-15 |
-| Executive Assistant - Freelance | Mirakl | Paris, France | 2026-09-15 |
-| Expert SEO H/F | NEXTON | Paris, fr | 2026-09-15 |
-| Stage Hotel & Restaurant - Hôtel Splendide Royal Paris | Relais & Châteaux | Paris, fr | 2026-09-15 |
-| Account Director, Digital Natives - France | Openai | Paris, France | 2026-09-15 |
-| Jeune Docteur R&D - H/F | Talan | Paris, fr | 2026-09-15 |
-| Ingénieur de production Azure / Control-M | EVERIENCE | Paris, fr | 2026-09-15 |
 
 ---
 

@@ -2,45 +2,57 @@
 
 Roles listing Dublin as their location.
 
-_945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
+_930 open · showing the 300 most recent · updated 2026-09-21 04:18 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Sales Development Representative - German | LinkedIn | Dublin, ie | 2026-09-20 |
+| Senior Mechanical Engineer | Anduril Industries | Dublin, Dublin, Ireland | 2026-09-20 |
+| Electrical Technician | Anduril Industries | Dublin, Dublin, Ireland | 2026-09-20 |
+| HR Business Partner 2 | LinkedIn | Dublin, ie | 2026-09-18 |
 | International Marketing Lead, SMB Ads | Openai | Dublin, Ireland | 2026-09-18 |
 | Curriculum Manager (EMEA) | Datadog | Dublin, Ireland | 2026-09-18 |
 | Field Technical Manager (Dublin, OH) | LG Electronics | Dublin, OH | 2026-09-18 |
 | Field Technical Manager (Dublin, OH) | LG Electronics | Dublin, OH | 2026-09-18 |
 | Senior Legal Counsel | Flipdish | Ireland - Dublin Hub (Hybrid) | 2026-09-18 |
+| Staff Product Manager | MongoDB | Dublin, Ireland | 2026-09-18 |
+| Global Indirect Tax and Fiscal Advisory Manager - 24 month FTC | Primark | Dublin, ie | 2026-09-18 |
 | Security Architect | Version 1 | Dublin, ie | 2026-09-18 |
 | Staff Site Reliability Engineer | Okta | Dublin, Ireland | 2026-09-18 |
 | Senior Site Reliability Engineer | Okta | Dublin, Ireland | 2026-09-18 |
+| Senior Software Engineer - Layer1 - C++ | Arista Networks | Dublin, ie | 2026-09-18 |
 | Solution Architect | Version 1 | Dublin, ie | 2026-09-18 |
 | Laboratory Technician | Eurofins | Dublin, ie | 2026-09-18 |
 | Partner Account Manager (Commercial), Southern Europe | Klaviyo FR | Dublin, IE | 2026-09-18 |
+| Security Engineer, ACE | Stripe | Dublin, Ireland | 2026-09-18 |
 | Sales Compensation Analyst | Semperis | Dublin, Ireland | 2026-09-18 |
+| Expert Regulatory Counsel, Europe | Payoneer | Dublin, Ireland | 2026-09-18 |
+| Account Executive, Product Sales (Billing) - Grower | Stripe | Dublin | 2026-09-18 |
 | Document Controller (Construction) | Turner & Townsend | Dublin, ie | 2026-09-18 |
 | Software Developer | Version 1 | Dublin, ie | 2026-09-18 |
 | .Net Developer | Version 1 | Dublin, ie | 2026-09-18 |
 | Infrastructure Consultant | Version 1 | Dublin, ie | 2026-09-18 |
+| Account Director (German) - Talent Solutions | LinkedIn | Dublin, ie | 2026-09-18 |
 | Technical Project Manager, Data Center Operations | Crusoe | Dublin - IE | 2026-09-18 |
 | Security Team Leader - Dublin 2 | Securitas | Dublin, ie | 2026-09-18 |
 | Medical Scientist- AutoLab | Eurofins | Dublin, ie | 2026-09-18 |
-| Global Indirect Tax and Fiscal Advisory Manager - 24 month FTC | Primark | Dublin, ie | 2026-09-18 |
+| Director - Private Credit & Debt Solutions | IQ-EQ | Dublin, ie | 2026-09-18 |
+| Director Administrator | Primark | Dublin, ie | 2026-09-18 |
 | Project Manager - Design / Technical (Construction) | Turner & Townsend | Dublin, ie | 2026-09-18 |
 | Infrastructure Technical Lead | Version 1 | Dublin, ie | 2026-09-18 |
 | Senior Reporting Support | Turner & Townsend | Dublin, ie | 2026-09-18 |
 | Principal Platform Engineer \|\| Identity Platform (AuthN/AuthZ) | IFS. AI-Powered Software Built for Your Industry | Dublin, ie | 2026-09-18 |
 | Technology Transformation Advisor | Primark | Dublin, ie | 2026-09-18 |
-| Enabling Works Project Manager:Rail projects | AECOM | Dublin, ie | 2026-09-18 |
-| Quality Lead:Rail projects | AECOM | Dublin, ie | 2026-09-18 |
 | Food Service Assistant (Term-time) FT (5 days/wk, 11:00-19:00) | WSH Group | Dublin, ie | 2026-09-18 |
 | Change Manager | Primark | Dublin, ie | 2026-09-18 |
 | Change Manager (18 Month Fixed-Term Contract) | Primark | Dublin, ie | 2026-09-18 |
-| Investment Platform Senior Associate | Davy | Dublin, Ireland | 2026-09-18 |
-| Bid Coordinator | Fenergo | Dublin, Ireland | 2026-09-18 |
-| Bid Manager (6 Month Fixed-Term Contract) | Fenergo | Dublin, Ireland | 2026-09-18 |
-| ICT Manager | Indra Group UK & Ireland | Dublin, Ireland | 2026-09-18 |
 | Business Analyst | Davy | Dublin, Ireland | 2026-09-18 |
+| Integration Supervisor | Winthrop Technologies | Dublin, Ireland | 2026-09-18 |
+| Bid Manager (6 Month Fixed-Term Contract) | Fenergo | Dublin, Ireland | 2026-09-18 |
+| Bid Coordinator | Fenergo | Dublin, Ireland | 2026-09-18 |
+| Investment Platform Senior Associate | Davy | Dublin, Ireland | 2026-09-18 |
+| ICT Manager | Indra Group UK & Ireland | Dublin, Ireland | 2026-09-18 |
+| Nurse Practitioner or Physician Assistant - Dublin GA | MRG Exams | Dublin, United States | 2026-09-18 |
 | Project Director - Data Centre Projects in Europe | Designer Group | Dublin, Ireland | 2026-09-18 |
 | Product Manager - EU Funds (Dublin) | LegalAndGeneral | Dublin, ie | 2026-09-17 |
 | Staff Security Engineer, Abuse Control | Stripe | Dublin | 2026-09-17 |
@@ -52,7 +64,7 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Sales Representive Ireland | Umdasch Group | Dublin 1, ie | 2026-09-17 |
 | Senior Strategic Account Manager | Block | Dublin, Ireland | 2026-09-17 |
 | Sales Development Representative - Spanish & Portuguese Speaking | LinkedIn | Dublin, ie | 2026-09-17 |
-| Staff Product Manager | MongoDB | Dublin, Ireland | 2026-09-17 |
+| Staff Product Manager, Atlas Clusters | MongoDB | Dublin, Ireland | 2026-09-17 |
 | Senior Counsel, Strategic Partnerships | Coursera | Dublin, Ireland | 2026-09-17 |
 | Stock Accounting Controls Manager | Primark | Dublin, ie | 2026-09-17 |
 | Principal Software Engineer, Data Platform | Toast | Dublin, Ireland | 2026-09-17 |
@@ -94,22 +106,18 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Engineering Services Support Engineer | PlayStation Global | Ireland, Dublin | 2026-09-17 |
 | Register Your Interest: Senior Account Director (Nordics) - Talent Solutions | LinkedIn | Dublin, ie | 2026-09-17 |
 | Afterschool Childcare Assistant Dublin 14 | Junior Adventures Group | Dublin, ie | 2026-09-17 |
-| Senior Finance Transformation Manager | Primark | Dublin, ie | 2026-09-17 |
 | Senior Manager, Financial Planning & Analysis | MongoDB | Dublin | 2026-09-17 |
-| Lead Software Engineer - Aircraft | Manna | Dublin, Ireland | 2026-09-17 |
-| Hardware Reliability Engineer | Manna | Dublin, Ireland | 2026-09-17 |
-| Turkish LQA Specialist | Keywords Studios | Dublin, Ireland | 2026-09-17 |
-| Winthrop Technologies: Engineering Graduate Programme 2027 | Winthrop Technologies | Dublin, Ireland | 2026-09-17 |
 | Freelance In-Person Event Specialist - Dublin, Ireland | Visit.org | Dublin, Ireland | 2026-09-17 |
+| Hardware Reliability Engineer | Manna | Dublin, Ireland | 2026-09-17 |
+| Lead Software Engineer - Aircraft | Manna | Dublin, Ireland | 2026-09-17 |
+| Winthrop Technologies: Engineering Graduate Programme 2027 | Winthrop Technologies | Dublin, Ireland | 2026-09-17 |
 | Technical Solutions Engineer | Arista Networks | Dublin, ie | 2026-09-16 |
-| Senior Software Engineer - Layer1 - C++ | Arista Networks | Dublin, ie | 2026-09-16 |
 | Network Engineer - Test (Intern) | Arista Networks | Dublin, ie | 2026-09-16 |
 | Software Engineer Intern 2026/2027 | Arista Networks | Dublin, ie | 2026-09-16 |
 | Software Engineer Graduate 2026/2027 | Arista Networks | Dublin, ie | 2026-09-16 |
 | Lounge Manager | WSH Group | Dublin, ie | 2026-09-16 |
 | Order to Cash Operations Lead | Openai | Dublin, Ireland | 2026-09-16 |
 | Partnership Lead EMEA | Singular | Dublin | 2026-09-16 |
-| Medical Assistant Trainee - Float (Dublin) | One Medical | Dublin, OH | 2026-09-16 |
 | Client Account Manager, Enterprise Sales [8-Month Fixed Term] | Pinterest | Dublin, IE | 2026-09-16 |
 | Senior Recruiter | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-09-16 |
 | Connected Services Trainer | MSX International | Dublin, us | 2026-09-16 |
@@ -130,26 +138,25 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Customer Success Manager - Dublin | Datadog | Dublin, Ireland | 2026-09-16 |
 | Account Executive, UK Velocity Hunter | Stripe | London or Dublin | 2026-09-16 |
 | Customer Success Associate - Dublin (MENA ROSE - Turkish Speaker) | Datadog | Dublin, Ireland | 2026-09-16 |
+| Sales Development Representative | LEAP Legal Software | Dublin, Ireland | 2026-09-16 |
+| Field Sales Team Lead - Electric Ireland | CPM Ireland | Dublin, Ireland | 2026-09-16 |
+| Sales Relief Representative - CPM Ireland | CPM Ireland | Dublin, Ireland | 2026-09-16 |
+| Senior Field Sales Representative - Electric Ireland | CPM Ireland | Dublin, Ireland | 2026-09-16 |
 | Quantity Surveyor | Winthrop Technologies | Dublin, Ireland | 2026-09-16 |
 | Senior Project Manager (Programme-Level) | Indra Group UK & Ireland | Dublin, Ireland | 2026-09-16 |
-| Field Sales Team Lead - Electric Ireland | CPM Ireland | Dublin, Ireland | 2026-09-16 |
-| Sales Development Representative | LEAP Legal Software | Dublin, Ireland | 2026-09-16 |
-| Senior Field Sales Representative - Electric Ireland | CPM Ireland | Dublin, Ireland | 2026-09-16 |
-| Sales Relief Representative - CPM Ireland | CPM Ireland | Dublin, Ireland | 2026-09-16 |
 | Manager, Field Enablement EMEA | Datadog | Amsterdam, The Netherlands; Dublin, Ireland; London, United Kingdom | 2026-09-15 |
 | Operations Manager | Wayflyer | Dublin | 2026-09-15 |
 | Sales Development Representative | Stripe | Dublin | 2026-09-15 |
 | Staff Backend Engineer - API Platform | Stripe | Dublin | 2026-09-15 |
 | Senior Integration Engineer | PlayStation Global | Ireland, Dublin | 2026-09-15 |
-| Staffing Manager Childcare | Junior Adventures Group | Dublin, ie | 2026-09-15 |
 | Head of Total Rewards | Inizio | Dublin, Ireland; London, United Kingdom | 2026-09-15 |
 | Account Executive, Product (Payouts) - Hunter | Stripe | Dublin | 2026-09-15 |
 | Benefits Program Manager, EMEA | Stripe | Dublin, London | 2026-09-15 |
 | Oracle PL/SQL Developer | Version 1 | Dublin, ie | 2026-09-15 |
-| Expenses and Payroll Administrator | CPM Ireland | Dublin, Ireland | 2026-09-15 |
 | Field Sales Representative \| National Broadband Ireland (NBI) | CPM Ireland | Dublin, Ireland | 2026-09-15 |
-| Customer Service Executive | Culligan Ireland | Dublin, Ireland | 2026-09-15 |
 | Business Risk Associate - 12m FTC | Davy | Dublin, Ireland | 2026-09-15 |
+| Expenses and Payroll Administrator | CPM Ireland | Dublin, Ireland | 2026-09-15 |
+| Customer Service Executive | Culligan Ireland | Dublin, Ireland | 2026-09-15 |
 | Strategic Customer Success Manager | AlertMedia | Remote, Dublin, Dublin County, Ireland | 2026-09-14 |
 | Network Engineer | SpaceXAI | Dublin, Ireland | 2026-09-14 |
 | Senior Product Manager | PlayStation Global | Ireland, Dublin | 2026-09-14 |
@@ -168,7 +175,7 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Regional Account Manager, Global Clients Program (6 Months FTC) | LinkedIn | Dublin, ie | 2026-09-14 |
 | Accounts Payable & Cost Analyst | Davy | Dublin, Ireland | 2026-09-14 |
 | Senior Recruiting Coordinator [fixed-term contract] | Anthropic | Dublin, IE | 2026-09-12 |
-| Senior Staff Product Manager | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-09-11 |
+| Senior Staff Product Manager, Atlas Clusters | MongoDB | Cork, Ireland; Dublin, Ireland | 2026-09-11 |
 | EMEA Chief Compliance Officer | Stripe | London, Dublin | 2026-09-11 |
 | Graduate Junior Discretionary Trader - Dublin | Geneva Trading | Dublin Ireland Office | 2026-09-11 |
 | Afterschool Childcare Assistant - Scoil Ide - Clondalkin | Junior Adventures Group | Dublin, ie | 2026-09-11 |
@@ -181,7 +188,6 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Account Manager. Italian Market | Kaseya Careers | Dublin, Ireland | 2026-09-11 |
 | Sales Development Representative - Dutch Speaker | LinkedIn | Dublin, ie | 2026-09-11 |
 | International Tax Manager | Everpure | Dublin, Ireland | 2026-09-11 |
-| Area Manager Dublin | Junior Adventures Group | Dublin, ie | 2026-09-11 |
 | Sales Relief Representative | CPM Ireland | Dublin, Ireland | 2026-09-11 |
 | Senior Account Executive, DACH | LastPass | Hybrid - Dublin | 2026-09-10 |
 | Senior Account Manager. German Market | Kaseya Careers | Dublin, Ireland | 2026-09-10 |
@@ -194,20 +200,15 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Sales Development Representative - Dutch Speaker | LinkedIn | Dublin, ie | 2026-09-10 |
 | Director Channel and Alliances - Emerging Markets | Okta | Dublin, Ireland | 2026-09-10 |
 | Account Executive, UKI - Talent Solutions | LinkedIn | Dublin, ie | 2026-09-10 |
-| Insights Analyst | LinkedIn | Dublin, ie | 2026-09-10 |
 | Client Manager (Loan Administration) | IQ-EQ | Dublin, ie | 2026-09-10 |
+| Electrical Quality Manager - Building Services Business Unit | Designer Group | Dublin, Ireland | 2026-09-10 |
 | Electrical Quality Manager - Energy & Industrial Business Unit | Designer Group | Dublin, Ireland | 2026-09-10 |
 | Electrical Quality Manager - Data Centre Business Unit | Designer Group | Dublin, Ireland | 2026-09-10 |
-| Electrical Quality Manager - Building Services Business Unit | Designer Group | Dublin, Ireland | 2026-09-10 |
 | Software Engineering Intern | Toast | Dublin, Ireland | 2026-09-09 |
 | Technical Support Engineer | Kaseya Careers | Dublin, Ireland | 2026-09-09 |
 | Risk Partnerships Manager, Banks & Treasury | Stripe | London, Dublin, UK-Remote | 2026-09-09 |
-| Senior Recruitment Marketing Project Manager, EMEAL | LinkedIn | Dublin, ie | 2026-09-09 |
-| Talent Acquisition Partner EMEAL | LinkedIn | Dublin, ie | 2026-09-09 |
 | Power Platform Consultant | Version 1 | Dublin, ie | 2026-09-09 |
 | 2027 Hardware Engineer Intern | Anduril Industries | Dublin, Dublin, Ireland | 2026-09-09 |
-| 2027 Software Quality Assurance Intern | Anduril Industries | Dublin, Dublin, Ireland | 2026-09-09 |
-| 2027 Mechanical Engineer Intern | Anduril Industries | Dublin, Dublin, Ireland | 2026-09-09 |
 | Engineering Manager (m/f/d) | Affinidi | Dublin, Dublin, Ireland | 2026-09-09 |
 | Account Executive, Startups SaaS Platforms Grower | Stripe | Dublin | 2026-09-09 |
 | Privacy and AI Counsel, EMEA | Harvey | Dublin | 2026-09-09 |
@@ -218,7 +219,6 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Automation & AI Developer | Kepak Group | Dublin, Ireland | 2026-09-09 |
 | Security Engineer, Corporate Security | Notion | Dublin, Ireland | 2026-09-08 |
 | Media Planner | Monks | Dublin | 2026-09-08 |
-| Software Engineer I, IQ Grow | Toast | Dublin, Ireland | 2026-09-08 |
 | Software Engineer II, IQ Grow | Toast | Dublin, Ireland | 2026-09-08 |
 | Senior Software Engineer, IQ Grow | Toast | Dublin, Ireland | 2026-09-08 |
 | Account Executive, Product Sales (Terminal) | Stripe | Dublin or London | 2026-09-08 |
@@ -229,25 +229,24 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Staff Software Engineer | Vectra AI | Dublin, Ireland | 2026-09-08 |
 | Senior Software Engineer - Android | Toast | Dublin, Ireland | 2026-09-08 |
 | Service Manager-Cortland Dublin | Cortland | Dublin, OH | 2026-09-08 |
-| Environmental Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-08 |
-| Business Analyst - AI PathFinder in Financial Services | Gemmo AI | Dublin, Ireland | 2026-09-08 |
-| Design Engineer | Winthrop Technologies | Dublin, Ireland | 2026-09-08 |
-| Mechanical Quality Manager - Building Services Business Unit | Designer Group | Dublin, Ireland | 2026-09-08 |
-| Mechanical Quality Business Unit Manager - Data Centres | Designer Group | Dublin, Ireland | 2026-09-08 |
-| Mechanical Quality Manager - Data Centre Business Unit | Designer Group | Dublin, Ireland | 2026-09-08 |
 | Mechanical Quality Manager - Energy & Industrial Business Unit | Designer Group | Dublin, Ireland | 2026-09-08 |
+| Mechanical Quality Manager - Building Services Business Unit | Designer Group | Dublin, Ireland | 2026-09-08 |
+| Mechanical Quality Manager - Data Centre Business Unit | Designer Group | Dublin, Ireland | 2026-09-08 |
+| Design Engineer | Winthrop Technologies | Dublin, Ireland | 2026-09-08 |
+| Environmental Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-08 |
+| Mechanical Quality Business Unit Manager - Data Centres | Designer Group | Dublin, Ireland | 2026-09-08 |
 | Alternative Investment Support Associate - 9-12 month FTC | Davy | Dublin, Ireland | 2026-09-08 |
+| Business Analyst - AI PathFinder in Financial Services | Gemmo AI | Dublin, Ireland | 2026-09-08 |
 | Account Executive, Startups | Anthropic | Dublin, IE | 2026-09-07 |
 | Brand Ambassador - Dublin | Butternut Box | Dublin | 2026-09-07 |
 | Senior Manager - Aviation Accounting | IQ-EQ | Dublin, ie | 2026-09-07 |
 | Client Manager - Aviation Accounting | IQ-EQ | Dublin, ie | 2026-09-07 |
 | Sales Manager, SMB (German Speaker) | Stripe | Dublin, Ireland | 2026-09-07 |
 | Manager, Sales Development | MongoDB | Dublin, Ireland | 2026-09-07 |
-| Senior Transaction Manager - Aviation | IQ-EQ | Dublin, ie | 2026-09-07 |
-| EHS Business Unit Manager - Energy & Industrial | Designer Group | Dublin, Ireland | 2026-09-07 |
 | Sales Merchandiser | CPM Ireland | Dublin, Ireland | 2026-09-07 |
-| EHS Business Unit Manager - Building Services | Designer Group | Dublin, Ireland | 2026-09-07 |
 | EHS Business Unit Manager - Data Centres | Designer Group | Dublin, Ireland | 2026-09-07 |
+| EHS Business Unit Manager - Energy & Industrial | Designer Group | Dublin, Ireland | 2026-09-07 |
+| EHS Business Unit Manager - Building Services | Designer Group | Dublin, Ireland | 2026-09-07 |
 | Forward Deployed Security Engineer | Stripe | Dublin | 2026-09-06 |
 | Senior Staff HR Partner, International | Ridgeline | Dublin, Ireland | 2026-09-04 |
 | International Strategy and Marketing Lead | Squarespace | Dublin | 2026-09-04 |
@@ -294,18 +293,19 @@ _945 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | IT Systems Analyst | PlayStation Global | Ireland, Dublin | 2026-09-01 |
 | Senior Project Manager | Monks | Dublin | 2026-09-01 |
 | Senior Financial Risk and Controls Manager | Monzo | Dublin | 2026-09-01 |
-| Regional MEP Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-01 |
-| Regional Design Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-01 |
-| Regional Commissioning Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-01 |
-| Regional Planning Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-01 |
 | Senior SME Executive (Hybrid Working) - Vodafone Business | CPM Ireland | Dublin, Ireland | 2026-09-01 |
 | Head of Legal (Part-Time) | Orfium | Dublin, Ireland | 2026-09-01 |
+| Regional Commissioning Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-01 |
+| Regional MEP Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-01 |
+| Regional Design Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-01 |
+| Regional Planning Manager | Winthrop Technologies | Dublin, Ireland | 2026-09-01 |
 | Software Engineer, New Grad | Stripe | Dublin | 2026-08-31 |
 | Senior Privacy Counsel | Pinterest | Dublin, IE | 2026-08-31 |
 | Physical Therapist | Upstream Rehabilitation | Dublin, GA | 2026-08-31 |
 | Growth Strategy Manager (based in Madrid) | FeverUp | Dublin | 2026-08-31 |
 | Product Support Engineer: EMEA (Remote) | Telnyx | Dublin; Ireland; Krakow, Poland; Amsterdam, Netherlands; Bucharest, Romania | 2026-08-31 |
 | Senior Counsel, Strategic Partnerships | Udemy | Dublin, Ireland | 2026-08-31 |
+| Senior Partner Portfolio Manager | Gong.io | Dublin | 2026-08-31 |
 
 ---
 

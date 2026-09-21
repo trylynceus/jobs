@@ -2,7 +2,7 @@
 
 Roles listing Munich as their location.
 
-_1,451 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
+_1,445 open · showing the 300 most recent · updated 2026-09-21 04:18 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -21,6 +21,7 @@ _1,451 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Working Student (m/f/d) – Web Frontend Engineering | SIXT | Munich, de | 2026-09-18 |
 | UAS Flight Operations - Germany | Helsing | Munich - Berlin | 2026-09-18 |
 | Senior Consultant- Cloud Architect- Deutschlandweit ( m/w/d) | Infosys Consulting - Europe | Munich, Germany | 2026-09-18 |
+| Group Account Director Automotive (w/m/d) | We Are Social | Munich, Germany | 2026-09-18 |
 | Distributor Sales Acceleration Manager - DACH Region | ServiceNow | Munich, de | 2026-09-17 |
 | Founding GTM Lead | Clera | Munich | 2026-09-17 |
 | Founding Engineer | Clera | Munich | 2026-09-17 |
@@ -116,13 +117,11 @@ _1,451 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Executive Briefing & Solutions Strategy Lead (EBC) | Celonis | Munich, Germany | 2026-09-14 |
 | Senior Sales Analyst (f/m/d) | AutoScout24 | Munich (Germany) | 2026-09-14 |
 | Knowledge Engineer | Fusion Consulting | Munich, de | 2026-09-14 |
-| Senior Sports Partnerships & Growth Manager (m/w/d) | SIXT | Munich, de | 2026-09-14 |
 | Leader Partner Sales, Digital Europe | Quadient | Munich, de | 2026-09-14 |
 | Staff Firmware Engineer (m/f/d), Platform R&D | ARX Robotics GmbH | Munich | 2026-09-14 |
 | Staff Embedded Software Engineer (m/f/d), Safety & Security Platform | ARX Robotics GmbH | Munich | 2026-09-14 |
 | Senior Embedded Software Test Engineer (m/f/d), Safety & Security Platform | ARX Robotics GmbH | Munich | 2026-09-14 |
 | Praktikum Design & Branding (all genders) | Roland Berger | Munich, de | 2026-09-14 |
-| (Senior) Sales Manager Automotive (m/w/d) | SIXT | Munich, de | 2026-09-14 |
 | B2B Marketing Manager, DACH | Openai | Munich, Germany | 2026-09-14 |
 | Finanzbuchhalterin (m/w/d) | Helsing | Munich | 2026-09-14 |
 | Senior AI Transformation & Innovation Consultant | Celonis | Munich, Germany | 2026-09-14 |
@@ -154,8 +153,8 @@ _1,451 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Flight Software Engineer | The Exploration Company | Munich, Germany | 2026-09-11 |
 | Community Manager | infinitSpace | Munich | 2026-09-11 |
 | Talent Acquisition Intern (all genders) | Lio | Munich Office | 2026-09-11 |
-| SAP BRIM Functional Lead - Digital Platforms - Germany | Infosys Consulting - Europe | Munich, Germany | 2026-09-11 |
 | SAP Finance Principal / Sr. Principal - Manufacturing | Infosys Consulting - Europe | Munich, Germany | 2026-09-11 |
+| SAP BRIM Functional Lead - Digital Platforms - Germany | Infosys Consulting - Europe | Munich, Germany | 2026-09-11 |
 | Senior / Principal Talent Acquisition Partner | Celonis | Munich, Germany | 2026-09-10 |
 | Microwave Design Engineer | Proxima Fusion | Munich | 2026-09-10 |
 | Simulation Engineer | Helsing | Munich | 2026-09-10 |
@@ -187,8 +186,8 @@ _1,451 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Working Student Business Development & Growth Strategy (all genders) | Wemolo | Munich | 2026-09-09 |
 | Senior Software Engineer | Celonis | Munich, Germany | 2026-09-09 |
 | Account Manager | Kaseya Careers | Munich, Germany | 2026-09-09 |
-| Junior IT Support Technician (Munich, Windows, Onsite Support, German/English) | D-ploy | Munich, Germany | 2026-09-09 |
 | Senior Account Manager:in (m/w/d) | We Are Social | Munich, Germany | 2026-09-09 |
+| Junior IT Support Technician (Munich, Windows, Onsite Support, German/English) | D-ploy | Munich, Germany | 2026-09-09 |
 | Sr Pricing Analyst (m/f/d) | Sportradar | Munich, de | 2026-09-08 |
 | Werkstudent Treasury & Corporate Finance (all genders) | Roland Berger | Munich, de | 2026-09-08 |
 | Collection Operations & Process Manager (all genders) | Wemolo | Munich | 2026-09-08 |
@@ -306,6 +305,7 @@ _1,451 open · showing the 300 most recent · updated 2026-09-20 04:15 UTC_
 | Support Analyst (German Speaking) | Hawk | Munich | 2026-08-25 |
 | Enterprise AI Consultant | Celonis | Munich, Germany | 2026-08-25 |
 | Industrial Controls Engineer | Proxima Fusion | Munich | 2026-08-25 |
+| Production Planner | Proxima Fusion | Munich | 2026-08-25 |
 
 ---
 
