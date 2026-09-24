@@ -2,29 +2,48 @@
 
 Roles listing Barcelona as their location.
 
-_883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
+_884 open · showing the 300 most recent · updated 2026-09-24 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Senior Machine Learning Engineer | Tripledot Studios | Barcelona | 2026-09-23 |
+| Senior Software Engineer | New Relic | Barcelona, Spain | 2026-09-23 |
+| Software Engineer II | New Relic | Barcelona, Spain | 2026-09-23 |
+| Graphic Designer - Asphalt Legends | Gameloft Official | Barcelona, es | 2026-09-23 |
+| Software Engineer I | Delivery Hero | Barcelona, es | 2026-09-23 |
+| Senior 3D Artist | Scopely | ES - Barcelona, Spain | 2026-09-23 |
+| Retail Assistant - Dependiente/a | Primark | Barcelona, es | 2026-09-23 |
+| Controller Financiero | Veolia Environnement SA | Barcelona, es | 2026-09-23 |
+| Team Manager | Primark | Barcelona, es | 2026-09-23 |
+| Comms & AI Intern | Delivery Hero | Barcelona, es | 2026-09-23 |
+| Electrical Engineer | AECOM | Barcelona, es | 2026-09-23 |
+| Data Analyst I Courier RTO Global HQ | Delivery Hero | Barcelona, es | 2026-09-23 |
+| Abogado/a Junior en Derecho Público | Veolia Environnement SA | Barcelona, es | 2026-09-23 |
+| Jefes/as de Obra y de Servicios : obras hidraúlicas | Veolia Environnement SA | Barcelona, es | 2026-09-23 |
 | Account Manager | Intelligent growth for the AI era. We are WPP Media | Barcelona, Spain | 2026-09-22 |
 | Key Account Management Corporate Sales (m/f/d) | SIXT | Barcelona, es | 2026-09-22 |
+| Senior Full-stack Engineer - CRM | Preply | Barcelona | 2026-09-22 |
+| VP of Revenue Operations | Bynder | Barcelona | 2026-09-22 |
+| Talent Acquisition Partner - Tech & Product | Preply | Barcelona | 2026-09-22 |
 | Agente Call Center con Catalán | MSX International | Barcelona, es | 2026-09-22 |
+| Lead Animator | Gameloft Official | Barcelona, es | 2026-09-22 |
 | Sr Quality Coordinator - Marketplace Experience | Delivery Hero | Barcelona, es | 2026-09-22 |
 | Gametech Innovation Developer | Gameloft Official | Barcelona, es | 2026-09-22 |
 | Graphic Design Intern | Omnicom Health | Barcelona, ES | 2026-09-22 |
 | Client Solutions Director / Solution Design Architect | OLIVER Agency | Barcelona, Spain | 2026-09-22 |
 | AI Search Innovation Lead - Madrid based | FeverUp | Barcelona | 2026-09-22 |
 | SEO Technical Lead - Madrid based | FeverUp | Barcelona | 2026-09-22 |
-| Sales Assistant (m/f/d) - Sant Cugat | SIXT | Barcelona, es | 2026-09-22 |
 | Rental Sales Agent (m/f/d) - Sant Cugat | SIXT | Barcelona, es | 2026-09-22 |
-| 6-month paid internship - AI & Automation | Eurofins | Barcelona, es | 2026-09-22 |
 | Central Monitoring Manager | PSI CRO | Madrid / Barcelona, es | 2026-09-22 |
-| Help Desk Engineer (Spanish, English and French) | Eurofins | Barcelona, es | 2026-09-22 |
 | Programa de Desarrollo - Responsable de Oficina (m/f/d) - Cataluña | SIXT | Barcelona, es | 2026-09-22 |
+| Account Manager Long Tail - Italian Speaking | Perk | Barcelona | 2026-09-22 |
 | General Manager Associate - Spain 🇪🇸 | Alan | Madrid, Spain; Barcelona, Spain | 2026-09-22 |
+| Senior Manager, Growth Strategy & Operations (PLG & Pricing) | Preply | Barcelona | 2026-09-22 |
 | Machine Learning Research Engineer | Seqera | Barcelona | 2026-09-22 |
+| Machine Learning Research Engineer | Seqera.Io | Barcelona (Spain) | 2026-09-22 |
 | Senior Knowledge Graph Engineer | EcoVadis | Barcelona, es | 2026-09-22 |
-| Compensation Specialist, Global Compensation Programs | Scopely | ES - Barcelona, Spain | 2026-09-21 |
+| Ingeniero de Instalaciones MEP | Utopia | Barcelona, Spain | 2026-09-22 |
+| Associate Compensation Specialist, Global Compensation Programs | Scopely | ES - Barcelona, Spain | 2026-09-21 |
 | Lead 2D Artist | Scopely | ES - Barcelona, Spain | 2026-09-21 |
 | Senior Sales Executive DACH | Perk | Barcelona | 2026-09-21 |
 | Technical Release Manager - Unannounced Project | Scopely | ES - Barcelona, Spain | 2026-09-21 |
@@ -38,8 +57,6 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Sales Planning & Strategy | Alan | Paris, France; Barcelona, Spain | 2026-09-21 |
 | Senior Revenue Ops | Alan | Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France; Madrid, Spain; Barcelona, Spain | 2026-09-21 |
 | Business Segment Lead | Alan | Paris, France; Bordeaux, France; Marseille, France; Lyon, France; Brussels, Belgium; Madrid, Spain; Barcelona, Spain | 2026-09-21 |
-| Business Analyst – Logistics Strategy & Rider Incentives | Delivery Hero | Barcelona, es | 2026-09-21 |
-| Data Analyst II Rider Experience | Delivery Hero | Barcelona, es | 2026-09-21 |
 | Security GRC Engineer | Delivery Hero | Barcelona, es | 2026-09-21 |
 | Junior PRL | Delivery Hero | Barcelona, es | 2026-09-21 |
 | Senior Product Manager - Asphalt Legends | Gameloft Official | Barcelona, es | 2026-09-21 |
@@ -51,7 +68,6 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Finance Analyst On Demand | Delivery Hero | Barcelona, es | 2026-09-18 |
 | Finance Process Excellence Manager - HQ (Barcelona based) | Delivery Hero | Barcelona, es | 2026-09-18 |
 | Finance Manager (Accounting & Consolidation) - HQ | Delivery Hero | Barcelona, es | 2026-09-18 |
-| Senior GL Accountant - HQ | Delivery Hero | Barcelona, es | 2026-09-18 |
 | Sales Executive - Benelux & Nordics - Danish Speaker | Perk | Barcelona | 2026-09-18 |
 | Sales Executive - Belgian French Speaker | Perk | Barcelona | 2026-09-18 |
 | Senior Software Engineer (Rust) - remote in the EU | Mirantis | Barcelona, es | 2026-09-18 |
@@ -64,7 +80,6 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Senior SAP PLM Consultant | Fusion Consulting | Barcelona, es | 2026-09-18 |
 | Enterprise Program Manager | Lighthouse | Barcelona, Spain; Málaga, Spain; Palma de Mallorca, Spain; Valencia, Spain | 2026-09-18 |
 | Senior Platform Software Engineer - R&D Automation | Preply | Barcelona | 2026-09-18 |
-| Sr AI & Technical Project Manager On Demand | Delivery Hero | Barcelona, es | 2026-09-18 |
 | Senior Java Developer | Miratech | Barcelona, es | 2026-09-18 |
 | IT Operations Engineer Internship | BMAT Music Innovators | Barcelona, Spain | 2026-09-18 |
 | Senior Software Engineer (Web Scraping, Data acquisition, Data collection) | NielsenIQ | Madrid/Barcelona/Valladolid , es | 2026-09-17 |
@@ -73,18 +88,15 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Senior SDR Enablement Specialist | Elastic | Barcelona, Spain | 2026-09-17 |
 | Senior Manager, UX Design_Monopoly GO! | Scopely | ES - Barcelona, Spain | 2026-09-17 |
 | Clinical Support Team Lead (Spain) | Dandy | Spain - Barcelona | 2026-09-17 |
-| Sr Project Manager Partner Experience MX | Delivery Hero | Barcelona, es | 2026-09-17 |
 | Marketing Activations Intern | Gameloft Official | Barcelona, es | 2026-09-17 |
-| Global International Tax Lead - HQ | Delivery Hero | Barcelona, es | 2026-09-17 |
 | Únete a nuestra Talent Community (m/f/d) / Join Our Talent Community | T-Systems Iberia | A Coruña, Bilbao, Gijón, Granada, Madrid, Reus, Sevilla, Valencia, Barcelona, es | 2026-09-17 |
 | Product Designer | Codeway | Barcelona | 2026-09-17 |
 | Identity & Access Management (IAM) Engineer, IT | Codeway | Barcelona | 2026-09-17 |
 | Senior Payroll and People Operations Specialist | Backmarket | Barcelona | 2026-09-17 |
-| Customer Care Agent – Digital Branch Global (m/f/d) Bilingual (German, English & Spanish) | SIXT | Barcelona, es | 2026-09-17 |
 | Internship - Leasing Oficinas - Barcelona Office | Colliers International EMEA | Barcelona, es | 2026-09-17 |
 | Territory Sales Manager (Spain) | Xds | Barcelona, Spain | 2026-09-17 |
-| AI Data Enablement Engineer | Xenon7 | Barcelona, Spain | 2026-09-17 |
 | Product Lead | Plain Concepts | Barcelona, Spain | 2026-09-17 |
+| AI Data Enablement Engineer | Xenon7 | Barcelona, Spain | 2026-09-17 |
 | Enterprise Account Manager - Benelux | Perk | Barcelona | 2026-09-16 |
 | Asesor comercial Hipotecario | Rehire | Sabadell, Barcelona | 2026-09-16 |
 | Senior Software Engineer - Code Foundation | Backmarket | Barcelona | 2026-09-16 |
@@ -97,18 +109,14 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Medical Support Associate, Spain | Careers at Eucalyptus | Barcelona, Spain | 2026-09-15 |
 | Technical Project Manager | Scopely | ES - Barcelona, Spain | 2026-09-15 |
 | Staff Software Engineer | Cint | Barcelona, es | 2026-09-15 |
-| IT Project Manager | Inetum | Barcelona, es | 2026-09-15 |
 | Global Operations Associate | Flexport | Barcelona, Spain | 2026-09-15 |
 | AI Revenue Systems Analyst | Perk | Barcelona | 2026-09-15 |
 | Senior GTM Engineer | Perk | Barcelona | 2026-09-15 |
 | Senior Technical Project Manager - Martech | MAP | Barcelona, Catalonia, Spain | 2026-09-15 |
 | Senior AI Engineer_FLAMED | Scopely | ES - Barcelona, Spain | 2026-09-15 |
 | Staff AI/ML Scientist (Conversational AI) | EcoVadis | Barcelona, es | 2026-09-15 |
-| Dutch Automotive Technical Helpdesk Agent | MSX International | Barcelona, es | 2026-09-15 |
-| German Automotive Technical Helpdesk Agent | MSX International | Barcelona, es | 2026-09-15 |
 | Analyst - Market Strategy | Scopely | ES - Barcelona, Spain | 2026-09-15 |
 | Game Cinematic Artist Intern | Gameloft Official | Barcelona, es | 2026-09-15 |
-| Graphic Designer - Asphalt Legends | Gameloft Official | Barcelona, es | 2026-09-15 |
 | Senior Product Designer (B2B Product) | AirHelp | Barcelona, Spain | 2026-09-15 |
 | Senior Supply Acquisition Specialist | Preply | Barcelona | 2026-09-14 |
 | Video Editor (Growth/Paid Media) | Preply | Barcelona | 2026-09-14 |
@@ -117,9 +125,9 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Account Executive II | Hudl | Barcelona, Spain | 2026-09-14 |
 | Lead Game Designer (PC/Console/Mobile) | Gameloft Official | Barcelona, es | 2026-09-14 |
 | BDR \| Barcelona/Madrid - Spanish Market | Lexroom | Barcelona | 2026-09-14 |
+| Business Excellence Intern | Exoticca | Barcelona, Spain | 2026-09-14 |
 | AI Strategy Director | Visium SA | Barcelona, Spain | 2026-09-14 |
 | IT Strategy & Performance Analyst | Unilabs | Barcelona, Spain | 2026-09-14 |
-| Business Excellence Intern | Exoticca | Barcelona, Spain | 2026-09-14 |
 | QA Analyst | Scopely | ES - Barcelona, Spain | 2026-09-11 |
 | Analista Funcional (m/f/d) | T-Systems Iberia | Reus y Barcelona, es | 2026-09-11 |
 | Analista Funcional de software para Administración Pública (m/f/d) | T-Systems Iberia | Reus y Barcelona, es | 2026-09-11 |
@@ -131,12 +139,11 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Technical Project Manager | pal robotics | Barcelona, es | 2026-09-10 |
 | Senior Concept Artist | Gameloft Official | Barcelona, es | 2026-09-10 |
 | Customer Service Team Manager - German bilingual | Quince | Spain - Barcelona | 2026-09-10 |
-| Head of Finance | Exoticca | Barcelona, Spain | 2026-09-10 |
 | MEP Engineer On-site Barcelona | Utopia | Barcelona, Spain | 2026-09-10 |
+| Head of Finance | Exoticca | Barcelona, Spain | 2026-09-10 |
 | 2D Artist | Scopely | ES - Barcelona, Spain | 2026-09-09 |
 | Senior Art Manager | Scopely | ES - Barcelona, Spain | 2026-09-09 |
 | Content Designer | Scopely | ES - Barcelona, Spain | 2026-09-09 |
-| Luxury Reservation Consultant ( French Speakers ) | AccorCorpo | Barcelona, es | 2026-09-09 |
 | Game Producer (Hybrid Casual) | Tripledot Studios | Barcelona | 2026-09-09 |
 | Senior Consultant – Presales Cloud Architect (m/f/d) | T-Systems Iberia | Barcelona, es | 2026-09-09 |
 | Manager, Data Engineering | Lighthouse | Barcelona, Spain; Greater Madrid Metropolitan Area | 2026-09-09 |
@@ -147,8 +154,8 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Inside Sales Representative | Tripadvisor | Barcelona | 2026-09-09 |
 | Controlling Manager | Kantox | Barcelona, Spain | 2026-09-09 |
 | Senior Technology Auditor | Scopely | ES - Barcelona, Spain | 2026-09-08 |
-| Senior Software Engineer | Seqera.Io | Barcelona (Spain) | 2026-09-08 |
 | Senior Software Engineer | Seqera | Barcelona | 2026-09-08 |
+| Senior Software Engineer | Seqera.Io | Barcelona (Spain) | 2026-09-08 |
 | Gameplay & UI Developer - Paper.io2 | Voodoo | Barcelona | 2026-09-08 |
 | Senior Adobe Application Consultant | MAP | Barcelona, Catalonia, Spain | 2026-09-08 |
 | Health-Data Project Manager (m/f/d) | T-Systems Iberia | Barcelona, es | 2026-09-08 |
@@ -157,11 +164,11 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Senior Strategic Project Manager (Relocation to Luxembourg) | Satispay | Barcelona, Spain | 2026-09-08 |
 | OSINT Investigator | Red Points | Barcelona, es | 2026-09-08 |
 | SAP MDG technical consultant | Fusion Consulting | Barcelona, es | 2026-09-08 |
-| Account Executive - Growth Markets - CEE / Italian Speakers | Perk | Barcelona | 2026-09-08 |
+| Account Executive - Growth Markets - CEE / Italian / Polish | Perk | Barcelona | 2026-09-08 |
 | Account Executive, Hotels | OpenTable | Barcelona, Spain | 2026-09-08 |
 | Account Executive \| SMB \| Spanish Market (Barcelona) | Lexroom | Barcelona | 2026-09-08 |
 | HR Business Partner (HRBP) | Exoticca | Barcelona, Spain | 2026-09-08 |
-| Deal Desk Senior Manager | Perk | Barcelona | 2026-09-07 |
+| Senior Deal Desk Team Manager | Perk | Barcelona | 2026-09-07 |
 | Account Executive - Barcelona | OpenTable | Barcelona, Spain | 2026-09-07 |
 | Partner Manager - German Speaker | EcoVadis | Barcelona, es | 2026-09-07 |
 | B2B Partnerships Operations Manager | Tripadvisor | Barcelona | 2026-09-07 |
@@ -183,8 +190,8 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Senior Performance Marketing Manager | Amenitiz | Barcelona | 2026-09-04 |
 | Senior SEO & GEO Specialist | Amenitiz | Barcelona | 2026-09-04 |
 | Data Engineer | Bynder | Barcelona | 2026-09-04 |
-| B2B Travel Advisor Support (French Speaker) | Exoticca | Barcelona, Spain | 2026-09-04 |
 | Finance Analyst | Cledara | Barcelona, Spain | 2026-09-04 |
+| B2B Travel Advisor Support (French Speaker) | Exoticca | Barcelona, Spain | 2026-09-04 |
 | Director of Sales | Amenitiz | Barcelona | 2026-09-03 |
 | Product Design Lead | FeverUp | Barcelona | 2026-09-03 |
 | Operations Coordinator | Alan | Madrid, Spain; Barcelona, Spain | 2026-09-03 |
@@ -198,7 +205,6 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | SAP MDG Functional Consultant – Material | Fusion Consulting | Barcelona, es | 2026-09-03 |
 | Revenue Enablement Senior Manager | EcoVadis | Barcelona, es | 2026-09-02 |
 | Business Development Representative - Italian Market | Amenitiz | Barcelona | 2026-09-02 |
-| Customer Care Specialist - Italian Market | Tripadvisor | Barcelona | 2026-09-02 |
 | Senior Analytics Engineer - Data Modeling & Visualization | Lengow | Barcelona, Spain | 2026-09-02 |
 | Future Enterprise Account Executive Opportunities | Mirakl | Barcelona, Barcelona, Spain; Bordeaux, France; Boston, Massachusetts, United States; London, England, United Kingdom; Mexico; München, Bavaria, Germany; New York, New York, United States; Paris, France; Remote - US; Sydney | 2026-09-01 |
 | Manager, Spain Marketing | Airwallex | ES - Barcelona | 2026-09-01 |
@@ -249,9 +255,7 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Implementation Specialist (French Market) | Perk | Barcelona | 2026-08-27 |
 | Playable Ads Developer_Flamed | Scopely | ES - Barcelona, Spain | 2026-08-27 |
 | Head of Product Development | Appodeal | Barcelona, Spain | 2026-08-27 |
-| Customer Service Agent (Night Shift) | Exoticca | Barcelona, Spain | 2026-08-27 |
 | B2B Customer Experience Coordinator | Exoticca | Barcelona, Spain | 2026-08-27 |
-| Customer Service Agent (ES + EN) | Exoticca | Barcelona, Spain | 2026-08-27 |
 | Lead UI Artist - MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-08-26 |
 | UI Artist - MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-08-26 |
 | Sales Development Representative - French Market (Inbound) | Amenitiz | Barcelona | 2026-08-26 |
@@ -268,7 +272,6 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Business Growth Analyst (Madrid based) | FeverUp | Barcelona | 2026-08-25 |
 | Inside Account Executive - Norwegian speaker | Elastic | Barcelona, Spain | 2026-08-25 |
 | Lead 3D Artist - Monopoly GO! | Scopely | ES - Barcelona, Spain | 2026-08-25 |
-| Senior 3D Artist - Monopoly GO! | Scopely | ES - Barcelona, Spain | 2026-08-25 |
 | 3D Artist - Monopoly GO! | Scopely | ES - Barcelona, Spain | 2026-08-25 |
 | Data Scientist (Privacy) | Datavant | Barcelona, Spain | 2026-08-25 |
 | Trust & Safety Intern | Red Points | Barcelona, es | 2026-08-25 |
@@ -283,29 +286,26 @@ _883 open · showing the 300 most recent · updated 2026-09-23 04:17 UTC_
 | Account Manager | Omnicom Health | Barcelona, ES | 2026-08-24 |
 | Hardware Electronics Engineer - Robotics | Helsing | Barcelona | 2026-08-24 |
 | Finance Intern | Exoticca | Barcelona, Spain | 2026-08-24 |
-| Associate Partner - AI & Data - Life Sciences | Visium SA | Barcelona, Spain | 2026-08-24 |
 | B2B Partner Onboarding & Enablement Specialist | Exoticca | Barcelona, Spain | 2026-08-24 |
+| Associate Partner - AI & Data - Life Sciences | Visium SA | Barcelona, Spain | 2026-08-24 |
 | Lead Game Capture Artist | Scopely | ES - Barcelona, Spain | 2026-08-21 |
-| Head of Platform Engineering | Seqera.Io | Barcelona (Spain) | 2026-08-21 |
 | Head of Platform Engineering | Seqera | Barcelona | 2026-08-21 |
+| Head of Platform Engineering | Seqera.Io | Barcelona (Spain) | 2026-08-21 |
 | Senior Animator – MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-08-21 |
 | Senior Product Manager performance - Monopoly GO! | Scopely | ES - Barcelona, Spain | 2026-08-21 |
 | Associate Counsel, Product & Privacy | Scopely | ES - Barcelona, Spain | 2026-08-21 |
 | Customer Care Specialist - Finance & Accounting Platforms | Perk | Barcelona | 2026-08-20 |
 | Customer Care Specialist - Finance & Accounting Platforms | Perk | Barcelona | 2026-08-20 |
-| Program Manager (m/f/d) | T-Systems Iberia | Barcelona, es | 2026-08-20 |
 | Administrador/a SIEM SPLUNK (m/f/d) | T-Systems Iberia | Madrid, Barcelona o Granada, es | 2026-08-20 |
 | Sr Marketing Artist | Scopely | ES - Barcelona, Spain | 2026-08-20 |
 | System Lead - Data Migration & Data Management | Fusion Consulting | Barcelona, es | 2026-08-20 |
+| Marketing Intelligence & AI Automation Manager | Scopely | ES - Barcelona, Spain | 2026-08-19 |
 | Senior Engineer | Checkatrade | Barcelona Spain | 2026-08-19 |
 | Partner Manager (French) | fonio | Barcelona | 2026-08-19 |
 | Partner Manager (French) | fonio | Barcelona | 2026-08-19 |
 | Partner Manager (Italian) | fonio | Barcelona | 2026-08-19 |
 | Partner Manager (Italian) | fonio | Barcelona | 2026-08-19 |
 | Partner Manager (Spanish) | fonio | Barcelona | 2026-08-19 |
-| Partner Manager (Spanish) | fonio | Barcelona | 2026-08-19 |
-| B2C Lifecycle Marketing Lead | Proton | London, Barcelona | 2026-08-18 |
-| Senior UX Designer, Provider Experience | Datavant | Barcelona, Spain | 2026-08-18 |
 
 ---
 
