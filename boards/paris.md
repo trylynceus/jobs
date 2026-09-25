@@ -2,34 +2,54 @@
 
 Roles listing Paris as their location.
 
-_2,445 open · showing the 300 most recent · updated 2026-09-24 04:19 UTC_
+_2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Senior Technical Product Manager - Advertising solutions | Voodoo | Paris | 2026-09-24 |
+| Marketing Video Artist - BeReal | Voodoo | Paris | 2026-09-24 |
+| Applied AI Engineer, Startups (Codex) | Openai | Paris, France | 2026-09-24 |
+| Technical Recruiter | Vibe | Paris | 2026-09-24 |
+| Head of Brand (Relocation to Milan) | Satispay | Paris, France | 2026-09-24 |
+| Growth Strategy Manager - Madrid based | FeverUp | Paris | 2026-09-24 |
+| Assistant Venue Manager | FeverUp | Paris | 2026-09-24 |
 | Operations Associate (Acquisition) | Wheely | Paris, Paris, France | 2026-09-23 |
+| Product Manager H/F | Capco | France - Paris | 2026-09-23 |
 | Chargé d'études R&D - Postes électriques offshore (F/H) | RTE | Paris, fr | 2026-09-23 |
 | Business & Shopper Insights Specialist - CDD 11 MOIS (H/F) | Red Bull | Paris, fr | 2026-09-23 |
 | Superviseur.e éclairagiste - PARIS | Rodeo FX | Paris, fr | 2026-09-23 |
+| Strategy & Operations Lead, France | Openai | Paris, France | 2026-09-23 |
 | CDI - Business Analyst Senior RGM \| L'Or, Tassimo, Senseo | JACOBS DOUWE EGBERTS | Paris, fr | 2026-09-23 |
 | Leader Technique – STEP Stibo Systems (PIM / MDM) | Talan | Paris, fr | 2026-09-23 |
 | Account Manager, SME & Growth | Airwallex | FR - Paris | 2026-09-23 |
 | Stage Ingénieur.e Projets Intelligence Artificielle - Traitement du langage naturel (NLP) | Eurofins | Paris, fr | 2026-09-23 |
+| Talent Sourcer - Growth | Voodoo | Paris | 2026-09-23 |
 | Senior Consultant - Data Advisory | Sia | Paris, fr | 2026-09-23 |
 | Manager CIO Advisory | Sia | Paris, fr | 2026-09-23 |
 | Consultant - CIO, Data & AI Advisory | Sia | Paris, fr | 2026-09-23 |
+| Senior Account Executive - Hospitals | Tandem Health | Paris | 2026-09-23 |
+| UI/UX Artist - Castle Busters | Voodoo | Paris | 2026-09-23 |
 | Final year Internship - CIO, Data & AI Advisory | Sia | Paris, fr | 2026-09-23 |
+| Business Development Intern (Mandarin Speaker) | Backmarket | Paris | 2026-09-23 |
 | Data Analyst Data & AI Senior - F/H - CDI | Talan | Paris, fr | 2026-09-23 |
 | Manager AI Transformation | Sia | Paris, fr | 2026-09-23 |
 | Senior Platform Engineer - W/M/NB | Ubisoft | Paris, fr | 2026-09-23 |
+| Enterprise Account Executive - Paris | Ideals | Paris, France | 2026-09-23 |
+| Senior Product Manager - Earn | Ledger | Paris, France | 2026-09-23 |
 | Consultant.e Change Management - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-23 |
 | Consultant.e RH - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-23 |
 | Consultant.e RH/Change - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-23 |
 | Technical Lead - Agentic AI | Nagarro | Paris, fr | 2026-09-23 |
+| Location Data engineer | Amo | Paris | 2026-09-23 |
 | Responsable Formation (F/M/X) | AccorCorpo | Paris, fr | 2026-09-23 |
 | Concierge Premium (F/M/X) | AccorCorpo | Paris, fr | 2026-09-23 |
 | Chargé de Qualité & Formation H/F | AccorCorpo | Paris, fr | 2026-09-23 |
+| Senior Full-Stack Product Engineer | The Flex | Paris | 2026-09-23 |
+| Product Engineer | The Flex | Paris | 2026-09-23 |
+| Senior Software Engineer | The Flex | Paris | 2026-09-23 |
 | Merchandising & Buying Intern | ANINE BING | Paris, FR | 2026-09-23 |
 | Regional Director, Enterprise, Growth | MongoDB | Paris | 2026-09-23 |
+| Stage M&A et Strategy H/F | iad | Paris, fr | 2026-09-23 |
 | Technical Writer | Alta Ares | Paris | 2026-09-23 |
 | Consultant·e Junior en Technologies Emergentes – CTO/CIO Advisory - CDI | Wavestone | Paris, fr | 2026-09-23 |
 | Consultant·e Junior - IA, Data & Agents Copilot – CTO Advisory - CDI | Wavestone | Paris, fr | 2026-09-23 |
@@ -39,8 +59,11 @@ _2,445 open · showing the 300 most recent · updated 2026-09-24 04:19 UTC_
 | Consultant·e Junior (Analyst) en Transformation Digitale - CTO Advisory / Cloud – CDI | Wavestone | Paris, fr | 2026-09-23 |
 | Consultant·e Junior (Analyst) en Transformation Digitale - CTO Advisory - CDI | Wavestone | Paris, fr | 2026-09-23 |
 | Consultant·e Junior (Analyst) en Transformation Digitale – CTO/CIO Advisory - CDI | Wavestone | Paris, fr | 2026-09-23 |
+| Applied AI Engineer, Codex | Openai | Paris, France | 2026-09-23 |
 | Technicien de Maintenance Industrielle F/H | Veolia Environnement SA | Paris, fr | 2026-09-23 |
 | Senior Product Lead | Nagarro | Paris, fr | 2026-09-23 |
+| Trade-in Buybulk Intern | Backmarket | Paris | 2026-09-23 |
+| Stage - SEO : Contenu & recherche IA (x/f/m) - novembre 2026 | Doctolib | Paris, Paris, France | 2026-09-23 |
 | Revenue Management & Strategy Director (6-Month Maternity Cover) | AccorCorpo | Paris, fr | 2026-09-23 |
 | Agent Entretien & Maintenance F/H | METRO/MAKRO | Paris, fr | 2026-09-23 |
 | DevOps - CDI (H/F) | ALTEN | Paris, fr | 2026-09-23 |
@@ -116,8 +139,8 @@ _2,445 open · showing the 300 most recent · updated 2026-09-24 04:19 UTC_
 | Legal Engineer Manager, Paris | Harvey | Paris | 2026-09-22 |
 | Médecin du travail | Alan | Paris | 2026-09-22 |
 | FP&A Intern | Singulier | Paris, France | 2026-09-22 |
-| Automotive Business Development Director - Premium & Luxury | CXG | Paris, France | 2026-09-22 |
 | Product Engineer Manager | GetVocal AI | Paris, France | 2026-09-22 |
+| Automotive Business Development Director - Premium & Luxury | CXG | Paris, France | 2026-09-22 |
 | Forward Deployed Engineer, France | Telnyx | Paris, France | 2026-09-21 |
 | International Law School Manager | Harvey | Paris | 2026-09-21 |
 | Auto Loans Collections Associate | Sutherland | Kingsland, Manchester Parish, Jamaica, jm | 2026-09-21 |
@@ -132,6 +155,7 @@ _2,445 open · showing the 300 most recent · updated 2026-09-24 04:19 UTC_
 | Business Development Representative (Chauffeur - Partner) | Wheely | Paris, Paris, France | 2026-09-21 |
 | Chauffeur Recruiter (Mass Recruitment Focus) | Wheely | Paris, Paris, France | 2026-09-21 |
 | Product Manager ML & GenAI – H/F | EVERIENCE | Paris, fr | 2026-09-21 |
+| Simulation Engineer | Helsing | Munich - Berlin - London - Paris - Warsaw - Tallinn | 2026-09-21 |
 | Consultant Achats Logiciel & Prestation – Oracle Cloud / S2P H/F | EPSA | Paris, fr | 2026-09-21 |
 | Stage – Assistant(e) Analyste en Stratégie | REXEL | Paris, fr | 2026-09-21 |
 | Manager Service Client - Région Paris / Ile de France CDI H/F | BOULANGER | Paris, fr | 2026-09-21 |
@@ -148,7 +172,6 @@ _2,445 open · showing the 300 most recent · updated 2026-09-24 04:19 UTC_
 | Aide aux personnes âgées (H/F) | Ouihelp | Paris | 2026-09-21 |
 | Internship - Junior HR & Assessment Consultant | Sia | Paris, fr | 2026-09-21 |
 | Senior Data Engineer H/F | NEXTON | Paris, fr | 2026-09-21 |
-| Careers Fair - Schwieberdingen | Helsing | Munich - Berlin - London - Paris | 2026-09-21 |
 | Auxiliaire de vie étudiant (H/F) | Ouihelp | Paris | 2026-09-21 |
 | Assistant de vie (H/F) | Ouihelp | Paris | 2026-09-21 |
 | Chef de Projet Conformité & Juridique H/F | NEXTON | Paris, fr | 2026-09-21 |
@@ -283,29 +306,6 @@ _2,445 open · showing the 300 most recent · updated 2026-09-24 04:19 UTC_
 | SAP Program Manager S/4HANA (H/F) | Teamwork Corporate | Paris, fr | 2026-09-18 |
 | Consultant Sénior en Cybersécurité (F/H) | ADVENS | Paris, fr | 2026-09-18 |
 | Senior Consultant – Health Insurance | Sia | Paris, fr | 2026-09-18 |
-| Automated Testing Module Lead | Harmattan Ai | Paris | 2026-09-18 |
-| Brand Assistant Manager - Novotel & Handwritten Collection / Internship (M/F/X) | AccorCorpo | Paris, fr | 2026-09-18 |
-| Stage - FP&A Analyst (x/f/m) - mars 2027 | Doctolib | Paris, Paris, France | 2026-09-18 |
-| DevOps & IT infrastructure Engineer | Robeauté | Paris, France | 2026-09-18 |
-| Staff Backend Engineer, Integrations | Vibe | Paris | 2026-09-17 |
-| Senior Associate - Accounts Receivable - Collections | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-17 |
-| Principal Security Engineer | Vibe | Paris | 2026-09-17 |
-| Esports Communication Assistant – Internship (6-month) January 2027 (W/M/NB) | Ubisoft | Paris, fr | 2026-09-17 |
-| Esports Communication Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-17 |
-| QA Testeur Technico-fonctionnel H/F | NEXTON | Paris, fr | 2026-09-17 |
-| Partnership Projects Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-17 |
-| Music Marketing Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-17 |
-| Executive Assistant - Tech Leadership | Mirakl - Labs | Paris, France | 2026-09-17 |
-| Enterprise Business Development Representative | Mirakl | Paris, France | 2026-09-17 |
-| Business Manager H/F | NEXTON | Paris, fr | 2026-09-17 |
-| Head of AI Data H/F | NEXTON | Paris, fr | 2026-09-17 |
-| Stage - Partenaire Performance Client (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-17 |
-| Stage - Stratégie et Marketing Produit (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-17 |
-| Account Executive, Enterprise Hunter (French-speaking) | Stripe | Paris | 2026-09-17 |
-| Stage - Corporate Development Analyst (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-17 |
-| Sales Manager, Enterprise (Grower) | Stripe | Paris | 2026-09-17 |
-| Stage - Assistant chef de projet pour déploiement (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-17 |
-| Stage - Sales Strategy Analyst (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-17 |
 
 ---
 
