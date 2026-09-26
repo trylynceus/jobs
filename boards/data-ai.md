@@ -2,310 +2,310 @@
 
 Roles whose title reads as data & ai.
 
-_32,968 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
+_33,299 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| Data Annotators: Paid Tasks for AI Model Training | Terac | United States | 2026-09-25 |
-| Registered Nurse, Brain Health | Atria Health and Research Institute | Palm Beach, United States | 2026-09-25 |
-| Applied AI Engineer | Warp | New York | 2026-09-24 |
-| Machine Learning Engineer, Core Experimentation | Openai | Seattle | 2026-09-24 |
-| Head of Data | Vapi | San Francisco | 2026-09-24 |
-| Strategic AI transformation lead (West) | Writer | San Francisco, CA | 2026-09-24 |
-| Strategic AI transformation lead (East) | Writer | New York City, NY | 2026-09-24 |
-| Strategic AI transformation lead (Central) | Writer | Chicago, IL | 2026-09-24 |
-| Enterprise AI transformation lead (West) | Writer | San Francisco, CA | 2026-09-24 |
-| Enterprise AI transformation lead (East) | Writer | New York City, NY | 2026-09-24 |
-| Enterprise AI transformation lead (Central) | Writer | Chicago, IL | 2026-09-24 |
-| Search Engineer, AI Infrastructure (SF) | Lavendo | San Francisco | 2026-09-24 |
-| Sr. Manager, Sustaining Engineering & Operations Technical Program Management | Rivianvw.Tech | Palo Alto, California | 2026-09-24 |
-| Member of Technical Staff, Tech Lead Applied AI Backend | Mercor | San Francisco | 2026-09-24 |
-| Sales Engineer, AI Infrastructure (SF) | Lavendo | San Francisco | 2026-09-24 |
-| Member of Technical Staff, Applied AI Backend | Mercor | San Francisco | 2026-09-24 |
-| Staff Data Scientist | Hims And Hers | US Remote | 2026-09-24 |
-| Sr. Data Scientist | Hims And Hers | US Remote | 2026-09-24 |
-| Technical Program Manager, Robotic Data & Deliveries | Mecka.Ai | New York | 2026-09-24 |
-| Sales Operations and Analytics Lead | Mecka.Ai | New York | 2026-09-24 |
-| Estágio – Marketing Brand / Redes Sociais | Despegar | São Paulo | 2026-09-24 |
-| Software Developer, Robotic Data & Deliveries | Mecka.Ai | New York | 2026-09-24 |
-| Applied AI Engineer, Startups (Codex) | Openai | London, UK | 2026-09-24 |
-| Applied AI Engineer, Startups (Codex) | Openai | Paris, France | 2026-09-24 |
-| Applied AI Engineer, Startups (Codex) | Openai | Munich, Germany | 2026-09-24 |
-| Teamlead Data Operations (Mensch) | Neura Robotics Gmbh | Aachen | 2026-09-24 |
-| Teamlead Data Operations (human) | Neura Robotics Gmbh | Aachen | 2026-09-24 |
-| Teamlead Physical AI Data Operations - RoboGym (Mensch) | Neura Robotics Gmbh | Aachen | 2026-09-24 |
-| Teamlead Physical AI Data Operations - RoboGym (human) | Neura Robotics Gmbh | Aachen | 2026-09-24 |
-| Applied Machine Learning Engineer | Quartermaster | Arlington, VA | 2026-09-24 |
-| Paid Social Praktikant | Intelligent growth for the AI era. We are WPP Media | Copenhagen, Denmark | 2026-09-24 |
-| AI, PLA & NeuraGym Strategist (Mensch) | Neura Robotics Gmbh | Metzingen / Riederich | 2026-09-24 |
-| AI, PLA & NeuraGym Strategist (human) | Neura Robotics Gmbh | Metzingen / Riederich | 2026-09-24 |
-| AI, PLA & NeuraGym Strategist (Mensch) | Neura Robotics Gmbh | Aachen | 2026-09-24 |
-| AI, PLA & NeuraGym Strategist (human) | Neura Robotics Gmbh | Aachen | 2026-09-24 |
-| AI, PLA & NeuraGym Demo Coordinator (Mensch) | Neura Robotics Gmbh | Aachen | 2026-09-24 |
-| AI, PLA & NeuraGym Demo Coordinator (human) | Neura Robotics Gmbh | Aachen | 2026-09-24 |
-| Analista de Dados – Data Analytics (Pleno) | Skydropx | Brazil | 2026-09-24 |
-| Senior Data Scientist | Omaze | London | 2026-09-24 |
-| Warehouse Trainer / Trainer Logistik (m/w/d) | Rohlik | Bischofsheim bei Frankfurt, Germany | 2026-09-24 |
-| Labour AI Specialist | Sona | Hybrid - London | 2026-09-24 |
-| Data Entry Coordinator I | The Nielsen Company | Mumbai | 2026-09-24 |
-| Data Engineer II | The Nielsen Company | Bengaluru | 2026-09-24 |
-| Senior Developer(Python,React,AWS,AI) | Referrals Only | Chennai, India | 2026-09-24 |
-| Senior Sales Manager, Trainline Media | Trainline | London | 2026-09-24 |
-| Data Analyst, Business Finance | Razorpay | Bengaluru | 2026-09-24 |
-| Associate Director, Sports & Entertainment | Intelligent growth for the AI era. We are WPP Media | Mumbai, India | 2026-09-24 |
-| Quality Engineer, Data Center Operations | XTX Markets | Finland | 2026-09-24 |
-| Senior Machine Learning Engineer | Primer.Io | United Kingdom | 2026-09-24 |
-| Senior ML Engineer | Primer.Io | United Kingdom | 2026-09-24 |
-| Engineering Manager - Data Platform | Epidemic Sound | Stockholm HQ | 2026-09-24 |
-| Lead Account Strategist - Paid Search | InMobi | Lucknow | 2026-09-24 |
-| Regulatory Affairs Engineer, Post-Market Surveillance | Neko Health | Stockholm | 2026-09-24 |
-| Regulatory Affairs Engineer, Manufacturing Lifecycle | Neko Health | Stockholm | 2026-09-24 |
-| AI Benchmark Engineer \| Native Language Specialist - Arabic (Saudi Arabia) - Remote | Lilt Production | Saudi Arabia (remote) | 2026-09-24 |
-| AI Benchmark Engineer \| Native Language Specialist - Arabic (UAE) - Remote | Lilt Production | United Arab Emirates (remote) | 2026-09-24 |
-| AI Benchmark Engineer \| Native Language Specialist - Chinese (Taiwan) - Remote | Lilt Production | Taiwan (Remote) | 2026-09-24 |
-| AI Benchmark Engineer \| Native Language Specialist - Chinese (Hong Kong) - Remote | Lilt Production | Hong Kong (Remote) | 2026-09-24 |
-| Applied AI Engineer - Hardware | Etched | San Jose | 2026-09-24 |
-| Product Manager \| Kimchi AI Coding Platform\| Europe | Cast AI | EMEA; European Union | 2026-09-24 |
-| Senior Data Scientist (Geo Search) | inDrive | Kazakhstan | 2026-09-24 |
-| Senior Data Scientist (Geo Search) | inDrive | Cyprus | 2026-09-24 |
-| Sr. Machine Learning Engineer | 6sense | Bengaluru, Karnataka, India | 2026-09-24 |
-| Robotics Data Collection Operator, Shift Lead - Seattle | Cobot | Seattle | 2026-09-24 |
-| General Manager, Data Science | Xero | AU: Melbourne: (260 Burwood Rd) | 2026-09-24 |
-| Lead Data Analyst | HubSpot | Remote - Ireland | 2026-09-24 |
-| Vice President, Medical Affairs | Beeline Medicines | Boston, Massachusetts, United States | 2026-09-24 |
-| Area Manager (Tainan) | Coupang | Tainan, Taiwan | 2026-09-24 |
-| Area Manager (Tainan) | Coupang Internal | Tainan, Taiwan | 2026-09-24 |
-| Area Manager (Taichung) | Coupang | Taichung | 2026-09-24 |
-| Technician 4, Manufacturing Equipment Maintenance | Western Digital | Bayan Lepas, my | 2026-09-24 |
-| [Data Scientist] Principle Data Scientist - SG | Agoda | Singapore | 2026-09-24 |
-| Associate Scientist | Syngenta Group | Milwaukee, us | 2026-09-24 |
-| Delivery Driver(04055) - 641 East Main street | Domino's | Meriden, us | 2026-09-24 |
-| Assistant Manager(07550) - 1153 N. Main St. | Domino's | Logan, us | 2026-09-24 |
-| Company Car Delivery Driver (5896) Fairhope | Domino's | Fairhope, us | 2026-09-24 |
-| Assistant Manager(03394) - 102 main st | Domino's | Sayerville, us | 2026-09-24 |
-| Assistant Manager(06283) - 1010 W. Main St. | Domino's | Sterling, us | 2026-09-24 |
-| Customer Service Rep(08236) - 174 W Main st | Domino's | Brawley, us | 2026-09-24 |
-| Customer Service Rep(08594) - 1170 E. Champlain Ave., Suite 101 | Domino's | Fresno, us | 2026-09-24 |
-| Customer Service Rep(03756) -321 Main Street | Domino's | Athol, us | 2026-09-24 |
-| Customer Service Rep (Kailua) | Domino's | Kailua, us | 2026-09-24 |
-| Delivery Driver(09442) - 2750 Faithon P Lucas Sr Blvd. | Domino's | Mesquite, us | 2026-09-24 |
-| Delivery Driver(03731) - 116 Main Street | Domino's | Pepperell, us | 2026-09-24 |
-| Assistant Manager(03772) - 56 Main St | Domino's | Lakeville, us | 2026-09-24 |
-| Customer Service Rep(2723) - 574 W Army Trail Road | Domino's | Bloomingdale, us | 2026-09-24 |
-| Certified Athletic Trainer | US Physical Therapy | Newtown Square, us | 2026-09-24 |
-| Data Analytics Manager, Program Reporting | Turner & Townsend | USA wide, us | 2026-09-24 |
-| Entry-Level Environmental Scientists - Hiring Event with AECOM - Philadelphia, PA | AECOM | Philadelphia, us | 2026-09-24 |
-| Sr. Supply Chain Planner, xAI (Starlink) | SpaceX | Memphis, TN | 2026-09-24 |
-| Sales & Service Manager - Valley Fair | ALO | Santa Clara, California, United States | 2026-09-24 |
-| Supply Chain Planning Manager, xAI (Starlink) | SpaceX | Memphis, TN | 2026-09-24 |
-| Behavioral Technician (Morning Shifts Available!) | Cortica - Neurodevelopmental | Carlsbad, California | 2026-09-24 |
-| Senior Construction Scheduler - Data Centers | Turner & Townsend | Philadelphia, us | 2026-09-24 |
-| Associate Director - Scheduler - Data Center Construction | Turner & Townsend | Tysons Corner, us | 2026-09-24 |
-| Data Center Mechanical Technical Program Manager | Turner & Townsend | Oregon City, us | 2026-09-24 |
-| Assistant Cost Manager - Data Center Construction Projects | Turner & Townsend | Santiago de Querétaro, mx | 2026-09-24 |
-| Caregiver or Home Health Aide | AdvisaCare | Grand Rapids, United States | 2026-09-24 |
-| Caregiver or Home Health Aide | AdvisaCare | Portland, United States | 2026-09-24 |
-| Finance Data entry | AHS | Dubai, United Arab Emirates | 2026-09-24 |
-| Caregiver or Home Health Aide | AdvisaCare | Hastings, United States | 2026-09-24 |
-| 1st and 3rd Shift Home Health Aide or CNA | AdvisaCare | Whitehall, United States | 2026-09-24 |
-| Resident Aide and Med Tech | AdvisaCare | Spring Lake, United States | 2026-09-24 |
-| Certified Nursing Assistant or Home Health Aide - All Shifts Available | AdvisaCare | Taylor, United States | 2026-09-24 |
-| 1st shift Home Health Aide | AdvisaCare | Cedar Springs, United States | 2026-09-24 |
-| High Tech Home Health Aide or Certified Nursing Assistant | AdvisaCare | Saugatuck, United States | 2026-09-24 |
-| Caregiver or Home Health Aide | AdvisaCare | Six Lakes, United States | 2026-09-24 |
-| Responsible AI Review Program Manager | AG Consulting Partners, Inc. | Redmond, United States | 2026-09-24 |
-| 1st Shift High Tech Home Health Aide or Certified Nursing Assistant | AdvisaCare | Holland, United States | 2026-09-24 |
-| 1st & 3rd Shift Home Health Aide or CNA | AdvisaCare | Muskegon, United States | 2026-09-24 |
-| Data Analyst, Data & Analytics | Atria Health and Research Institute | New York, United States | 2026-09-24 |
-| 1st & 3rd Shift Home Health Aide or CNA | AdvisaCare | Fremont, United States | 2026-09-24 |
-| 1st & 3rd Shift Home Health Aide | AdvisaCare | Spring Lake, United States | 2026-09-24 |
-| Caregiver or Home Health Aide | AdvisaCare | Kent City, United States | 2026-09-24 |
-| Caregiver or Home Health Aide | AdvisaCare | Barryton, United States | 2026-09-24 |
-| Management Data Analyst | Aretum | Washington, United States | 2026-09-24 |
-| Caregiver or Home Health Aide | AdvisaCare | Dorr, United States | 2026-09-24 |
-| Thai - English Translator/Interpreter (Part Time) - Fully Remote | CoverGo | Bangkok, Thailand | 2026-09-24 |
-| Cosmos Trainees | Cosmos Sport S.A. | Athens, Greece | 2026-09-24 |
-| Global Medical Affairs Planning & Effectiveness, Content Platform Lead -Job 2033 | Ascendis Pharma | Princeton, United States | 2026-09-24 |
-| resettlement data and compensation supervisor (m/f) - 1 job | CONTACT | Afungi, Mozambique | 2026-09-24 |
-| Senior Maintenance Technician | Helion | Everett, WA | 2026-09-23 |
-| Project Manager (Owner's Representative) - Data Center Construction | KALCON | Afton, TX | 2026-09-23 |
-| Calibration and FAI Technician | Industrial Electric Manufacturing | Fremont, California, United States | 2026-09-23 |
-| Senior Staff Engineer - Data Engineer (Unity Catalog) | Nagarro | Guadalajara, mx | 2026-09-23 |
-| Orchard - AI Skills Manager | Enero | Sydney, au | 2026-09-23 |
-| Technology & AI Enabled Delivery Director | Enero | Sydney, au | 2026-09-23 |
-| Research Scientist, Multi-Agent | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-09-23 |
-| Senior Automotive Painter ($8,000 Bonus) - Rocklin, CA | Carvana | Rocklin, CA | 2026-09-23 |
-| Sales Trainee | REXEL | Livermore, us | 2026-09-23 |
-| Remote Personal Trainer | Avida | Remote | 2026-09-23 |
-| Senior Project Manager, Rail Signals & Communications | AECOM | Mississauga, ca | 2026-09-23 |
-| Electronics Repair Technician (IPM) | Accredited Labs | Edison, NJ | 2026-09-23 |
-| Product Engineer, AI | Fluidstack | San Francisco, CA | 2026-09-23 |
-| Software Engineer, AI Automation | Fluidstack | San Francisco, CA | 2026-09-23 |
-| Clinical Lab Scientist I | Natera | San Carlos, CA | 2026-09-23 |
-| Associate Director, Regulatory Affairs - CMC | BridgeBio Pharma | Remote - USA | 2026-09-23 |
-| Senior Software Engineer II (AI Native) | Life360 | Remote, USA; Remote, Canada | 2026-09-23 |
-| Hospitalists and Family Medicine Physicians: AI Diagnosis Review | Terac | United States | 2026-09-23 |
-| Entry-Level Graduate Opportunities - University of South Florida Career Fair 2026 | AECOM | Tampa, us | 2026-09-23 |
-| Dietary Aide | Theracare INC | Logansport, us | 2026-09-23 |
-| BNA/CNA Training Class - October 2026 | Theracare INC | La Porte, us | 2026-09-23 |
-| Sr. Staff AI Security Engineer | BILL | Draper, Utah, United States; San Jose, California, United States | 2026-09-23 |
-| Cloud & AI Finance Intern | Box | Redwood City, CA, United States | 2026-09-23 |
-| Project Manager - Data Center Construction | Turner & Townsend | Fredricksburg, VA, us | 2026-09-23 |
-| Retail Sales Associate (Seasonal) | Vuori, Inc | Charlotte, us | 2026-09-23 |
-| Civil Engineer in Training (EIT) | Apex Companies | Idaho Falls, ID; Rexburg, ID | 2026-09-23 |
-| Maintenance Manager, Nashville | Equinox | Nashville, us | 2026-09-23 |
-| Head Global Neuroimmunology Pipeline, Medical Affairs (Senior Scientific Director / Executive Medical Director) | AbbVie | Mettawa, us | 2026-09-23 |
-| Data Engineer (1042) - Data Enablement - DataSF, Office of City Administrator | City and County of San Francisco | San Francisco, us | 2026-09-23 |
-| Integrated Marketing & Campaigns Lead | Cognition | San Francisco | 2026-09-23 |
-| Senior Project Manager - Data Center Construction | Turner & Townsend | Washington D.C., us | 2026-09-23 |
-| Director, Paid & Digital | Cognition | San Francisco | 2026-09-23 |
-| Staff Data Scientist | Boulevard | Remote - USA | 2026-09-23 |
-| Associate Director, Paid Media DTC & HCP Data Domain Owner | AbbVie | Mettawa, us | 2026-09-23 |
-| Project Engineer - Data Center | AECOM | North Las Vegas, us | 2026-09-23 |
-| Senior Project Manager - Data Center Construction | Turner & Townsend | Fredricksburg, VA, us | 2026-09-23 |
-| Retail General Manager, Century City | Vuori, Inc | Los Angeles County, us | 2026-09-23 |
-| Bodily Injury Claims Adjuster II | Horace Mann | Remote | 2026-09-23 |
-| Retail General Manager, Georgetown | Vuori, Inc | Washington, us | 2026-09-23 |
-| Director of Government Affairs, SLED | ID.me | McLean, Virginia; United States (U.S.) | 2026-09-23 |
-| Senior Staff Engineer - Senior Data Modeler | Nagarro | Remote, us | 2026-09-23 |
-| AI Business Automation Project Manager | WelbeHealth | Remote, CA, USA | 2026-09-23 |
-| Grounds & Maintenance Associate (Seasonal) | Outdoorsy | Bayfield | 2026-09-23 |
-| Personal Trainer, Bloomfield Hills | Equinox | Bloomfield Hills, us | 2026-09-23 |
-| Alloy Wheel Repair Technician | Carvana | Winder, GA | 2026-09-23 |
-| Purchasing & Supply Chain | Monumental | Amsterdam | 2026-09-23 |
-| Maintenance Technician | Pivot Bio | Hazelwood, MO | 2026-09-23 |
-| Entertainment Coordinator | NBCUniversal | Universal City, us | 2026-09-23 |
-| Retail General Manager, King of Prussia | Vuori, Inc | King of Prussia, us | 2026-09-23 |
-| Business Operations & Analytics, Associate | BTIG | New York, New York, United States | 2026-09-23 |
-| Robotics Data Collection Operator, Shift Lead - Santa Clara | Cobot | Santa Clara | 2026-09-23 |
-| Creative Director, Campaigns | Chime Financial, Inc | New York, NY, USA; San Francisco, CA, USA | 2026-09-23 |
-| QA & Training Specialist - Basketball | Sportradar | Belgrade, rs | 2026-09-23 |
-| Charlotte 2026 Hiring Fair- Hawthorne at Whitehall | Hawthorne Residential Partners | Charlotte NC | 2026-09-23 |
-| Formulation Scientist | GenScript/ProBio | Redmond, Washington, United States | 2026-09-23 |
-| Senior Data Engineer | uniteus.com | United States | 2026-09-23 |
-| Janitorial Maintenance | Pilot Company | Waco, us | 2026-09-23 |
-| Senior Computer Vision Engineer, Embodied AI | Niantic Spatial, Inc. | San Francisco, CA | 2026-09-23 |
-| Sr. Data Scientist, Business Analytics | Thumbtack | Remote, Ontario | 2026-09-23 |
-| Construction Estimator - Infrastructure (Rail) | Turner & Townsend | Sacramento, us | 2026-09-23 |
-| Associate Director - Retail Search | DEPT® | TX, US, AZ, US, UT, US, OR, US, CA, US, WA, US, IL, US - Remote | 2026-09-23 |
-| Regional Training and Operations Technician | Veolia Environnement SA | Madison, us | 2026-09-23 |
-| Software Engineer, Infrastructure AI | Airwallex | US - Seattle | 2026-09-23 |
-| Technicien a la paie | QSL | Montréal, ca | 2026-09-23 |
-| Sr. Data Scientist, Business Analytics | Thumbtack | Remote, United States | 2026-09-23 |
-| Data Center Controls Engineer | Anthropic | Remote-Friendly (Travel Required) \| San Francisco, CA | 2026-09-23 |
-| Senior Data Engineer II | Axon | Seattle, Washington, United States | 2026-09-23 |
-| Senior Data Engineer II | Axon | Scottsdale, Arizona, United States | 2026-09-23 |
-| Senior Data Engineer II | Axon | New York, New York, United States | 2026-09-23 |
-| Senior Data Engineer II | Axon | Boston, Massachusetts, United States | 2026-09-23 |
-| Test 09222026 AI interview | Sutherland | Bogotá, co | 2026-09-23 |
-| Senior Scheduler - Civil Infrastructure (Rail) | Turner & Townsend | Sacramento, us | 2026-09-23 |
-| Dietary Aide | Theracare INC | Culver, us | 2026-09-23 |
-| Manager, Retail Education, Travel Retail Americas | LVMH Perfumes & Cosmetics | Miami, us | 2026-09-23 |
-| Staff Data Scientist, Watchlist | Socure | California - Remote | 2026-09-23 |
-| Senior Analytics Engineer, Financial Systems Engineering | Extend | Remote | 2026-09-23 |
-| AI Partner Ecosystem Manager (EMEA) | Everpure | Staines, United Kingdom | 2026-09-23 |
-| Staff Product Designer, Handshake AI | Handshake | San Francisco, CA | 2026-09-23 |
-| Maintenance Assistant | Theracare INC | Marion, us | 2026-09-23 |
-| Full Time Retail Sales Specialist | C.A. Fortune | Sioux City, IA | 2026-09-23 |
-| Database Administrator | Accenture Federal Services | Washington, DC | 2026-09-23 |
-| Senior AI Engineer | Blend360 | Buenos Aires, ar | 2026-09-23 |
-| Next-Generation Data Platform PM | GRVTY | Aberdeen, MD | 2026-09-23 |
-| Commercial RF Analytics PM | GRVTY | Springfield, Virginia, United States | 2026-09-23 |
-| Sr. Trainer - Customer Success Operations | Human Interest | Lindon, UT Hybrid | 2026-09-23 |
-| Vice President, Analytics (Retail Media) | VaynerMedia LLC | United States- New York, NY | 2026-09-23 |
-| Master Automotive Technician \| Air Conditioned Shop & Up to $60/hr* \| Surprise | Christian Brothers Automotive | Surprise, us | 2026-09-23 |
-| Senior or Staff Software Engineer, Data Platform (Canada) | Trm Labs | North America | 2026-09-23 |
-| Senior or Staff Software Engineer, Data Platform (Brazil) | Trm Labs | Brazil | 2026-09-23 |
-| Senior Software Engineer, Database Engineer | Trm Labs | North America | 2026-09-23 |
-| Member of Technical Staff, Post-Training | Handshake | Remote (USA) | 2026-09-23 |
-| Automotive Service Technician - Philpott Hyundai | Sonic Automotive | Nederland, us | 2026-09-23 |
-| AI- First Mobile Engineering Working Student | Gen Digital | ASSIGN LOCATION | 2026-09-23 |
-| Chaplain-Pastoral Care Casual Rotating | Northwestern Memorial Healthcare | Palos Heights, us | 2026-09-23 |
-| Data Architect (Vaga Temporária) | Valtech | Brazil - Remote | 2026-09-23 |
-| Associate Director, Clinical Supply Chain | Spyre Therapeutics | US- Remote | 2026-09-23 |
-| Data Engineer Pleno (Vaga Temporária - Part time) | Valtech | Brazil - Remote | 2026-09-23 |
-| RETAIL ASSISTANT - WEEKEND ONLY | Primark | Stevenage, gb | 2026-09-23 |
-| Stagiaire Réservations/Réception | Motel One | Issy-les-Moulineaux, fr | 2026-09-23 |
-| Data Engineer Intern (2027) | Figma | San Francisco, CA • New York, NY | 2026-09-23 |
-| Database Administrator | Accenture Federal Services | Washington, DC | 2026-09-23 |
-| Data Center Construction Site Foreman (Reno) | Lambda | Reno, NV - Data Center | 2026-09-23 |
-| Scientist II, Clinical Pharmacology & Pharmacometrics | Immunome, Inc. | Bothell, Washington, United States | 2026-09-23 |
-| Principal Scientist, Clinical Pharmacology & Pharmacometrics | Immunome, Inc. | Bothell, Washington, United States | 2026-09-23 |
-| Director, Airline Affairs | City of Philadelphia | Philadelphia, us | 2026-09-23 |
-| Senior Data Scientist | Amplify | Remote - United States | 2026-09-23 |
-| Senior Planner/Scheduler - Data Centers | Turner & Townsend | Tysons Corner, us | 2026-09-23 |
-| Senior Data Scientist | Amplify | Remote - United States | 2026-09-23 |
-| Government Affair Manager | Neros Technologies | Washington, District of Columbia, United States | 2026-09-23 |
-| Head of Global Supply Chain, Procurement & Sourcing | Legend Biotech US | Bridgewater, New Jersey, United States | 2026-09-23 |
-| Sustainability data advisor | Watershed | Mexico City | 2026-09-23 |
-| Senior Consultant - Data Engineering | Alpha Financial Markets Consulting | United States | 2026-09-23 |
-| Assistant(e) dentaire qualifié(e) en CDD H/F | DENTEGO | Lyon, fr | 2026-09-23 |
-| Regional Sales Manager - Thailand | ExtraHop | Thailand | 2026-09-23 |
-| Assistant(e) dentaire référent(e) H/F | DENTEGO | Lyon, fr | 2026-09-23 |
-| Secrétaire médical(e) en CDD H/F | DENTEGO | Rennes, fr | 2026-09-23 |
-| Physical Therapy Aide (Part Time) | US Physical Therapy | Rocky Point, us | 2026-09-23 |
-| Design Manager - Data Center Construction Administration [Electrical] | Turner & Townsend | USA wide, us | 2026-09-23 |
-| Maintenance Technician | Oetiker.com | Lancaster, us | 2026-09-23 |
-| Physical Therapy Aide Floater (Brooklyn, Queens Per Diem) | US Physical Therapy | Queens, us | 2026-09-23 |
-| Growth Campaign Manager, Lifecycle | Virtahealth | Remote | 2026-09-23 |
-| Railway Construction Inspector– Civil / Structural - TEMPORARY | AECOM | Mississauga, ca | 2026-09-23 |
-| Director, Data & AI Architect, Operations and Finance | AbbVie | North Chicago, us | 2026-09-23 |
-| Design Manager - Data Center Construction Administration [Mechanical] | Turner & Townsend | USA wide, us | 2026-09-23 |
-| Design Manager - Data Center Construction Administration [AE Program Manager] | Turner & Townsend | USA wide, us | 2026-09-23 |
-| REAL ESTATE ASSISTANT \| REAL ESTATE APPRAISAL | Inter Carreiras | Belo Horizonte, MG | 2026-09-23 |
-| Research Scientist, Embodied AI | Niantic Spatial, Inc. | London | 2026-09-23 |
-| Design Manager - Data Center Construction Administration [SME] | Turner & Townsend | USA wide, us | 2026-09-23 |
-| Analytics Engineer | Modal | New York | 2026-09-23 |
-| Data Analyst | Ubisoft | Montreal, ca | 2026-09-23 |
-| Primary Care Physician - Sign-On Bonus Available | One Medical | Berkeley, CA | 2026-09-23 |
-| Senior Staff Engineer, Enterprise Data Platform | Sandisk | Milpitas, us | 2026-09-23 |
-| Sales Trainee | REXEL | San Leandro, us | 2026-09-23 |
-| Database Administrator | Accenture Federal Services | Washington, DC | 2026-09-23 |
-| Plumbing Designer - Data Centers | Olsson | Remote | 2026-09-23 |
-| Engineering Manager, Data | Robinhood | Toronto, Canada | 2026-09-23 |
-| Seasonal Retail Ambassador - Larchmont | Rothys | Los Angeles, CA | 2026-09-23 |
-| Structural Engineer - Data Centers | Olsson | Remote | 2026-09-23 |
-| Retail Media Data Account Manager | Pacvue | US Remote | 2026-09-23 |
-| Maintenance Technician I/II Days (B Shift) | Aumovio | New Braunfels, us | 2026-09-23 |
-| AI Solutions Architect | Impiricus | Atlanta, GA, New York, NY, or Remote, USA | 2026-09-23 |
-| Founding Machine Learning Engineer | Clera | Munich | 2026-09-23 |
-| Maintenance Technician I/II Nights (D Shift) | Aumovio | New Braunfels, us | 2026-09-23 |
-| Senior Machine Learning Engineer | Checkr | San Francisco, California, United States | 2026-09-23 |
-| Product Manager - Braided Industrial Hose | Continental Group Sector ContiTech | Fairlawn, us | 2026-09-23 |
-| Sr. Data Modeler | Vuori, Inc | Carlsbad, us | 2026-09-23 |
-| Retail Media Account Manager | Pacvue | US Remote | 2026-09-23 |
-| Senior QC Analytical Scientist - 2nd Shift Group Leader | Eurofins | Albany, us | 2026-09-23 |
-| Maintenance Technician - 1st Shift | Pyrotek | Spokane Valley, us | 2026-09-23 |
-| Branch Manager (Pittsburgh Airport) | SIXT | Pittsburgh, us | 2026-09-23 |
-| Sr. Technical Program Manager, Data Engineering | Pinterest | San Francisco, CA, US; Remote, US | 2026-09-23 |
-| Sr. Lead MarTech & AI Solutions Architect | Klaviyo FR | San Francisco, CA | 2026-09-23 |
-| Sr. Lead MarTech & AI Solutions Architect | Klaviyo FR | Boston, MA | 2026-09-23 |
-| Principal Data Engineer | Vuori, Inc | Carlsbad, us | 2026-09-23 |
-| Retail Inventory Lead | Vuori, Inc | Orlando, us | 2026-09-23 |
-| Interim Associate Manager, Email Marketing (3-month contract, $42/hour, 20 hours/week) | Khan Academy | Mountain View, CA / Remote (Continental US + Hawaii + Canada Only) | 2026-09-23 |
-| C# Developer (Unstructured Data Protection) | Veeam Software | Prague, Czechia | 2026-09-23 |
-| Creative Lead, Paid Social | Pharmapaywatch | Los Alamitos, California | 2026-09-23 |
-| Creative Lead, Paid Social | Hims And Hers | Los Alamitos, California | 2026-09-23 |
-| Custom Auto Airbrush Technician (2nd Shift) | Carvana | Elyria, OH | 2026-09-23 |
-| Acquisition Liaison | ASI Government | Washington, DC | 2026-09-23 |
-| Data Analytics Intern (8 months) | Super.Com | Canada | 2026-09-23 |
-| Data Scientist Intern - 2027 | Hudson River Trading | London, United Kingdom | 2026-09-23 |
-| Garage Door Technician — Paid Training + $100K+ Earning Potential | Guild Garage Group | Tip Top Garage Doors - Raleigh, NC | 2026-09-23 |
-| Programmatic Campaign Manager | Blend360 | Irving, us | 2026-09-23 |
-| Vil du være med å forme Deloittes satsing innen antihvitvasking (AML) og sanksjoner? Deloitte Forensic & FinCrime søker en erfaren rådgiver | Deloitte | Oslo, no | 2026-09-23 |
-| Senior Manager, Engineering - AI Inference | Crusoe | San Francisco, CA - US | 2026-09-23 |
-| Senior Data Scientist | GRVTY | Springfield, Virginia, United States | 2026-09-23 |
-| Home Health Aide (HHA) | BAYADA Home Health Care | Mount Laurel, NJ 08054 \| 39.949841018 \| -74.899914582 | 2026-09-23 |
-| Software Engineer, Scribe AI | Commure | Mountain View, CA | 2026-09-23 |
-| AI Artist & AV Lead | Monks | Buenos Aires | 2026-09-23 |
-| Home Health Aide (HHA) | BAYADA Home Health Care | Medford, NJ 08055 \| 39.874865856 \| -74.824024268 | 2026-09-23 |
-| HMDA/Fair Lending Manager | Upstart | United States \| Remote | 2026-09-23 |
-| Principal Data Engineer | AvidXchange, Inc. | Charlotte, North Carolina, United States | 2026-09-23 |
-| Senior Software Engineer, AI Governance | Natera | US Remote | 2026-09-23 |
-| Home Health Aide (HHA) | BAYADA Home Health Care | Willingboro, NJ 08046 \| 40.030310029 \| -74.885655577 | 2026-09-23 |
-| Home Health Aide (HHA) | BAYADA Home Health Care | Shamong, NJ 08088 \| 39.874471793 \| -74.723753285 | 2026-09-23 |
-| AI/LLM Engineer | Clera | Munich | 2026-09-23 |
-| Senior Scientist | Syngenta Group | Durham, us | 2026-09-23 |
+| Senior Decision Scientist | YouLend | London | 2026-09-26 |
+| GTM Associate, Data Partnerships | Mecka.Ai | New York | 2026-09-25 |
+| Data Partnerships Lead | Mecka.Ai | New York | 2026-09-25 |
+| Lead Product Manager, AI Agents | Salient | SF Headquarters | 2026-09-25 |
+| Account Executive, Data Partnerships | Mecka.Ai | New York | 2026-09-25 |
+| Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | Quora | Remote - Multiple Locations | 2026-09-25 |
+| Data Engineer, Healthcare Claims (US Based) | Proterahealth | Remote | 2026-09-25 |
+| Software Engineer, Data Platform | Mindrobotics | Palo Alto | 2026-09-25 |
+| AIT Test & Assembly Technician | The Exploration Company | Munich, Germany | 2026-09-25 |
+| Principal Engineer (AI, Office of the CEO) | Jobber | Remote | 2026-09-25 |
+| Principal Engineer (AI, Office of the CEO) | Jobber | Remote | 2026-09-25 |
+| AIT Test Engineer | The Exploration Company | Munich, Germany | 2026-09-25 |
+| AIT Senior Test Technician | The Exploration Company | Munich, Germany | 2026-09-25 |
+| AIT Mechanical Technician - Thermal Protection System | The Exploration Company | Munich, Germany | 2026-09-25 |
+| Sales Enablement & Training Manager | Bobyard | San Francisco | 2026-09-25 |
+| Scientist/Senior Scientist, Viral Vector Analytical Development | Obsidiantx | Cambridge, MA | 2026-09-25 |
+| AIT Propulsion Engineer | The Exploration Company | Munich, Germany | 2026-09-25 |
+| Senior ML Systems Engineer, Inference | Runpod | Remote - USA | 2026-09-25 |
+| Compliance Data & Reporting Analyst | Kin | Remote | 2026-09-25 |
+| Associate Director, AI Communications & Adoption | Intelligent growth for the AI era. We are WPP Media | Chicago, United States; New York, United States | 2026-09-25 |
+| Product Marketing Manager, Campaign Experience & Activation | Ibotta | Hybrid - Denver | 2026-09-25 |
+| Team Lead, Traige | Hackerone | India | 2026-09-25 |
+| Paid Social Manager | Ramp | New York, NY (HQ) | 2026-09-25 |
+| Technical Sourcer, Aircraft | Swarmaero | Oxnard | 2026-09-25 |
+| Learning Designer & Content Developer, OpenAI Academy (Contract) | FlexDesk | San Francisco | 2026-09-25 |
+| Data Analyst, Regulatory Analytics and Reporting | Kraken.Com | United States | 2026-09-25 |
+| Sr. Data and Platform Engineer | Rivianvw.Tech | Irvine, California | 2026-09-25 |
+| AI Growth Marketer | Cinder | New York | 2026-09-25 |
+| Data Analyst, Regulatory Analytics and Reporting | Kraken.Com | United Kingdom | 2026-09-25 |
+| Applied AI Lead (Account Management) | Heidihealth.Com.Au | Toronto | 2026-09-25 |
+| Sr Manager, Global Regulatory Affairs (AI/ML) | Hims And Hers | US Remote | 2026-09-25 |
+| Sustainability advisor | Watershed | London | 2026-09-25 |
+| Campaign Manager | Tem | United Kingdom | 2026-09-25 |
+| Retail Brand Ambassador - Bilingual | Renuity | Miami Lakes, FL | 2026-09-25 |
+| Senior Site Reliability Engineer, Databases | Vultr | Remote - United States | 2026-09-25 |
+| Retail Sales Associate - Full Time | Sunnyside* | Sunnyside – Beaver Falls, PA | 2026-09-25 |
+| Retail Store Supervisor | Sunnyside* | 415 US-441 N, Lady Lake, FL 32159 | 2026-09-25 |
+| Snr. Data Engineer (Remote in Brazil) | KnowBe4 | Brazil | 2026-09-25 |
+| Staff Data Engineer (Remote in Brazil) | KnowBe4 | Brazil | 2026-09-25 |
+| Principal Scientist | STR | Atlanta, GA | 2026-09-25 |
+| AI Product Engineer - Internal Apps | KnowledgeCity | Pakistan | 2026-09-25 |
+| Sr. Global Supply Manager, Datacenter Memory and Storage (Starlink) | SpaceX | Palo Alto, CA | 2026-09-25 |
+| Sr. Global Supply Manager, Datacenter Memory and Storage (Starlink) | SpaceX | Austin, TX | 2026-09-25 |
+| Legal Counsel, Subcontracts and Supply Chain | Kraken Kinetics | Pinehurst, NC | 2026-09-25 |
+| Maintenance Technician | Hillpointe | Macon, GA | 2026-09-25 |
+| Maintenance Technician II | The Scion Group | Alight Blacksburg, Blacksburg, Virginia, United States | 2026-09-25 |
+| Supply Chain Analyst, Labor Planning | ShipBob, Inc. | Remote - India | 2026-09-25 |
+| Project Controls Manager (Data Center Construction) | Galaxy | Dallas, Texas | 2026-09-25 |
+| Government Affairs & Public Policy Manager, EMEA | IonQ | Oxford, England, United Kingdom | 2026-09-25 |
+| Principal AI Programmer, Unreal Assistant | Epic Games | Vancouver,British Columbia,Canada | 2026-09-25 |
+| Principal AI Programmer, Unreal Assistant | Epic Games | BLANK,BLANK,Multiple Locations | 2026-09-25 |
+| Principal AI Engineer, Unreal Assistant | Epic Games | Cary,North Carolina,United States | 2026-09-25 |
+| Motion Designer & AI Video Creative (Freelancer) | Welltech | Ukraine | 2026-09-25 |
+| Staff/Principal Software Engineer – AI Applications | Axelera AI | Hybrid/Remote - Europe (incl. UK) | 2026-09-25 |
+| Motion Designer & AI Video Creative (Freelancer) | Welltech | Lithuania | 2026-09-25 |
+| Senior Solutions Architect - Data Labs | Invisible Technologies | London - Hybrid; New York - Hybrid; San Francisco Bay Area - Hybrid | 2026-09-25 |
+| Mobile Product Engineer - AI-Native (iOS & Android) | KnowledgeCity | Pakistan | 2026-09-25 |
+| AI Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-09-25 |
+| Senior Infrastructure Engineer – AI Platform (f/m/x) | Eye Security | The Hague - hybrid | 2026-09-25 |
+| Principal Engineer (AI, Office of the CEO) | Jobber | Boston | 2026-09-25 |
+| Working Student Analytics Engineer (m/w/d) | Pergolux | Berlin \| Global Team | 2026-09-25 |
+| AI Engineer | DEPT® | Budapest, Zagreb, Split, Skopje | 2026-09-25 |
+| Data Generation Team Lead | Syngenta Group | Malta, us | 2026-09-25 |
+| Senior Software Engineer, Data Foundations | Box | Warsaw, Poland | 2026-09-25 |
+| Senior Data Engineer | Cognite - AI for Industry | Norway (Oslo) | 2026-09-25 |
+| Data Engineer | Solvd | Poland | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Vannes | 2026-09-25 |
+| Construction Manager (m/f/d) Datacenter | Drees & Sommer SE | Wien, at | 2026-09-25 |
+| Aide à domicile H/F | Joya | Vannes | 2026-09-25 |
+| Data Engineer II | Cognite - AI for Industry | Norway (Oslo) | 2026-09-25 |
+| Aide à domicile H/F | Joya | Toulouse | 2026-09-25 |
+| Aide aux personnes âgées H/F | Joya | Toulouse | 2026-09-25 |
+| Investment Analytics Executive | Jellyfishcareers | Mumbai | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Toulouse | 2026-09-25 |
+| Sustainability data advisor | Watershed | London | 2026-09-25 |
+| Construction Manager (m/f/d) Datacenter | Drees & Sommer SE | Linz, at | 2026-09-25 |
+| Maintenance Technician I | Hawthorne Residential Partners | Blythewood SC | 2026-09-25 |
+| Regional Technician Trainer | Atlas Energy Solutions | Evansville, WY | 2026-09-25 |
+| R&D Scientist 1 | Syngenta Group | Buffalo, us | 2026-09-25 |
+| Quantitative Researcher / Developer (Data Science) - Treasury FX | Wise | London, gb | 2026-09-25 |
+| Analista de Qualidade e Automação de Software Pleno \| AI Engineering | C6 Bank | São Paulo, Brazil | 2026-09-25 |
+| Delivery Driver - Cash Tips Daily - 309 FM 517 | Domino's | Dickinson, us | 2026-09-25 |
+| Lead - Trade Finance (Claims management) - Consumer Health NRT | Dr Reddy's Laboratories Limited | Hyderabad, in | 2026-09-25 |
+| Lead Data Engineer | Capital Technology Group | Remote | 2026-09-25 |
+| Assistant Manager - Process Training (Process Trainer/ New Hire Training/ OJT/ Nesting/ NHT/ TNA /TNI ) - Hyderabad | WNS Global Services | Hyderabad, in | 2026-09-25 |
+| Retail Floor Lead (Amsterdam) | Vuori, Inc | Amsterdam, nl | 2026-09-25 |
+| AI Engineer | Legora | Stockholm HQ | 2026-09-25 |
+| Retail Assistant Store Manager (Amsterdam) | Vuori, Inc | Amsterdam, nl | 2026-09-25 |
+| Senior Sustainability Consultant | AECOM | Manchester, gb | 2026-09-25 |
+| Senior Sustainability Consultant | AECOM | Liverpool , gb | 2026-09-25 |
+| Senior Sustainability Consultant | AECOM | Leeds, gb | 2026-09-25 |
+| Senior Sustainability Consultant | AECOM | Birmingham, gb | 2026-09-25 |
+| Senior Sustainability Consultant | AECOM | Cardiff, gb | 2026-09-25 |
+| Senior Sustainability Consultant | AECOM | Bristol, gb | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Lyon 9ème | 2026-09-25 |
+| Nucléaire - Ingénieur Tests & Validation Logiciel Embarqué C H/F | ALTEN | Aix-en-Provence, fr | 2026-09-25 |
+| Retail Customer Service | Entain | Stoke-on-Trent, gb | 2026-09-25 |
+| Nucléaire - Ingénieur mécanique et machine tournante H/F | ALTEN | Saint-Paul-lez-Durance, fr | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Venissieux | 2026-09-25 |
+| Nucléaire - Ingénieur étude électrique (H/F) | ALTEN | Marseille, fr | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Lyon 7ème | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Lyon 8ème | 2026-09-25 |
+| Ingénieur chargé d'affaires électrotechnique H/F - Energie | ALTEN | Toulouse, fr | 2026-09-25 |
+| Aide à domicile H/F | Joya | Lyon 7ème | 2026-09-25 |
+| Nucléaire - Ingénieur d'études électriques (H/F) | ALTEN | Saint-Paul-lez-Durance, fr | 2026-09-25 |
+| Aide à domicile H/F | Joya | Lyon 69009 | 2026-09-25 |
+| Technicien de maintenance industrielle (H/F) | Veolia Environnement SA | Ecquevilly, fr | 2026-09-25 |
+| Technicien de maintenance industrielle - Confirmé (H/F) | Veolia Environnement SA | Ecquevilly, fr | 2026-09-25 |
+| Nucléaire - Ingénieur V&V Logiciels embarqué H/F | ALTEN | Aix-en-Provence, fr | 2026-09-25 |
+| Nucléaire - Ingénieur en outillages mécaniques (H/F) | ALTEN | Aix-en-Provence, fr | 2026-09-25 |
+| Data Engineer-6336 | itD Tech | San Jose | 2026-09-25 |
+| Ingénieur nucléaire (H/F) | ALTEN | Marseille, fr | 2026-09-25 |
+| Nucléaire - Ingénieur superviseur de chantier (H/F) | ALTEN | Pierrelatte, fr | 2026-09-25 |
+| Nucléaire - Ingénieur projet (H/F) | ALTEN | Marseille, fr | 2026-09-25 |
+| Nucléaire - Ingénieur supervision IHM H/F | ALTEN | Aix-en-Provence, fr | 2026-09-25 |
+| Supply Chain Specialist | Rohlik | Prague, Czech Republic | 2026-09-25 |
+| Retail Sales Associate | Vuori, Inc | Washington, us | 2026-09-25 |
+| Duales Studium - Bachelor angewandte Mathermatik & Data Science - Fachrichtung Technomathematik (m/w/d) | Continental Group Sector ContiTech | Hannover, de | 2026-09-25 |
+| Retail Customer Service | Entain | Bishop's Stortford, gb | 2026-09-25 |
+| Retail Customer Service | Entain | Hertford, gb | 2026-09-25 |
+| Retail Customer Service | Entain | Loughton, gb | 2026-09-25 |
+| Technicien de maintenance industrielle (H/F) | Veolia Environnement SA | Bonneuil-sur-Marne, fr | 2026-09-25 |
+| Retail Customer Service | Entain | London, gb | 2026-09-25 |
+| Retail Customer Service | Entain | London, gb | 2026-09-25 |
+| Retail Customer Service | Entain | Andover, gb | 2026-09-25 |
+| Scholarship in AI for Master Students | Bosch Group | Cluj-Napoca, ro | 2026-09-25 |
+| Senior Retail Media Marketing Manager (All Genders) | zooplus SE | Madrid, es | 2026-09-25 |
+| Technicien de maintenance industrielle - Confirmé (H/F) | Veolia Environnement SA | Bonneuil-sur-Marne, fr | 2026-09-25 |
+| Aide à domicile H/F | Joya | Lyon 8ème | 2026-09-25 |
+| Retail Customer Service | Entain | London, gb | 2026-09-25 |
+| Retail Customer Service | Entain | London, gb | 2026-09-25 |
+| Retail Customer Service | Entain | London, gb | 2026-09-25 |
+| Retail Customer Service | Entain | London, gb | 2026-09-25 |
+| Ingénieur Chargé d'Affaires Outillages (H/F) | ALTEN | La Rochelle, fr | 2026-09-25 |
+| Intégrateur Applicatif / Data (H/F) | EVERIENCE | Strasbourg, fr | 2026-09-25 |
+| Internship - Data Management of Chemical Tire Test Results / Material Development - REF99687I | Continental | Hannover, de | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Cagnes sur Mer | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Saint Laurent du Var | 2026-09-25 |
+| Staff Fullstack Data Analyst (Commercial Analytics) | Pleo | London | 2026-09-25 |
+| Aide aux personnes âgées H/F | Joya | Villeneuve-Loubet | 2026-09-25 |
+| Ingénieur Validation & Tests Logiciels Ferroviaires (H/F) | ALTEN | La Rochelle, fr | 2026-09-25 |
+| Staff Fullstack Data Analyst (Commercial Analytics) | Pleo | United Kingdom | 2026-09-25 |
+| Aide à domicile H/F | Joya | Cagnes sur Mer | 2026-09-25 |
+| Key Account Manager DIY / Retail – Westdeutschland (w/m/div.) | Bosch Group | Troisdorf, de | 2026-09-25 |
+| Ingénieur Qualité Industrielle Ferroviaire (H/F) | ALTEN | La Rochelle, fr | 2026-09-25 |
+| Auxiliaire de vie H/F | Joya | Villeneuve-Loubet | 2026-09-25 |
+| Stage Consultant Conseil Data F/H | Talan | Lyon, fr | 2026-09-25 |
+| Data Center Security Risk & Assurance Senior Program Manager | CoreWeave | London, England | 2026-09-25 |
+| Ingénieur Maintien en Condition Opérationnelle (MCO) – Bancs de Test (H/F) | ALTEN | Brive-la-Gaillarde, fr | 2026-09-25 |
+| Data Engineer | AECOM | Bristol, gb | 2026-09-25 |
+| AML & Financial Crime Manager | Trading212 | Portugal | 2026-09-25 |
+| Ingénieur de Maintenance Industrielle (H/F) | ALTEN | Nantes, fr | 2026-09-25 |
+| Stage - Développeur/se Fullstack - Telecom, Medias & Entertainment - Orléans | Sopra Steria Corporate | Orléans, fr | 2026-09-25 |
+| Ingénieur chargé d'affaires outillages (H/F) | ALTEN | Rochefort, fr | 2026-09-25 |
+| Stage Data Engineer F/H | Talan | Lyon, fr | 2026-09-25 |
+| Data Engineer Consultant - | Sia | Amsterdam, nl | 2026-09-25 |
+| Experienced professionals to our SAP Supply Chain team (Stockholm) | Deloitte | Stockholm, se | 2026-09-25 |
+| Responsable d'affaires Accords-cadres Electricité F/H | Spie batignolles | Saint-Priest, fr | 2026-09-25 |
+| Retail Customer Service | Entain | Oldham, gb | 2026-09-25 |
+| Data Analyst, Global Growth | Stripe | Singapore | 2026-09-25 |
+| Responsable d'Affaires CFO/CFA H/F | Spie batignolles | Saint-Gilles, fr | 2026-09-25 |
+| Trainee Fachberater:in Frische für das Gebiet südliches Wien | REWE International Dienstleistungsgesellschaft m.b.H | Wien, at | 2026-09-25 |
+| Apprentissage - Agent en Information Documentaire (AID) | CERN | Geneva, ch | 2026-09-25 |
+| Manager, Growth Analytics | Bitpanda | București, Bucharest, Romania | 2026-09-25 |
+| Manager, Growth Analytics | Bitpanda | Vienna, Vienna, Austria | 2026-09-25 |
+| Lead Architect for AI Cloud Infrastructure (m/f/d) | Deutsche Telekom IT Solutions Slovakia | Košice, sk | 2026-09-25 |
+| Tech Lead & Product Owner - AI Platform (m/f/d) | SIXT | Munich, de | 2026-09-25 |
+| Senior Research Engineer/Scientist | ServiceNow | Hyderabad, in | 2026-09-25 |
+| Software Engineer - Backend + AI | Cabify | On-Site - Madrid | 2026-09-25 |
+| Chef Pâtisser H/F l'Arnsbourg Relais & Châteaux | Relais & Châteaux | Baerenthal, fr | 2026-09-25 |
+| Supply Chain Manager | Lindalgroup | Ireland | 2026-09-25 |
+| Ingénieur Chargé d'Affaires Fluides (H/F) | ALTEN | Montoir-de-Bretagne, fr | 2026-09-25 |
+| CHARGE(E) DE QUALIFICATION & MAINTENANCE -INDUSTRIE PHARMACEUTIQUE (H/F) CDI | Eurofins | Les Ulis, fr | 2026-09-25 |
+| Coupa Trainer with German - WFH | WNS Global Services | Bucharest, ro | 2026-09-25 |
+| Senior Analytics Manager - Pricing | Wise | London, gb | 2026-09-25 |
+| Aide à domicile H/F | Ouihelp | Fontainebleau | 2026-09-25 |
+| Chef de Rang (H/F) - Maison Greuze L'Ecrin de Yohann Chapuis | Relais & Châteaux | Tournus, fr | 2026-09-25 |
+| Auxiliaire de vie H/F - job étudiant | Ouihelp | Melun | 2026-09-25 |
+| Auxiliaire de vie H/F | Ouihelp | Ozoir-La-Ferrière | 2026-09-25 |
+| Auxiliaire de vie H/F | Ouihelp | MELUN | 2026-09-25 |
+| Ingénieur·e Poste de Travail | EVERIENCE | Marseille, fr | 2026-09-25 |
+| Chargé d'Affaires Radioprotection H/F | SOCOTEC | Caen, fr | 2026-09-25 |
+| Software Engineer – MLOPS | Ubisoft | Montreal, ca | 2026-09-25 |
+| Auxiliaire de vie H/F | Ouihelp | Fontainebleau | 2026-09-25 |
+| Aide à domicile H/F | Ouihelp | Avon | 2026-09-25 |
+| Aide à domicile H/F | Ouihelp | Pontault-Combault | 2026-09-25 |
+| Stage de fin d'études - Consultant·e Sustainability | Wavestone | Paris, fr | 2026-09-25 |
+| Local Democracy Reporter - BirminghamLive | Reach plc | Birmingham, gb | 2026-09-25 |
+| Junior Data Consultant | Artefact | Stationsplein 32, 3511 ED Utrecht | 2026-09-25 |
+| Middle Typescript/Node.js Developer with AI experience (AdTech) | Sigma Software | Wrocław, pl | 2026-09-25 |
+| Ingénieur Chargé d’Affaires Outillage / Machines H/F | ALTEN | Saint-Nazaire, fr | 2026-09-25 |
+| Assistant(e) dentaire référent(e) H/F | DENTEGO | Cannes, fr | 2026-09-25 |
+| Architecte Technique Socles DATA (H/F) | CITECH | Lyon, fr | 2026-09-25 |
+| Responsable d'activités Ferroviaire F/H | Spie batignolles | Auchy-les-Mines, fr | 2026-09-25 |
+| RETAIL ASSISTANT - NIGHT SHIFT | Primark | Bristol, gb | 2026-09-25 |
+| Chargé d'Affaires Radioprotection et Controle des dispositifs Medicaux H/F | SOCOTEC | Nantes, fr | 2026-09-25 |
+| Retail Assistant- Part time (FTC) | Primark | Wakefield, gb | 2026-09-25 |
+| MLOps Tech Lead | NielsenIQ | Chennai, in | 2026-09-25 |
+| Sr Account Manager Top Accounts Spain | Delivery Hero | Madrid, es | 2026-09-25 |
+| Digital Analytics Manager (m/f/d) - Maternity cover | Redcare Pharmacy | Cologne, de | 2026-09-25 |
+| Retail Assistant-Fixed Term Contract | Primark | Wakefield, gb | 2026-09-25 |
+| Retail Customer Service | Entain | Gateshead, gb | 2026-09-25 |
+| Retail Assistant-Part time | Primark | Wakefield, gb | 2026-09-25 |
+| Chef de projet AMOE data H/F | Inetum | Bordeaux, fr | 2026-09-25 |
+| AI-Native Software Engineer - MD Core | OPSWAT | Ho Chi Minh City, Ho Chi Minh City, Vietnam | 2026-09-25 |
+| FinCrime Operations Team Lead - AML Investigations | Wise | Kuala Lumpur, my | 2026-09-25 |
+| Architecte Technique Socles DATA (H/F) | CITECH | Gradignan, fr | 2026-09-25 |
+| Retail Customer Service | Entain | Stockport, gb | 2026-09-25 |
+| Associate Project Manager:Data Centers | AECOM | Dublin, ie | 2026-09-25 |
+| Named Core Account Executive - Thailand | Databricks | Singapore | 2026-09-25 |
+| Teamleiter - Expedit (m/w/d) | Salesianer Miettex Gmbh | Leogang, at | 2026-09-25 |
+| Ingénieur Mainframe – Build & Packaging RTC (H/F) | CITECH | Cergy, fr | 2026-09-25 |
+| Expert Monétique / Paiement TPE – Support & Projet (H/F) | CITECH | Paris, fr | 2026-09-25 |
+| Teamleiter Produktion (m/w/d) | Salesianer Miettex Gmbh | Wien, at | 2026-09-25 |
+| Principal Machine Learning Engineer | ASOS | London, gb | 2026-09-25 |
+| Ecosystem Manager, AI Materials Foundry | Cuspai | West Coast, US | 2026-09-25 |
+| Saisonarbeiter (m/w/d) | Salesianer Miettex Gmbh | Grödig, at | 2026-09-25 |
+| Data Engineer | Getground | London | 2026-09-25 |
+| Data Science Team Leader | bet365 | Denver, us | 2026-09-25 |
+| Junior konsult till Supply Chain Management | AFRY | Västerås, se | 2026-09-25 |
+| Data Engineer (GCP / Python & Java) H/F | NEXTON | Valbonne, fr | 2026-09-25 |
+| Junior konsult till Supply Chain Management | AFRY | Uppsala, se | 2026-09-25 |
+| Technicien de maintenance sur Groupe Électrogènes H/F | Veolia Environnement SA | Canals, fr | 2026-09-25 |
+| Junior konsult till Supply Chain Management | AFRY | Stockholm, se | 2026-09-25 |
+| Senior Clinical Data Associate | Precision for Medicine | Bangalore, Karnataka, India | 2026-09-25 |
+| Senior Clinical Data Associate | Precision Medicine Group | Bangalore, Karnataka, India | 2026-09-25 |
+| RETAIL ASSISTANT | Primark | Bath, gb | 2026-09-25 |
+| Ingénieur Système Ferroviaire (H/F) | ALTEN | Tours, fr | 2026-09-25 |
+| Ingénieur Chargé d’Affaires Outillage / Machines H/F | ALTEN | Nantes, fr | 2026-09-25 |
+| Ingénieur(e) développeur(se) scientifique nucléaire - Industrie - Lyon | Sopra Steria Corporate | Lyon, fr | 2026-09-25 |
+| Technical Sales Executive _HLL GiaLai/ Binh Đinh (Central Region) | SGS | Quy Nhơn, vn | 2026-09-25 |
+| Erfaren Supply Chain & Logistikkonsult | AFRY | Gothenburg, se | 2026-09-25 |
+| Data Entry Clerk (UAE Nationals Only) | BESIX | Sharjah, ae | 2026-09-25 |
+| Secrétaire médical(e) en CDD H/F | DENTEGO | Bordeaux, fr | 2026-09-25 |
+| Stagiaire Consultant ERP Transformation - Janvier 2027 (H/F) | MAZARS | Levallois-Perret, fr | 2026-09-25 |
+| Data Content Operative | NielsenIQ | Prague, cz | 2026-09-25 |
+| Ingénieur(e) Supply Chain Quality Manager (H/F) | ALTEN | Saint-Nazaire, fr | 2026-09-25 |
+| AIML Engineer Digital & AI | IQ-EQ | IQEQ Hyderabad, Tower 2, 7th floor, Phoenix Equinox Towers, Diamond Hills, RSM, Gachibowli, Hyderaba, in | 2026-09-25 |
+| Senior Accountant- Dubai | Alcazar Energy | UAE | 2026-09-25 |
+| Experienced Artificial Intelligence Engineer (AI Engineer) | Drees & Sommer SE | Málaga, es | 2026-09-25 |
+| Data Center Project Construction Manager | Drees & Sommer SE | Madrid, es | 2026-09-25 |
+| Opérateur Assainissement (H/F) | Veolia Environnement SA | Tremblay-en-France, fr | 2026-09-25 |
+| Chargé d'affaires moyens industriels (H/F) | ALTEN | Villeneuve-d'Ascq, fr | 2026-09-25 |
+| IT Business Systems Analyst - Data | Inetum | Bucharest, ro | 2026-09-25 |
+| Data Developer | Inetum | Bucharest, ro | 2026-09-25 |
+| Process Analytical Technology Scientist | Eurofins | Macclesfield, gb | 2026-09-25 |
+| IN_RBAI_Senior Engineer - Maintenance Shift Leader (Final Assembly) | Bosch Group | Bengaluru, in | 2026-09-25 |
+| Process/VNA Training Manager | WNS Global Services | Iloilo, ph | 2026-09-25 |
+| IT engineer Data & Analytics DevOps \| ContiTech Business Center Timisoara \| CTBC \| | Continental Group Sector ContiTech | Timișoara, ro | 2026-09-25 |
+| Senior Software Engineer – Data Platform (Tech Lead) \| ContiTech Business Center Timisoara \| CTBC \| | Continental Group Sector ContiTech | Timișoara, ro | 2026-09-25 |
+| Head Chef \| FIFO \| 2:2 \| Cairns, Queensland | Sodexo | Cairns, au | 2026-09-25 |
+| IT engineer Data Lakehouse - Tech Lead \| ContiTech Business Center Timisoara \| CTBC \| | Continental Group Sector ContiTech | Timișoara, ro | 2026-09-25 |
+| Software Engineer – Data Platform \| ContiTech Business Center Timisoara \| CTBC \| | Continental Group Sector ContiTech | Timișoara, ro | 2026-09-25 |
+| Global HR Service Delivery Specialist - L&D/Training Operations | Clifford Chance | Delhi, in | 2026-09-25 |
+| Business Developer - Railway | Stäubli | Carate Brianza, it | 2026-09-25 |
+| EMPLOYE COMMERCIAL SECTEUR FRAIS (H/F) | Groupement Mousquetaires | Donzenac, fr | 2026-09-25 |
+| (Junior) Supply Chain Manager (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Köln, de | 2026-09-25 |
+| Cloud Support Engineer, AI/ML (Night Shift) | Snowflake | IN-Pune | 2026-09-25 |
+| GenAI Senior Integrated Designer | Brandtech+ | Mumbai, India | 2026-09-25 |
+| WPN Retail Relationship Dev Specialist | Hasbro | Singapore | 2026-09-25 |
+| Business Implementation Senior Officer \| AML/KYC (Global Experience) | IQ-EQ | Pasig City, ph | 2026-09-25 |
+| Senior Manager, Data Engineering | The Nielsen Company | Mumbai, in | 2026-09-25 |
+| Senior Manager, Data Engineering | The Nielsen Company | Bengaluru, in | 2026-09-25 |
+| Copy of Lead Databricks Engineer (Senior Software Engineer II) | The Nielsen Company | Bangalore, in | 2026-09-25 |
+| Lead Databricks Engineer (Senior Software Engineer II) | The Nielsen Company | Mumbai, in | 2026-09-25 |
+| AI ML Ops Software Engineer (Bangalore Hybrid) | Smartsheet | Bangalore, INDIA | 2026-09-25 |
+| Associate Failure Analysis Engineer | Lumilens | Bulim Square | 2026-09-25 |
+| Maintenance Technician (Industrial) | Bosa Properties Inc. | Vancouver, BC | 2026-09-25 |
+| Technicien Qualifié en Radioprotection H/F - Poste Sédentaire | Veolia Environnement SA | Salives, fr | 2026-09-25 |
+| Retail Management Intern, Travel Retail | LVMH | Singapore, sg | 2026-09-25 |
+| Overnight Retail Lead | Mint Cannabis | Gilbert | 2026-09-25 |
+| Retail Lead | Mint Cannabis | Gainesville | 2026-09-25 |
+| Data Engineer | Oag | New Kaunas | 2026-09-25 |
+| Data Science Manager | Xero | CAN: Vancouver (333 Seymour St) | 2026-09-25 |
+| Senior Software Engineer – Data Platform (Tech Lead) | Continental Group Sector ContiTech | Bangalore, in | 2026-09-25 |
+| Data Analytics & Project Management Intern, Travel Retail | LVMH | Singapore, sg | 2026-09-25 |
+| IT engineer Data Lakehouse - Tech Lead | Continental Group Sector ContiTech | Bangalore, in | 2026-09-25 |
+| Software Engineer – Data Platform | Continental Group Sector ContiTech | Bangalore, in | 2026-09-25 |
+| Data Lead | IFS. AI-Powered Software Built for Your Industry | Colombo, lk | 2026-09-25 |
+| Hauora Māori Kaiako - Nursing \| Māori Health Tutor - Nursing | Up Education | Auckland, nz | 2026-09-25 |
+| Principal Consultant \| AI Security (Remote) | Trace3 | Dallas, TX | 2026-09-25 |
+| Senior/Staff Engineer - Web3 - Onchain Data | OKX | Hong Kong, Hong Kong SAR; Singapore, Singapore | 2026-09-25 |
+| Associate/Senior Associate, AML/KYC | IQ-EQ | Wing On Centre, 111 Connaught Road Central, hk | 2026-09-25 |
+| Senior Healthcare Data Analyst, Health Plan Strategy | The Wonderful Company | Los Angeles, us | 2026-09-25 |
+| Oracle Analytics FDI Design / Developer | Accenture Federal Services | Washington, DC | 2026-09-25 |
+| Associate/Senior Associate, AML/KYC | IQ-EQ | #20-01 Manulife Tower, sg | 2026-09-25 |
+| Finance Intern, Travel Retail | LVMH | Singapore, sg | 2026-09-25 |
+| Business Analyst Intern, Travel Retail | LVMH | Singapore, sg | 2026-09-25 |
+| [EPM] AI Engineer (Joining Bonus) | Bosch Group | Thành phố Hồ Chí Minh, vn | 2026-09-25 |
+| Account Specialist, French Speaking, Europe (Cairo-based) | Agoda | Cairo, Egypt | 2026-09-25 |
+| Visual Merchandising Intern, Travel Retail | LVMH | Singapore, sg | 2026-09-25 |
+| Software Engineer (AI Data Engineering) | SpaceX | Hawthorne, CA | 2026-09-25 |
+| Associate Scientist Seeds | Syngenta Group | Columbus, us | 2026-09-25 |
+| Supply Chain & Manufacturing Manager, Collectibles | Crunchyroll, LLC | Dallas, Texas, United States | 2026-09-25 |
+| Assistant Scientist | Eurofins | Hercules, us | 2026-09-25 |
+| Delivery Driver-(05500) New Bern Ave, Raleigh-No Car? No problem! Company vehicles available for work use! | Domino's | Raleigh, us | 2026-09-25 |
+| General Manager in Training(06797) | Domino's | Floresville, us | 2026-09-25 |
+| General Manager(06139) - 706 S. Main Street | Domino's | Sweetwater, us | 2026-09-25 |
+| Assistant Manager (3248) - 53 W Main St, Hillsborough, NH, 03244 | Domino's | Hillsborough, us | 2026-09-25 |
+| Customer Service Rep (9806) - 1142 Main St Holden MA 01520 | Domino's | Holden, us | 2026-09-25 |
 
 ---
 

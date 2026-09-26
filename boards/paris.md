@@ -2,17 +2,115 @@
 
 Roles listing Paris as their location.
 
-_2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
+_2,430 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Electrical Engineer (Tooling) | Harmattan Ai | Paris | 2026-09-25 |
+| Electrical Engineer (Gimbal) | Harmattan Ai | Paris | 2026-09-25 |
+| Electrical Engineer (Ground Control System) | Harmattan Ai | Paris | 2026-09-25 |
+| Embedded Electrical Engineer - SoM | Harmattan Ai | Paris | 2026-09-25 |
+| Electrical Engineer (Launcher) | Harmattan Ai | Paris | 2026-09-25 |
+| Electrical Engineer (Electronic Warfare) | Harmattan Ai | Paris | 2026-09-25 |
+| Senior Security Engineer | Dashlane | Paris, France | 2026-09-25 |
+| Staff Product Security Engineer | Dashlane | Paris, France | 2026-09-25 |
+| Portugal Content Specialist | Amo | Paris | 2026-09-25 |
+| CDD - Chargé(e) des Contrats, Transparence et Protection des données F/H | Vetoquinol | Paris, fr | 2026-09-25 |
+| CDD Responsable Admission Réseau (CDD) | Relais & Châteaux | Paris, fr | 2026-09-25 |
+| Project Manager | FeverUp | Paris | 2026-09-25 |
+| Stage de fin d'études - Consultant·e Sustainability | Wavestone | Paris, fr | 2026-09-25 |
+| Consulting - Consultant Confirmé / Senior Energie & Industrie - Paris (H/F) | Talan | Paris, fr | 2026-09-25 |
+| Consulting - Manager Conseil - Energie & Industrie - Paris (H/F) | Talan | Paris, fr | 2026-09-25 |
+| Consulting - Manager Conduite du Changement - Energie & Industrie - Paris H/F | Talan | Paris, fr | 2026-09-25 |
+| Expert Monétique / Paiement TPE – Support & Projet (H/F) | CITECH | Paris, fr | 2026-09-25 |
+| Senior Application Security Engineer | Datadog | Paris, France | 2026-09-25 |
+| FR - Senior Martech / CDP Specialist – Personalization & Activation | Valtech | Paris | 2026-09-25 |
+| Legal Counsel - Publishing & Partnerships | Ubisoft | Paris, fr | 2026-09-25 |
+| Directeur Adjoint Cormeilles en Parisis (H/F/NB) | Kiabi | cormeilles en parisis, fr | 2026-09-25 |
+| Acheteur.se IT Senior (F/H/NB) | Ubisoft | Paris, fr | 2026-09-25 |
+| Acheteur.se IT Senior - Spécialisé Achats Cloud | Ubisoft | Paris, fr | 2026-09-25 |
+| Agent Polyvalent des Services Généraux - H/F | Veolia Environnement SA | Paris, fr | 2026-09-25 |
+| Responsable People / People Director | AREA 17 | Paris, France | 2026-09-25 |
+| Director, Satellite Business International \| Directeur(trice), Développement Commercial International - Satellites | Vast | Paris, France | 2026-09-24 |
+| Mobile Telecommunications Support Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-24 |
+| Disability and Leave Services Associate - Contract Opportunity | Sutherland | Portmore, St. Catherine Parish, Jamaica, jm | 2026-09-24 |
+| Customer Training Manager - France (m/f/d) | Voize | Paris | 2026-09-24 |
 | Senior Technical Product Manager - Advertising solutions | Voodoo | Paris | 2026-09-24 |
+| Brand Manager Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-24 |
+| Global Digital Learning Designer & LMS Administrator | AccorCorpo | Paris, fr | 2026-09-24 |
+| Strategic Marketing Research Assistant – Internship (6-month) Janvier 2027 (W/M/NB) | Ubisoft | Paris, fr | 2026-09-24 |
+| Etudes Stratégiques Marketing Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-24 |
+| Head of Talent Development | Backmarket | Paris | 2026-09-24 |
+| Consultant - Energy, Transport & Manufacturing | Sia | Paris, fr | 2026-09-24 |
+| Final Year Internship Consultant - Energy, Transport & Manufacturing | Sia | Paris, fr | 2026-09-24 |
+| Final Year Internship Consultant - Transport, Manufacturing & Retail | Sia | Paris, fr | 2026-09-24 |
+| Consultant - Transport, Manufacturing & Retail | Sia | Paris, fr | 2026-09-24 |
+| Conseiller Commercial (F/H/X) - Charles de Gaulle Aéroport - CDI | SIXT | Paris Roissy, fr | 2026-09-24 |
 | Marketing Video Artist - BeReal | Voodoo | Paris | 2026-09-24 |
+| Formateur/rice Coiffure - CDI - H/F | PROVALLIANCE | Paris, fr | 2026-09-24 |
+| Assistant(e) CRM Manager – Beebs by Kiabi – Stage 6 mois (h/f/nb) | Kiabi | Paris, fr | 2026-09-24 |
+| Staffing Career Track Internship / Apprenticeship | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-09-24 |
+| Développeur Java Backend Junior - H/F | Talan | Paris, fr | 2026-09-24 |
+| Final Year Internship Consultant - Cybersecurity | Sia | Paris, fr | 2026-09-24 |
+| Consulting - Senior Manager - Chef de Projet Infrastructure - Paris H/F | Talan | Paris, fr | 2026-09-24 |
+| Marketing Manager / Account-Based Marketing (ABM) | IFS. AI-Powered Software Built for Your Industry | Paris, fr | 2026-09-24 |
+| Consulting - Consultant Confirmé / Senior - PMO Transformation digitale - Migration office 365 - Paris (H/F) | Talan | Paris, fr | 2026-09-24 |
+| Consulting - Consultant Confirmé FinOps - Paris H/F | Talan | Paris, fr | 2026-09-24 |
+| Contrôleur.euse de gestion - Stage | Wavestone | Paris, fr | 2026-09-24 |
+| Culture Project Manager (H/F) | Red Bull | Paris, fr | 2026-09-24 |
+| Forward Deployed Engineer | Clera | Paris | 2026-09-24 |
 | Applied AI Engineer, Startups (Codex) | Openai | Paris, France | 2026-09-24 |
+| Consulting - Senior Manager - Chef de Projet Migration Cloud - Paris H/F | Talan | Paris, fr | 2026-09-24 |
+| INTERMARCHE - EMPLOYE COMMERCIAL RAYON FRAIS TRAVAIL DE NUIT minuit /6h (H/F) | Groupement Mousquetaires | Paris, fr | 2026-09-24 |
+| Technical Lead - Agentic AI | Nagarro | Paris, fr | 2026-09-24 |
+| Chargé de Qualité & Formation senior H/F | AccorCorpo | Paris, fr | 2026-09-24 |
+| Stage - Consolidation et Contrôle financier (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-24 |
+| Senior Data Engineer - Analytics (x/f/m) | Doctolib | Paris, Paris, France | 2026-09-24 |
+| Consultant Acheteur Matières Premières – Supply Chain (H/F) | EPSA | Paris, fr | 2026-09-24 |
 | Technical Recruiter | Vibe | Paris | 2026-09-24 |
+| Coordinateur / assistant d'agence d'aide à domicile (H/F) | Ouihelp | Paris | 2026-09-24 |
+| People & Culture Director (F/M/X) | AccorCorpo | Paris, fr | 2026-09-24 |
 | Head of Brand (Relocation to Milan) | Satispay | Paris, France | 2026-09-24 |
+| Consulting - Consultant Confirmé / Senior – Stratégie Data & IA Générative - Paris (H/F) | Talan | Paris, fr | 2026-09-24 |
+| Consulting - Consultant Confirmé / Senior – Digital Workplace & Migration Microsoft Office 365 - CDI - Paris H/F | Talan | Paris, fr | 2026-09-24 |
+| Consulting - Manager / Manager Senior - Data, IA & IA Générative - Paris (H/F) | Talan | Paris, fr | 2026-09-24 |
+| Consultant·e Junior en Transformation Digitale - Cloud Connect : Comment créer de la valeur avec l'IA au sein du SI ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Cloud Connect : Comment faire du Cloud un levier de transformation du système d'information ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Cloud Connect : Comment moderniser les infrastructures face aux défis technologiques et organisationnels ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Cloud Connect : Évolution des infrastructures réseau : quels enjeux pour les organisations ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Future of Work : Voice & E-Communication : Recording et téléphonie comment répondre aux enjeux opérationnels et réglementaires (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Future of Work : Comment tirer part du Modern Management pour fluidifier et sécuriser l'environnement de travail des collaborateurs ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Future of Work : Modern Management & Collab - Comment construire les environnements collaboratifs de demain ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Future of Work : Workplace Souverain : quelles solutions souveraines pour remplacer Office 365 ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Boosting CTO - IT M&A : Quels accélérateurs stratégiques, technologiques et organisationnels pour accompagner les transformations structurantes ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale -Boosting CTO - Audit IT: Comment professionnaliser et industrialiser les pratiques d’audit IT tout en garantissant leur valeur, leur adaptabilité et la sécurisation des données traitées ? (Stage fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Future of Work - Workplace Security : Poste de travail moderne : comment éviter sa compromission ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Paid Social Ads Manager - F/H | Courir | Paris, fr | 2026-09-24 |
+| Commercial Account Manager | Navan | Paris, FR | 2026-09-24 |
+| Juriste Assurance International - Construction H/F | Egis Group | Paris, fr | 2026-09-24 |
+| Assistant(e) dentaire en alternance H/F | DENTEGO | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Boosting CTO - Sourcing : Quelle stratégie de sourcing définir et mettre en œuvre pour maximiser performances économique et opérationnelle ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Boosting CTO - EA : Comment structurer et piloter l’architecture pour en faire un levier stratégique de transformation, d’agilité et de création de valeur durable ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - B CTO - Comment optimiser les processus opérationnels en tirant profit de la GenAI afin d’assurer une livraison de bout en bout en garantissant la qualité de ces services en interne ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale : La capitalisation de convictions sur les sujets de pilotage grands programmes dans l'optique d'avoir de la matière prête à l’emploi pour nos livrables à destination de nos clients ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Boosting CTO - IT Finance Management : Comment optimiser le pilotage de la dépense IT ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Future of Work : Décryptage des innovations du Digital Workplace et découverte des tendances émergentes (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Future of Work: Employee Experience & Next Gen Support ? : comment redéfinir l’expérience collaborateur et le support utilisateur de demain ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Ingénieur AMOA SI & Planisware H/F | ASSYSTEM | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Boosting CTO - Operating Model & Sourcing : Quelle organisation mettre en place afin d’optimiser le fonctionnement et les performances de l’entreprise ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Future of Work : Quel est l'impact de l'évolution des modes de travail sur les bureaux de demain ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Cloud Connect : Comment adapter les systèmes d'information aux enjeux de résilience et de souveraineté ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant.e Junior en Transformation Digitale - Cloud Connect : Architecture applicative, intégration et middleware : quels défis pour la modernisation du SI ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-24 |
+| Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE) | Wavestone | Paris, fr | 2026-09-24 |
+| Business Development Representative | Algolia | Paris, France | 2026-09-24 |
+| Consultant Intégration Planisware H/F | ASSYSTEM | Paris, fr | 2026-09-24 |
+| Concierge Premium Senior (F/M/X) | AccorCorpo | Paris, fr | 2026-09-24 |
+| Strategic Planning & Trends Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-24 |
 | Growth Strategy Manager - Madrid based | FeverUp | Paris | 2026-09-24 |
+| Senior Product Lead | Nagarro | Paris, fr | 2026-09-24 |
+| Chef de projet CRM H/F | NEXTON | Paris, fr | 2026-09-24 |
 | Assistant Venue Manager | FeverUp | Paris | 2026-09-24 |
+| Chargé de Consolidation IFRS Expérimenté H/F | Egis Group | Paris, fr | 2026-09-24 |
 | Operations Associate (Acquisition) | Wheely | Paris, Paris, France | 2026-09-23 |
 | Product Manager H/F | Capco | France - Paris | 2026-09-23 |
 | Chargé d'études R&D - Postes électriques offshore (F/H) | RTE | Paris, fr | 2026-09-23 |
@@ -22,7 +120,6 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | CDI - Business Analyst Senior RGM \| L'Or, Tassimo, Senseo | JACOBS DOUWE EGBERTS | Paris, fr | 2026-09-23 |
 | Leader Technique – STEP Stibo Systems (PIM / MDM) | Talan | Paris, fr | 2026-09-23 |
 | Account Manager, SME & Growth | Airwallex | FR - Paris | 2026-09-23 |
-| Stage Ingénieur.e Projets Intelligence Artificielle - Traitement du langage naturel (NLP) | Eurofins | Paris, fr | 2026-09-23 |
 | Talent Sourcer - Growth | Voodoo | Paris | 2026-09-23 |
 | Senior Consultant - Data Advisory | Sia | Paris, fr | 2026-09-23 |
 | Manager CIO Advisory | Sia | Paris, fr | 2026-09-23 |
@@ -39,11 +136,8 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | Consultant.e Change Management - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-23 |
 | Consultant.e RH - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-23 |
 | Consultant.e RH/Change - Stage de fin d'études | Wavestone | Paris, fr | 2026-09-23 |
-| Technical Lead - Agentic AI | Nagarro | Paris, fr | 2026-09-23 |
 | Location Data engineer | Amo | Paris | 2026-09-23 |
 | Responsable Formation (F/M/X) | AccorCorpo | Paris, fr | 2026-09-23 |
-| Concierge Premium (F/M/X) | AccorCorpo | Paris, fr | 2026-09-23 |
-| Chargé de Qualité & Formation H/F | AccorCorpo | Paris, fr | 2026-09-23 |
 | Senior Full-Stack Product Engineer | The Flex | Paris | 2026-09-23 |
 | Product Engineer | The Flex | Paris | 2026-09-23 |
 | Senior Software Engineer | The Flex | Paris | 2026-09-23 |
@@ -60,17 +154,13 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | Consultant·e Junior (Analyst) en Transformation Digitale - CTO Advisory - CDI | Wavestone | Paris, fr | 2026-09-23 |
 | Consultant·e Junior (Analyst) en Transformation Digitale – CTO/CIO Advisory - CDI | Wavestone | Paris, fr | 2026-09-23 |
 | Applied AI Engineer, Codex | Openai | Paris, France | 2026-09-23 |
-| Technicien de Maintenance Industrielle F/H | Veolia Environnement SA | Paris, fr | 2026-09-23 |
-| Senior Product Lead | Nagarro | Paris, fr | 2026-09-23 |
 | Trade-in Buybulk Intern | Backmarket | Paris | 2026-09-23 |
 | Stage - SEO : Contenu & recherche IA (x/f/m) - novembre 2026 | Doctolib | Paris, Paris, France | 2026-09-23 |
 | Revenue Management & Strategy Director (6-Month Maternity Cover) | AccorCorpo | Paris, fr | 2026-09-23 |
 | Agent Entretien & Maintenance F/H | METRO/MAKRO | Paris, fr | 2026-09-23 |
-| DevOps - CDI (H/F) | ALTEN | Paris, fr | 2026-09-23 |
 | Chargé d'Administration du Personnel (F/H/NB) | Ubisoft | Paris, fr | 2026-09-23 |
 | Chef de Projet Déploiement XRAY & Migration H/F | NEXTON | Paris, fr | 2026-09-23 |
 | Product Owner SEO H/F | NEXTON | Paris, fr | 2026-09-23 |
-| Manager - Chef de Mission Junior | IQ-EQ | Paris, fr | 2026-09-23 |
 | Conseiller en Financement F/H | ALTAREA | Paris, fr | 2026-09-23 |
 | Founding Customer Training Manager - France (m/f/d) | Voize | Paris | 2026-09-22 |
 | Wholesale Director EMEA & APAC (Maternity Leave Coverage) | ANINE BING | Paris, France | 2026-09-22 |
@@ -79,15 +169,9 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | UX Writer H/F | NEXTON | Paris, fr | 2026-09-22 |
 | DESIGN SYSTEM DESIGNER H/F | NEXTON | Paris, fr | 2026-09-22 |
 | Product Designer E-commerce H/F | NEXTON | Paris, fr | 2026-09-22 |
-| People & Culture Director (F/M/X) | AccorCorpo | Paris, fr | 2026-09-22 |
 | Broker Partnerships Lead | Alan | Paris, France | 2026-09-22 |
 | CDD 4 mois - Assistant(e) de gestion | Sia | Paris, fr | 2026-09-22 |
-| Consulting - Consultant Confirmé / Senior – Digital Workplace & Migration Microsoft Office 365 - CDI - Paris H/F | Talan | Paris, fr | 2026-09-22 |
-| Réceptionniste (H/F) - Splendide Royal Hôtel | Relais & Châteaux | Paris, fr | 2026-09-22 |
 | Marketing & Production Buyer Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-22 |
-| Consulting - Senior Manager - Chef de Projet Infrastructure - Paris H/F | Talan | Paris, fr | 2026-09-22 |
-| Architecte Cloud GCP, Direction Technique | ALTEN | Paris, fr | 2026-09-22 |
-| Consulting - Consultant Confirmé / Senior - PMO Transformation digitale - Migration office 365 - Paris (H/F) | Talan | Paris, fr | 2026-09-22 |
 | Accessories Development Intern (8 weeks) | ANINE BING | Paris, France | 2026-09-22 |
 | Chargé(e) de Communication Corporate, Interne & Marque Employeur (CDD) - H/F | Wavestone | Paris, fr | 2026-09-22 |
 | Stage Contrôle de Gestion (H/F) | Red Bull | Paris, fr | 2026-09-22 |
@@ -138,8 +222,8 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | Gestionnaire de Parc Informatique H/F | NEXTON | Paris, fr | 2026-09-22 |
 | Legal Engineer Manager, Paris | Harvey | Paris | 2026-09-22 |
 | Médecin du travail | Alan | Paris | 2026-09-22 |
-| FP&A Intern | Singulier | Paris, France | 2026-09-22 |
 | Product Engineer Manager | GetVocal AI | Paris, France | 2026-09-22 |
+| FP&A Intern | Singulier | Paris, France | 2026-09-22 |
 | Automotive Business Development Director - Premium & Luxury | CXG | Paris, France | 2026-09-22 |
 | Forward Deployed Engineer, France | Telnyx | Paris, France | 2026-09-21 |
 | International Law School Manager | Harvey | Paris | 2026-09-21 |
@@ -148,26 +232,23 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | Business Lead | Blockchain.com | Paris | 2026-09-21 |
 | Senior People Ops Manager (International) | Photoroom | Paris | 2026-09-21 |
 | Field Marketing Specialist | Dust | Paris | 2026-09-21 |
-| Senior Data Scientist / Machine Learning Engineer – H/F | EVERIENCE | Paris, fr | 2026-09-21 |
 | Lead Software Engineer - Performance Marketing | Voodoo | Paris | 2026-09-21 |
 | Commis Sommelier - Restaurant Bellefeuille 1* H/F | Relais & Châteaux | Paris, fr | 2026-09-21 |
 | Software Engineer - Performance Marketing | Voodoo | Paris | 2026-09-21 |
 | Business Development Representative (Chauffeur - Partner) | Wheely | Paris, Paris, France | 2026-09-21 |
 | Chauffeur Recruiter (Mass Recruitment Focus) | Wheely | Paris, Paris, France | 2026-09-21 |
-| Product Manager ML & GenAI – H/F | EVERIENCE | Paris, fr | 2026-09-21 |
 | Simulation Engineer | Helsing | Munich - Berlin - London - Paris - Warsaw - Tallinn | 2026-09-21 |
 | Consultant Achats Logiciel & Prestation – Oracle Cloud / S2P H/F | EPSA | Paris, fr | 2026-09-21 |
 | Stage – Assistant(e) Analyste en Stratégie | REXEL | Paris, fr | 2026-09-21 |
 | Manager Service Client - Région Paris / Ile de France CDI H/F | BOULANGER | Paris, fr | 2026-09-21 |
+| Account Executive Product - Issuing & Treasury | Stripe | London OR Paris OR Germany | 2026-09-21 |
 | CRM Lifecycle Specialist | Ledger | Paris, France | 2026-09-21 |
 | Manager Commerce - Région / Paris Ile de France CDI H/F | BOULANGER | Paris, fr | 2026-09-21 |
 | Manager, Account Management, SME & Growth, France | Airwallex | FR - Paris | 2026-09-21 |
 | Legal Counsel Data Protection Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-21 |
-| Consulting - Consultant Confirmé FinOps - Paris H/F | Talan | Paris, fr | 2026-09-21 |
 | Senior Financial Planning Analyst (W/M/NB) | Ubisoft | Paris, fr | 2026-09-21 |
 | Merchandising Manager - EMEA & US | Anglo American / De Beers Group | Paris, fr | 2026-09-21 |
 | Développeur Power BI Senior H/F | NEXTON | Paris, fr | 2026-09-21 |
-| Consulting - Consultant Confirmé / Senior – Stratégie Data & IA Générative - Paris (H/F) | Talan | Paris, fr | 2026-09-21 |
 | Enterprise Sales Lead (French market) | Alan | Paris, France | 2026-09-21 |
 | Aide aux personnes âgées (H/F) | Ouihelp | Paris | 2026-09-21 |
 | Internship - Junior HR & Assessment Consultant | Sia | Paris, fr | 2026-09-21 |
@@ -176,10 +257,8 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | Assistant de vie (H/F) | Ouihelp | Paris | 2026-09-21 |
 | Chef de Projet Conformité & Juridique H/F | NEXTON | Paris, fr | 2026-09-21 |
 | Auxiliaire de vie (H/F) | Ouihelp | Paris | 2026-09-21 |
-| Consulting - Manager / Manager Senior - Data, IA & IA Générative - Paris (H/F) | Talan | Paris, fr | 2026-09-21 |
 | Marketing Intern | Platform.sh | On-site • Paris, France | 2026-09-21 |
 | Aide à domicile (H/F) | Ouihelp | Paris | 2026-09-21 |
-| ALTERNANCE - Chargé RH & Talents - F/H | ALTAREA | Paris, fr | 2026-09-21 |
 | Public Sector Sales Lead | Anthropic | Paris, France | 2026-09-21 |
 | Axillaire de vie H/F | Joya | Argenteuil , Ermont , Cormeilles-en-Parisis, Montigny-Lès-Cormeilles, Herblay | 2026-09-21 |
 | Assistante de vie H/F | Joya | Argenteuil , Ermont , Cormeilles-en-Parisis, Montigny-Lès-Cormeilles, Herblay | 2026-09-21 |
@@ -219,7 +298,6 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | Business Analyst Payments - H/F | Talan | Paris, fr | 2026-09-21 |
 | Responsable Marketing & Communications -F/H -CDD | ALTAREA | Paris, fr | 2026-09-21 |
 | Consulting - Manager / Senior manager – Digital Workplace - Office 365 - CDI - Paris H/F | Talan | Paris, fr | 2026-09-21 |
-| Consulting - Senior Manager - Chef de Projet Migration Cloud - Paris H/F | Talan | Paris, fr | 2026-09-21 |
 | Event Coordinator Assistant – Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-21 |
 | Stage - Assistant Conformité & Modération de Contenu (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-21 |
 | Technicien de maintenance lignes aériennes HTB F/H | RTE | Seyssinet-Pariset, fr | 2026-09-21 |
@@ -228,84 +306,6 @@ _2,442 open · showing the 300 most recent · updated 2026-09-25 04:19 UTC_
 | Procurement Manager | Sia | Paris, fr | 2026-09-21 |
 | Consulting - Consultant Confirmé / Senior - Transformation Digitale - Assurance & Santé - CDI - Paris (H/F) | Talan | Paris, fr | 2026-09-21 |
 | Consulting - Consultant Confirmé / Senior - Assurance & Santé - CDI - Paris (H/F) | Talan | Paris, fr | 2026-09-21 |
-| Consulting - Manager Senior Transports & Mobilités - Digitalisation des processus métiers - Interopérabilité SI - CDI - Paris (H/F) | Talan | Paris , fr | 2026-09-21 |
-| Consulting - Consultant Confirmé / Senior en Transformation Digitale - Transports & Mobilités - CDI - Paris (H/F) | Talan | Paris, fr | 2026-09-21 |
-| Consulting - Manager / Manager Senior - Assurance Santé - CDI - Paris (H/F) | Talan | Paris, fr | 2026-09-21 |
-| Consulting - Manager - Transports & Mobilités - Refonte Organisationnelle - Digitalisation - Conduite du changement - CDI - Paris (H/F) | Talan | Paris, fr | 2026-09-21 |
-| Développeur .NET / Full Stack & Azure DevOps (H/F) | Talan | Paris, fr | 2026-09-21 |
-| Architecte Cloud Solutions H/F | Talan | Paris, fr | 2026-09-21 |
-| Tech Lead .NET – F/H | Talan | Paris, fr | 2026-09-21 |
-| Tech Lead Cloud (Microsoft Azure / AWS / GCP) H/F | Talan | Paris, fr | 2026-09-21 |
-| Manager – Quantitative Risk Modelling, Stress Testing & Model Risk | Sia | Paris, fr | 2026-09-21 |
-| Manager – Sustainability Strategy, Transformation & Operationalization | Sia | Paris, fr | 2026-09-21 |
-| Consultant Senior – ESG Risk Modelling & Climate/Nature Stress Testing | Sia | Paris, fr | 2026-09-21 |
-| Assistant chef / Assistante cheffe de projet ferroviaire | Artelia | Paris, fr | 2026-09-21 |
-| Consultant Senior – Risk, Capital and Performance Steering | Sia | Paris, fr | 2026-09-21 |
-| Data Scientist & AI Consultant | Sia | Paris, fr | 2026-09-21 |
-| Senior - Marketing Data Scientist Consultant | Sia | Paris, fr | 2026-09-21 |
-| Paris Senior Account Executive Recruitment Day 💫 | Alan | Paris, France | 2026-09-21 |
-| Office Manager | Treatwell | Paris, France | 2026-09-21 |
-| Consultant Senior Oracle EPM Cloud / Oracle PBCS - H/F – CDI | Talan | Paris, fr | 2026-09-19 |
-| Operations Manager | Wheely | Paris, Paris, France | 2026-09-18 |
-| Inside Sales Representative (Paris, France) | Figma | Paris, France | 2026-09-18 |
-| Senior Architect Design Systems H/F | NEXTON | Paris, fr | 2026-09-18 |
-| GTM Engineer | Vocca | Paris | 2026-09-18 |
-| Expert Immobilier Junior H/F | EOS France | Paris, fr | 2026-09-18 |
-| Alliance Manager - F/H/N | OCTO Technology | Paris, fr | 2026-09-18 |
-| Conseiller Clientèle H/F | EOS France | Paris, fr | 2026-09-18 |
-| Data Annotator | Harmattan Ai | Paris | 2026-09-18 |
-| Directeur de Restaurant H/F – Paris | Barrière | PARIS, fr | 2026-09-18 |
-| Stage - Développement Commercial et Performance Hospitalière (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-18 |
-| Développeur / Architecte Directus Senior (H/F) | CITECH | Paris, fr | 2026-09-18 |
-| France Content Specialist | Amo | Paris | 2026-09-18 |
-| Stage - Talent Acquisition Coordinator (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-18 |
-| Avocat - Droit Public | Clifford Chance | Paris, fr | 2026-09-18 |
-| Product Manager - Platform Management | Mirakl - Labs | Paris, France | 2026-09-18 |
-| Delivery Manager - F/H/N | OCTO Technology | Paris, fr | 2026-09-18 |
-| Assistant(e) dentaire qualifié(e) H/F | DENTEGO | Paris, fr | 2026-09-18 |
-| Stage - Analyste de la stratégie commerciale (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-18 |
-| Dessinateur/trice Projeteur Bâtiment – F/H | ALTEREA | Paris, fr | 2026-09-18 |
-| Consultant – Energy, Utilities & Low Carbon Solutions | Sia | Paris, fr | 2026-09-18 |
-| Coordinateur / Coordinatrice études projet (CEP) ferroviaire | Artelia | Paris, fr | 2026-09-18 |
-| Senior Product Manager - Product Led Growth- Paris (x/f/m) | Doctolib | Paris, Paris, France | 2026-09-18 |
-| Assistant chef / Assistante cheffe de projet ferroviaire | Artelia | Paris, fr | 2026-09-18 |
-| Ingénieur / Ingénieure OPC Ferroviaire | Artelia | Paris, fr | 2026-09-18 |
-| Ingénieur / Ingénieure OPC système | Artelia | Paris, fr | 2026-09-18 |
-| Events Operations Apprentice | Backmarket | Paris | 2026-09-18 |
-| Final Year Internship Consultant in Financial Transformation | Sia | Paris, fr | 2026-09-18 |
-| Financial Transformation Manager | Sia | Paris, fr | 2026-09-18 |
-| Financial Transformation Consultant | Sia | Paris, fr | 2026-09-18 |
-| Marketing Data Scientist Consultant | Sia | Paris, fr | 2026-09-18 |
-| Operations Research Consultant | Sia | Paris, fr | 2026-09-18 |
-| Senior - Data Scientist & AI Consultant | Sia | Paris, fr | 2026-09-18 |
-| Consultant Senior/Tech Lead AI Engineer F/H/N | OCTO Technology | Paris, fr | 2026-09-18 |
-| Analyste Sécurité Groupe H/F | Egis Group | Paris, fr | 2026-09-18 |
-| SEO & AI Content Specialist | Pennylane | Paris | 2026-09-18 |
-| Consultant AI Engineer confirmé - F/H/N | OCTO Technology | Paris, fr | 2026-09-18 |
-| Group Security Analyst H/F | Egis Group | Paris, fr | 2026-09-18 |
-| Chef / Cheffe de projet études ferroviaire (CEP) - Signalisation | Artelia | Paris, fr | 2026-09-18 |
-| Site Reliability Engineer, AI Platform | Algolia | Paris, France | 2026-09-18 |
-| Senior Site Reliability Engineer, AI Platform | Algolia | Paris, France | 2026-09-18 |
-| Stage - Assistant Category Manager Mode, Beauté et Food - Janvier 2027 | NBCUniversal | Paris, fr | 2026-09-18 |
-| Senior Site Reliability Engineer, PaaS | Algolia | Paris, France | 2026-09-18 |
-| BDR Team Manager \| French Market (Paris) | Lexroom | Paris | 2026-09-18 |
-| Assistant(e) dentaire qualifié(e) H/F | DENTEGO | Paris, fr | 2026-09-18 |
-| Stage – Chargé de l’accompagnement au changement et de communication digitale F/H | RTE | Paris - La Defense, fr | 2026-09-18 |
-| Data Platform Lead | REXEL | Paris, fr | 2026-09-18 |
-| Sales Development Representative F/H CDI | Julhiet Sterwen | Paris, fr | 2026-09-18 |
-| Stagiaire BAC+4 – Coordinateur Challenge Innovation Climat à la Fondation Egis H/F | Egis Group | Paris, fr | 2026-09-18 |
-| Principal Platform Engineer \|\| Identity Platform (AuthN/AuthZ) | IFS. AI-Powered Software Built for Your Industry | Paris, fr | 2026-09-18 |
-| Associate UX Designer | Dataiku | France, Paris | 2026-09-18 |
-| Project Manager Assistant – Internship (6-month) January 2027 (W/M/NB) | Ubisoft | Paris, fr | 2026-09-18 |
-| Project Manager Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-18 |
-| Senior Software Engineer, Frontend | Sorare | Paris | 2026-09-18 |
-| ESG Performance & Reporting Manager | Sia | Paris, fr | 2026-09-18 |
-| Coiffeur / Coiffeuse | PROVALLIANCE | Paris, fr | 2026-09-18 |
-| Chef de Projets en audits et tests d'intrusion (F/H) | ADVENS | Paris, fr | 2026-09-18 |
-| Consultant en Cybersécurité OT/IOT (F/H) | ADVENS | Paris, fr | 2026-09-18 |
-| SAP Program Manager S/4HANA (H/F) | Teamwork Corporate | Paris, fr | 2026-09-18 |
-| Consultant Sénior en Cybersécurité (F/H) | ADVENS | Paris, fr | 2026-09-18 |
-| Senior Consultant – Health Insurance | Sia | Paris, fr | 2026-09-18 |
 
 ---
 
