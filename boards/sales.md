@@ -2,63 +2,253 @@
 
 Roles whose title reads as sales.
 
-_20,833 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
+_20,779 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Retail Sales Associate (Seasonal) | Vuori, Inc | Cincinnati, us | 2026-09-26 |
+| Retail Sales Associate - Bellevue Square | Vuori, Inc | Bellevue, us | 2026-09-26 |
+| Sales Executive - Romania | Delivery Hero | Bucharest, ro | 2026-09-26 |
+| Account Sales Manager | Red Bull | Graham, us | 2026-09-26 |
+| Sales Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
+| Business Development Manager Tech Partnerships (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
+| Area Sales Manager | LUXASIA | NSW | 2026-09-26 |
+| Sales Admin Executive | LUXASIA |  | 2026-09-26 |
+| Key Account Executive (Lifestyle) | LUXASIA |  | 2026-09-26 |
+| Sales & Retail Operations Manager | LUXASIA |  | 2026-09-26 |
+| Sales Development Representative | Informa Group Plc. | London, gb | 2026-09-26 |
+| Sales Lead | Xebia | Amsterdam, Netherlands | 2026-09-26 |
+| Business Development Representative (Data & AI) | Xebia | Amsterdam, Netherlands | 2026-09-26 |
+| Business Development Representative (Software Technology) | Xebia | Amsterdam, Netherlands | 2026-09-26 |
+| Director of Sales & Marketing - Novotel Singapore Robertson Quay | AccorCorpo | Singapore, sg | 2026-09-26 |
+| Account Executive, Product Sales - Crypto | Stripe | SF, NYC | 2026-09-26 |
+| Senior Sales Engineer, Enterprise - Minnesota | Zscaler | Remote - Minnesota, USA | 2026-09-26 |
+| Sales Engineer | Momentus Space LLC | San Jose, CA, United States | 2026-09-26 |
+| Sales Advisor | ProCook | Plymouth, United Kingdom | 2026-09-26 |
+| Polish-Speaking Sales Development Representative - Remote Freelancer -New Market | RealAdvisor S.A. | Poland | 2026-09-26 |
+| Dutch Speaking - Sales Support Agent Home Delivery Food - Work Remote in Greece | Mercier Consultancy Group | Greece | 2026-09-26 |
+| Inside Sales Specialist | Weekday AI | India | 2026-09-26 |
+| Senior Program Manager, Global Sales Organization, PMO | Everpure | Santa Clara, California | 2026-09-25 |
+| Account Executive - Commercial, New York Metro Area | 1Password | New York, NY | 2026-09-25 |
 | Builder - Account Executive | Reevo | San Francisco | 2026-09-25 |
+| Account Manager, Sales \| The Points Guy | Red Ventures | New York, NY | 2026-09-25 |
+| Account Executive, Product - Local Payment Methods | Stripe | US-CA | 2026-09-25 |
+| Salesperson Multi franchise - BMW of Nashville CPO | Sonic Automotive | Nashville, us | 2026-09-25 |
+| Enterprise Account Executive (Vancouver) | Verkada | Vancouver, Canada | 2026-09-25 |
+| Senior Account Executive | AbbVie | Irvine, us | 2026-09-25 |
 | Account Executive, Data Partnerships | Mecka.Ai | New York | 2026-09-25 |
+| Account Sales Manager | Red Bull | East Raleigh, us | 2026-09-25 |
 | Senior Sales Response Manager, Loopio Champion | Loopio | Toronto, ON Hub | 2026-09-25 |
 | Account Executive - Quora (Remote) | Quora | Remote - Multiple Locations | 2026-09-25 |
+| Part Time Sales Associate | The Tile Shop | Orlando, us | 2026-09-25 |
+| Sales Associate | The Tile Shop | Orlando, us | 2026-09-25 |
+| Sales Associate | The Tile Shop | Cheektowaga, us | 2026-09-25 |
+| Part Time Sales Associate | The Tile Shop | Cheektowaga, us | 2026-09-25 |
+| Sales Trainee | Red Bull | Scarborough, ca | 2026-09-25 |
+| Partner Sales Director | Ada | Remote - United States | 2026-09-25 |
 | Remote Insurance Agent, Sales or Service (Tech Startup) | Jerry.Ai | Orlando, Florida | 2026-09-25 |
 | Licensed Insurance Sales Agent \| 100% Remote | Jerry.Ai | Atlanta, Georgia | 2026-09-25 |
+| Partner Sales Director | Ada | Remote - Canada | 2026-09-25 |
+| Account Executive, SMB - Base44 | Wix | New York, us | 2026-09-25 |
+| Sales Trainee | Red Bull | Kelowna, ca | 2026-09-25 |
+| Sr. Sales Systems Engineer | Veeam Software | Remote, United States | 2026-09-25 |
+| Account Executive, Product Sales, Metronome | Stripe | US-NYC | 2026-09-25 |
+| Provider Partnerships Associate (Territory Sales) | Nourish | Sarasota, FL | 2026-09-25 |
+| Inside Sales Representative | REXEL | Surrey, ca | 2026-09-25 |
+| Salesperson - Buena Park Honda | Sonic Automotive | Buena Park, us | 2026-09-25 |
+| Inside Sales Representative | REXEL | Tyler, us | 2026-09-25 |
+| Enterprise Account Executive, Privy | Stripe | New York | 2026-09-25 |
+| Enterprise Account Executive, Privy | Stripe | New York | 2026-09-25 |
+| Account Executive, Product (Payouts) - Hunter | Stripe | London, Dublin | 2026-09-25 |
+| Account Executive, Velocity SMB Hunter | Stripe | Dublin | 2026-09-25 |
+| Customer Service & Sales Team Member | 1-800-GOT-JUNK? | Burnaby, BC | 2026-09-25 |
+| Account Sales Manager | Red Bull | Mississauga, ca | 2026-09-25 |
+| Enterprise Account Executive | Vanilla | Remote | 2026-09-25 |
 | Sales Representative - Guildford Town Center | Neofinancial | Surrey, BC | 2026-09-25 |
+| Sales Manager Eye Care | AbbVie | Bogotá, co | 2026-09-25 |
+| Account Executive – Partner Activation | AEG Worldwide | Los Angeles, CA | 2026-09-25 |
+| Outside Sales Representative | REXEL | Auburn, us | 2026-09-25 |
+| Outside Sales Representative | REXEL | West Columbia, us | 2026-09-25 |
 | Sales Development Representative, Strategic Accounts | Ramp | New York, NY (HQ) | 2026-09-25 |
+| Sales Analyst | Alpaca | Remote - North America | 2026-09-25 |
+| Business Development Manager - Strategic Cuisine (Asian) | Toast | Remote, US | 2026-09-25 |
+| Sales Associate (Part-Time) | Primark | Grapevine, us | 2026-09-25 |
+| SMB Account Executive - Talent & Learning | LinkedIn | San Francisco, us | 2026-09-25 |
+| Lead Data Engineer, Ad Sales & Finance | Versant | New York, us | 2026-09-25 |
+| Sales and Design Consultant (Gainesville - Ocala) | California Closets | Ocala, us | 2026-09-25 |
+| Enterprise Account Executive, DACH & Nordics | Ada | Remote - Germany | 2026-09-25 |
+| Vice President, Employer Sales | Vivvi Early Learning | New York City | 2026-09-25 |
+| Pre-Sales Systems Engineer - Financial Services | Arista Networks | Chicago, us | 2026-09-25 |
+| Senior Service Sales Manager | Zscaler | Remote - USA | 2026-09-25 |
+| Seasonal Sales Ambassador - Cielo Vista | Lush Handmade Cosmetics | El Paso, Texas, United States | 2026-09-25 |
+| Sales Associate (Part-Time) | Primark | Chicago, us | 2026-09-25 |
+| Retail Sales Associate - Inventory Focused | Vuori, Inc | Westport, us | 2026-09-25 |
+| Sr Enterprise Account Executive | ServiceNow | Toronto, ca | 2026-09-25 |
 | Sales Enablement & Training Manager | Bobyard | San Francisco | 2026-09-25 |
+| Outbound Account Executive - POS | Wix | Remote, us | 2026-09-25 |
+| Enterprise Account Director, Sales Solutions | LinkedIn | Toronto, ca | 2026-09-25 |
+| Field Sales Engineer - Fluid Connectors Division (Midwest) | Stäubli | Detroit, us | 2026-09-25 |
+| Junk Removal & Field Sales | 1-800-GOT-JUNK? | Riviera Beach, FL | 2026-09-25 |
+| Sales Assistant ROMA EST - D/U | Courir | ROME, it | 2026-09-25 |
+| Junk Removal & Route Sales | 1-800-GOT-JUNK? | Clearwater, FL | 2026-09-25 |
+| Sales Assistant ROMA EST - D/U | Courir | ROME, it | 2026-09-25 |
+| Sales Associate | The Tile Shop | Burnsville, us | 2026-09-25 |
+| Flex Territory Account Executive, SMB - Salt Lake City, UT | Toast | Salt Lake City, UT | 2026-09-25 |
 | Enterprise Sales Executive | Hire Hangar Global Careers | New York - New York | 2026-09-25 |
+| Business Development Sr. Manager | Delivery Hero | San Salvador, sv | 2026-09-25 |
+| Flex Territory Account Executive, SMB - Denver, CO | Toast | Denver, CO | 2026-09-25 |
+| Senior Manager, Sales Compensation & Commissions | Abnormal AI | Remote - USA | 2026-09-25 |
+| Salesperson - Lone Star Chevrolet | Sonic Automotive | Houston, us | 2026-09-25 |
+| Sales and Training Manager - Lone Star Chevrolet | Sonic Automotive | Houston, us | 2026-09-25 |
+| Sales Representative Eye Care | AbbVie | Bogotá, co | 2026-09-25 |
 | Commercial Account Executive | Influxdata | Remote Canada | 2026-09-25 |
+| Account Sales Manager | Red Bull | Kamloops, ca | 2026-09-25 |
 | SDR | Keycard Labs | US - Remote | 2026-09-25 |
+| Senior Account Executive - Northern California | StackAdapt | United States | 2026-09-25 |
 | Account Executive, Care Management | Openloophealth | United States - Remote | 2026-09-25 |
+| Flex Territory Account Executive, SMB - New England | Toast | Boston, MA | 2026-09-25 |
+| Sales Trainee | Red Bull | Dallas, us | 2026-09-25 |
+| Technical Sales | Continental Group Sector ContiTech | São Paulo, br | 2026-09-25 |
+| Sales Associate - Treasure Coast Harley-Davidson | Sonic Automotive | Stuart, us | 2026-09-25 |
+| Sales Trainee | Red Bull | Randolph, us | 2026-09-25 |
+| Business Development Representative Assistant Controller/Controller | Attivo Partners | Multiple Cities | 2026-09-25 |
+| Sales Trainee | Red Bull | Randolph, us | 2026-09-25 |
+| Account Sales Manager | Red Bull | Randolph, us | 2026-09-25 |
+| Business Development Representative | Airtable | Austin, TX | 2026-09-25 |
+| Sales Development Representative | Planet | Berlin, Germany | 2026-09-25 |
 | Sales Engineer | Numeric | London | 2026-09-25 |
+| Account Executive | Quadient | Columbus, us | 2026-09-25 |
+| Account Sales Manager | Red Bull | Randolph, us | 2026-09-25 |
 | Senior Strategic Account Executive | Audiohook | United States | 2026-09-25 |
+| Sales Trainee | Red Bull | Winston-Salem, us | 2026-09-25 |
+| MID-LEVEL SALES CONTROLLING ANALYST (35713) | Bosch Group | Campinas, br | 2026-09-25 |
+| JUNIOR SALES CONTROLLING ANALYST (35715 / 35716 / 35891) | Bosch Group | Campinas, br | 2026-09-25 |
+| Sales Trainee | Red Bull | Raleigh, us | 2026-09-25 |
 | Regional Sales Manager - Pacific Northwest | Harmonic Security Inc | Pacific Northwest | 2026-09-25 |
+| Director, Business Development - Enrichment | The Nielsen Company | New York, us | 2026-09-25 |
+| Director of Training (Pharmaceutical Sales) | EVERSANA | Yardley, us | 2026-09-25 |
+| Advisory Presales Solution Consultant, Public Sector (Justice & Policing) | ServiceNow | Staines, gb | 2026-09-25 |
+| Internal Sales Person | Tessenderlo Group | Ashford, gb | 2026-09-25 |
 | Regional Sales Director | Witnessai | Remote | 2026-09-25 |
 | VP of Sales | Hellopatient | New York, NY | 2026-09-25 |
 | VP of Sales | Hellopatient | Austin, Texas | 2026-09-25 |
 | Account Executive (Future Openings) | Mintmcp | San Francisco, CA | 2026-09-25 |
+| Sales Counselor | National Lutheran Communities & Services | 9701 Veirs Drive, Rockville MD 20850 | 2026-09-25 |
+| Sales Development Representative - Australia | memoryBlue | UK, Remote | 2026-09-25 |
+| SaaS Sales Manager | Osano | Remote | 2026-09-25 |
+| SaaS Sales Manager | Osano | Remote | 2026-09-25 |
 | B2B Sales Specialist | Motorway | Brighton | 2026-09-25 |
+| Sales Colleague | JYSK Canada | Saskatoon, ca | 2026-09-25 |
+| Sales Colleague | JYSK Canada | Winnipeg, ca | 2026-09-25 |
 | Business Development Executive – Real Estate Technology Services | Hire Hangar Global Careers | United States (all) | 2026-09-25 |
+| Sales Representative Eye Care | AbbVie | Santiago de Querétaro, mx | 2026-09-25 |
 | Sales Development Representative (SDR) - DACH | Abacum | Barcelona | 2026-09-25 |
+| Investment Sales Analyst - Multifamily Real Estate (CRE) | Northmarq | Nashville, Tennessee, United States | 2026-09-25 |
 | Business Development Representative (DACH) | Docker | England | 2026-09-25 |
+| Staff Application Engineer, Salesforce | Mozilla | Remote | 2026-09-25 |
+| Staff Application Engineer, Salesforce | Mozilla | Remote US | 2026-09-25 |
 | Sales Development Representative (SDR) | Abacum | Barcelona | 2026-09-25 |
+| Partner Sales Director (Public Sector) | Ivanti | Washington, DC | 2026-09-25 |
+| Inside Sales Manager | Mitsogo Inc | Alpharetta, GA, 30005 | 2026-09-25 |
+| Seasonal Retail Sales Associate, Short Pump | Vuori, Inc | Richmond, us | 2026-09-25 |
+| Services Sales Consultant | Addepar | Edinburgh, UK | 2026-09-25 |
 | Retail Sales Associate - Full Time | Sunnyside* | Sunnyside – Beaver Falls, PA | 2026-09-25 |
+| Account Executive I/II, Parkinson's Disease - Staten Island, NY | AbbVie | New York, us | 2026-09-25 |
+| Account Executive I/II, Parkinson's Disease - Queens, NY | AbbVie | New York, us | 2026-09-25 |
+| Account Executive I/II, Parkinson's Disease - Great Neck, NY | AbbVie | Great Neck, us | 2026-09-25 |
+| Account Executive I/II, Parkinson's Disease - Brooklyn, NY | AbbVie | New York, us | 2026-09-25 |
+| Military Health Growth and Sales Technical Architect | Accenture Federal Services | Washington, DC | 2026-09-25 |
+| Sales Manager, Field Sales, Allergan Aesthetics | AbbVie | Taipei, tw | 2026-09-25 |
 | Business Development Manager | HCS |  | 2026-09-25 |
 | Large Enterprise Account Executive, LATAM | Udemy | Remote, Mexico | 2026-09-25 |
+| Enterprise Sales Manager (UK Markets) | Trustpilot | London | 2026-09-25 |
+| Account Executive, Education | Flywire | Boston, us | 2026-09-25 |
+| Account Executive, Education (East Coast) | Flywire | Miami, us | 2026-09-25 |
+| Retail Seasonal Sales Associate - Caesar's Forum Shops | Vuori, Inc | Las Vegas, us | 2026-09-25 |
+| Senior Business Development Manager – C2B & Retail (f/m/x) | AUTO1 Group | München, de | 2026-09-25 |
+| Business Development Manager, Senior | SGS | Calgary, ca | 2026-09-25 |
+| EMEA Corporate Expansion Sr. Account Executive - Future Opportunities | Lucid Software | Amsterdam, NL | 2026-09-25 |
+| Telesales Executive | WSH Group | London, gb | 2026-09-25 |
 | Account Executive (Enterprise Legal Management) | Litify | Anywhere, USA | 2026-09-25 |
+| Sales Trainee | Red Bull | Pompano Beach, us | 2026-09-25 |
+| Account Executive | Stäubli | PUCHONG, my | 2026-09-25 |
+| Sales Trainee | Red Bull | Maple Grove, us | 2026-09-25 |
+| Sales Assistant 24h - Tradate | JYSK | Tradate, it | 2026-09-25 |
+| Pre-Sales Consultant EAM USA - Ultimo | IFS. AI-Powered Software Built for Your Industry | Conshohocken, us | 2026-09-25 |
 | Director, Mid-Market Sales | Gong.io | San Francisco | 2026-09-25 |
 | Salesforce Developer | GoCardless | Leeds, UK | 2026-09-25 |
+| Sales Representative (f/m/d) | Delivery Hero | Brno, cz | 2026-09-25 |
+| Sales Trainee | Red Bull | Mississauga, ca | 2026-09-25 |
+| Field Sales Insight Manager | Red Bull | London, gb | 2026-09-25 |
 | Sales Engineer I - Poland & CEE | Mollie | Warsaw | 2026-09-25 |
 | Account Executive - CPG Ads | DoorDash USA | San Francisco, CA; New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL | 2026-09-25 |
+| Enterprise Account Director, Sales Solutions | LinkedIn | Chicago, us | 2026-09-25 |
+| Territory Account Executive , Retail - Derby, KS | Toast | Derby, KS | 2026-09-25 |
+| Junk Removal & Field Sales | 1-800-GOT-JUNK? | Jacksonville, FL | 2026-09-25 |
+| Junk Removal & Route Sales Driver | 1-800-GOT-JUNK? | Panama City, FL | 2026-09-25 |
+| Junk Removal & Route Sales | 1-800-GOT-JUNK? | Lakeland, FL | 2026-09-25 |
 | Founding Sales Manager, Emerging Enterprise | Dandy | USA - New York NY | 2026-09-25 |
 | Seasonal Sales Associate - Bond Street, New York | Gymshark | New York, New York, United States | 2026-09-25 |
+| Inbound Sales 🇫🇷 | Alan | Paris, France | 2026-09-25 |
+| Sr. Training Manager (Pharmaceutical Sales Training) | EVERSANA | Yardley, us | 2026-09-25 |
+| Stockroom Sales Associate (Part-Time) | Primark | Burlington, us | 2026-09-25 |
+| Sales Trainee - Brooklyn, NY | Red Bull | New York, us | 2026-09-25 |
+| Dealership Service Porter - Frontier Leasing and Sales | Sonic Automotive | Coeur d'Alene, us | 2026-09-25 |
+| New Logo Account Executive | ServiceNow | Amsterdam, nl | 2026-09-25 |
 | Business Development Manager (IT Outsourcing) | 5Bluesoftware | Ukraine | 2026-09-25 |
+| Global Sales Process Owner (fully remote possible) | NielsenIQ | Chicago, us | 2026-09-25 |
 | Account Executive | Xero | UK: Manchester (Landmark, St Peter's Square, 1 Oxford St) | 2026-09-25 |
+| Territory Sales Representative | Syngenta Group | Kingston, ca | 2026-09-25 |
+| Territory Sales Representative | Syngenta Group | Ottawa, ca | 2026-09-25 |
+| Senior Pre-sales Solution Architect - Enterprise AI infrastructure (remote in Europe) | Mirantis | Zürich, ch | 2026-09-25 |
+| Global Sales Process Owner | NielsenIQ | Nuremberg, de | 2026-09-25 |
 | Enterprise Account Executive | Ultralytics | New York | 2026-09-25 |
+| Global Sales Process Owner | NielsenIQ | Milan, it | 2026-09-25 |
+| Global Sales Process Owner | NielsenIQ | Amstelveen, nl | 2026-09-25 |
+| Global Sales Process Owner | NielsenIQ | London, gb | 2026-09-25 |
+| Outside Sales Representative | Techo-Bloc | Burnsville, us | 2026-09-25 |
 | Senior Software Engineer, Front End (Sales) | Scout Motors | Fremont, California, United States | 2026-09-25 |
+| Global Sales Process Owner | NielsenIQ | Bezons, es | 2026-09-25 |
+| Senior Strategic Account Executive, Firefox Enterprise (DACH) | Mozilla | Remote Germany | 2026-09-25 |
+| Retail Sales Associate - Madison Avenue | Vuori, Inc | New York, us | 2026-09-25 |
+| Account Executive MidMarket – Order to Cash H/F | Quadient | Rueil-Malmaison, fr | 2026-09-25 |
+| Outside Sales Representative | Techo-Bloc | Naperville, us | 2026-09-25 |
 | Strategic Account Executive, East | Keyfactor, Inc. | United States, EST (Remote) | 2026-09-25 |
+| Account Executive, Sales Solution (Italy/Spain) - Fixed-Term Contract | LinkedIn | Dublin, ie | 2026-09-25 |
+| Sales Executive - Vlaanderen | Coface | Bruxelles, be | 2026-09-25 |
+| Inside Sales Clerk / Order Processing and Data Entry | Kronospan | Lapovo, rs | 2026-09-25 |
+| Sales Manager, Large Customers International (Benelux) – LinkedIn Marketing Solutions | LinkedIn | Amsterdam, nl | 2026-09-25 |
 | Strategic Account Executive | Formlabs | Somerville, MA | 2026-09-25 |
+| Technical Sales Consultant Rheology | Anton Paar | Sacramento - California, us | 2026-09-25 |
+| Recruiter für Sales-Positionen (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Leipzig, de | 2026-09-25 |
+| Retail Sales Associate, Part Time (Amsterdam) | Vuori, Inc | Amsterdam, nl | 2026-09-25 |
+| Retail Sales Associate, Full Time (Amsterdam) | Vuori, Inc | Amsterdam, nl | 2026-09-25 |
+| Sales Trainee | Red Bull | Youngstown, us | 2026-09-25 |
+| Sales Support - Government & Defense | B&S International | Dordrecht, nl | 2026-09-25 |
+| Sales Support - Government & Defense | B&S International | Dordrecht, nl | 2026-09-25 |
 | Mid Market Account Executive | Elastic | Delhi, India | 2026-09-25 |
 | Enterprise Sales Representative | SentinelOne | Saudi Arabia | 2026-09-25 |
+| Sales Executive - Spain (They/She/He) | Delivery Hero | Barcelona, es | 2026-09-25 |
 | Account Executive - Growth Markets - Polish & CEE | Perk | Barcelona | 2026-09-25 |
+| Pflichtpraktikum - Vertrieb / Sales - REF2165U | Continental Group Sector ContiTech | Weißbach, de | 2026-09-25 |
+| Recruiter für Sales-Positionen (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Berlin, de | 2026-09-25 |
 | Sales Enablement Manager (US East Coast) | n8n | New York | 2026-09-25 |
+| Regional Sales Manager | Relais & Châteaux | Royaume-Uni, gb | 2026-09-25 |
 | Business Development Representative | Braze | Tokyo | 2026-09-25 |
+| Director Business Development (m/f/d) - Axolabs (CRO) | LGC | Kulmbach, de | 2026-09-25 |
+| Director Business Development (m/f/d) - Axolabs (CRO) | LGC | Kulmbach, de | 2026-09-25 |
+| Manager, PreSales Engineering, AI | NICE | Netherlands -Remote | 2026-09-25 |
 | Sales Host / Member Consultant - Everlast Gyms | Frasers Group | Cheltenham, gb | 2026-09-25 |
 | Senior Inside Sales - Account Executive | Lightspeedhq | Ghent | 2026-09-25 |
+| Praktikum im Bereich Sales Performance Management | Bosch Group | Gunzenhausen, de | 2026-09-25 |
 | Enterprise Sales Engineer (APAC) | Sierra | Singapore | 2026-09-25 |
 | Sales Engineering Manager, APJ | Sierra | Singapore | 2026-09-25 |
 | Future Opportunities: Business Development Manager | Ayming | Toronto, ca | 2026-09-25 |
 | Retail Sales Associate | Vuori, Inc | Washington, us | 2026-09-25 |
+| CPS Sales Senior Account | NielsenIQ | Madrid, es | 2026-09-25 |
+| Pre-Sales Consultant, Financial Services | AlphaSense | London, Greater London, England, United Kingdom | 2026-09-25 |
 | Inside Sales - Account Executive | Lightspeedhq | Ghent | 2026-09-25 |
+| Pre-Sales Consultant, Corporate (French Speaker) | AlphaSense | London, Greater London, England, United Kingdom | 2026-09-25 |
 | Area Sales Manager | Dr Reddy's Laboratories Limited | Trivandrum, in | 2026-09-25 |
 | Senior Staff Engineer, Salesforce Architect (Consumer Goods Cloud) | Nagarro | Hyderabad, in | 2026-09-25 |
 | Casual Sales Assiatant | Frasers Group | Aberdeen, gb | 2026-09-25 |
@@ -68,10 +258,11 @@ _20,833 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | Sales Manager - New Business, French Market (m/f/d) | SIXT | Lisbon, pt | 2026-09-25 |
 | Account Executive, Commercial | Braze | Tokyo | 2026-09-25 |
 | Automation Tester - Salesforce- | Capco | India - Bengaluru | 2026-09-25 |
+| Sales Assistant - Max Mara Sorrento | Max Mara Fashion Group | Sorrento, it | 2026-09-25 |
 | Trade Counter Sales | Tessenderlo Group | Fareham, gb | 2026-09-25 |
 | Regional Director, Enterprise Sales — EMEA (First Leader: Nordics & UKI) | Dash0 | London | 2026-09-25 |
 | Business Development Manager | carwow.de | London | 2026-09-25 |
-| Business Development Manager | A-LIGN External | London, United Kingdom – Remote/In-Office Hybrid | 2026-09-25 |
+| Business Development Manager | A-LIGN External | London, United Kingdom – In-Office Hybrid | 2026-09-25 |
 | Sales Manager B2B Außendienst – Hunter Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hamburg, de | 2026-09-25 |
 | Field Sales Manager B2B – Neukundengewinnung im Außendienst (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hamburg, de | 2026-09-25 |
 | Sr Sales Executive - GIA | G-P | United Kingdom (Remote-First) | 2026-09-25 |
@@ -115,197 +306,6 @@ _20,833 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | Sales Associate | STUDS | 5064 Broadway Place Nashville, TN 37203 | 2026-09-25 |
 | Business Development Representative -Northeast | Integrated Specialty Coverages, LLC | New York, United States | 2026-09-25 |
 | Senior Territory Account Executive (Digital Native), ANZ (Based in Brisbane/Sydney/Melbourne) | Cloudflare | Hybrid | 2026-09-25 |
-| Senior Manager, BDR Japan | Cloudflare | Hybrid | 2026-09-25 |
-| Provider Partnerships Associate (Territory Sales) | Nourish | North San Diego, CA | 2026-09-25 |
-| Provider Partnerships Associate (Territory Sales) | Nourish | Santa Ana, CA | 2026-09-25 |
-| Business Development Lead, Enterprise Warehouse Robotics | Skild AI | San Mateo, CA | 2026-09-25 |
-| Partner Sales Manager Singapore (South East Asia) | Braze | Singapore | 2026-09-25 |
-| Product Sales Executive (Banking & Payments) | Careers at Tide | India, Delhi NCR | 2026-09-25 |
-| Sales Executive (Fintech / SME Growth) | Careers at Tide | India, Delhi NCR | 2026-09-25 |
-| Senior Inside Sales Executive (Fintech / SME Growth) | Careers at Tide | India, Delhi NCR | 2026-09-25 |
-| Senior Account Executive, Marketing Solutions | LinkedIn | Tokyo, jp | 2026-09-25 |
-| Sales Director - Seoul | Pallet | Seoul, South Korea | 2026-09-25 |
-| Enterprise Account Executive, French-Speaking - London, UK | Pallet | London, UK | 2026-09-25 |
-| Enterprise Account Executive - Spanish-Speaking - London, UK | Pallet | London, UK | 2026-09-25 |
-| Enterprise Account Executive, Portuguese-Speaking - London, UK | Pallet | London, UK | 2026-09-25 |
-| Enterprise Account Executive - German-Speaking - London, UK | Pallet | London, UK | 2026-09-25 |
-| Enterprise Account Executive - London, UK | Pallet | London, UK | 2026-09-25 |
-| Director of Sales - Dubai, UAE | Pallet | Dubai - Remote | 2026-09-25 |
-| Sales Associate - Apparel & Home (Full Time) - Montecito | Jenni Kayne | Montecito, CA | 2026-09-25 |
-| Virtual Sales Representative - Sleep - Remote | EVERSANA | Boston, us | 2026-09-25 |
-| Virtual Sales Representative - Sleep - Remote | EVERSANA | Los Angeles, us | 2026-09-25 |
-| Virtual Sales Representative - Sleep - Remote | EVERSANA | Philadelphia, us | 2026-09-25 |
-| Virtual Sales Representative - Sleep - Remote | EVERSANA | Chicago, us | 2026-09-25 |
-| Virtual Sales Representative - Sleep - Remote | EVERSANA | Atlanta, us | 2026-09-25 |
-| Virtual Sales Representative - Sleep - Remote | EVERSANA | Tampa, us | 2026-09-25 |
-| Virtual Sales Representative - Sleep - Remote | EVERSANA | Dallas, us | 2026-09-25 |
-| Virtual Sales Representative - Sleep - Remote | EVERSANA | Denver, us | 2026-09-25 |
-| Enterprise Account Executive | Databricks | Sydney, Australia | 2026-09-25 |
-| Assistant Sales Manager | Weekday AI | Bengaluru, India | 2026-09-25 |
-| Home Health and Hospice Sales Consultant | AdvisaCare | Allegan County, United States | 2026-09-25 |
-| Home Health and Hospice Sales Consultant | AdvisaCare | Lapeer County, United States | 2026-09-25 |
-| German Speaking Sales Representative for Energy Audit - Work In Sofia, Bulgaria | Mercier Consultancy Group | Sofia, Bulgaria | 2026-09-25 |
-| Sales Executive | ODK Media | Irvine, United States | 2026-09-25 |
-| Home Health and Hospice Sales Consultant | AdvisaCare | Barry County, United States | 2026-09-25 |
-| Home Health and Hospice Sales Consultant | AdvisaCare | Van Buren County, United States | 2026-09-25 |
-| Salesperson #Sneaker10 Πειραιά | Cosmos Sport S.A. | Piraeus, Greece | 2026-09-25 |
-| Home Health and Hospice Sales Consultant | AdvisaCare | Oakland County, United States | 2026-09-25 |
-| Field Sales Representative \| National Broadband Ireland (NBI) | CPM Ireland | Galway, Ireland | 2026-09-25 |
-| Home Health and Hospice Sales Consultant | AdvisaCare | Jackson County, United States | 2026-09-25 |
-| Salesperson #Cosmos Sport Γλυφάδα | Cosmos Sport S.A. | Glyfada, Greece | 2026-09-25 |
-| Salesperson #Cosmos Sport Κατερίνη | Cosmos Sport S.A. | Katerini, Greece | 2026-09-25 |
-| Salesperson #Cosmos Sport Urban Λευκωσίας | Cosmos Sport S.A. | Nicosia, Cyprus | 2026-09-25 |
-| Enterprise Account Executive \| Burq.ai | Burq, Inc. | United States | 2026-09-25 |
-| Senior Sales Director | Amperity | San Francisco Bay Area, CA | 2026-09-24 |
-| Senior Sales Director | Amperity | San Francisco Bay Area, CA | 2026-09-24 |
-| Account Executive, Bridge | Stripe | LOCATION | 2026-09-24 |
-| Mid-Market Account Executive, Americas | Customer.io | Americas Remote | 2026-09-24 |
-| Manager, Sales Development | Box | San Francisco, CA | 2026-09-24 |
-| Named Sales Director, East | Cloudflare | Hybrid | 2026-09-24 |
-| Product Manager, Sales-Assisted Growth | Plaid | San Francisco HQ | 2026-09-24 |
-| IT Director, Salesforce Platform Owner | Heartflow | Rohnert Park, California | 2026-09-24 |
-| Director, Enterprise Sales - East | Drata | Remote - US | 2026-09-24 |
-| Seasonal Sales Associate - Roosevelt Field, New York | Gymshark | Roosevelt, New York, United States | 2026-09-24 |
-| Senior Sales Operations Business Partner | Huntress | Remote US | 2026-09-24 |
-| Senior Named Account Executive, Toronto | Cloudflare | Distributed | 2026-09-24 |
-| Salesforce Developer / Administrator – Audiobook Publisher \| Mexico | Truelogic | Mexico City | 2026-09-24 |
-| Salesforce Developer / Administrator – Audiobook Publisher \| DR | Truelogic | Santo Domingo | 2026-09-24 |
-| Salesforce Developer / Administrator – Audiobook Publisher \| Colombia | Truelogic | Bogota | 2026-09-24 |
-| Salesforce Developer / Administrator – Audiobook Publisher \| Brazil | Truelogic | São Paulo | 2026-09-24 |
-| Salesforce Developer / Administrator – Audiobook Publisher | Truelogic | LatAm | 2026-09-24 |
-| Customer Service Lead & Route Sales Associate | 1-800-GOT-JUNK? | Tucson, AZ | 2026-09-24 |
-| Manager, Digital Sales | Justworks | Phoenix, Arizona | 2026-09-24 |
-| Manager, Retirement Sales Activation | Human Interest | United States, Remote | 2026-09-24 |
-| Mid-Market Account Executive | Block | Bay Area, CA, United States of America | 2026-09-24 |
-| Sales Associate | Primark | Buffalo, us | 2026-09-24 |
-| Senior Account Executive | Lyft | San Francisco, CA | 2026-09-24 |
-| Sales Associate | Primark | Danbury, us | 2026-09-24 |
-| Replenishment Sales Associate (Part Time) | Primark | Buffalo, us | 2026-09-24 |
-| Replenishment Sales Associate (Part Time) | Primark | Danbury, us | 2026-09-24 |
-| Sales Activator | Red Bull | Fort Worth, us | 2026-09-24 |
-| Salesperson - Mercedes-Benz of Walnut Creek | Sonic Automotive | Walnut Creek, us | 2026-09-24 |
-| Sales Engineer | Numeric | New York | 2026-09-24 |
-| LA Galaxy, Manager, Ticket Sales and Service | AEG Worldwide | Carson, CA | 2026-09-24 |
-| Business Development Representative, AI Labs | Via | New York, New York | 2026-09-24 |
-| Senior Director, Sales and Revenue Operations | Omada Health | Remote, USA | 2026-09-24 |
-| Senior Sales Engineer - India | LaunchDarkly | India | 2026-09-24 |
-| Sales Associate | The Tile Shop | Denver, us | 2026-09-24 |
-| Truck Team and Sales Training | 1-800-GOT-JUNK? | Oklahoma City, OK | 2026-09-24 |
-| Business Development Fall Internship | NVE Experience Agency | Los Angeles, CA; Remote | 2026-09-24 |
-| Enterprise Account Executive - Expand - CA | Elastic | California, United States | 2026-09-24 |
-| Enterprise Account Executive - Expand - Bay Area | Elastic | San Francisco, CA | 2026-09-24 |
-| Sales Associate, Home Health | BAYADA Home Health Care | Charlotte, NC 28262 \| 35.324055066 \| -80.73727919 | 2026-09-24 |
-| Account Executive - Enterprise Sales (Greenfield) | New Relic | Los Angeles, California, USA; San Diego, California, USA | 2026-09-24 |
-| Client Success Manager, Enterprise Sales | Zocdoc | New York, NY | 2026-09-24 |
-| Senior Account Executive (2 Month FTC) | DEPT® | Toronto; Canada | 2026-09-24 |
-| Life Sciences Sales Account Manager - Southwest (Water Technologies) | Veolia Environnement SA | Irvine, us | 2026-09-24 |
-| Manager, Outside Sales | Block | London, United Kingdom | 2026-09-24 |
-| Account Executive, Federal (Intelligence Community) | Everpure | Remote, Virginia | 2026-09-24 |
-| Lighting Showroom Sales | REXEL | Pelham, us | 2026-09-24 |
-| VP Sales, Fashion Events | Informa Group Plc. | New York, us | 2026-09-24 |
-| Sr. Account Executive | Warp | New York | 2026-09-24 |
-| Head of Field Sales | Red Bull | Santa Monica, us | 2026-09-24 |
-| Inside Sales Specialist - Industrial Supplies | EquipmentShare | Odessa, TX (Tooling Solutions) | 2026-09-24 |
-| Customer Experience & Route Sales Lead | 1-800-GOT-JUNK? | Reno, NV | 2026-09-24 |
-| Director, Business Development | Owner | Remote - United States | 2026-09-24 |
-| Enterprise Business Development Representative | Toast | Remote, US | 2026-09-24 |
-| Commission Sales Associate | The Tile Shop | Deerfield, us | 2026-09-24 |
-| Business Development & Growth Associate, Pharma | Talkspace | New York, NY (Remote) | 2026-09-24 |
-| Territory Sales Representative / Restaurant Specialist - Pacific Beach / Point Loma / Kerny Mesa, San Diego, CA | Spoton | San Diego, CA | 2026-09-24 |
-| Palo Alto Networks Technical Business Development Manager | GuidePoint Security | Remote | 2026-09-24 |
-| Enterprise Account Executive | Flexport | Chicago, Illinois, United States | 2026-09-24 |
-| Senior Analyst, Sales Strategy and Planning | MongoDB | Austin | 2026-09-24 |
-| Sales Support Associate | MongoDB | Gurugram | 2026-09-24 |
-| Territory Sales Manager | Fortune Brands | North Olmsted, us | 2026-09-24 |
-| Remote Inbound Sales Agent (Fintech) | Jerry.Ai | New York, New York | 2026-09-24 |
-| Remote Inside Sales Associate (Insurance Tech Startup) | Jerry.Ai | Miami, Florida | 2026-09-24 |
-| Parts Service Sales Representative | EquipmentShare | Kansas City, MO | 2026-09-24 |
-| Automotive Sales Consultant | Sonic Automotive | Avondale, us | 2026-09-24 |
-| Account Sales Manager | Red Bull | Cleveland, us | 2026-09-24 |
-| Inbound Sales Supervisor | SimpliSafe | Richmond, VA | 2026-09-24 |
-| Parts Sales Associate - Toyota of Mt Pleasant | Sonic Automotive | Mount Pleasant, us | 2026-09-24 |
-| Sales Trainee | Red Bull | Cleveland, us | 2026-09-24 |
-| Director, Programmatic Sales - Publicis | Wunderkind | New York | 2026-09-24 |
-| Territory Account Executive , Retail - Wichita, KS | Toast | Wichita, KS | 2026-09-24 |
-| SDR Manager | Warp | New York | 2026-09-24 |
-| BestDrive Commercial Sales Associate | Continental | Valdosta, us | 2026-09-24 |
-| Project Sales Representative | Sika AG | Nashville, us | 2026-09-24 |
-| Manager, Programmatic Sales | Wunderkind | New York | 2026-09-24 |
-| Sales Development Representative - San Francisco | Maven Agi | San Francisco | 2026-09-24 |
-| Territory Account Executive , SMB - Kendall, FL | Toast | Kendall, FL | 2026-09-24 |
-| Junk Removal & On-Site Sales | 1-800-GOT-JUNK? | Mission, KS | 2026-09-24 |
-| Automotive Sales Consultant | Sonic Automotive | Birmingham, us | 2026-09-24 |
-| Junk Removal & On-Site Sales | 1-800-GOT-JUNK? | Indianapolis, IN | 2026-09-24 |
-| Junk an Route Sales Associate | 1-800-GOT-JUNK? | Troy, MI | 2026-09-24 |
-| Junk and Route Sales Associate | 1-800-GOT-JUNK? | Dallas, TX | 2026-09-24 |
-| Automotive Sales Consultant (Pre-Owned) | Sonic Automotive | Grand Prairie, us | 2026-09-24 |
-| Senior Business Development Manager | Payoneer | Mexico City, Mexico | 2026-09-24 |
-| Junk and Field Sales Associate | 1-800-GOT-JUNK? | Pflugerville, TX | 2026-09-24 |
-| VP of Sales | Sweedpos.Com | US-based | 2026-09-24 |
-| Sales Engineer | Uipath | Remote-Mexico City | 2026-09-24 |
-| Business Development Manager, Facial Aesthetics | AbbVie | Indianapolis, us | 2026-09-24 |
-| Account Executive- BI Team | Lighthouse | Dallas-Fort Worth Metroplex | 2026-09-24 |
-| Revenue Cycle Management (RCM) Account Executive | Prompt | Remote | 2026-09-24 |
-| Account Executive, Enterprise (New Business & Expansion) | Culture Amp | New York City | 2026-09-24 |
-| Account Executive, Enterprise (New Business & Expansion) | Culture Amp | Austin, TX | 2026-09-24 |
-| AVP Sales, NEMEA | ExtraHop | United Kingdom | 2026-09-24 |
-| Strategic Account Executive | Happyrobot.Ai | Dubai | 2026-09-24 |
-| Strategic Account Executive | HappyRobot | Dubai | 2026-09-24 |
-| Account Sales Manager | Red Bull | Seaford, us | 2026-09-24 |
-| Strategic Account Executive | Happyrobot.Ai | Bonn | 2026-09-24 |
-| Strategic Account Executive | HappyRobot | Bonn | 2026-09-24 |
-| Strategic Account Executive | Happyrobot.Ai | Singapore | 2026-09-24 |
-| Strategic Account Executive | HappyRobot | Singapore | 2026-09-24 |
-| Regional Sales Director Federal-Civilian-HHS, DHS | Forward | DC, MD, VA Remote | 2026-09-24 |
-| Strategic Account Executive | HappyRobot | London | 2026-09-24 |
-| Strategic Account Executive | Happyrobot.Ai | London | 2026-09-24 |
-| Enterprise Account Executive - Bogota | Ideals | Bogotá, Colombia | 2026-09-24 |
-| Territory Account Executive- Northeast Downtown Calgary | Toast | Calgary, Alberta, Canada | 2026-09-24 |
-| Strategic Account Executive | HappyRobot | Sydney | 2026-09-24 |
-| Strategic Account Executive | Happyrobot.Ai | Sydney | 2026-09-24 |
-| Commercial Account Executive 2 | Zscaler | Remote - Illinois, USA; Remote - North Carolina, USA | 2026-09-24 |
-| Rental Sales Agent (Miami Dadeland) | SIXT | Miami, us | 2026-09-24 |
-| Account Executive, Service | Harperinsure | San Francisco | 2026-09-24 |
-| Sales Trainee | Red Bull | Brooklyn, us | 2026-09-24 |
-| Sales Development Representative (Hybrid) | Privia Health | Arlington, us | 2026-09-24 |
-| AI-Native Account Executive | Rox Data Corp | San Francisco | 2026-09-24 |
-| Multi-Dwelling Unit (MDU) Sales Executive | GFiber | San Francisco, California | 2026-09-24 |
-| Senior Sales Engineer - Enterprise | 1Password | Remote (United States \| Canada) | 2026-09-24 |
-| Founding Account Executive, Mexico | Telnyx | Mexico City, Ciudad de México, Mexico | 2026-09-24 |
-| Founding Account Executive, Brazil | Telnyx | São Paulo, Brazil | 2026-09-24 |
-| Part Time Sales Associate - (Seasonal) | Primark | Brooklyn, us | 2026-09-24 |
-| Sales & Service Manager - Naperville | ALO | Naperville, Illinois, United States | 2026-09-24 |
-| Founding Account Executive, UAE | Telnyx | Dubai, United Arab Emirates | 2026-09-24 |
-| Sales Development Representative | ID.me | McLean, Virginia | 2026-09-24 |
-| Silverlake Part-Time Seasonal Sales Associate | Parachute Home | Los Ángeles, California | 2026-09-24 |
-| Regional Sales Manager | Alarm.com | REMOTE | 2026-09-24 |
-| Senior Advertising Account Executive | 6sense | United States, Remote | 2026-09-24 |
-| Senior Advertising Account Executive | 6sense | United States, Remote | 2026-09-24 |
-| Sales Strategy and Operations Associate | LinkedIn | New York, us | 2026-09-24 |
-| Emerging Account Executive - London | Drata | Hybrid - London | 2026-09-24 |
-| Prenatal Account Executive | BillionToOne | St. George, UT | 2026-09-24 |
-| Bilingual Strategic Cuisines Inside Account Executive (Mandarin) | Toast | Chicago, IL | 2026-09-24 |
-| Bilingual Strategic Cuisines Inside Account Executive (Mandarin) | Toast | Dallas - Ft. Worth, TX | 2026-09-24 |
-| Bilingual Strategic Cuisines Inside Account Executive (Mandarin) | Toast | Houston, TX | 2026-09-24 |
-| Enterprise Sales Engineer | Ambient.Ai | New York City | 2026-09-24 |
-| Operations & Maintenance Sales & Service Manager | BEUMER Group | Aarhus, dk | 2026-09-24 |
-| Regional Sales Manager - Tampa, FL | ExtraHop | Tampa, FL | 2026-09-24 |
-| Salesforce Manager, AI & Agentforce Delivery | NeuraFlash, Part of Accenture | Remote - Canada (Alberta, British Columbia, Ontario Only) | 2026-09-24 |
-| Event Sales Representative (Part-Time) | BathWorks Michigan | Grand Rapids | 2026-09-24 |
-| Salesforce Manager, AI & Agentforce Delivery | NeuraFlash, Part of Accenture | Remote - United States | 2026-09-24 |
-| Salesforce Sr. Developer, AI & Agentforce | NeuraFlash, Part of Accenture | Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only) | 2026-09-24 |
-| Junk Removal & On-Site Sales | 1-800-GOT-JUNK? | Vinings, GA | 2026-09-24 |
-| Enterprise Account Executive (C1 - B2B) | CLEAR - Corporate | Chicago, IL, United States | 2026-09-24 |
-| Business Development Representative - NYC | Addepar | New York, NY | 2026-09-24 |
-| Sales Engineer, UK | Cribl | Remote - United Kingdom | 2026-09-24 |
-| Field Sales Development Representative (Remote) | Commure | United States | 2026-09-24 |
-| Sales Development Representative (Utah) | Commure | Lehi, UT | 2026-09-24 |
-| Business Development Representative (German-speaking) | IFS. AI-Powered Software Built for Your Industry | London, gb | 2026-09-24 |
-| Membership Sales Advisors, Plano | Equinox | Plano, us | 2026-09-24 |
-| Strategic Account Executive | Bevi | San Francisco | 2026-09-24 |
-| Regional Sales Manager | Netskope | Wisconsin, United States | 2026-09-24 |
-| Account Executive (English-speaking) | Clera | United States | 2026-09-24 |
-| Strategic Account Executive, Growth \| Salt Lake City or Denver \| Remote \| | Grafana Labs | United States (Remote) | 2026-09-24 |
 
 ---
 

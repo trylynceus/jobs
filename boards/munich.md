@@ -2,10 +2,11 @@
 
 Roles listing Munich as their location.
 
-_1,448 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
+_1,436 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Technical Specialist, CAE Crashworthiness | Lucid Motors | Munich, BY | 2026-09-26 |
 | Talent Acquisition Partner (all genders) | Lio | Munich Office | 2026-09-25 |
 | AIT Test & Assembly Technician | The Exploration Company | Munich, Germany | 2026-09-25 |
 | AIT Test Engineer | The Exploration Company | Munich, Germany | 2026-09-25 |
@@ -13,14 +14,15 @@ _1,448 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | AIT Mechanical Technician - Thermal Protection System | The Exploration Company | Munich, Germany | 2026-09-25 |
 | AIT Propulsion Engineer | The Exploration Company | Munich, Germany | 2026-09-25 |
 | Full Stack Engineer | Clera | Munich | 2026-09-25 |
+| Junior Financial Accountant (m/w/d) | Turner & Townsend | Munich, de | 2026-09-25 |
 | Intern External Communications | Celonis | Munich, Germany | 2026-09-25 |
 | Working Student External Communications | Celonis | Munich, Germany | 2026-09-25 |
+| Auszubildende zur/zum Rechtsanwaltsfachangestellten (m/w/d) - München | Clifford Chance | Munich, de | 2026-09-25 |
 | Mitarbeiter/in im internen Werk-und Objektschutz | Helsing | Munich | 2026-09-25 |
 | Accounts Payable Specialist | Roadsurfer.Com | Munich Office | 2026-09-25 |
 | Workplace Planning Lead | Helsing | Munich - Berlin | 2026-09-25 |
 | Security Guard | Helsing | Munich | 2026-09-25 |
-| Tech Lead & Product Owner - AI Platform (m/f/d) | SIXT | Munich, de | 2026-09-25 |
-| Sachbearbeiter (m/w/d) Auftragsabwicklung Labor | Eurofins | Munich, de | 2026-09-25 |
+| Business Development Director (DACH) | Destinus | Munich, Germany | 2026-09-25 |
 | Founding Machine Learning Engineer | Clera | Munich | 2026-09-24 |
 | Founding Technical Partnerships Lead | Clera | Munich | 2026-09-24 |
 | Founding Software Engineer | Clera | Munich | 2026-09-24 |
@@ -40,7 +42,6 @@ _1,448 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | Intern Sport Event Marketing | Red Bull | Munich, de | 2026-09-24 |
 | Implementation Manager DACH | Mollie | Munich | 2026-09-24 |
 | Senior Infrastructure Engineer (PostgreSQL DBA) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-09-24 |
-| Werkstudent Architektur & Retail Design (m/w/d) | Turner & Townsend | Munich, de | 2026-09-24 |
 | Costing Manager (m/f/d) | A2MAC1 | Munich, Germany | 2026-09-24 |
 | UAV Production Technician | Destinus | Munich, Germany | 2026-09-24 |
 | Director, Sovereign Cloud Partner Development | ServiceNow | Munich, de | 2026-09-23 |
@@ -72,7 +73,6 @@ _1,448 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | Product Engineer | Clera | Munich | 2026-09-22 |
 | Founding Engineer | Clera | Munich | 2026-09-22 |
 | Senior Robotic Systems Engineer | Clera | Munich | 2026-09-22 |
-| Intern Customer Service | Red Bull | Munich, de | 2026-09-22 |
 | Working Student - Product Analytics (F/M/D) | NavVis | Munich Hybrid (NavVis GmbH) | 2026-09-22 |
 | Senior Software Engineer - Engine Orchestration | Celonis | Munich, Germany | 2026-09-22 |
 | GTM Associate - Munich | Legora | Munich | 2026-09-22 |
@@ -164,8 +164,8 @@ _1,448 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | Service Advisor, Munich (m/f/d) | Lucid Motors | Munich, BY | 2026-09-16 |
 | Junior Software Engineer | Helsing | Berlin; London; Munich | 2026-09-16 |
 | Software Engineer (Early Careers) | Helsing | Berlin; London; Munich | 2026-09-16 |
-| Senior Business Value Consultant - Banking (m/f/d) | SAP Fioneer | Munich, Germany | 2026-09-16 |
 | Regional Costing, Insights & Consulting Director EMEA (m/f/d) | A2MAC1 | Munich, Germany | 2026-09-16 |
+| Senior Business Value Consultant - Banking (m/f/d) | SAP Fioneer | Munich, Germany | 2026-09-16 |
 | AIT MGSE Engineer | The Exploration Company | Munich, Germany | 2026-09-15 |
 | AI and Computer Vision Engineer | The Exploration Company | Munich, Germany | 2026-09-15 |
 | Kreditorenbuchhalter (m/w/d) | Helsing | Munich | 2026-09-15 |
@@ -203,8 +203,9 @@ _1,448 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | Flight Software Engineer | The Exploration Company | Munich, Germany | 2026-09-11 |
 | Community Manager | infinitSpace | Munich | 2026-09-11 |
 | Talent Acquisition Intern (all genders) | Lio | Munich Office | 2026-09-11 |
-| SAP BRIM Functional Lead - Digital Platforms - Germany | Infosys Consulting - Europe | Munich, Germany | 2026-09-11 |
 | SAP Finance Principal / Sr. Principal - Manufacturing | Infosys Consulting - Europe | Munich, Germany | 2026-09-11 |
+| SAP BRIM Functional Lead - Digital Platforms - Germany | Infosys Consulting - Europe | Munich, Germany | 2026-09-11 |
+| Senior Solutions Architect, Managed Service Providers | Everpure | Munich, Germany | 2026-09-10 |
 | Microwave Design Engineer | Proxima Fusion | Munich | 2026-09-10 |
 | Simulation Engineer | Helsing | Munich | 2026-09-10 |
 | Systems Engineer - Space | Helsing | Munich - Berlin - Paris | 2026-09-10 |
@@ -233,8 +234,8 @@ _1,448 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | Working Student Business Development & Growth Strategy (all genders) | Wemolo | Munich | 2026-09-09 |
 | Senior Software Engineer | Celonis | Munich, Germany | 2026-09-09 |
 | Enterprise Sales Manager | Adyen | Berlin; Munich | 2026-09-09 |
-| Senior Account Manager:in (m/w/d) | We Are Social | Munich, Germany | 2026-09-09 |
 | Junior IT Support Technician (Munich, Windows, Onsite Support, German/English) | D-ploy | Munich, Germany | 2026-09-09 |
+| Senior Account Manager:in (m/w/d) | We Are Social | Munich, Germany | 2026-09-09 |
 | Werkstudent Treasury & Corporate Finance (all genders) | Roland Berger | Munich, de | 2026-09-08 |
 | Collection Operations & Process Manager (all genders) | Wemolo | Munich | 2026-09-08 |
 | Senior Collection Operations & Process Manager (all genders) | Wemolo | Munich | 2026-09-08 |
@@ -305,7 +306,6 @@ _1,448 open · showing the 300 most recent · updated 2026-09-26 04:17 UTC_
 | Service Center Operations Specialist - Technical, Parts & Customer Experience | Lucid Motors | Munich, BY | 2026-09-01 |
 | Institutional Relations Senior Manager | FeverUp | Munich | 2026-09-01 |
 | Solution Architect (m/w/d) – Financial Services | Capco | Germany - Munich | 2026-09-01 |
-| Manager, Applied AI Architects | Openai | Munich, Germany | 2026-09-01 |
 
 ---
 
