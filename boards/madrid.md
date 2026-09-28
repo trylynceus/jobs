@@ -2,7 +2,7 @@
 
 Roles listing Madrid as their location.
 
-_805 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
+_810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -11,6 +11,7 @@ _805 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Retail Assistant - Dependiente/a | Primark | Madrid, es | 2026-09-26 |
 | Auxiliar Alimentación/No Alimentación - Turnos rotativos mañana y tarde - Paseo Imperial | METRO/MAKRO | Madrid, es | 2026-09-26 |
 | Brand Designer - EU | Quince | Germany - Berlin; London, England, United Kingdom; Spain - Madrid | 2026-09-25 |
+| Event Producer - Northern Europe | FeverUp | Madrid | 2026-09-25 |
 | Water Utilities Design Lead \| Water Supply & Wastewater | AECOM | Madrid, es | 2026-09-25 |
 | Revenue Operations Analyst (CX) | Pleo | Madrid | 2026-09-25 |
 | Modelador/a BIM - Puentes y Estructuras | AECOM | Madrid, es | 2026-09-25 |
@@ -75,8 +76,8 @@ _805 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Técnico Laboratorio de Química (área no instrumental) Temporal | SGS | Madrid, es | 2026-09-24 |
 | Técnico/a de recogida de muestras y ensayos físicos | SGS | Madrid, es | 2026-09-24 |
 | Técnico/a de Calibración - Área eléctrica | SGS | Madrid, es | 2026-09-24 |
-| Commercial Planning Manager | Destinus | Madrid, Spain | 2026-09-24 |
 | Office Coordinator (Part-Time) | Control Risks | Madrid, Spain | 2026-09-24 |
+| Commercial Planning Manager | Destinus | Madrid, Spain | 2026-09-24 |
 | Compensation & Benefits Specialist | Destinus | Madrid, Spain | 2026-09-24 |
 | Junior Project Manager - Global | FeverUp | Madrid | 2026-09-23 |
 | SOC Analyst L1- 12x7 | Devoteam | Madrid, es | 2026-09-23 |
@@ -103,8 +104,8 @@ _805 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Senior Technical Trainer | MSX International | Madrid, es | 2026-09-23 |
 | Formador / a técnico | MSX International | Madrid, es | 2026-09-23 |
 | Consultor/a senior SAP PP | Inetum | Madrid, es | 2026-09-23 |
-| Head of Bid Management & Commercial Operations | Destinus | Madrid, Spain | 2026-09-23 |
 | Technical Delivery Manager | Trinetix | Madrid, Spain | 2026-09-23 |
+| Head of Bid Management & Commercial Operations | Destinus | Madrid, Spain | 2026-09-23 |
 | Global Benefits and Leave Analyst | Netskope | Madrid, Madrid, Spain | 2026-09-22 |
 | Senior Appian Technical Specialist | Glinttglobal | Madrid | 2026-09-22 |
 | AI Product Engineer (Demo) | Celonis | Madrid, Spain | 2026-09-22 |
@@ -132,9 +133,9 @@ _805 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Finance Trainee | NBCUniversal | Madrid, es | 2026-09-22 |
 | Senior Manager, End User Experience | Nexthink | Madrid, es | 2026-09-22 |
 | Software Engineer | Nexthink | Madrid, es | 2026-09-22 |
-| B2B Systems & Component Sales Manager | Destinus | Madrid, Spain | 2026-09-22 |
-| Future Opportunities - General | Idoven | Madrid, Spain | 2026-09-22 |
 | Shift leader | Destinus | Madrid, Spain | 2026-09-22 |
+| Future Opportunities - General | Idoven | Madrid, Spain | 2026-09-22 |
+| B2B Systems & Component Sales Manager | Destinus | Madrid, Spain | 2026-09-22 |
 | Legal Commercial Counsel, EMEA | Axon | Madrid, Spain | 2026-09-21 |
 | International Law School Manager | Harvey | Madrid | 2026-09-21 |
 | Consultor/a Junior para Servicios de Movilidad | MSX International | Madrid, es | 2026-09-21 |
@@ -188,8 +189,8 @@ _805 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Business Operations Manager | FeverUp | Madrid | 2026-09-16 |
 | Executive Editor - French speaker | FeverUp | Madrid | 2026-09-16 |
 | Managing Editor - French speaker | FeverUp | Madrid | 2026-09-16 |
-| Prácticas en Innovación (Ingenieros TIC) | Ayming IE | Madrid, es | 2026-09-16 |
 | Prácticas en Innovación (Ingenieros TIC) | Ayming | Madrid, es | 2026-09-16 |
+| Prácticas en Innovación (Ingenieros TIC) | Ayming IE | Madrid, es | 2026-09-16 |
 | Senior Design Engineer, Design Operations: AI-Powered Design Platform | Celonis | Madrid, Spain | 2026-09-16 |
 | EDC Developer (Medidata RAVE and Zelta v1.0) | Ergomed | Madrid, es | 2026-09-16 |
 | Senior Analyst, Enterprise Risk Management | Payoneer | Madrid, Spain | 2026-09-16 |
@@ -294,8 +295,7 @@ _805 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | L&D Coordinator | Graphitehq | Madrid | 2026-09-04 |
 | Senior Transaction Monitoring Framework Specialist | Pleo | Madrid | 2026-09-04 |
 | Sr. Identity and Access Management Engineer | OneTrust | Madrid, Spain | 2026-09-04 |
-| Event Producer - Northern Europe (Madrid) | FeverUp | Amsterdam; Madrid | 2026-09-04 |
-| Event Producer - Northern Europe | FeverUp | Madrid | 2026-09-04 |
+| Live Events Producer - Northern Europe | FeverUp | Madrid | 2026-09-04 |
 | Associate Producer - Northern Europe (Madrid) | FeverUp | Madrid | 2026-09-04 |
 | Principal, Renewal Operations & Strategy | Nexthink | Madrid, es | 2026-09-04 |
 | LQA Analyst, Arabic | 2K Madrid | Madrid, Spain | 2026-09-04 |

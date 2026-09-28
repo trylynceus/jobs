@@ -2,7 +2,7 @@
 
 Roles listing Lisbon as their location.
 
-_510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
+_510 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -12,22 +12,26 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Business Development Representative - Portuguese Market (Full cycle) | Amenitiz | Lisbon | 2026-09-25 |
 | Business Development Representative - Mercado Português (Ciclo completo) | Amenitiz | Lisbon | 2026-09-25 |
 | Sales Executive - Mercado Português (Ciclo completo) | Amenitiz | Lisbon | 2026-09-25 |
-| Customer Support Opportunity in Portugal - Finnish Speakers Wanted | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Customer Support for French Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Customer Support - Norwegian Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Consulente Social Media con Italiano | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| AI Ads Customer Support | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Digital Support Agent with Ukrainian | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Modération de contenu | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Norwegian Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Online Security Sales Agent - Danish Speaker | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Operations Customer Expert with Polish | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Russian Interpretation Agent | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Polish Advisor - 1k Welcome Bonus | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Lead Product Manager | 1GLOBAL | Lisbon, Portugal | 2026-09-25 |
+| Customer Support - Norwegian Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Customer Support for French Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Customer Support Opportunity in Portugal - Finnish Speakers Wanted | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Senior AI Product Manager | 1GLOBAL | Lisbon, Portugal | 2026-09-25 |
-| Dutch-Speaking Social Media Consultant | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Conseiller de vente - Français | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Conseillers Clientèle Francophones | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| German Content Moderator | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Agent de Support Technique - Français | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| French speakers - Business Support | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Estonian Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| German Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Vendedor de Loja (M/F) - Mr. Blue Ubbo - Part Time (24h) | Mr. Blue | Lisbon, Portugal | 2026-09-25 |
+| German Digital Ads Sales Consultant | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Web Content Curator for Danish Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Ukrainian Interpretation Agent | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Technology Sales Specialist \| Italian Speaker | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Technical Support Specialist - Hungarian Market | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Technical Support Specialist - German Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Technical Support Specialist - Czech Market | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Tech Support Agent - Italian Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Swedish Digital Support Agent | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Support Specialist (Turkish) \| Lisbon | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Spanish Solutions Consultant | Atlean World | Lisbon, Portugal | 2026-09-25 |
@@ -40,7 +44,6 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Italian Sales Department - Remote | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Hebrew - Content Reviewer (Remote) | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Greek Sales Advisor | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| German Digital Ads Sales Consultant | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Estonian-Speaking Trust & Safety Analyst | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Dutch speakers for Global Tech Leader - Hybrid | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Dutch Social Media Advisor | Atlean World | Lisbon, Portugal | 2026-09-25 |
@@ -53,20 +56,17 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Digital Ads Sales Specialist - Dutch Market | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Danish Specialist - Food & Logistics Sector | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Content Moderator with Polish | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Lead Product Manager | 1GLOBAL | Lisbon, Portugal | 2026-09-25 |
-| Web Content Curator for Danish Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Online Security Sales Agent - Danish Speaker | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Operations Customer Expert with Polish | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Polish Advisor - 1k Welcome Bonus | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Russian Interpretation Agent | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Tech Support Agent - Italian Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Technical Support Specialist - Czech Market | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Technical Support Specialist - German Speakers | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Technical Support Specialist - Hungarian Market | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Technology Sales Specialist \| Italian Speaker | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Ukrainian Interpretation Agent | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Modération de contenu | Atlean World | Lisbon, Portugal | 2026-09-25 |
-| Norwegian Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| German Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Consulente Social Media con Italiano | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Vendedor de Loja (M/F) - Mr. Blue Ubbo - Part Time (24h) | Mr. Blue | Lisbon, Portugal | 2026-09-25 |
+| AI Ads Customer Support | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Agent de Support Technique - Français | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Conseiller de vente - Français | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Conseillers Clientèle Francophones | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| German Content Moderator | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| French speakers - Business Support | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Estonian Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-09-25 |
+| Dutch-Speaking Social Media Consultant | Atlean World | Lisbon, Portugal | 2026-09-25 |
 | Data Engineer | GoCardless | Lisbon, Portugal | 2026-09-24 |
 | FP&A Analyst | Unit4 | Lisbon, pt | 2026-09-24 |
 | Application Security Engineer | Thought Machine | Portugal, Lisbon | 2026-09-24 |
@@ -80,10 +80,10 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Senior Director of ICSR | Ergomed | Lisbon, pt | 2026-09-24 |
 | Senior Infrastructure Engineer (PostgreSQL DBA) | Workato | Lisbon, Portugal; Porto, Portugal | 2026-09-24 |
 | Site Reliability Engineer - Lisbon | Capital on Tap | Lisbon | 2026-09-24 |
+| Customer Experience Specialist (Portuguese/Spanish/English) | Treatwell | Lisbon, Portugal | 2026-09-24 |
 | Senior Data Scientist | Consent Management Platform (CMP) Usercentrics | Lisbon, Portugal | 2026-09-24 |
 | Técnico de Diagnóstico e Eletrónica Automóvel - LAB Expo | MyForce | Lisbon, Portugal | 2026-09-24 |
 | Eletricista / Técnico de Eletrónica Automóvel - LAB Expo | MyForce | Lisbon, Portugal | 2026-09-24 |
-| Customer Experience Specialist (Portuguese/Spanish/English) | Treatwell | Lisbon, Portugal | 2026-09-24 |
 | Senior Business Development Representative - EMEA | Salsify Product Experience Management | Lisbon, Portugal | 2026-09-23 |
 | Enterprise Account Manager | Riskified | Lisbon | 2026-09-23 |
 | Staff Data Engineer | Iterable | Hybrid - Lisbon, Portugal | 2026-09-23 |
@@ -152,11 +152,11 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Product Success Partner U4F Coda | Unit4 | Lisbon, pt | 2026-09-16 |
 | Diretor de Centro (M/F) - CC Telheiras | MyForce | Lisbon, Portugal | 2026-09-16 |
 | Chefe de Equipa Oficina (M/F) - CC Telheiras | MyForce | Lisbon, Portugal | 2026-09-16 |
-| Diretor de Centro (M/F) - Vasco da Gama | MyForce | Lisbon, Portugal | 2026-09-16 |
-| Diretor de Centro (M/F) - Telheiras | MyForce | Lisbon, Portugal | 2026-09-16 |
 | Diretor de Centro (M/F) - Expo | MyForce | Lisbon, Portugal | 2026-09-16 |
-| Técnico de Mecatrónica/Mecânico (M/F) - CC Telheiras | MyForce | Lisbon, Portugal | 2026-09-16 |
+| Diretor de Centro (M/F) - Telheiras | MyForce | Lisbon, Portugal | 2026-09-16 |
+| Diretor de Centro (M/F) - Vasco da Gama | MyForce | Lisbon, Portugal | 2026-09-16 |
 | Partnerships Associate (Digital Nomad) | Genki | Lisbon, Portugal | 2026-09-16 |
+| Técnico de Mecatrónica/Mecânico (M/F) - CC Telheiras | MyForce | Lisbon, Portugal | 2026-09-16 |
 | Software Engineer | Capital on Tap | Lisbon | 2026-09-15 |
 | Data Analyst | Conetic Group | Lisbon | 2026-09-15 |
 | Infrastructure Engineer | Thought Machine | Portugal, Lisbon | 2026-09-15 |
@@ -182,8 +182,8 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Pharmacovigilance Auditor - Freelance Position (1FTE or 0.6 FTE and above) | Ergomed | Lisbon, pt | 2026-09-08 |
 | Senior Compliance Manager | Unit4 | Lisbon, pt | 2026-09-08 |
 | Software Developer - Assistant Vice President | iCapital | Lisbon, Portugal | 2026-09-08 |
-| Network Operation Centre (NOC) Engineer - Telecommunications | 1GLOBAL | Lisbon, Portugal | 2026-09-08 |
 | IP Links Delivery Manager | 1GLOBAL | Lisbon, Portugal | 2026-09-08 |
+| Network Operation Centre (NOC) Engineer - Telecommunications | 1GLOBAL | Lisbon, Portugal | 2026-09-08 |
 | Account Executive - Lisbon | OpenTable | Lisbon, Portugal | 2026-09-07 |
 | BDR Team Lead - Portuguese Market | Amenitiz | Lisbon | 2026-09-07 |
 | ServiceNow Developer | Unit4 | Lisbon, pt | 2026-09-07 |
@@ -192,8 +192,8 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Senior Account Executive | Outsystems | Global Sales Portugal - Lisbon | 2026-09-05 |
 | Junior Project Manager | FeverUp | Lisbon | 2026-09-04 |
 | Technical Support Specialist | Mollie | Lisbon | 2026-09-03 |
-| Técnico de Mecatrónica/Mecânico (M/F) - Vasco da Gama | MyForce | Lisbon, Portugal | 2026-09-03 |
 | AI Adverts Support (English Language) | Atlean World | Lisbon, Portugal | 2026-09-03 |
+| Técnico de Mecatrónica/Mecânico (M/F) - Vasco da Gama | MyForce | Lisbon, Portugal | 2026-09-03 |
 | Chefe de Equipa Oficina (M/F) - Vasco da Gama | MyForce | Lisbon, Portugal | 2026-09-03 |
 | Freelance Photographer | Treatwell | Lisbon, Portugal | 2026-09-02 |
 | Software Developer in Test (C#) | Veeam Software | Lisbon, Portugal | 2026-09-01 |
@@ -203,29 +203,29 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Level 2 Technical Support, Portugal | Verifone | Lisbon, Portugal | 2026-08-28 |
 | Data Engineer | 1GLOBAL | Lisbon, Portugal | 2026-08-28 |
 | Middle/Senior Java Developer | Veeam Software | Lisbon, Portugal | 2026-08-27 |
+| Senior Accountant | 1GLOBAL | Lisbon, Portugal | 2026-08-27 |
+| Consulente Social Media - Italiano | Atlean World | Lisbon, Portugal | 2026-08-27 |
 | Danish Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-08-27 |
 | German Account Support Specialist | Atlean World | Lisbon, Portugal | 2026-08-27 |
-| Consulente Social Media - Italiano | Atlean World | Lisbon, Portugal | 2026-08-27 |
-| Senior Accountant | 1GLOBAL | Lisbon, Portugal | 2026-08-27 |
 | Renewals and Deal Desk Operations Specialist | Unit4 | Lisbon, pt | 2026-08-26 |
 | Python Developer | iCapital | Lisbon, Portugal | 2026-08-26 |
 | Application Security Architect | Riskified | Lisbon | 2026-08-26 |
 | Threat and Analytics Lead | GoCardless | Lisbon, Portugal | 2026-08-26 |
 | SaaS Account Executive - France | Mollie | Lisbon | 2026-08-26 |
 | SaaS Account Executive - France | Mollie | Lisbon | 2026-08-26 |
-| Charging Team Lead | 1GLOBAL | Lisbon, Portugal | 2026-08-26 |
-| Ukrainian Interpreter with English | Atlean World | Lisbon, Portugal | 2026-08-26 |
-| Staff Engineer (remote work) | Cloudlinux | Lisbon, Portugal | 2026-08-26 |
-| Customer Support Specialist for Danish Speakers (Remote) | Atlean World | Lisbon, Portugal | 2026-08-26 |
+| Arabic AI Reviewer | Atlean World | Lisbon, Portugal | 2026-08-26 |
 | Norwegian Social Media Advisor | Atlean World | Lisbon, Portugal | 2026-08-26 |
+| Customer Support Specialist for Danish Speakers (Remote) | Atlean World | Lisbon, Portugal | 2026-08-26 |
 | Guest Experience & Operations Specialist with Italian | Atlean World | Lisbon, Portugal | 2026-08-26 |
 | Digital Marketing Support Specialist - French Speakers | Atlean World | Lisbon, Portugal | 2026-08-26 |
-| Arabic AI Reviewer | Atlean World | Lisbon, Portugal | 2026-08-26 |
-| Czech Digital Content Review Agent | Atlean World | Lisbon, Portugal | 2026-08-26 |
+| Staff Engineer (remote work) | Cloudlinux | Lisbon, Portugal | 2026-08-26 |
+| Ukrainian Interpreter with English | Atlean World | Lisbon, Portugal | 2026-08-26 |
 | Finnish Digital Content Review Specialist | Atlean World | Lisbon, Portugal | 2026-08-26 |
+| Czech Digital Content Review Agent | Atlean World | Lisbon, Portugal | 2026-08-26 |
+| Charging Team Lead | 1GLOBAL | Lisbon, Portugal | 2026-08-26 |
 | QA Automation Engineer with Java | Veeam Software | Lisbon, Portugal | 2026-08-25 |
-| Lidera o Estilo - FlagShip Store Manager Mr. Blue | Mr. Blue | Lisbon, Portugal | 2026-08-25 |
 | French Beauty Advisor - Hybrid | Atlean World | Lisbon, Portugal | 2026-08-25 |
+| Lidera o Estilo - FlagShip Store Manager Mr. Blue | Mr. Blue | Lisbon, Portugal | 2026-08-25 |
 | Growth Manager - Campaigns | OKX | Germany (Remote); Lisbon, Portugal; Netherlands (Remote) | 2026-08-24 |
 | Senior IT Project Manager - LIMS | Fusion Consulting | Lisbon, pt | 2026-08-24 |
 | Application Security Engineer - Vice President | iCapital | Lisbon, Portugal | 2026-08-24 |
@@ -251,8 +251,8 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Business Support Specialist - Swedish speaking | Mollie | Lisbon | 2026-08-17 |
 | Sales Development Representative - Italy | Mollie | Lisbon | 2026-08-17 |
 | Sales Development Representative - Italy | Mollie | Lisbon | 2026-08-17 |
-| Turkish Social Media Support | Atlean World | Lisbon, Portugal | 2026-08-17 |
 | Dutch Back Office - Automative Sector 2K | Atlean World | Lisbon, Portugal | 2026-08-17 |
+| Turkish Social Media Support | Atlean World | Lisbon, Portugal | 2026-08-17 |
 | Media Buyer / Creative Strategist (Remote) | Sweat Pants Agency | Lisbon, Portugal | 2026-08-16 |
 | Business Support Specialist - German speaking | Mollie | Lisbon | 2026-08-14 |
 | Business Support Specialist - German speaking | Mollie | Lisbon | 2026-08-14 |
@@ -265,8 +265,8 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Stock & Logistics Manager | Iceye | Lisbon | 2026-08-13 |
 | Facility & Lab Manager | Iceye | Lisbon | 2026-08-13 |
 | Senior AI Engineer | Riskified | Lisbon | 2026-08-13 |
-| Customer Service \| Lisbon, Portugal | Atlean World | Lisbon, Portugal | 2026-08-13 |
 | Deputy CISO - Operational Delivery | 1GLOBAL | Lisbon, Portugal | 2026-08-13 |
+| Customer Service \| Lisbon, Portugal | Atlean World | Lisbon, Portugal | 2026-08-13 |
 | Staff Engineer - Data Platform Experience | Datadog | Lisbon, Portugal | 2026-08-12 |
 | Senior Software Engineer - REDAPL Graph Engine | Datadog | Lisbon, Portugal | 2026-08-12 |
 | Software Engineer | ComplyAdvantage | Lisbon, Portugal | 2026-08-12 |
@@ -280,10 +280,10 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Software Developer in Test (Python) | Veeam Software | Lisbon, Portugal | 2026-08-07 |
 | QA Engineer | Veeam Software | Lisbon, Portugal | 2026-08-07 |
 | Software Engineer - Assistant Vice President | iCapital | Lisbon, Portugal | 2026-08-07 |
-| Data Engineer II | Iterable | Hybrid - Lisbon, Portugal | 2026-08-07 |
-| Software Engineer II (Developer Platform) | Iterable | Hybrid - Lisbon, Portugal | 2026-08-07 |
+| AI Engineer - Nova Agents | Iterable | Hybrid - Lisbon, Portugal | 2026-08-07 |
 | Senior Machine Learning Engineer | Iterable | Hybrid - Lisbon, Portugal | 2026-08-07 |
-| Senior Machine Learning Engineer (Nova) | Iterable | Hybrid - Lisbon, Portugal | 2026-08-07 |
+| Software Engineer II (Developer Platform) | Iterable | Hybrid - Lisbon, Portugal | 2026-08-07 |
+| Data Engineer II | Iterable | Hybrid - Lisbon, Portugal | 2026-08-07 |
 | Cloud Security Engineer - Assistant Vice President | iCapital | Lisbon, Portugal | 2026-08-07 |
 | Senior Data Scientist, Payment Intelligence | GoCardless | Lisbon, Portugal | 2026-08-07 |
 | IT On-Site Support | Iceye | Lisbon | 2026-08-07 |
@@ -295,14 +295,14 @@ _510 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | International Platform Solutions - Data Analyst | iCapital | Lisbon, Portugal | 2026-08-06 |
 | Copy of ePMO Tooling, AI and Center of Excellence Project Manager | Unit4 | Lisbon, pt | 2026-08-05 |
 | Senior Business Development Representative - US Market | Salsify Product Experience Management | Hybrid - Lisbon, Portugal | 2026-08-05 |
+| Technology Program Manager - Associate | iCapital | Lisbon, Portugal | 2026-08-04 |
+| Fund Finance, Hedge Funds - Associate | iCapital | Lisbon, Portugal | 2026-08-04 |
 | Full Stack Engineer - Vice President | iCapital | Lisbon, Portugal | 2026-08-04 |
 | Design System Designer - Assistant Vice President | iCapital | Lisbon, Portugal | 2026-08-04 |
-| Technology Data Solutions Engineer - Vice President | iCapital | Lisbon, Portugal | 2026-08-04 |
-| International Controller - Associate | iCapital | Lisbon, Portugal | 2026-08-04 |
-| Software Engineer - Associate | iCapital | Lisbon, Portugal | 2026-08-04 |
-| Fund Finance, Hedge Funds - Associate | iCapital | Lisbon, Portugal | 2026-08-04 |
 | Software Engineer - Assistant Vice President | iCapital | Lisbon, Portugal | 2026-08-04 |
-| Technology Program Manager - Associate | iCapital | Lisbon, Portugal | 2026-08-04 |
+| Technology Data Solutions Engineer - Vice President | iCapital | Lisbon, Portugal | 2026-08-04 |
+| Software Engineer - Associate | iCapital | Lisbon, Portugal | 2026-08-04 |
+| International Controller - Associate | iCapital | Lisbon, Portugal | 2026-08-04 |
 | Associate Case Processing Manager (Line Management position) | Ergomed | Lisbon, pt | 2026-08-04 |
 | Associate Case Processing Manager (Line Management position) | Ergomed | Lisbon, pt | 2026-08-04 |
 | Sales Manager - Portuguese Market | Amenitiz | Lisbon | 2026-08-04 |

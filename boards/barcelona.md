@@ -2,7 +2,7 @@
 
 Roles listing Barcelona as their location.
 
-_874 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
+_873 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -25,9 +25,9 @@ _874 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Sr Analyst Growth | Delivery Hero | Barcelona, es | 2026-09-25 |
 | Client Engineer (Unity, Real User Monitoring) - Unannounced Project | Scopely | ES - Barcelona, Spain | 2026-09-25 |
 | Junior Labour Lawyer | Delivery Hero | Barcelona, es | 2026-09-25 |
-| Coordinador/a de Producción | Fernández | Barcelona, Spain | 2026-09-25 |
 | Freelance Project Manager | pubGENIUS | Barcelona, Spain | 2026-09-25 |
 | Facilities Manager (Spain) | Technation | Barcelona, Spain | 2026-09-25 |
+| Coordinador/a de Producción | Fernández | Barcelona, Spain | 2026-09-25 |
 | Senior Cybersecurity Engineer | Devoteam | Barcelona, es | 2026-09-24 |
 | Junior Privacy Counsel | Delivery Hero | Barcelona, es | 2026-09-24 |
 | Privacy Counsel | Delivery Hero | Barcelona, es | 2026-09-24 |
@@ -69,8 +69,8 @@ _874 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Account Manager Long Tail - Italian Speaking | Perk | Barcelona | 2026-09-22 |
 | General Manager Associate - Spain 🇪🇸 | Alan | Madrid, Spain; Barcelona, Spain | 2026-09-22 |
 | Senior Manager, Growth Strategy & Operations (PLG & Pricing) | Preply | Barcelona | 2026-09-22 |
-| Machine Learning Research Engineer | Seqera | Barcelona | 2026-09-22 |
 | Machine Learning Research Engineer | Seqera.Io | Barcelona (Spain) | 2026-09-22 |
+| Machine Learning Research Engineer | Seqera | Barcelona | 2026-09-22 |
 | Senior Knowledge Graph Engineer | EcoVadis | Barcelona, es | 2026-09-22 |
 | Ingeniero de Instalaciones MEP | Utopia | Barcelona, Spain | 2026-09-22 |
 | Associate Compensation Specialist, Global Compensation Programs | Scopely | ES - Barcelona, Spain | 2026-09-21 |
@@ -139,10 +139,10 @@ _874 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Data Science Engineer | Lighthouse | Barcelona, Spain | 2026-09-14 |
 | Account Executive II | Hudl | Barcelona, Spain | 2026-09-14 |
 | BDR \| Barcelona/Madrid - Spanish Market | Lexroom | Barcelona | 2026-09-14 |
-| Business Excellence Intern | Exoticca | Barcelona, Spain | 2026-09-14 |
-| AI Strategy Director | Visium SA | Barcelona, Spain | 2026-09-14 |
 | IT Strategy & Performance Analyst | Unilabs | Barcelona, Spain | 2026-09-14 |
 | Head of Research Software & Integrations | Technation | Barcelona, Spain | 2026-09-14 |
+| AI Strategy Director | Visium SA | Barcelona, Spain | 2026-09-14 |
+| Business Excellence Intern | Exoticca | Barcelona, Spain | 2026-09-14 |
 | QA Analyst | Scopely | ES - Barcelona, Spain | 2026-09-11 |
 | Analista Funcional (m/f/d) | T-Systems Iberia | Reus y Barcelona, es | 2026-09-11 |
 | Analista Funcional de software para Administración Pública (m/f/d) | T-Systems Iberia | Reus y Barcelona, es | 2026-09-11 |
@@ -204,9 +204,9 @@ _874 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Senior Performance Marketing Manager | Amenitiz | Barcelona | 2026-09-04 |
 | SEO & GEO Manager | Amenitiz | Barcelona | 2026-09-04 |
 | Data Engineer | Bynder | Barcelona | 2026-09-04 |
+| Head of Technical Services | Technation | Barcelona, Spain | 2026-09-04 |
 | B2B Travel Advisor Support (French Speaker) | Exoticca | Barcelona, Spain | 2026-09-04 |
 | Finance Analyst | Cledara | Barcelona, Spain | 2026-09-04 |
-| Head of Technical Services | Technation | Barcelona, Spain | 2026-09-04 |
 | Product Design Lead | FeverUp | Barcelona | 2026-09-03 |
 | Operations Coordinator | Alan | Madrid, Spain; Barcelona, Spain | 2026-09-03 |
 | Senior Sales Manager, French Market | Perk | Barcelona | 2026-09-03 |
@@ -266,7 +266,6 @@ _874 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Robotics Senior Manufacturing Engineer | Helsing | Barcelona | 2026-08-27 |
 | Implementation Specialist (French Market) | Perk | Barcelona | 2026-08-27 |
 | Playable Ads Developer_Flamed | Scopely | ES - Barcelona, Spain | 2026-08-27 |
-| Head of Product Development | Appodeal | Barcelona, Spain | 2026-08-27 |
 | B2B Customer Experience Coordinator | Exoticca | Barcelona, Spain | 2026-08-27 |
 | Lead UI Artist - MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-08-26 |
 | UI Artist - MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-08-26 |
@@ -294,18 +293,19 @@ _874 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Senior Analytics Engineer | Perk | Barcelona | 2026-08-24 |
 | Account Manager | Omnicom Health | Barcelona, ES | 2026-08-24 |
 | Hardware Electronics Engineer - Robotics | Helsing | Barcelona | 2026-08-24 |
-| Finance Intern | Exoticca | Barcelona, Spain | 2026-08-24 |
-| Associate Partner - AI & Data - Life Sciences | Visium SA | Barcelona, Spain | 2026-08-24 |
 | B2B Partner Onboarding & Enablement Specialist | Exoticca | Barcelona, Spain | 2026-08-24 |
+| Associate Partner - AI & Data - Life Sciences | Visium SA | Barcelona, Spain | 2026-08-24 |
+| Finance Intern | Exoticca | Barcelona, Spain | 2026-08-24 |
 | Lead Game Capture Artist | Scopely | ES - Barcelona, Spain | 2026-08-21 |
-| Head of Platform Engineering | Seqera.Io | Barcelona (Spain) | 2026-08-21 |
 | Head of Platform Engineering | Seqera | Barcelona | 2026-08-21 |
+| Head of Platform Engineering | Seqera.Io | Barcelona (Spain) | 2026-08-21 |
 | Senior Animator – MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-08-21 |
 | Senior Product Manager performance - Monopoly GO! | Scopely | ES - Barcelona, Spain | 2026-08-21 |
 | Associate Counsel, Product & Privacy | Scopely | ES - Barcelona, Spain | 2026-08-21 |
 | Customer Care Specialist - Finance & Accounting Platforms | Perk | Barcelona | 2026-08-20 |
 | Customer Care Specialist - Finance & Accounting Platforms | Perk | Barcelona | 2026-08-20 |
 | Administrador/a SIEM SPLUNK (m/f/d) | T-Systems Iberia | Madrid, Barcelona o Granada, es | 2026-08-20 |
+| Sr Marketing Artist | Scopely | ES - Barcelona, Spain | 2026-08-20 |
 
 ---
 

@@ -2,31 +2,63 @@
 
 Roles listing Berlin as their location.
 
-_2,674 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
+_2,666 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
-| Brand Marketing Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
-| (Senior) Product Manager (m/w/d) | Rabot Energy | Berlin, Hamburg | 2026-09-26 |
-| VP Operations & Customer Success (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
-| People & Talent Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
-| Team Lead Customer Service (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
-| Sales Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
-| Practice Lead B2B2C (m/w/d) – Partner Acquisition | Rabot Energy | Berlin | 2026-09-26 |
+| Software Engineer, Foundation | Clera | Berlin | 2026-09-26 |
+| Founding Customer Success Manager | Clera | Berlin | 2026-09-26 |
+| Data Scientist | Clera | Berlin | 2026-09-26 |
+| Founding Product Designer | Clera | Berlin | 2026-09-26 |
 | Growth Marketing Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
 | PR Manager (m/w/d) – Batteriespeicher & Rabot Flow | Rabot Energy | Berlin | 2026-09-26 |
 | Creative Designer (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
+| Sales Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
+| Forward Deployed Engineer (m/f/d) - AI Automation | Rabot Energy | Hamburg, Berlin | 2026-09-26 |
+| Content Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
 | Business Development Manager Tech Partnerships (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
 | CRM Campaign Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
-| Content Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
-| Forward Deployed Engineer (m/f/d) - AI Automation | Rabot Energy | Hamburg, Berlin | 2026-09-26 |
+| Practice Lead B2B2C (m/w/d) – Partner Acquisition | Rabot Energy | Berlin | 2026-09-26 |
+| People & Talent Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
 | Forward Deployed Engineer (m/w/d) - AI Automation, intern | Rabot Energy | Hamburg, Berlin | 2026-09-26 |
+| Brand Marketing Manager (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
+| VP Operations & Customer Success (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
+| (Senior) Product Manager (m/w/d) | Rabot Energy | Berlin, Hamburg | 2026-09-26 |
+| Team Lead Customer Service (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
+| Product Engineer | Clera | Berlin | 2026-09-26 |
+| Software Engineer (Voice AI / Backend) | Clera | Berlin | 2026-09-26 |
+| Deployment Strategist / Success Engineer | Clera | Berlin | 2026-09-26 |
+| Account Executive (Mid-market & Enterprise) | Clera | Berlin | 2026-09-26 |
+| Workplace and People Operations Manager | Clera | Berlin | 2026-09-26 |
+| Founding GTM Lead - UK | Clera | Berlin | 2026-09-26 |
+| Head of Sales | Clera | Berlin | 2026-09-26 |
+| Founder's Associate - Product | Clera | Berlin | 2026-09-26 |
+| Head of Finance | Bunch | Berlin | 2026-09-26 |
+| Marketing Lead / Product Marketing Manager | Clera | Berlin | 2026-09-26 |
+| Sales Development Representative (Founding) | Clera | Berlin | 2026-09-26 |
 | Office Manager (m/f/d) | Glassdollar | Berlin | 2026-09-26 |
 | Brand Designer - EU | Quince | Germany - Berlin; London, England, United Kingdom; Spain - Madrid | 2026-09-25 |
+| Product Engineer | Clera | Berlin | 2026-09-25 |
+| Senior People and Culture Manager | Clera | Berlin | 2026-09-25 |
+| Agent Deployment Manager | Clera | Berlin | 2026-09-25 |
+| Founders Associate (Intern) | Clera | Berlin | 2026-09-25 |
+| Senior Enterprise Sales Manager | Clera | Berlin | 2026-09-25 |
+| Forward Deployed Engineer | Clera | Berlin | 2026-09-25 |
+| Founding Engineer | Clera | Berlin | 2026-09-25 |
+| Chief of Staff / Founders Associate | Clera | Berlin | 2026-09-25 |
+| Agent Deployment Lead | Clera | Berlin | 2026-09-25 |
+| Founding GTM Lead | Clera | Berlin | 2026-09-25 |
+| Founding BDR | Clera | Berlin | 2026-09-25 |
+| Sales Development Representative | Clera | Berlin | 2026-09-25 |
+| Operations Manager | Clera | Berlin | 2026-09-25 |
+| Founders Associate (Junior Generalist) | Clera | Berlin | 2026-09-25 |
 | Sales Development Representative | Planet | Berlin, Germany | 2026-09-25 |
+| Chief of Staff (Senior Generalist) | Clera | Berlin | 2026-09-25 |
 | Operations Intern (Conversion to Full-Time) | Clera | Berlin | 2026-09-25 |
 | Backend Engineer | Clera | Berlin | 2026-09-25 |
+| (Senior) Forward Deployed AI Engineer (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-25 |
 | Intern Brand Marketing (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-25 |
+| Senior Analyst - CX Automation Intelligence & Insights | HelloFresh | Berlin, Berlin, Germany | 2026-09-25 |
 | Empfangsmitarbeiter (m/w/d) für Front Office und Bar | Motel One | Berlin, de | 2026-09-25 |
 | Ausbildung Hotelfachmann/-frau (m/w/d) | Motel One | Berlin, de | 2026-09-25 |
 | Aushilfe Bar (m/w/d) | Motel One | Berlin, de | 2026-09-25 |
@@ -40,6 +72,10 @@ _2,674 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Entrepreneur in Residence (d/f/m) | Taxfix.Com | Berlin | 2026-09-25 |
 | Sicherheitsmitarbeiter (m/w/d) in einer Gemeinschaftsunterkunft | Securitas | Berlin, de | 2026-09-25 |
 | Teamleiter (m/w/d) für Revier-/Alarmfahrer | Securitas | Berlin, de | 2026-09-25 |
+| Engineering Manager, Core Commerce Services (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-25 |
+| Engineering Manager (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-25 |
+| Senior Android Engineer, AdTech (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-25 |
+| Senior iOS Developer, AdTech (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-25 |
 | Senior Systemadministrator (m/w/d) | ENERTRAG SE | Berlin, de | 2026-09-25 |
 | Werkstudent Customer Success (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-09-25 |
 | Senior Manager - Automotive Warranty and Services Expert (f/m/x) | AUTO1 Group | Berlin, de | 2026-09-25 |
@@ -130,9 +166,9 @@ _2,674 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Chief of Staff to the Co-CEO - m/f/d | Langdock | Berlin | 2026-09-24 |
 | Chief of Staff to the Co-CEO - m/f/d | Langdock | Berlin | 2026-09-24 |
 | Marketplace Data Analyst (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-24 |
-| Senior Energy Analyst | Gridcog | Berlin, Germany | 2026-09-24 |
 | Head of Creator Solutions (m/w/d) | We Are Social | Berlin, Germany | 2026-09-24 |
 | Energy Analyst | Gridcog | Berlin, Germany | 2026-09-24 |
+| Senior Energy Analyst | Gridcog | Berlin, Germany | 2026-09-24 |
 | GTM Enablement Intern | Peec AI | Berlin | 2026-09-23 |
 | GTM Enablement Specialist | Peec AI | Berlin | 2026-09-23 |
 | Senior UI/UX Designer | Perry Street Software | Berlin | 2026-09-23 |
@@ -173,8 +209,8 @@ _2,674 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Werkstudent Rezeptmanagement (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-23 |
 | Technology Partner Manager | Adyen | Amsterdam; Berlin | 2026-09-23 |
 | QC Technician (Product) (m/w/d) | LGC | Berlin, de | 2026-09-23 |
-| Junior CS Agent - German Speaking (m/f/d) | Raisin | Berlin, Germany | 2026-09-23 |
 | Junior CS Agent – German Speaking (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-23 |
+| Junior CS Agent - German Speaking (m/f/d) | Raisin | Berlin, Germany | 2026-09-23 |
 | Elektroniker*in für Automatisierungs- und EMSR-Technik (m/w/d) | LGC | Berlin, de | 2026-09-23 |
 | BTA / MTA – QC Technician Microbiologie* (m/w/d) | LGC | Berlin, de | 2026-09-23 |
 | CTA / Laborant*in Qualitätskontrolle (m/w/d) | LGC | Berlin, de | 2026-09-23 |
@@ -199,9 +235,9 @@ _2,674 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Indirect Procurement Senior Manager - Marketing (All genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-23 |
 | Senior Category Manager – Marketing (All Genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-23 |
 | Mitarbeiter Warenverräumung Obst & Gemüse (m/w/d) - Nachtschicht 35h/ Woche | METRO/MAKRO | Berlin, de | 2026-09-23 |
-| Associate Product Owner | Glassdollar | Berlin | 2026-09-23 |
 | Full Stack Engineer (m/f/d) | Glassdollar | Berlin | 2026-09-23 |
 | Sales Development Representative (SDR), Muttersprache Deutsch (m/f/d) | Glassdollar | Berlin | 2026-09-23 |
+| Associate Product Owner | Glassdollar | Berlin | 2026-09-23 |
 | Collections Team Lead (m/w/d) | YouLend | Berlin | 2026-09-23 |
 | Clinical Trial Manager | Avomind | Berlin, Germany | 2026-09-23 |
 | Sales Development Manager | Peec AI | Berlin | 2026-09-22 |
@@ -270,42 +306,6 @@ _2,674 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Growth Lead, New Brand, Germany | Careers at Eucalyptus | DE - HQ - Berlin; UK - HQ - London | 2026-09-21 |
 | (Senior) Product Manager Odoo (all genders) | Sunday Natural | Berlin | 2026-09-21 |
 | Senior iOS Developer (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-21 |
-| OT-Netzwerk-/ Security-Administrator:in | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-21 |
-| Senior Founding Engineer | Clera | Berlin | 2026-09-20 |
-| Senior Member of Commercial Staff | Clera | Berlin | 2026-09-20 |
-| Senior Backend Engineer | Clera | Berlin | 2026-09-20 |
-| Business Development Representative | Clera | Berlin | 2026-09-20 |
-| Senior Customer Engineer | Clera | Berlin | 2026-09-20 |
-| Head of Marketing / Marketing Lead | Clera | Berlin | 2026-09-20 |
-| Founder's Associate Intern / Working Student | Clera | Berlin | 2026-09-20 |
-| Founding Sales Development Representative | Clera | Berlin | 2026-09-19 |
-| Technical Support Engineer | Merge Labs | Berlin, DE | 2026-09-18 |
-| Director Own Brands (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-18 |
-| Senior People Partner, Technology & Product | Cint | Berlin, de | 2026-09-18 |
-| Process Engineer (m/f/d) | Rohlik | Berlin, Germany | 2026-09-18 |
-| Team Lead Deposit Operations - Synchronised Model (m/f/d) | Raisin | Berlin, Berlin, Germany | 2026-09-18 |
-| Technical Recruiter | LawZero | Berlin | 2026-09-18 |
-| Mitarbeiter Baurecht Immobilien (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Berlin, de | 2026-09-18 |
-| M365 Engineer – Microsoft Teams & SharePoint Online (w/m/d) | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-18 |
-| M365 Engineer – Power BI Plattform & M365 Platform Services (w/m/d) | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-18 |
-| M365 Engineer – Identity Administration & Automation (w/m/d) | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-18 |
-| Cloud Engineer – Azure Local & Enterprise Backup Solutions (w/m/d) | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-18 |
-| Junior Consultant Valuation (m/w/d) in Berlin / Frankfurt | Colliers International EMEA | Berlin, de | 2026-09-18 |
-| Oberbauleiter:in | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-18 |
-| (Senior) Retail Media Insights Manager (m/w/d) | Redcare Pharmacy | Berlin, de | 2026-09-18 |
-| Senior Google Shopping & Product Feed Manager (m/f/d) | Redcare Pharmacy | Berlin, de | 2026-09-18 |
-| Systems Engineer - Land | Helsing | Munich - Berlin | 2026-09-18 |
-| Senior Medical Content Manager (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-09-18 |
-| Head of Operations | Prior Labs | Berlin | 2026-09-18 |
-| Application Consultant SAP HCM & HR-Systeme | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-18 |
-| Application Consultant Billing / SAP IS-U | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-18 |
-| Senior Data Engineer | Kayak | Berlin Office | 2026-09-18 |
-| Senior Data Engineer | Kayak | Berlin | 2026-09-18 |
-| Mitarbeiter im Kundenservice (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-09-18 |
-| Kundenservicemitarbeiter (x/f/m) | Doctolib | Berlin, Berlin, Germany | 2026-09-18 |
-| Principal Engineer, Growth Mega Alliance (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-18 |
-| Enterprise Account Manager | Adyen | Berlin | 2026-09-18 |
-| Senior Marketing Data Analyst Pricing (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-09-18 |
 
 ---
 

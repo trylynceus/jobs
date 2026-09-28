@@ -2,7 +2,7 @@
 
 Roles listing Paris as their location.
 
-_2,435 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
+_2,430 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -86,8 +86,8 @@ _2,435 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Directeur Adjoint Cormeilles en Parisis (H/F/NB) | Kiabi | cormeilles en parisis, fr | 2026-09-25 |
 | Acheteur.se IT Senior (F/H/NB) | Ubisoft | Paris, fr | 2026-09-25 |
 | Acheteur.se IT Senior - Spécialisé Achats Cloud | Ubisoft | Paris, fr | 2026-09-25 |
-| Lead Product Manager - RPG | Homa | Paris, France | 2026-09-25 |
 | Responsable People / People Director | AREA 17 | Paris, France | 2026-09-25 |
+| Lead Product Manager - RPG | Homa | Paris, France | 2026-09-25 |
 | Compliance Officer | Fundcraft | Paris, France | 2026-09-25 |
 | Director, Satellite Business International \| Directeur(trice), Développement Commercial International - Satellites | Vast | Paris, France | 2026-09-24 |
 | Mobile Telecommunications Support Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-24 |
@@ -274,9 +274,9 @@ _2,435 open · showing the 300 most recent · updated 2026-09-27 04:19 UTC_
 | Gestionnaire de Parc Informatique H/F | NEXTON | Paris, fr | 2026-09-22 |
 | Legal Engineer Manager, Paris | Harvey | Paris | 2026-09-22 |
 | Médecin du travail | Alan | Paris | 2026-09-22 |
-| FP&A Intern | Singulier | Paris, France | 2026-09-22 |
-| Product Engineer Manager | GetVocal AI | Paris, France | 2026-09-22 |
 | Automotive Business Development Director - Premium & Luxury | CXG | Paris, France | 2026-09-22 |
+| Product Engineer Manager | GetVocal AI | Paris, France | 2026-09-22 |
+| FP&A Intern | Singulier | Paris, France | 2026-09-22 |
 | Forward Deployed Engineer, France | Telnyx | Paris, France | 2026-09-21 |
 | International Law School Manager | Harvey | Paris | 2026-09-21 |
 | Auto Loans Collections Associate | Sutherland | Kingsland, Manchester Parish, Jamaica, jm | 2026-09-21 |
