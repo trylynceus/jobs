@@ -2,10 +2,18 @@
 
 Roles listing San Francisco as their location.
 
-_12,107 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
+_12,113 open · showing the 300 most recent · updated 2026-09-29 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Spring 2027 Legal Intern, Immigrants' Rights Project- San Francisco | ACLU - Internships | Remote/Hybrid- San Francisco | 2026-09-28 |
+| Summer 2027 Legal Intern, Immigrants' Rights Project- San Francisco | ACLU - Internships | Remote/Hybrid- San Francisco | 2026-09-28 |
+| Spring 2027 Legal Intern, Disability Rights Program | ACLU - Internships | Remote/Hybrid-Washington D.C. or San Francisco CA | 2026-09-28 |
+| Analytics Engineer | Taskrabbit | San Francisco, California, United States | 2026-09-28 |
+| Summer 2027 Legal Intern, Disability Rights Program- Veterans' Rights | ACLU - Internships | Remote/Hybrid- San Francisco, CA or Washington DC | 2026-09-28 |
+| Summer 2027 Legal Intern, SCOTUS Docket | ACLU - Internships | Hybrid-New York, NY, San Francisco, CA or Remote | 2026-09-28 |
+| Spring 2027 Legal Intern, SCOTUS Docket | ACLU - Internships | Remote/Hybrid-New York, NY or San Francisco, CA | 2026-09-28 |
+| Summer 2027 Legal Intern, Disability Rights Program | ACLU - Internships | Remote/Hybrid-Washington D.C. or San Francisco CA | 2026-09-28 |
 | Senior Contract Recruiter | Retell Ai | San Francisco Bay Area | 2026-09-28 |
 | Sales Manager, SMB (San Francisco) | Metaview | San Francisco | 2026-09-27 |
 | Field Marketing Associate | Simple Ai | San Francisco | 2026-09-27 |
@@ -27,6 +35,7 @@ _12,107 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Staff Electrical Engineer | Ōura | Hybrid - San Francisco, California | 2026-09-26 |
 | Infrastructure Engineer | Corridor | San Francisco | 2026-09-26 |
 | Engineering Intern — Summer 2027 | Flint AI | San Francisco | 2026-09-26 |
+| Operations Lead | Superpower | San Francisco | 2026-09-26 |
 | Research Manager | Hud | San Francisco | 2026-09-26 |
 | Design Engineer | Hud | San Francisco | 2026-09-26 |
 | Product Manager, Platform | Hud | San Francisco | 2026-09-26 |
@@ -42,7 +51,6 @@ _12,107 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Senior Security Technical Account Manager | Fastly | Denver, CO; New York City, NY; San Francisco, CA | 2026-09-25 |
 | Compute Lead | Goodfire | San Francisco, CA | 2026-09-25 |
 | Accounts Payable Accountant, Capital Programs | Luster National | San Francisco, California, United States | 2026-09-25 |
-| Head of Procurement | Ohalo | South San Francisco | 2026-09-25 |
 | Senior Account Manager | Frontcareers | San Francisco, CA | 2026-09-25 |
 | Hardware Engineer | Meter | San Francisco | 2026-09-25 |
 | Account Executive - Private Equity | Bobyard | San Francisco | 2026-09-25 |
@@ -206,10 +214,10 @@ _12,107 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Partner Marketing Manager, Online & Regional Events | Stripe | Seattle or San Francisco or Chicago or New York City or US-Remote | 2026-09-25 |
 | Senior Electrical Engineer | CoreWeave | Livingston, NJ / New York, NY / Sunnyvale, CA / San Francisco, CA / Bellevue, WA | 2026-09-25 |
 | IT/OT Specialist | Parallel Bio | San Francisco, CA | 2026-09-25 |
-| Material Management Lead | Neuralink | Austin, Texas, United States; South San Francisco, California, United States | 2026-09-25 |
-| Contracts Manager | Neuralink | South San Francisco, California, United States | 2026-09-25 |
 | Dimensional Quality Engineer, Metrology | Neuralink | South San Francisco, California, United States | 2026-09-25 |
 | Facilities Mechanical Specialist | Neuralink | South San Francisco, California, United States | 2026-09-25 |
+| Material Management Lead | Neuralink | Austin, Texas, United States; South San Francisco, California, United States | 2026-09-25 |
+| Contracts Manager | Neuralink | South San Francisco, California, United States | 2026-09-25 |
 | Software Engineer, Search Infrastructure | Openai | San Francisco | 2026-09-25 |
 | Learning Designer | LinkedIn | San Francisco, us | 2026-09-25 |
 | Partner Manager, Microsoft Co-sell | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-25 |
@@ -298,14 +306,6 @@ _12,107 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Software Engineer Intern, Mobile (Winter 2027) | Notion | San Francisco, California | 2026-09-24 |
 | Partner Marketing Manger, GSI & SI | Anthropic | San Francisco, CA \| New York City, NY | 2026-09-24 |
 | Program Manager, Connect | Meter | San Francisco | 2026-09-24 |
-| Sales Development Representative - San Francisco | Maven Agi | San Francisco | 2026-09-24 |
-| Licensed Spa Coordinator, Union St | Equinox | San Francisco, us | 2026-09-24 |
-| Staff Applied AI Engineer | Rocket Money | San Francisco, CA, Washington, D.C., New York City, NY, Remote (USA) | 2026-09-24 |
-| Software Developer, Network Software Associate (Winter 2027) | Astranis | San Francisco | 2026-09-24 |
-| Software Developer, Network Software Associate (Summer 2027) | Astranis | San Francisco | 2026-09-24 |
-| Software Developer, Network Software Intern (Summer 2027) | Astranis | San Francisco | 2026-09-24 |
-| Software Developer, Network Software Intern (Winter 2027) | Astranis | San Francisco | 2026-09-24 |
-| Seasonal Stylist (Retail) (Part-time) | Mejuri | Chestnut Street, San Francisco | 2026-09-24 |
 
 ---
 

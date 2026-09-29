@@ -2,26 +2,97 @@
 
 Roles whose title reads as design.
 
-_11,779 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
+_11,794 open · showing the 300 most recent · updated 2026-09-29 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Production Engineer [Chemical Engineering Degree required] | Veolia Environnement SA | Beaumont, us | 2026-09-28 |
+| Senior Propulsion Engineer, Fluids | Outsidersfund | Los Angeles | 2026-09-28 |
+| Technical Implementation Manager II (Bilingual Spanish/English Required) | Flywire | Boston, us | 2026-09-28 |
+| Technical Implementation Manager II (Bilingual Spanish/English Required) | Flywire | Austin, us | 2026-09-28 |
+| Senior Service Designer | Netcompany | London, gb | 2026-09-28 |
+| Senior Service Designer | Netcompany | Leeds, gb | 2026-09-28 |
+| User Acquisition Analyst- Base44 | Wix | Tel Aviv, il | 2026-09-28 |
+| Technicien traitement eaux usées et eau potable | Veolia Environnement SA | Pusignan, fr | 2026-09-28 |
+| Responsable d'Equipe Maintenance (H/F) | Veolia Environnement SA | Domène, fr | 2026-09-28 |
+| Conducteur Benne grue auxiliaire H/F | Veolia Environnement SA | Val de Briey, fr | 2026-09-28 |
+| Responsable d'équipe - Réseaux Assainissement (H/F) | Veolia Environnement SA | Sainte-Maxime, fr | 2026-09-28 |
+| Service Guide (m/w/d) am Flughafen - Innsbruck - Vollzeit | Securitas | Innsbruck, at | 2026-09-28 |
 | Senior Contract Recruiter | Retell Ai | San Francisco Bay Area | 2026-09-28 |
+| Talent Acquisition Associate for Player Engagement (Contract) | Keywords Studios | Pasig, Philippines | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | United States | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Spain | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Iceland | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Sweden | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | United States | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | United Kingdom | 2026-09-28 |
+| Préposé(e) au suivi de vol | Starlink Aviation | Dorval, Canada | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Egypt | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Germany | 2026-09-28 |
+| Production Designer | Sur | Argentina | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Serbia | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Uruguay | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | United States | 2026-09-28 |
+| Senior Talent Acquisition Consultant | Optimal HR | Cholargos, Greece | 2026-09-28 |
+| Technical Recruiter | Rockstar | New York, United States | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Canada | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Bahrain | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Ahmedabad, India | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Brazil | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | Germany | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Colombia | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | Spain | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | India | 2026-09-28 |
+| Graphic Designer - E-commerce & Retail (InDesign & Canva) - WFH/Dayshift | Twoconnect | Pasig, Philippines | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | Romania | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | India | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Argentina | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | United States | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | United States | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Romania | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Italy | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Saudi Arabia | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Philippines | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | United States | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | United States | 2026-09-28 |
+| Recruitment Specialist | CQS SA | Athens, Greece | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Japan | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Warsaw, Poland | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Philippines | 2026-09-28 |
+| Freelance Presentation Designer | Mindrift | Cape Town, South Africa | 2026-09-28 |
+| Junior Recruitment Consultant | Qode | Ho Chi Minh, Vietnam | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | Brazil | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | Saudi Arabia | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | Philippines | 2026-09-28 |
+| Linux SME / SRE Engineer | Weekday AI | Bengaluru, India | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | Sweden | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | United States | 2026-09-28 |
+| Freelance Graphic Designer | Mindrift | United Kingdom | 2026-09-28 |
+| シニアリクルーター Senior Talent Acquisition Specialist | Komodo Co., Ltd. | Akihabara, Japan | 2026-09-28 |
+| Graphic Designer for a fashion Brand | Weekday AI | Bengaluru, India | 2026-09-28 |
+| Bilingual Recruitment Specialist (EN/FR) - 6 month contract | Kognitive Sales Solutions | Montreal, Canada | 2026-09-28 |
+| Talent Acquisition Manager | Weekday AI | India | 2026-09-28 |
+| Talent Acquisition Consultant | Optimal HR | Cholargos, Greece | 2026-09-28 |
+| Recruitment Specialist | Kognitive Sales Solutions | Ottawa, Canada | 2026-09-28 |
+| Resilience Testing, Continuity and Incident Lead | Davy | Dublin, Ireland | 2026-09-28 |
 | Customer Service Rep (07248) - 2835 19th Ave Suite 200 | Domino's | Forest Grove, us | 2026-09-27 |
 | Customer Service Rep(05304) - 2075 E. Main, Suite A | Domino's | Siloam Springs, us | 2026-09-27 |
 | Assistant Manager(06420) - 5101 SE 29th Street Suite 107 Del City, OK 73115 | Domino's | Del City, us | 2026-09-27 |
 | Assistant Manager(09657) - 819 SW 19th Street, Suite 100 | Domino's | Moore, us | 2026-09-27 |
 | General Manager(06346) - 2100 N. Rock Road, Suite 600 | Domino's | Derby, us | 2026-09-27 |
+| Technical Recruitment Associate | Envision Employment Solutions | El Sheikh Zayed City, Egypt | 2026-09-27 |
+| Freelance Recruitment Consultant | Envision Employment Solutions | El Sheikh Zayed City, Egypt | 2026-09-27 |
+| Technical Recruitment Partner | Envision Employment Solutions | El Sheikh Zayed City, Egypt | 2026-09-27 |
+| Support Client Jeux Vidéo - Lisbonne avec Relocalisation | Atlean World | Paris, France | 2026-09-27 |
 | Visual Designer | Clera | Vienna | 2026-09-26 |
 | Recruiter | Clera | San Francisco | 2026-09-26 |
 | Founding Product Designer | Clera | Berlin | 2026-09-26 |
 | Talent Acquisition Partner - West Coast | Upstream Rehabilitation | Portland, OR; Remote, US; Seattle, WA | 2026-09-26 |
 | Product Designer | The Flex | London | 2026-09-26 |
-| Practice Lead B2B2C (m/w/d) – Partner Acquisition | Rabot Energy | Berlin | 2026-09-26 |
 | Creative Designer (m/w/d) | Rabot Energy | Berlin | 2026-09-26 |
+| Practice Lead B2B2C (m/w/d) – Partner Acquisition | Rabot Energy | Berlin | 2026-09-26 |
 | Brand Designer | Dourolabs.Xyz | North America - Remote | 2026-09-26 |
 | Head of LUXASIA Retail Corporation (LRC) | LUXASIA |  | 2026-09-26 |
-| Conducteur matériel de collecte - Equipier de collecte H/F | Veolia Environnement SA | Toulon, fr | 2026-09-26 |
 | Auxiliaire de vie H/F | Joya | Elven | 2026-09-26 |
 | Auxiliaire de vie H/F | Joya | Sarzeau | 2026-09-26 |
 | Auxiliaire de vie H/F | Joya | Questembert | 2026-09-26 |
@@ -42,9 +113,10 @@ _11,779 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Recruiter | Kairos Project | Remote | 2026-09-26 |
 | Technical Recruiter | Openai | San Francisco | 2026-09-26 |
 | Lead Lighting Artist / Chef.fe d’équipe Éclairage | NBCUniversal | Montréal, ca | 2026-09-26 |
-| Senior Tech Lead de Soluciones - México y LATAM - English Required | DaCodes | Mexico | 2026-09-26 |
 | Talent Acquisition (TA) | Weekday AI | Bengaluru, India | 2026-09-26 |
 | Mid Oracle Analyst Developer - LATAM ONLY - English Required | DaCodes | Colombia | 2026-09-26 |
+| Senior Tech Lead de Soluciones - México y LATAM - English Required | DaCodes | Mexico | 2026-09-26 |
+| Luxury Real Estate Manager | Atlean World | Loulé, Portugal | 2026-09-26 |
 | Growth Designer — Paid Creative, Brand & Web UX (Remote Part-Time; backed by Y Combinator, $5M+ ARR, $23M+ raised) | Legionhealth | Remote | 2026-09-25 |
 | Senior Manager, Go-to-Market Recruiting | Zocdoc | Boston, MA; New York, NY; Silicon Valley, CA; USA Remote | 2026-09-25 |
 | Account Executive - Private Equity | Bobyard | San Francisco | 2026-09-25 |
@@ -91,7 +163,6 @@ _11,779 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Heavy Equipment Field Technician (Mechanic) | EquipmentShare | Columbus, OH | 2026-09-25 |
 | Sales Representative - Guildford Town Center | Neofinancial | Surrey, BC | 2026-09-25 |
 | Senior Business Recruiter | Agility | Remote | 2026-09-25 |
-| Opérateur(trice) en traitement des eaux / Wastewater Operator | Veolia Environnement SA | Montréal, ca | 2026-09-25 |
 | Senior Hardware Recruiter | Agility | Remote | 2026-09-25 |
 | Sound Designer | Monks | Mexico City | 2026-09-25 |
 | UX UI SPECIALIST II | Inter Carreiras | Belo Horizonte, MG | 2026-09-25 |
@@ -147,7 +218,6 @@ _11,779 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Senior UX Researcher, Mixed Methods | onX | Austin, Texas, United States; Bozeman, Montana, United States; Denver, Colorado, United States; Kalispell, Montana, United States; Minneapolis, Minnesota, United States; Missoula, Montana, United States; Portland, Oregon, United States; Salt Lake City, Utah, United States; Seattle, Washington, United States | 2026-09-25 |
 | Opérateur·rice, Équipement mobile | Videotron | Québec, ca | 2026-09-25 |
 | Founding Operations (Recruiting Coordinator / People Coordinator) | Mintmcp | San Mateo, CA | 2026-09-25 |
-| Chef d'équipe - Chauffage H/F | Veolia Environnement SA | Cherbourg-en-Cotentin, fr | 2026-09-25 |
 | Senior Director, Omnichannel Experience Solutions & Success (Pharma Ad agency exp required) | EVERSANA | New York, us | 2026-09-25 |
 | Auxiliaire de vie H/F | Ouihelp | Madaillan | 2026-09-25 |
 | Technischer Produktdesigner – Zeichnungen (Mensch) | Neura Robotics Gmbh | Metzingen / Riederich | 2026-09-25 |
@@ -165,7 +235,6 @@ _11,779 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Senior Consultant – Consumer Goods, Retail & Luxury | Sia | Paris, fr | 2026-09-25 |
 | Arquitecto/a de Soluciones IA – Sector Sanitario (m/f/d) | T-Systems Iberia | Reus y Valencia, es | 2026-09-25 |
 | Spécialiste Produits Dermatologie, Pays de Loire (44, 49, 85, 72, 53) | AbbVie | Nantes, fr | 2026-09-25 |
-| Agent réseaux H/F | Veolia Environnement SA | Aubusson, fr | 2026-09-25 |
 | Coordonnateur équipes et chantiers de maintenance industrielle F/H | RTE | Coudun, fr | 2026-09-25 |
 | Talent Acquisition Operations Specialist | Cuspai | Amsterdam, NL | 2026-09-25 |
 | Program Manager, ICON Build | ICON | Miami, Florida, United States | 2026-09-25 |
@@ -184,7 +253,6 @@ _11,779 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Ingeniero/a de Instalaciones (Building Engineer) - Madrid | Turner & Townsend | Madrid, es | 2026-09-25 |
 | Staff Product Designer, New Bets | DoorDash USA | San Francisco, CA; New York, NY; Seattle, WA | 2026-09-25 |
 | Auxiliar de Campo - Meio Ambiente (Recomposição florestal ao longo da Estrada de Ferro Vitória a Minas) | Egis Group | Ipatinga, br | 2026-09-25 |
-| Responsable d'Equipe Travaux Réseaux Assainissement (H/F) | Veolia Environnement SA | Biganos, fr | 2026-09-25 |
 | Technicien préleveur à Gallargue le Montueux F/H | Eurofins | Gallargues-le-Montueux, fr | 2026-09-25 |
 | Building Surveyor - Monitoring Consultant - Madrid | Turner & Townsend | Madrid, es | 2026-09-25 |
 | Croupier Jeux de Table en extra (h/f) | Barrière | MONTREUX, ch | 2026-09-25 |
@@ -238,74 +306,6 @@ _11,779 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Recruiter für Sales-Positionen (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Leipzig, de | 2026-09-25 |
 | Aide aux personnes âgées H/F | Joya | Toulouse | 2026-09-25 |
 | Talent Acquisition & HR Systems Coordinator | Red Bull | Elsbethen, at | 2026-09-25 |
-| Auxiliaire de vie H/F | Joya | Toulouse | 2026-09-25 |
-| Graphic Designer II | Red Carrot |  | 2026-09-25 |
-| Genuine Dining - Cook/Chef | WSH Group | Faversham, gb | 2026-09-25 |
-| Talent Delivery & Recruitment Manager | AECOM | Bengaluru, in | 2026-09-25 |
-| Building Engnieer - Consultant - Madrid | Turner & Townsend | Madrid, es | 2026-09-25 |
-| Chef cuisinier H/F | Groupement Mousquetaires | Chalon-sur-Saône, fr | 2026-09-25 |
-| Commercial Analyst - Acquisitions (12 months Maternity cover) | Informa Group Plc. | London, gb | 2026-09-25 |
-| Coordenador de Distribuição Industrial | Sika AG | Osasco, br | 2026-09-25 |
-| Design and Build - Project Manager - Barcelona | Turner & Townsend | Barcelona, es | 2026-09-25 |
-| Senior Technical Recruiter | Tanium | Durham, NC (Hybrid); Emeryville, CA (Hybrid) | 2026-09-25 |
-| Recruiter für Sales-Positionen (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Berlin, de | 2026-09-25 |
-| Global Talent Acquisition Analyst | Capco | Slovakia - Bratislava | 2026-09-25 |
-| Clifford Chance Luxembourg Talent Day 2026 | Clifford Chance | Luxembourg, lu | 2026-09-25 |
-| Asistent de vanzari cu atributii de lucru in depozit JYSK Gura Humorului | JYSK | Gura Humorului, ro | 2026-09-25 |
-| Auxiliar de Vendas e Atendimento-São José de Ribamar/MA | Agibank | São José de Ribamar, Maranhão, Brasil | 2026-09-25 |
-| Genuine Dining - Supervisor | WSH Group | Foxton, gb | 2026-09-25 |
-| Genuine Dining - Barista / General Assistant | WSH Group | Foxton, gb | 2026-09-25 |
-| Auxiliaire de vie H/F | Joya | Lyon 9ème | 2026-09-25 |
-| Auxiliaire de vie H/F | Joya | Venissieux | 2026-09-25 |
-| Auxiliaire de vie H/F | Joya | Lyon 7ème | 2026-09-25 |
-| Auxiliaire de vie H/F | Joya | Lyon 8ème | 2026-09-25 |
-| Quantitative UX Researcher | OGC \| | Boston, United States | 2026-09-25 |
-| Equipier commercial | METRO/MAKRO | Saint-Ouen-l'Aumône, fr | 2026-09-25 |
-| Senior Product Designer | B2Spin | Gibraltar Office | 2026-09-25 |
-| Partner Acquisition Specialist | carwow.de | London | 2026-09-25 |
-| Ingénieur équipements & qualification H/F | AbbVie | Annecy, fr | 2026-09-25 |
-| Auxiliaire de vie H/F | Joya | Cagnes sur Mer | 2026-09-25 |
-| Talent Acquisition Partner - GTM Enterprise | Mentimeter | Stockholm | 2026-09-25 |
-| Auxiliaire de vie H/F | Joya | Saint Laurent du Var | 2026-09-25 |
-| Aide aux personnes âgées H/F | Joya | Villeneuve-Loubet | 2026-09-25 |
-| Equipier commercial Marée - CDD F/H | METRO/MAKRO | nanterre, fr | 2026-09-25 |
-| Auxiliaire de vie H/F | Joya | Villeneuve-Loubet | 2026-09-25 |
-| Key Account Manager (m/w/d) Building Components | Sika AG | Bad Urach, de | 2026-09-25 |
-| RESPONSABLE FRUITS ET LEGUMES (H/F) | Groupement Mousquetaires | Guémené-sur-Scorff, fr | 2026-09-25 |
-| Beveiliger IJmuiden | Securitas | IJmuiden, nl | 2026-09-25 |
-| Asistent Vanzari JYSK Gura Humorului | JYSK | Gura Humorului, ro | 2026-09-25 |
-| Product Designer \| SimpleStudy | Hirehire | Remote | 2026-09-25 |
-| Cuisinier/Commis de cuisine H/F | Groupement Mousquetaires | Annemasse, fr | 2026-09-25 |
-| Junior Vertriebler Außendienst Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hamburg, de | 2026-09-25 |
-| Sales Manager B2B Außendienst – Hunter Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hamburg, de | 2026-09-25 |
-| BIM Designer- Wet Utilities (Infrastructure) | Egis Group | Bengaluru, in | 2026-09-25 |
-| Sales Manager Außendienst in der Neukundenakquise (m/w/d) | Ströer SE & Co. KGaA (Ströer Gruppe) | Hamburg, de | 2026-09-25 |
-| Equipier Commercial Univers SEC H/F - CDD | METRO/MAKRO | Les Pennes-Mirabeau, fr | 2026-09-25 |
-| Chef Pâtisser H/F l'Arnsbourg Relais & Châteaux | Relais & Châteaux | Baerenthal, fr | 2026-09-25 |
-| Equipier Commercial CDI Etudiant 7h le samedi F/H | METRO/MAKRO | Rennes, fr | 2026-09-25 |
-| Senior Talent Acquisition Partner | Celonis | London, United Kingdom | 2026-09-25 |
-| Chef de Rang (H/F) - Maison Greuze L'Ecrin de Yohann Chapuis | Relais & Châteaux | Tournus, fr | 2026-09-25 |
-| Auxiliaire de vie H/F - job étudiant | Ouihelp | Melun | 2026-09-25 |
-| Auxiliaire de vie H/F | Ouihelp | Ozoir-La-Ferrière | 2026-09-25 |
-| Auxiliaire de vie H/F | Ouihelp | MELUN | 2026-09-25 |
-| Auxiliaire de vie H/F | Ouihelp | Fontainebleau | 2026-09-25 |
-| Staff UX Designer | Okta | Bengaluru, India | 2026-09-25 |
-| Senior UX Researcher | Okta | Bengaluru, India | 2026-09-25 |
-| Ingénieur Supervision Applicative & Infrastructure Linux (H/F) | CITECH | Lille, fr | 2026-09-25 |
-| CONSEILLER DE VENTE - VENDEUR SECTEUR MATERIAUX (H/F) | Groupement Mousquetaires | Salaise-sur-Sanne, fr | 2026-09-25 |
-| Chargé d'Affaires Radioprotection et Controle des dispositifs Medicaux H/F | SOCOTEC | Nantes, fr | 2026-09-25 |
-| Esihenkilö/tiiminvetäjä ilmapäästömittauslaboratorion mittauspalveluiden kenttätoimintaan | Eurofins | Imatra, fi | 2026-09-25 |
-| Consulting - Manager Conduite du Changement - Energie & Industrie - Paris H/F | Talan | Paris, fr | 2026-09-25 |
-| Chef de Groupe - Equipements H/F | SOCOTEC | Échirolles, fr | 2026-09-25 |
-| Ingénieur Mainframe – Build & Packaging RTC (H/F) | CITECH | Cergy, fr | 2026-09-25 |
-| Talent Acquisition Specialist | Evolution | Vilnius, lt | 2026-09-25 |
-| Ingénieur(e) système Linux expérimenté(e) - Rennes | Sopra Steria Corporate | Cesson-Sévigné, fr | 2026-09-25 |
-| Support Associate- 24/7 Japanese (Kuala Lumpur, requires relocation to Kuala Lumpur) | Agoda | Kuala Lumpur | 2026-09-25 |
-| Building Cadet | BESIX | Adelaide, au | 2026-09-25 |
-| Technicien Service Généraux (F/H/X) | Nemera | Le Tréport, fr | 2026-09-25 |
-| Commis de cuisine H/F | Hana Group | Le Havre, fr | 2026-09-25 |
-| Segment Manager Medical Devices Benelux | SGS | Spijkenisse, nl | 2026-09-25 |
-| Commis de cuisine H/F | Hana Group | Cusset, fr | 2026-09-25 |
 
 ---
 

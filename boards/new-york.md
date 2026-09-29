@@ -2,10 +2,46 @@
 
 Roles listing New York as their location.
 
-_12,237 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
+_12,249 open · showing the 300 most recent · updated 2026-09-29 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Summer 2027 Legal Intern, Immigrants' Rights Project- New York | ACLU - Internships | Remote/Hybrid- New York | 2026-09-28 |
+| Spring 2027 Legal Intern, Immigrants' Rights Project- New York | ACLU - Internships | Remote/Hybrid- New York | 2026-09-28 |
+| Spring 2027 Legal Intern, Women's Rights Project | ACLU - Internships | Remote/Hybrid-New York City | 2026-09-28 |
+| Summer 2027 Legal Intern, Voting Rights Project | ACLU - Internships | Hybrid-New York City or Washington D.C. | 2026-09-28 |
+| Summer 2027 Legal Intern, Reproductive Freedom Project | ACLU - Internships | Remote/Hybrid-New York, NY | 2026-09-28 |
+| Spring 2027 Legal Intern, Voting Rights Project | ACLU - Internships | Hybrid-New York City or Washington D.C. | 2026-09-28 |
+| Summer 2027 Legal Intern, LGBTQ & HIV Project | ACLU - Internships | Remote/Hybrid- New York, NY | 2026-09-28 |
+| Spring 2027 Legal Intern, Reproductive Freedom Project | ACLU - Internships | Hybrid-New York, NY | 2026-09-28 |
+| Spring 2027 Legal Intern, Capital Punishment Project | ACLU - Internships | Hybrid- Durham, N.C. or New York, NY | 2026-09-28 |
+| Spring 2027 Legal Intern, LGBTQ & HIV Project | ACLU - Internships | Remote/Hybrid- New York, NY | 2026-09-28 |
+| Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project | ACLU - Internships | Remote/Hybrid-New York York, NY | 2026-09-28 |
+| Summer 2027 Legal Intern, Speech, Privacy and Technology Project | ACLU - Internships | Remote/Hybrid-New York City | 2026-09-28 |
+| Spring 2027 Legal Intern, State Supreme Court Initiative | ACLU - Internships | Remote/Hybrid-New York, NY or Washington D.C. | 2026-09-28 |
+| Summer 2027 Legal Intern, State Supreme Court Initiative | ACLU - Internships | Remote/Hybrid-New York City or Washington D.C. | 2026-09-28 |
+| Summer 2027 Legal Intern, Criminal Law Reform Project | ACLU - Internships | Hybrid-New York, NY or Washington, DC | 2026-09-28 |
+| Summer 2027 Undergraduate Intern, National Security Project | ACLU - Internships | New York, NY | 2026-09-28 |
+| Spring 2027 Legal Intern, Abortion Criminal Defense Initiative | ACLU - Internships | Remote/Hybrid-New York, NY or Washington D.C. | 2026-09-28 |
+| Summer 2027 Legal Intern, Abortion Criminal Defense Initiative | ACLU - Internships | Remote/Hybrid-New York City or Washington D.C. | 2026-09-28 |
+| Summer 2027 Legal Intern, SCOTUS Docket | ACLU - Internships | Hybrid-New York, NY, San Francisco, CA or Remote | 2026-09-28 |
+| Spring 2027 Legal Intern, SCOTUS Docket | ACLU - Internships | Remote/Hybrid-New York, NY or San Francisco, CA | 2026-09-28 |
+| Spring 2027 Undergraduate Intern, SCOTUS Docket | ACLU - Internships | Remote/Hybrid-New York, NY | 2026-09-28 |
+| Spring 2027 Legal Intern, Criminal Law Reform Project | ACLU - Internships | Hybrid-New York, NY | 2026-09-28 |
+| Summer 2027 Legal Intern, Human Rights Program | ACLU - Internships | Hybrid - New York, NY | 2026-09-28 |
+| Spring 2027 Legal Intern, Human Rights Program | ACLU - Internships | Remote/Hybrid - New York, NY | 2026-09-28 |
+| Spring 2027 Legal Intern, Center For Liberty | ACLU - Internships | Remote/Hybrid-New York City | 2026-09-28 |
+| Summer 2027 Legal Intern, Racial Justice Program | ACLU - Internships | Remote/Hybrid-New York, NY | 2026-09-28 |
+| Summer 2027 Legal Intern, Women's Rights Project | ACLU - Internships | Remote/Hybrid-New York City | 2026-09-28 |
+| Spring 2027 Legal Intern, Racial Justice Program | ACLU - Internships | Remote/Hybrid-New York, NY | 2026-09-28 |
+| Summer 2027 Legal Intern, Center For Liberty | ACLU - Internships | Remote/Hybrid-New York City | 2026-09-28 |
+| Summer 2027 Legal Intern, National Security Project | ACLU - Internships | Hybrid-New York City | 2026-09-28 |
+| Audio Visual Event Technology Manager | Convene Hospitality Group | New York, NY | 2026-09-28 |
+| Business Development - North America | Validus Risk Management | New York, United States | 2026-09-28 |
+| Brand Partnerships Associate / Jr. Account Executive - Fashion Marketplace | Wolf & Badger | New York, United States | 2026-09-28 |
+| R&D Manager | Magic Spoon | New York, United States | 2026-09-28 |
+| Technical Recruiter | Rockstar | New York, United States | 2026-09-28 |
+| Senior Sales Account Executive | Weekday AI | New York, United States | 2026-09-28 |
 | Sales Manager, SMB (New York City) | Metaview | New York City | 2026-09-27 |
 | Workforce Management Lead, US | Neko Health | New York | 2026-09-26 |
 | Clinical Content Lead | Nollahealth | New York City | 2026-09-26 |
@@ -270,42 +306,6 @@ _12,237 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Account Executive I/II, Parkinson's Disease - Staten Island, NY | AbbVie | New York, us | 2026-09-25 |
 | Account Executive I/II, Parkinson's Disease - Queens, NY | AbbVie | New York, us | 2026-09-25 |
 | Account Executive I/II, Parkinson's Disease - Brooklyn, NY | AbbVie | New York, us | 2026-09-25 |
-| Senior Manager, Sales Content Strategy, Ads Marketing | DoorDash USA | New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Sunnyvale, CA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington, D.C. | 2026-09-25 |
-| VM Consulting \| Director, Strategy | VaynerMedia LLC | United States- New York, NY | 2026-09-25 |
-| Manager, Enterprise Customer Success | Navan | New York, NY | 2026-09-25 |
-| Maintenance Associates, Hudson Yards | Equinox | New York, us | 2026-09-25 |
-| Senior Designer, Digital and Social | LVMH Perfumes & Cosmetics | New York, us | 2026-09-25 |
-| Program Manager, Facilities & Workplace Operations | Toast | New York, NY | 2026-09-25 |
-| Principal Customer Success Executive | ServiceNow | New York, us | 2026-09-25 |
-| Security Programs Senior TPM - OT & Network Security | CoreWeave | Livingston, NJ / New York, NY / Sunnyvale, CA / Bellevue, WA | 2026-09-25 |
-| Product Designer, Safeguards | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-09-25 |
-| Specialist, Talent - Leaves Administration | Uncommon Schools | New York, us | 2026-09-25 |
-| Principal Engineer | Appnovation Technologies | New York, London, Toronto | 2026-09-25 |
-| Martech/ Growth Engineer | Creditgenie | New York, NY | 2026-09-25 |
-| Senior Technical Consultant | LinkedIn | New York, us | 2026-09-25 |
-| Proposal Writer (Architectural/ Engineering/ Construction Industry) | SOCOTEC | New York, us | 2026-09-25 |
-| Account Executive - CPG Ads | DoorDash USA | San Francisco, CA; New York, NY; Los Angeles, CA; Atlanta, GA; Chicago, IL | 2026-09-25 |
-| Senior Counsel, Competition & Litigation | DoorDash USA | New York, NY; Washington, D.C. | 2026-09-25 |
-| Staff Product Designer, New Bets | DoorDash USA | San Francisco, CA; New York, NY; Seattle, WA | 2026-09-25 |
-| Investment Banking, Vice President/Associate, Consumer & Retail | BTIG | New York, New York, United States | 2026-09-25 |
-| Senior Manager, AI Delivery Lead - Legal & RegTech | Sia | New York, us | 2026-09-25 |
-| Director, Client Solutions | Courier Health | New York, New York, United States | 2026-09-25 |
-| Customer Success Director - Healthcare (C1 - B2B) | CLEAR - Corporate | New York, New York, United States | 2026-09-25 |
-| SMB Solutions Engineer | Box | New York, NY, United States | 2026-09-25 |
-| Senior Pricing Analyst | Impiricus | Atlanta, GA, New York, NY, or Remote, USA | 2026-09-25 |
-| QA Automation Manager | Impiricus | Atlanta, GA, New York, NY, or Remote, USA | 2026-09-25 |
-| Founding Sales Manager, Emerging Enterprise | Dandy | USA - New York NY | 2026-09-25 |
-| Industrial Maintenance Technician II | Advanced Technology Services | United States- Olean, New York | 2026-09-25 |
-| Senior Full-Stack Engineer - Product (TS/SCI Required) | Vannevar | New York, New York, United States | 2026-09-25 |
-| Senior Solutions Architect - Data Labs | Invisible Technologies | London - Hybrid; New York - Hybrid; San Francisco Bay Area - Hybrid | 2026-09-25 |
-| Seasonal Sales Associate - Bond Street, New York | Gymshark | New York, New York, United States | 2026-09-25 |
-| Sales Trainee - Brooklyn, NY | Red Bull | New York, us | 2026-09-25 |
-| Senior Director, FP&A | Squarespace | New York City | 2026-09-25 |
-| Senior Manager, Talent Development & Operations | Equinox | New York, us | 2026-09-25 |
-| Energy Senior Project HSE Specialist, US | Ramboll | Syracuse, New York, us | 2026-09-25 |
-| Senior Director, Strategic Finance & Enterprise Planning | Oscar Health | New York, New York, United States | 2026-09-25 |
-| Retail Sales Associate - Madison Avenue | Vuori, Inc | New York, us | 2026-09-25 |
-| Principal Growth Marketing Manager - SEO/GEO | Datadog | New York, New York, USA; San Francisco, California, USA | 2026-09-25 |
 
 ---
 

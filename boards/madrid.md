@@ -2,10 +2,15 @@
 
 Roles listing Madrid as their location.
 
-_810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
+_810 open · showing the 300 most recent · updated 2026-09-29 04:19 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Data Engineering Manager | MediaRadar | Madrid, Spain | 2026-09-28 |
+| Strategic Account Manager - Sports - EMEA | Vizrt | Madrid, Spain | 2026-09-28 |
+| Senior Software Engineer | MediaRadar | Madrid, Spain | 2026-09-28 |
+| Software Engineer | MediaRadar | Madrid, Spain | 2026-09-28 |
+| Sales & Marketing Director | Hustler Marketing | Madrid, Spain | 2026-09-28 |
 | Retail Assistant - Dependiente/a | Primark | Madrid, es | 2026-09-26 |
 | Retail Assistant - Dependiente/a | Primark | Madrid, es | 2026-09-26 |
 | Retail Assistant - Dependiente/a | Primark | Madrid, es | 2026-09-26 |
@@ -76,9 +81,9 @@ _810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Técnico Laboratorio de Química (área no instrumental) Temporal | SGS | Madrid, es | 2026-09-24 |
 | Técnico/a de recogida de muestras y ensayos físicos | SGS | Madrid, es | 2026-09-24 |
 | Técnico/a de Calibración - Área eléctrica | SGS | Madrid, es | 2026-09-24 |
-| Office Coordinator (Part-Time) | Control Risks | Madrid, Spain | 2026-09-24 |
-| Commercial Planning Manager | Destinus | Madrid, Spain | 2026-09-24 |
 | Compensation & Benefits Specialist | Destinus | Madrid, Spain | 2026-09-24 |
+| Commercial Planning Manager | Destinus | Madrid, Spain | 2026-09-24 |
+| Office Coordinator (Part-Time) | Control Risks | Madrid, Spain | 2026-09-24 |
 | Junior Project Manager - Global | FeverUp | Madrid | 2026-09-23 |
 | SOC Analyst L1- 12x7 | Devoteam | Madrid, es | 2026-09-23 |
 | Consultor/a de Negocio de Sector Público | Inetum | Madrid, es | 2026-09-23 |
@@ -134,8 +139,8 @@ _810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Senior Manager, End User Experience | Nexthink | Madrid, es | 2026-09-22 |
 | Software Engineer | Nexthink | Madrid, es | 2026-09-22 |
 | Shift leader | Destinus | Madrid, Spain | 2026-09-22 |
-| Future Opportunities - General | Idoven | Madrid, Spain | 2026-09-22 |
 | B2B Systems & Component Sales Manager | Destinus | Madrid, Spain | 2026-09-22 |
+| Future Opportunities - General | Idoven | Madrid, Spain | 2026-09-22 |
 | Legal Commercial Counsel, EMEA | Axon | Madrid, Spain | 2026-09-21 |
 | International Law School Manager | Harvey | Madrid | 2026-09-21 |
 | Consultor/a Junior para Servicios de Movilidad | MSX International | Madrid, es | 2026-09-21 |
@@ -157,7 +162,6 @@ _810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Blue Talent Analyst (January 2027) | Colliers International EMEA | Madrid, es | 2026-09-21 |
 | Operational Excellence Specialist | Cabify | Madrid | 2026-09-21 |
 | Legal Counsel (Spain) | Fuse Energy | Madrid, Spain | 2026-09-21 |
-| European Business Development Manager (EMEA Expansion) | Whitecollars | Madrid, es | 2026-09-20 |
 | Associate Event Producer | FeverUp | Madrid | 2026-09-18 |
 | Senior Data Analyst - Sales (All Genders) | zooplus SE | Madrid, es | 2026-09-18 |
 | Account Manager | Adyen | Madrid | 2026-09-18 |
@@ -189,8 +193,8 @@ _810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Business Operations Manager | FeverUp | Madrid | 2026-09-16 |
 | Executive Editor - French speaker | FeverUp | Madrid | 2026-09-16 |
 | Managing Editor - French speaker | FeverUp | Madrid | 2026-09-16 |
-| Prácticas en Innovación (Ingenieros TIC) | Ayming | Madrid, es | 2026-09-16 |
 | Prácticas en Innovación (Ingenieros TIC) | Ayming IE | Madrid, es | 2026-09-16 |
+| Prácticas en Innovación (Ingenieros TIC) | Ayming | Madrid, es | 2026-09-16 |
 | Senior Design Engineer, Design Operations: AI-Powered Design Platform | Celonis | Madrid, Spain | 2026-09-16 |
 | EDC Developer (Medidata RAVE and Zelta v1.0) | Ergomed | Madrid, es | 2026-09-16 |
 | Senior Analyst, Enterprise Risk Management | Payoneer | Madrid, Spain | 2026-09-16 |
@@ -206,11 +210,11 @@ _810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | AI Quality Evaluator - Spanish (12-month Contract) | Canva | Madrid, es | 2026-09-16 |
 | Técnico/a de sistemas Windows (m/f/d) | T-Systems Iberia | Madrid, es | 2026-09-15 |
 | Senior Technical Project Manager - Martech | MAP | Madrid, Community of Madrid, Spain | 2026-09-15 |
-| Analytics Engineer / Data Analyst | Ayming IE | Madrid, es | 2026-09-15 |
 | Analytics Engineer / Data Analyst | Ayming | Madrid, es | 2026-09-15 |
+| Analytics Engineer / Data Analyst | Ayming IE | Madrid, es | 2026-09-15 |
 | Head of Commercial & Partnerships - Golf Software | Everfield | Spain - Madrid \| Hybrid | 2026-09-15 |
-| Performance Marketing | Happyrobot.Ai | Madrid | 2026-09-14 |
 | Performance Marketing | HappyRobot | Madrid | 2026-09-14 |
+| Performance Marketing | Happyrobot.Ai | Madrid | 2026-09-14 |
 | Consulting Internship - January 2027 Intake | Roland Berger | Madrid, es | 2026-09-14 |
 | HRBP | FeverUp | Madrid | 2026-09-14 |
 | Consultant, Global Market Access & Pricing (French & English speaking) | EVERSANA | Madrid, es | 2026-09-14 |
@@ -276,9 +280,9 @@ _810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | Global Tax Trainee | Cabify | Madrid | 2026-09-08 |
 | Talent Acquisition Specialist | FeverUp | Madrid | 2026-09-08 |
 | Game Presenter - Italian Speaking | Evolution | Madrid, es | 2026-09-08 |
-| Operations Analyst (practicas) | NeuronUP rehabilitación, evaluación y estimulación cognitiva profesional | Madrid, ES | 2026-09-08 |
-| Senior Data & AI Consultant (Spain) | Unit8 SA | Madrid, Spain | 2026-09-08 |
 | Junior Comercial de Mercado | Fernández | Madrid, Spain | 2026-09-08 |
+| Senior Data & AI Consultant (Spain) | Unit8 SA | Madrid, Spain | 2026-09-08 |
+| Operations Analyst (practicas) | NeuronUP rehabilitación, evaluación y estimulación cognitiva profesional | Madrid, ES | 2026-09-08 |
 | Account Executive \| SMB \| Spanish Market (Madrid) | Lexroom | Madrid | 2026-09-07 |
 | Account Executive - Madrid | OpenTable | Madrid, Spain | 2026-09-07 |
 | Senior Manager Sales Productivity | FeverUp | Madrid | 2026-09-07 |
@@ -302,10 +306,6 @@ _810 open · showing the 300 most recent · updated 2026-09-28 04:17 UTC_
 | LQA Analyst, Arabic | 2K | Madrid, Spain | 2026-09-04 |
 | Senior Accountant - IFRS | Pleo | Madrid | 2026-09-04 |
 | LQA Analyst, Russian | 2K Madrid | Madrid, Spain | 2026-09-04 |
-| LQA Analyst, Russian | 2K | Madrid, Spain | 2026-09-04 |
-| Salesforce Consultant | Cabify | Madrid | 2026-09-04 |
-| Business Performance Senior Manager | FeverUp | Madrid | 2026-09-04 |
-| Business Development Representative - Spanish Market | Amenitiz | Madrid | 2026-09-04 |
 
 ---
 
