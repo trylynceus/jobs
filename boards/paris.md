@@ -2,14 +2,19 @@
 
 Roles listing Paris as their location.
 
-_2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
+_2,411 open · showing the 300 most recent · updated 2026-10-01 04:15 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Forward Deployed Engineer | Clera | Paris | 2026-09-30 |
+| Graphic Designer Assistant | Teads | Paris | 2026-09-30 |
+| Event Coordinator / Host for Executive Networking Gatherings | Sawoo | Paris, France | 2026-09-30 |
+| Payroll Lead | Helsing | Munich - Berlin - London - Paris | 2026-09-30 |
 | General Manager (06958) | Domino's | Paris, us | 2026-09-30 |
 | Field Marketing Manager (short term freelance contract) | Sweep | Paris | 2026-09-30 |
 | Senior IT Support Engineer | Sweep | Paris | 2026-09-30 |
 | Insurance Transaction Customer Service Associates- Contract | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-29 |
+| Growth Lead, France | Openai | Paris, France | 2026-09-29 |
 | Assistant(e) Commercial(e) & Appels d'Offres | Sia | Paris, fr | 2026-09-29 |
 | Consultant Achats – Migration S2P Oracle & Achats Logiciels (H/F) | EPSA | Paris, fr | 2026-09-29 |
 | Ingénieur IA Générative / Développeur Python – RAG & RAISE (H/F) | CITECH | Paris, fr | 2026-09-29 |
@@ -17,6 +22,8 @@ _2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
 | Training Program Coordinateur PLM (H/F) | ALTEN | Paris, fr | 2026-09-29 |
 | Consultant(e) Support PLM 3DEXPERIENCE (H/F) | ALTEN | Paris, fr | 2026-09-29 |
 | Consultant(e) Proxy PO PLM (H/F) | ALTEN | Paris, fr | 2026-09-29 |
+| Freelance – Assistant(e) Communication & Événementiel (Hackathons Adopt AI) | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-09-29 |
+| (Senior) Product Manager, Trust Platform- Digital Identities (f/m/d) - 1 year fixed contract | IDnow | Paris, Paris, France; Rennes, Ille-et-Vilaine, France | 2026-09-29 |
 | Nova Consulting - Chef de Projet en Stratégie (H/F) - Pôle Entertainment | Talan | Paris, fr | 2026-09-29 |
 | Nova Consulting - Consulting Junior en Stratégie (H/F) - Pôle Marques | Talan | Paris, fr | 2026-09-29 |
 | Nova Consulting - Chef de Projet en Stratégie (H/F) - Pôle Marques | Talan | Paris, fr | 2026-09-29 |
@@ -42,17 +49,22 @@ _2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
 | Consulting - Senior Manager - Chef de Projet Migration Cloud - Paris H/F | Talan | Paris, fr | 2026-09-29 |
 | Consulting - Manager / Manager Senior - Data, IA & IA Générative - Paris (H/F) | Talan | Paris, fr | 2026-09-29 |
 | Consulting - Consultant Confirmé / Senior – Digital Workplace & Migration Microsoft Office 365 - CDI - Paris H/F | Talan | Paris, fr | 2026-09-29 |
+| Partner Development Lead - France | Fastly | Paris, France | 2026-09-29 |
+| Intern - Assistant Strategic Planner - Artefact 3000 - Paris | Artefact | 9th arrondissement of Paris, 75009, Paris, France | 2026-09-29 |
 | Operations Associate (Acquisition) | Wheely | Paris, Paris, France | 2026-09-29 |
 | Operations Intern | Wheely | Paris, Paris, France | 2026-09-29 |
+| Senior Email Deliverability Consultant | Braze | Paris | 2026-09-29 |
 | Directeur de site | WSH Group | Paris, fr | 2026-09-29 |
 | Directeur adjoint de site | WSH Group | Paris, fr | 2026-09-29 |
 | Alternance - Business Development - Secteurs Energie, Industrie ou Finance (H/F) | Talan | Paris, fr | 2026-09-29 |
 | Public Sector - Consultant.e junior | Wavestone | Paris, fr | 2026-09-29 |
+| Affiliation Marketing Intern (German & English required) | Backmarket | Paris | 2026-09-29 |
 | Public Sector - Consultant.e stagiaire/alternant | Wavestone | Paris, fr | 2026-09-29 |
 | Responsable Développement Foncier (91) - F/H | ALTAREA | Paris, fr | 2026-09-29 |
 | Retail Customer Service Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-28 |
 | Retail Customer Service Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-28 |
 | Inbound Auto Loans Collections Associate | Sutherland | Mandeville, Manchester Parish, Jamaica, jm | 2026-09-28 |
+| Administrateur Systèmes & Réseaux N2 H/F | iad | Paris, fr | 2026-09-28 |
 | Stage consultant Grande Distribution | VusionGroup SA | Paris, fr | 2026-09-28 |
 | Stage – Consultant junior RH & Assessment | Sia | Paris, fr | 2026-09-28 |
 | Final year internship - Marketing Data Scientist | Sia | Paris, fr | 2026-09-28 |
@@ -83,12 +95,14 @@ _2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
 | Consultant.e Junior en Transformation Digitale - Cloud Connect : Comment adapter les systèmes d'information aux enjeux de résilience et de souveraineté ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-28 |
 | Consultant.e Junior en Transformation Digitale - Cloud Connect : Architecture applicative, intégration et middleware : quels défis pour la modernisation du SI ? (Stage de fin d'études) | Wavestone | Paris, fr | 2026-09-28 |
 | Consultant·e en Transformation Digitale - Boosting CTO : Quel rôle doit jouer le CTO/CIO Office de demain pour répondre aux nouveaux défis technologiques, organisationnels et stratégiques des DSI à l'ère de l'Intelligence Artificielle ? (SFE) | Wavestone | Paris, fr | 2026-09-28 |
+| Partner Program Operations Manager | AvePoint | London, United Kingdom; Munich, Germany; Paris, France; The Hague, Netherlands | 2026-09-28 |
 | Stagiaire Test d’intrusion, Sécurité IT – Rexel Group | REXEL | Paris, fr | 2026-09-28 |
 | Ingénieur Méthodes, Montabilité & Industrialisation Automobile (H/F) | ALTEN | Paris, fr | 2026-09-28 |
 | Responsable acquisition Mid-Market H/F | InPost | Paris, fr | 2026-09-28 |
 | Consultant technique Salesforce - H/F | Talan | Paris, fr | 2026-09-28 |
 | Paid Social Ads Manager - F/H | Courir | Paris, fr | 2026-09-28 |
 | Développeur Python - Risk Reporting H/F | NEXTON | Paris, fr | 2026-09-28 |
+| Distribution Marketplace Program Specialist | AvePoint | London, United Kingdom; Munich, Germany; Paris, France; The Hague, Netherlands | 2026-09-28 |
 | Consultant en conduite du changement et Coach Terrain - véhicules industriels (poids lourds) | MSX International | Paris, fr | 2026-09-28 |
 | Business Developer France - Stage (F/H/X) | AccorCorpo | Paris, fr | 2026-09-28 |
 | Chef de partie pâtisserie - CDI - 39H - H/F | Gardinier | Paris, fr | 2026-09-28 |
@@ -101,6 +115,8 @@ _2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
 | Ingénieur en Calcul Mécanique/ Tuyauterie (flex/support) expérimenté H/F | ASSYSTEM | Paris, fr | 2026-09-28 |
 | FPGA Engineer - Electronic Warfare | Alta Ares | Paris | 2026-09-28 |
 | FPGA Engineer - Radar | Alta Ares | Paris | 2026-09-28 |
+| HR Business Partner, EMEA | Openai | Paris, France | 2026-09-28 |
+| Gestionnaire Locatif H/F | iad | Paris, fr | 2026-09-28 |
 | Data Engineer | Alan | Paris, France | 2026-09-28 |
 | Business Analyst Risque de Liquidité ALM - H/F | Talan | Paris, fr | 2026-09-28 |
 | Business Analyst Lutte Anti Blanchiment - H/F | Talan | Paris, fr | 2026-09-28 |
@@ -114,6 +130,7 @@ _2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
 | Business Analyst Payments - H/F | Talan | Paris, fr | 2026-09-28 |
 | Business Analyst Cash Management - H/F | Talan | Paris, fr | 2026-09-28 |
 | Business Analyst Transverse Finance - H/F | Talan | Paris, fr | 2026-09-28 |
+| Data Scientist Internship (November, 6 months) | Shift Technology | France - Paris | 2026-09-28 |
 | Consultant Confirmé - Fullstack (Java/Python/Gen AI, React, Angular, Vue, Flutter) - F/H/N | OCTO Technology | Paris, fr | 2026-09-28 |
 | Consultant AI Apps - F/H/N | OCTO Technology | Paris, fr | 2026-09-28 |
 | Consultant Senior/Tech Lead- Fullstack (Java/Python/Gen AI, React, Angular, Vue) - F/H/N | OCTO Technology | Paris, fr | 2026-09-28 |
@@ -189,8 +206,8 @@ _2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
 | Acheteur.se IT Senior (F/H/NB) | Ubisoft | Paris, fr | 2026-09-25 |
 | Acheteur.se IT Senior - Spécialisé Achats Cloud | Ubisoft | Paris, fr | 2026-09-25 |
 | Compliance Officer | Fundcraft | Paris, France | 2026-09-25 |
-| Lead Product Manager - RPG | Homa | Paris, France | 2026-09-25 |
 | Responsable People / People Director | AREA 17 | Paris, France | 2026-09-25 |
+| Lead Product Manager - RPG | Homa | Paris, France | 2026-09-25 |
 | Director, Satellite Business International \| Directeur(trice), Développement Commercial International - Satellites | Vast | Paris, France | 2026-09-24 |
 | Mobile Telecommunications Support Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-24 |
 | Disability and Leave Services Associate - Contract Opportunity | Sutherland | Portmore, St. Catherine Parish, Jamaica, jm | 2026-09-24 |
@@ -211,12 +228,10 @@ _2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
 | Final Year Internship Consultant - Cybersecurity | Sia | Paris, fr | 2026-09-24 |
 | Consulting - Senior Manager - Chef de Projet Infrastructure - Paris H/F | Talan | Paris, fr | 2026-09-24 |
 | Marketing Manager / Account-Based Marketing (ABM) | IFS. AI-Powered Software Built for Your Industry | Paris, fr | 2026-09-24 |
-| Forward Deployed Engineer | Clera | Paris | 2026-09-24 |
 | Applied AI Engineer, Startups (Codex) | Openai | Paris, France | 2026-09-24 |
 | Technical Lead - Agentic AI | Nagarro | Paris, fr | 2026-09-24 |
 | Chargé de Qualité & Formation senior H/F | AccorCorpo | Paris, fr | 2026-09-24 |
 | Stage - Consolidation et Contrôle financier (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-09-24 |
-| Senior Data Engineer - Analytics (x/f/m) | Doctolib | Paris, Paris, France | 2026-09-24 |
 | Technical Recruiter | Vibe | Paris | 2026-09-24 |
 | Coordinateur / assistant d'agence d'aide à domicile (H/F) | Ouihelp | Paris | 2026-09-24 |
 | Head of Brand (Relocation to Milan) | Satispay | Paris, France | 2026-09-24 |
@@ -291,21 +306,6 @@ _2,416 open · showing the 300 most recent · updated 2026-09-30 04:18 UTC_
 | Data Protection Analyst / RGPD H/F | NEXTON | Paris, fr | 2026-09-22 |
 | UX Writer H/F | NEXTON | Paris, fr | 2026-09-22 |
 | DESIGN SYSTEM DESIGNER H/F | NEXTON | Paris, fr | 2026-09-22 |
-| Product Designer E-commerce H/F | NEXTON | Paris, fr | 2026-09-22 |
-| Broker Partnerships Lead | Alan | Paris, France | 2026-09-22 |
-| CDD 4 mois - Assistant(e) de gestion | Sia | Paris, fr | 2026-09-22 |
-| Marketing & Production Buyer Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-22 |
-| Accessories Development Intern (8 weeks) | ANINE BING | Paris, France | 2026-09-22 |
-| Chargé(e) de Communication Corporate, Interne & Marque Employeur (CDD) - H/F | Wavestone | Paris, fr | 2026-09-22 |
-| Gestionnaire Flotte Automobile & Déplacements Professionnels H/F | EPSA | Paris, fr | 2026-09-22 |
-| Senior Pre-sales Solution Architect - Enterprise AI infrastructure (remote in the EU) | Mirantis | Paris, fr | 2026-09-22 |
-| People Solutions Coordinator - Paris | Datadog | Paris, France | 2026-09-22 |
-| Group Cost Controller | Harmattan Ai | Paris | 2026-09-22 |
-| Scientific Communication Manager | Prose | Paris | 2026-09-22 |
-| Data Engineer - Snowflake | Valtech | Paris | 2026-09-22 |
-| Senior iOS Engineer - Blitz | Voodoo | Paris | 2026-09-22 |
-| Senior Product Manager | IFS. AI-Powered Software Built for Your Industry | Paris, fr | 2026-09-22 |
-| Designer UI / DA - Spécialiste Iconographie & Design System H/F | NEXTON | Paris, fr | 2026-09-22 |
 
 ---
 
