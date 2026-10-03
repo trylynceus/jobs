@@ -2,10 +2,34 @@
 
 Roles listing Munich as their location.
 
-_1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
+_1,403 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Senior Platform Engineer | Clera | Munich | 2026-10-02 |
+| Senior Product Engineer | Clera | Munich | 2026-10-02 |
+| Senior Product Engineer | Clera | Munich | 2026-10-02 |
+| Logistics Manager | Helsing | Munich | 2026-10-02 |
+| (Senior) Consultant* – Operational & Cyber Resilience | Capco | Germany - Munich | 2026-10-02 |
+| Partner Account Manager - DACH | Anthropic | Munich, Germany | 2026-10-02 |
+| Senior Business Development Manager, Scandinavia (m/f/d) | ARX Robotics GmbH | Munich | 2026-10-02 |
+| Engineering Manager - Data processing Engines | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-10-02 |
+| Senior (Strategic) Procurement Manager | Red Bull | Munich, de | 2026-10-02 |
+| (Senior) Consultant Business Planning / Business Modeling (all genders) | Roland Berger | Munich, de | 2026-10-02 |
+| Senior Consultant / Project Manager im Bereich Corporate Performance (all genders) | Roland Berger | Munich, de | 2026-10-02 |
+| (Senior) Consultant/Project Manager im Bereich Restructuring & Turnaround (all genders) | Roland Berger | Munich, de | 2026-10-02 |
+| Bid & Proposal Manager (m/f/d) | ARX Robotics GmbH | Munich | 2026-10-02 |
+| Project Manager (m/w/d) - Hochbauprojekte | Turner & Townsend | Munich, de | 2026-10-02 |
+| Senior Project Manager (m/w/d) - Hochbauprojekte | Turner & Townsend | Munich, de | 2026-10-02 |
+| Sales Coordinator (m/w/d) | NBCUniversal | Munich, de | 2026-10-02 |
+| Lead After-Sales Commercial & Service Supply (m/f/d) | ARX Robotics GmbH | Munich | 2026-10-02 |
+| Lead Customer Hub & Local Service Operations (m/f/d) | ARX Robotics GmbH | Munich | 2026-10-02 |
+| Lead Service Engineering - Integrated Product Support & Field Service Engineering (m/f/d) | ARX Robotics GmbH | Munich | 2026-10-02 |
+| Lead Technical Service Center & Operations (m/f/d) | ARX Robotics GmbH | Munich | 2026-10-02 |
+| Lead Training & Workforce Services (m/f/d) | ARX Robotics GmbH | Munich | 2026-10-02 |
+| Staff Software Development Engineer (m/f/d) | SIXT | Munich, de | 2026-10-02 |
+| Working Student- Order Management and Financial Accounting (F/M/D) | NavVis | Munich Onsite (NavVis GmbH) | 2026-10-02 |
+| AVP, Alliances & Channels Ecosystem EMEA Central | ServiceNow | Munich, de | 2026-10-01 |
 | Founding Machine Learning Engineer | Clera | Munich | 2026-10-01 |
 | Founding Technical Partnerships Lead | Clera | Munich | 2026-10-01 |
 | Founding Software Engineer | Clera | Munich | 2026-10-01 |
@@ -13,15 +37,24 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | Founding Engineer | Clera | Munich | 2026-10-01 |
 | GTM Recruitment Sourcer — Munich (FTC, 12 months) | FlexDesk | Munich | 2026-10-01 |
 | GTM Recruiter — Munich (FTC, 12 months) | FlexDesk | Munich | 2026-10-01 |
+| Site Management Associate I | PSI CRO | Munich, de | 2026-10-01 |
+| Senior Product Marketing Manager, Hardware – Parental leave cover ~1.5 years | NavVis | Munich Hybrid (NavVis GmbH) | 2026-10-01 |
+| Product Finance Expert | Moss | Munich | 2026-10-01 |
 | Systems Engineer - Armament Control System Testing | Helsing | Munich | 2026-10-01 |
 | Flight Dynamics Modelling Engineer | Helsing | Munich | 2026-10-01 |
 | Systems Engineer - Low Observability Testing | Helsing | Munich | 2026-10-01 |
 | Systems Engineer - Armament Control System | Helsing | Munich | 2026-10-01 |
 | Systems Engineer - Weapon Integration | Helsing | Munich | 2026-10-01 |
 | Sr. Fullstack Engineer (m/f/x) | KONUX | Munich | 2026-10-01 |
+| Head of Monitoring and Control | Proxima Fusion | Munich | 2026-10-01 |
+| Engineering Technician | Proxima Fusion | Munich | 2026-10-01 |
 | Flight Control Systems Engineer | Helsing | Munich | 2026-10-01 |
+| Maintenance Technician | Proxima Fusion | Munich | 2026-10-01 |
+| Manufacturing Technician | Proxima Fusion | Munich | 2026-10-01 |
+| Production Technician | Proxima Fusion | Munich | 2026-10-01 |
 | Praktikant:in Content Creation – Social Media & Activations | Entain | Munich, de | 2026-10-01 |
 | Content Creator - Social Media & Activations - Area NRW | Entain | Munich, de | 2026-10-01 |
+| Talent Acquisition Manager (all genders) | Wemolo | Munich | 2026-10-01 |
 | (Senior) Consultant* - Payments Transformation | Capco | Germany - Munich | 2026-10-01 |
 | (Senior) Consultant* - SEPA-Payments | Capco | Germany - Munich | 2026-10-01 |
 | Sales Development Representative, Swedish speaking | Everpure | Munich, Germany | 2026-10-01 |
@@ -61,7 +94,6 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | New Business Manager | Siteminder | Munich | 2026-09-29 |
 | Head of IT Platform & Infrastructure | Celonis | Munich, Germany | 2026-09-29 |
 | Senior Director, CEG EMEA Field Ops Lead | ServiceNow | Munich, de | 2026-09-29 |
-| Intern Communications | Red Bull | Munich, de | 2026-09-29 |
 | Learning and Enablement Manager | Helsing | Munich | 2026-09-29 |
 | Business Development Manager (AI Products and Solutions) | Sigma Software | Munich, de | 2026-09-29 |
 | Principal Enterprise Architect | Celonis | Munich, Germany | 2026-09-29 |
@@ -82,13 +114,8 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | Software Engineer SLAM (F/M/D) | NavVis | Munich Hybrid (NavVis GmbH) | 2026-09-28 |
 | Strategy & Operations - Product Growth | Clera | Munich | 2026-09-27 |
 | Account Executive | Clera | Munich | 2026-09-27 |
-| Senior Full Stack Engineer | Clera | Munich | 2026-09-27 |
-| Full Stack Engineer | Clera | Munich | 2026-09-27 |
 | Founding Product Engineer | Clera | Munich | 2026-09-27 |
 | (Senior) Backend Software Engineer (Java) - Metadata Platform DB | Celonis | Munich, Germany | 2026-09-26 |
-| Member of Commercial Staff | Clera | Munich | 2026-09-26 |
-| Founding Product Engineer | Clera | Munich | 2026-09-26 |
-| Senior Product Manager, Digital Therapeutics | Clera | Munich | 2026-09-26 |
 | Technical Specialist, CAE Crashworthiness | Lucid Motors | Munich, BY | 2026-09-26 |
 | Talent Acquisition Partner (all genders) | Lio | Munich Office | 2026-09-25 |
 | AIT Test & Assembly Technician | The Exploration Company | Munich, Germany | 2026-09-25 |
@@ -96,8 +123,6 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | AIT Senior Test Technician | The Exploration Company | Munich, Germany | 2026-09-25 |
 | AIT Mechanical Technician - Thermal Protection System | The Exploration Company | Munich, Germany | 2026-09-25 |
 | AIT Propulsion Engineer | The Exploration Company | Munich, Germany | 2026-09-25 |
-| Intern External Communications | Celonis | Munich, Germany | 2026-09-25 |
-| Working Student External Communications | Celonis | Munich, Germany | 2026-09-25 |
 | Auszubildende zur/zum Rechtsanwaltsfachangestellten (m/w/d) - München | Clifford Chance | Munich, de | 2026-09-25 |
 | Mitarbeiter/in im internen Werk-und Objektschutz | Helsing | Munich | 2026-09-25 |
 | Accounts Payable Specialist | Roadsurfer.Com | Munich Office | 2026-09-25 |
@@ -115,9 +140,7 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | UAV Production Technician | Destinus | Munich, Germany | 2026-09-24 |
 | Costing Manager (m/f/d) - Electronics | A2MAC1 | Munich, Germany | 2026-09-24 |
 | Senior Engineering Manager, Product Engineering | Secfix | Remote - Munich | 2026-09-23 |
-| Robot Learning Engineer | Clera | Munich | 2026-09-23 |
 | Senior Account Executive - New Business - PSO Nfp | Unit4 | Munich, de | 2026-09-23 |
-| (Senior) Onboarding Sales Enablement Manager | Celonis | Munich, Germany | 2026-09-23 |
 | Event Marketing Manager (all genders) | Avelios Medical | Munich | 2026-09-23 |
 | Sales Director, New Business - PSO &NfP - DACH | Unit4 | Munich, de | 2026-09-23 |
 | Territory Account Executive, Commercial (Germany) | Everpure | Munich, Germany | 2026-09-23 |
@@ -195,7 +218,7 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | Senior Business Value Consultant - Banking (m/f/d) | SAP Fioneer | Munich, Germany | 2026-09-16 |
 | Regional Costing, Insights & Consulting Director EMEA (m/f/d) | A2MAC1 | Munich, Germany | 2026-09-16 |
 | AIT MGSE Engineer | The Exploration Company | Munich, Germany | 2026-09-15 |
-| Field Enablement Manager - Amsterdam | Datadog | Amsterdam, The Netherlands; Munich, Germany | 2026-09-15 |
+| Field Enablement Manager (EMEA) | Datadog | Amsterdam, The Netherlands; Munich, Germany | 2026-09-15 |
 | AI and Computer Vision Engineer | The Exploration Company | Munich, Germany | 2026-09-15 |
 | Kreditorenbuchhalter (m/w/d) | Helsing | Munich | 2026-09-15 |
 | Senior Accountant Accounts Payable | Helsing | Munich | 2026-09-15 |
@@ -255,9 +278,9 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | Guidance, Navigation, & Control Engineer | Helsing | Munich | 2026-09-10 |
 | Senior Manager Group Accounting & IFRS (m/f/d) | SAP Fioneer | Munich, Germany | 2026-09-10 |
 | Electrical Engineer (F/M/D) – Maternity/Parental leave cover ~1 year | NavVis | Munich Onsite (NavVis GmbH) | 2026-09-09 |
-| Intern Human Resource Management | H&Z Group | Munich | 2026-09-09 |
 | Intern Post Merger Integration & Strategy Execution (m/f/d) | H&Z Group | Munich | 2026-09-09 |
 | (Senior) Manager Operations (m/f/d) | H&Z Group | Munich | 2026-09-09 |
+| Intern Human Resource Management | H&Z Group | Munich | 2026-09-09 |
 | Working Student Business Development & Growth Strategy (all genders) | Wemolo | Munich | 2026-09-09 |
 | Senior Software Engineer | Celonis | Munich, Germany | 2026-09-09 |
 | Enterprise Sales Manager | Adyen | Berlin; Munich | 2026-09-09 |
@@ -273,7 +296,6 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | Lead Solutions Architect | Databricks | Munich, Germany | 2026-09-08 |
 | Consulting Intern AI & Data (all genders) | Roland Berger | Munich, de | 2026-09-08 |
 | Working Student – AI Communications & Enablement (all genders) | Roland Berger | Munich, de | 2026-09-08 |
-| Working Student Power Platform (all genders) | Roland Berger | Munich, de | 2026-09-08 |
 | GenAI Consulting Intern (all genders) | Roland Berger | Munich, de | 2026-09-08 |
 | Sales Assistant / Verkäufer:in (w/m/d) | Guess Europe Sagl | Munich, Germany | 2026-09-08 |
 | Software Engineer - Roboticist | Ekumenlabs | Munich | 2026-09-07 |
@@ -284,28 +306,6 @@ _1,394 open · showing the 300 most recent · updated 2026-10-02 04:15 UTC_
 | Procurement Project Manager | Helsing | Munich | 2026-09-07 |
 | Senior Systems Engineer | Spire Global | Munich, Bavaria, Germany | 2026-09-07 |
 | Central Monitoring Manager | PSI CRO | Munich, de | 2026-09-07 |
-| Senior Flight Test Engineer | Helsing | Munich | 2026-09-07 |
-| (Senior) Business Development Representative France (f/m/d) | Zeit Ai | Munich | 2026-09-07 |
-| Named Core Account Executive - Retail | Databricks | Munich, Germany | 2026-09-07 |
-| HR Ops Specialist (m/f/d) | Consent Management Platform (CMP) Usercentrics | Munich, Germany | 2026-09-07 |
-| Senior Avionics System Engineer | The Exploration Company | Munich, Germany | 2026-09-04 |
-| Avionics System Engineer | The Exploration Company | Munich, Germany | 2026-09-04 |
-| Customer Service Manager | Omaze | Munich | 2026-09-04 |
-| Praktikant (all genders) Strategy & Transaction Communication | FGS Global | Munich | 2026-09-04 |
-| Solution Consultant (Pre-sales) | Nexthink | Munich, de | 2026-09-04 |
-| Staff Forward Deployed Engineer | Databricks | Berlin, Germany; Munich, Germany | 2026-09-04 |
-| (Senior) Enterprise Account Executive (f/m/d) | Remberg | Munich Office | 2026-09-04 |
-| Working Student – Impact & Startup Accelerator Program Support | Netlight | Munich | 2026-09-04 |
-| Facility Support & Logistic - RoboGym (Mensch) | Neura Robotics Gmbh | Munich | 2026-09-04 |
-| Facility Support & Logistic - RoboGym (human) | Neura Robotics Gmbh | Munich | 2026-09-04 |
-| Deployment Strategist | Atira | Munich | 2026-09-04 |
-| Principal Thermal Solutions Engineer - Munich, Germany | Vinci4D | Munich, Germany | 2026-09-03 |
-| Enterprise Sales Manager, Platforms | Adyen | Berlin; Munich | 2026-09-03 |
-| CAD & PLM Administration Intern | The Exploration Company | Munich, Germany | 2026-09-03 |
-| Product Manager, Engagement (m/f/d) | AutoScout24 | Berlin (Germany); Munich (Germany) | 2026-09-03 |
-| Vendor Manager Non-Food (All Genders) | zooplus SE | Munich, de | 2026-09-03 |
-| Tender Manager (m/f/d) | ARX Robotics GmbH | Munich | 2026-09-03 |
-| Senior Simulation Engineer, Computational Physics | Proxima Fusion | Munich | 2026-09-03 |
 
 ---
 
