@@ -2,7 +2,7 @@
 
 Roles listing Barcelona as their location.
 
-_865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
+_869 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -24,6 +24,7 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Gestor/a Nacional de Flotas, Camiones y Combustible | Veolia Environnement SA | Barcelona, es | 2026-10-02 |
 | Senior AI Solutions Engineer for Marketing | Lighthouse | Barcelona, Spain | 2026-10-02 |
 | Consultor/a Senior Lean- Mejora Continua | SGS | Barcelona, es | 2026-10-02 |
+| Private Chef | Utopia | Barcelona, Spain | 2026-10-02 |
 | FP&A Director | Appodeal | Barcelona, Spain | 2026-10-01 |
 | Global Analytics Lead (Remote in Barcelona or Madrid) | Docplanner | Barcelona | 2026-10-01 |
 | Head of Customer Support | Labhouse | Barcelona | 2026-10-01 |
@@ -43,10 +44,10 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | MX Finance & Ops Lead - HQ | Delivery Hero | Barcelona, es | 2026-10-01 |
 | R&C Sr Controller MX Global | Delivery Hero | Barcelona, es | 2026-10-01 |
 | Account Executive, Customer Growth - Nordics | EcoVadis | Barcelona, es | 2026-10-01 |
-| B2B Travel Support Intern | Exoticca | Barcelona, Spain | 2026-10-01 |
-| Finance Operations Specialist | Cledara | Barcelona, Spain | 2026-10-01 |
-| Sales Development Representative - Inbound | Cloudtalk | Barcelona, Spain | 2026-10-01 |
 | IT Category Manager | Unilabs | Barcelona, Spain | 2026-10-01 |
+| Sales Development Representative - Inbound | Cloudtalk | Barcelona, Spain | 2026-10-01 |
+| Finance Operations Specialist | Cledara | Barcelona, Spain | 2026-10-01 |
+| B2B Travel Support Intern | Exoticca | Barcelona, Spain | 2026-10-01 |
 | Technical Account Manager, Iberia | Veeam Software | Barcelona, Spain | 2026-09-30 |
 | Copywriter (FTC) - MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-09-30 |
 | Backend Developer - Turkish Speaking | Codeway | Barcelona | 2026-09-30 |
@@ -65,9 +66,9 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | User Acquisition Specialist | Delivery Hero | Barcelona, es | 2026-09-30 |
 | Senior Paid Search Marketing Specialist | Delivery Hero | Barcelona, es | 2026-09-30 |
 | Comercial Junior - Barcelona | METRO/MAKRO | BARCELONA, es | 2026-09-30 |
-| Account Executive - España | Hubtype | Barcelona, Spain | 2026-09-30 |
-| SDR - España (Outbound) | Hubtype | Barcelona, Spain | 2026-09-30 |
 | Técnico/a de Tesorería y Administración Financiera | Fernández | Barcelona, Spain | 2026-09-30 |
+| SDR - España (Outbound) | Hubtype | Barcelona, Spain | 2026-09-30 |
+| Account Executive - España | Hubtype | Barcelona, Spain | 2026-09-30 |
 | Senior Product Manager, CRM - MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-09-29 |
 | Sales Development Representative - Dutch Speaker | Lighthouse | Barcelona, Spain | 2026-09-29 |
 | Sales Development Representative (Swedish or Danish speaking) | Elastic | Barcelona, Spain | 2026-09-29 |
@@ -82,12 +83,12 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Senior Manager, HR Operations | Hudl | Barcelona, Spain | 2026-09-29 |
 | Senior IT Data Project Manager in Pharma | Fusion Consulting | Barcelona, es | 2026-09-29 |
 | Senior Product Owner | Appodeal | Barcelona, Spain | 2026-09-29 |
+| Chief of Staff to the CEO | AirHelp | Barcelona, Spain | 2026-09-29 |
+| Travel Product Specialist | Exoticca | Barcelona, Spain | 2026-09-29 |
+| Chargé(e) de Renouvellement - Contrat à Durée Déterminée (3 mois) | Shiftmove | Barcelona, Spain | 2026-09-29 |
+| Business Development Representative - DACH | Kantox | Barcelona, Spain | 2026-09-29 |
 | Talent Specialist | Cledara | Barcelona, Spain | 2026-09-29 |
 | Customer Success Manager | Cledara | Barcelona, Spain | 2026-09-29 |
-| Business Development Representative - DACH | Kantox | Barcelona, Spain | 2026-09-29 |
-| Travel Product Specialist | Exoticca | Barcelona, Spain | 2026-09-29 |
-| Chief of Staff to the CEO | AirHelp | Barcelona, Spain | 2026-09-29 |
-| Chargé(e) de Renouvellement - Contrat à Durée Déterminée (3 mois) | Shiftmove | Barcelona, Spain | 2026-09-29 |
 | Senior Engineering Manager (GenAI & Agentic Platforms) | Preply | Barcelona | 2026-09-28 |
 | Clinical Research Associate I | PSI CRO | Barcelona, es | 2026-09-28 |
 | Technical Director, Live Operations - MONOPOLY GO! | Scopely | ES - Barcelona, Spain | 2026-09-28 |
@@ -111,8 +112,8 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | B2B Creative Manager | Gameloft Official | Barcelona, es | 2026-09-25 |
 | Technical Support Specialist, Hospitality - German speaking (all genders) | Lightspeedhq | Barcelona | 2026-09-25 |
 | Client Engineer (Unity, Real User Monitoring) - Unannounced Project | Scopely | ES - Barcelona, Spain | 2026-09-25 |
-| Freelance Project Manager | pubGENIUS | Barcelona, Spain | 2026-09-25 |
 | Facilities Manager (Spain) | Technation | Barcelona, Spain | 2026-09-25 |
+| Freelance Project Manager | pubGENIUS | Barcelona, Spain | 2026-09-25 |
 | Coordinador/a de Producción | Fernández | Barcelona, Spain | 2026-09-25 |
 | Senior Cybersecurity Engineer | Devoteam | Barcelona, es | 2026-09-24 |
 | Senior Business Travel Consultant - Night Shift /Remote | Perk | Barcelona | 2026-09-24 |
@@ -140,8 +141,8 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Central Monitoring Manager | PSI CRO | Madrid / Barcelona, es | 2026-09-22 |
 | General Manager Associate - Spain 🇪🇸 | Alan | Madrid, Spain; Barcelona, Spain | 2026-09-22 |
 | Senior Manager, Growth Strategy & Operations (PLG & Pricing) | Preply | Barcelona | 2026-09-22 |
-| Machine Learning Research Engineer | Seqera.Io | Barcelona (Spain) | 2026-09-22 |
 | Machine Learning Research Engineer | Seqera | Barcelona (Spain) | 2026-09-22 |
+| Machine Learning Research Engineer | Seqera.Io | Barcelona (Spain) | 2026-09-22 |
 | Senior Knowledge Graph Engineer | EcoVadis | Barcelona, es | 2026-09-22 |
 | Ingeniero de Instalaciones MEP | Utopia | Barcelona, Spain | 2026-09-22 |
 | Associate Compensation Specialist, Global Compensation Programs | Scopely | ES - Barcelona, Spain | 2026-09-21 |
@@ -167,6 +168,7 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Enterprise Program Manager | Lighthouse | Barcelona, Spain; Málaga, Spain; Palma de Mallorca, Spain; Valencia, Spain | 2026-09-18 |
 | Senior Platform Software Engineer - R&D Automation | Preply | Barcelona | 2026-09-18 |
 | IT Operations Engineer Internship | BMAT Music Innovators | Barcelona, Spain | 2026-09-18 |
+| In-house Italian Video Games Linguist | Keywords Studios | Barcelona, Spain | 2026-09-18 |
 | Senior Product Manager - Expansion | Preply | Barcelona | 2026-09-17 |
 | Sales Development Representative | Flexport | Barcelona, Spain | 2026-09-17 |
 | Senior SDR Enablement Specialist | Elastic | Barcelona, Spain | 2026-09-17 |
@@ -203,9 +205,9 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Staff Product Manager (Platform) | Preply | Barcelona | 2026-09-14 |
 | Data Science Engineer | Lighthouse | Barcelona, Spain | 2026-09-14 |
 | BDR \| Barcelona/Madrid - Spanish Market | Lexroom | Barcelona | 2026-09-14 |
+| AI Strategy Director | Visium SA | Barcelona, Spain | 2026-09-14 |
 | Business Excellence Intern | Exoticca | Barcelona, Spain | 2026-09-14 |
 | Head of Research Software & Integrations (Spain) | Technation | Barcelona, Spain | 2026-09-14 |
-| AI Strategy Director | Visium SA | Barcelona, Spain | 2026-09-14 |
 | IT Strategy & Performance Analyst | Unilabs | Barcelona, Spain | 2026-09-14 |
 | QA Analyst | Scopely | ES - Barcelona, Spain | 2026-09-11 |
 | Senior PM IT/OT Infrastructure in Pharma | Fusion Consulting | Barcelona, es | 2026-09-11 |
@@ -215,6 +217,7 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Revenue Operations Manager | Perk | Barcelona | 2026-09-10 |
 | Technical Project Manager | pal robotics | Barcelona, es | 2026-09-10 |
 | Senior Concept Artist | Gameloft Official | Barcelona, es | 2026-09-10 |
+| Junior Software Engineer – Early Career (Strong Problem solving & Coding Focus) - 100% Remote within Spain | Docplanner | Barcelona | 2026-09-10 |
 | Customer Service Team Manager - German bilingual | Quince | Spain - Barcelona | 2026-09-10 |
 | MEP Engineer On-site Barcelona | Utopia | Barcelona, Spain | 2026-09-10 |
 | Head of Finance | Exoticca | Barcelona, Spain | 2026-09-10 |
@@ -229,8 +232,8 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Business Development Representative | Tripadvisor | Barcelona | 2026-09-09 |
 | Controlling Manager | Kantox | Barcelona, Spain | 2026-09-09 |
 | Senior Technology Auditor | Scopely | ES - Barcelona, Spain | 2026-09-08 |
-| Senior Software Engineer | Seqera.Io | Barcelona (Spain) | 2026-09-08 |
 | Senior Software Engineer | Seqera | Barcelona (Spain) | 2026-09-08 |
+| Senior Software Engineer | Seqera.Io | Barcelona (Spain) | 2026-09-08 |
 | Gameplay & UI Developer - Paper.io2 | Voodoo | Barcelona | 2026-09-08 |
 | Senior Adobe Application Consultant | MAP | Barcelona, Catalonia, Spain | 2026-09-08 |
 | Care Expert - Spain 🇪🇸 | Alan | Madrid, Spain; Barcelona, Spain | 2026-09-08 |
@@ -303,9 +306,6 @@ _865 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Product Manager - Engineering | Tripledot Studios | Barcelona | 2026-08-27 |
 | Senior Technical Product Marketing Manager | Amenitiz | Barcelona | 2026-08-27 |
 | Senior Product Manager B2B (VPN) | Proton | Barcelona; London; Geneva | 2026-08-27 |
-| Business Development Representative - Catalan & Spanish Market | Amenitiz | Barcelona | 2026-08-27 |
-| Sales Executive - Spanish Market | Amenitiz | Barcelona | 2026-08-27 |
-| Business Development Representative - Spanish Market | Amenitiz | Barcelona | 2026-08-27 |
 
 ---
 

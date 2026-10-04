@@ -2,12 +2,13 @@
 
 Roles listing Madrid as their location.
 
-_789 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
+_794 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | Senior Director, Operational Strategy - Oncology | Ergomed | Madrid, es | 2026-10-02 |
 | Project Manager | FeverUp | Madrid | 2026-10-02 |
+| Associate Team Lead, Customer Success | Taxfix.Com | Madrid | 2026-10-02 |
 | Senior Editorial Manager | FeverUp | Madrid | 2026-10-02 |
 | Managing Editor | FeverUp | Madrid | 2026-10-02 |
 | Executive Editor | FeverUp | Madrid | 2026-10-02 |
@@ -34,6 +35,9 @@ _789 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Consultor/a Senior en IA | Inetum | Madrid, es | 2026-10-02 |
 | Auxiliar de Carnicería/Mantequería \| 36 h \| Turnos Rotativos \| Barajas | METRO/MAKRO | MADRID, es | 2026-10-02 |
 | Auxiliar Atención al Cliente y Reposición \| 20 h \| Turnos Rotativos \| Barajas | METRO/MAKRO | MADRID, es | 2026-10-02 |
+| Clinical Trial Associate I | Allucent | Madrid, Spain | 2026-10-02 |
+| HR intern | Destinus | Madrid, Spain | 2026-10-02 |
+| Energetics Systems Integration Lead | Destinus | Madrid, Spain | 2026-10-02 |
 | Talent Attraction Specialist (French speaker) | MSX International | Madrid, es | 2026-10-01 |
 | Legal Commercial Counsel, EMEA | Axon | Madrid, Spain | 2026-10-01 |
 | Enterprise Sales Account Manager | Impinj | Madrid, Madrid, Spain | 2026-10-01 |
@@ -68,11 +72,11 @@ _789 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Senior Platform Software Engineer - Core Infrastructure | Nexthink | Madrid, es | 2026-10-01 |
 | Account Development Associate (Spanish Speaker) | FeverUp | Madrid | 2026-10-01 |
 | Global Head of BD Strategy & Planning | FeverUp | Madrid | 2026-10-01 |
+| AI Engineer | MediaRadar | Madrid, Spain | 2026-10-01 |
 | Freelance Project Manager | pubGENIUS | Madrid, Spain | 2026-10-01 |
 | Start-Up Associate Contractor (Spain) | Allucent | Madrid, Spain | 2026-10-01 |
-| AI Engineer | MediaRadar | Madrid, Spain | 2026-10-01 |
-| Frontend Developer | Valsoft Corporation | Madrid, Spain | 2026-10-01 |
 | Sales Development Representative - E-commerce Marketing Agency | Hustler Marketing | Madrid, Spain | 2026-10-01 |
+| Frontend Developer | Valsoft Corporation | Madrid, Spain | 2026-10-01 |
 | AI & Operations Process Manager | FeverUp | Madrid | 2026-09-30 |
 | Senior Data Scientist (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; Hannover, Lower Saxony, Germany; Iași, Iași, Romania; London, England, United Kingdom; Madrid, Madrid, Spain; Manchester, England, United Kingdom; Milano, Milan, Italy; München, Bavaria, Germany; Warsaw, Masovian Voivodeship, Poland | 2026-09-30 |
 | Study Start Up and Regulatory Affairs Specialist | Ergomed | Madrid, es | 2026-09-30 |
@@ -113,8 +117,8 @@ _789 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Marketing Intern | Everfield | Spain - Madrid \| Hybrid | 2026-09-29 |
 | Ambassador Sales Executive, Madrid | PropHero | Madrid | 2026-09-29 |
 | Digital Experience Marketing Manager | Ergomed | Madrid, es | 2026-09-29 |
-| Security & Compliance Manager | Destinus | Madrid, Spain | 2026-09-29 |
 | Product Consultant | Plain Concepts | Madrid, Spain | 2026-09-29 |
+| Security & Compliance Manager | Destinus | Madrid, Spain | 2026-09-29 |
 | Associate Competitive Value Engineer | Celonis | Madrid, Spain | 2026-09-28 |
 | Cloud Solutions and Digital Transformation Specialist | Devoteam | Madrid, es | 2026-09-28 |
 | Global Payroll & Benefits Specialist | FeverUp | Madrid | 2026-09-28 |
@@ -131,9 +135,9 @@ _789 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Data Engineering Manager | MediaRadar | Madrid, Spain | 2026-09-28 |
 | Senior Software Engineer | MediaRadar | Madrid, Spain | 2026-09-28 |
 | Software Engineer | MediaRadar | Madrid, Spain | 2026-09-28 |
+| Quality Engineer | Destinus | Madrid, Spain | 2026-09-28 |
 | Sales & Marketing Director | Hustler Marketing | Madrid, Spain | 2026-09-28 |
 | Strategic Account Manager - Sports - EMEA | Vizrt | Madrid, Spain | 2026-09-28 |
-| Quality Engineer | Destinus | Madrid, Spain | 2026-09-28 |
 | Event Producer - Northern Europe | FeverUp | Madrid | 2026-09-25 |
 | Revenue Operations Analyst (CX) | Pleo | Madrid | 2026-09-25 |
 | Senior Application Consultant - SFMC | MAP | Madrid, Spain | 2026-09-25 |
@@ -204,9 +208,9 @@ _789 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Enterprise Sales Engineer (Spain) | Sierra | Madrid | 2026-09-22 |
 | General Manager Associate - Spain 🇪🇸 | Alan | Madrid, Spain; Barcelona, Spain | 2026-09-22 |
 | Software Engineer | Nexthink | Madrid, es | 2026-09-22 |
-| B2B Systems & Component Sales Manager | Destinus | Madrid, Spain | 2026-09-22 |
 | Shift leader | Destinus | Madrid, Spain | 2026-09-22 |
 | Future Opportunities - General | Idoven | Madrid, Spain | 2026-09-22 |
+| B2B Systems & Component Sales Manager | Destinus | Madrid, Spain | 2026-09-22 |
 | International Law School Manager | Harvey | Madrid | 2026-09-21 |
 | Consultor/a Junior para Servicios de Movilidad | MSX International | Madrid, es | 2026-09-21 |
 | Case Processing Manager, Team Lead (PV Manager) | Ergomed | Madrid, es | 2026-09-21 |
@@ -259,8 +263,8 @@ _789 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Analytics Engineer / Data Analyst | Ayming | Madrid, es | 2026-09-15 |
 | Analytics Engineer / Data Analyst | Ayming IE | Madrid, es | 2026-09-15 |
 | Head of Commercial & Partnerships - Golf Software | Everfield | Spain - Madrid \| Hybrid | 2026-09-15 |
-| Performance Marketing | Happyrobot.Ai | Madrid | 2026-09-14 |
 | Performance Marketing | HappyRobot | Madrid | 2026-09-14 |
+| Performance Marketing | Happyrobot.Ai | Madrid | 2026-09-14 |
 | Consulting Internship - January 2027 Intake | Roland Berger | Madrid, es | 2026-09-14 |
 | HRBP | FeverUp | Madrid | 2026-09-14 |
 | Senior Automation Software Tester, MSR team (remote) | Mirantis | Madrid, es | 2026-09-14 |
@@ -302,10 +306,6 @@ _789 open · showing the 300 most recent · updated 2026-10-03 04:17 UTC_
 | Care Expert - Spain 🇪🇸 | Alan | Madrid, Spain; Barcelona, Spain | 2026-09-08 |
 | Application Security Engineer (f/m/d) | Awin | Berlin, Berlin, Germany; Madrid, Madrid, Spain; Milano, Milan, Italy; Warsaw, Masovian Voivodeship, Poland | 2026-09-08 |
 | M&A Analyst / Senior Analyst | FeverUp | Madrid | 2026-09-08 |
-| Data Analytics Engineer | Quadient | Madrid, es | 2026-09-08 |
-| Senior Customer Engineer | Cloudflare | Madrid | 2026-09-08 |
-| Global Tax Trainee | Cabify | Madrid | 2026-09-08 |
-| Talent Acquisition Specialist | FeverUp | Madrid | 2026-09-08 |
 
 ---
 
