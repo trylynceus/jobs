@@ -2,12 +2,14 @@
 
 Roles listing Stockholm as their location.
 
-_473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
+_387 open · showing the 300 most recent · updated 2026-10-05 04:16 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| Global Product Safety Science Lead | Sobi | Stockholm, se | 2026-10-02 |
 | Solution Architect Dynamics 365 Finance and Supply Chain Management Stockholm | Sopra Steria Corporate | Stockholm, se | 2026-10-02 |
 | Game Designer (Slot Product Owner) | Evolution | Stockholm, se | 2026-10-02 |
+| Systemutvecklare Fullstack | AFRY | Stockholm, se | 2026-10-02 |
 | Senior Software Engineer - Blueprint, Tech Foundation | Epidemic Sound | Stockholm HQ | 2026-10-02 |
 | Junior Solution Sales Executive - Stockholm | Devoteam | Stockholm, se | 2026-10-02 |
 | ML Engineering Lead (LLM Ops) | Neko Health | Stockholm | 2026-10-02 |
@@ -17,26 +19,20 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | SCADA- och Digitaliseringsingenjör | AFRY | Stockholm, se | 2026-10-02 |
 | Nästa utmaning inom Siemens PCS7 | AFRY | Stockholm, se | 2026-10-02 |
 | Automationsspecialist | AFRY | Stockholm, se | 2026-10-02 |
-| Senior Recruiter / Talent Acquisition Specialist (Construction Sector) | Turner & Townsend | Stockholm, se | 2026-10-02 |
 | Senior Lösningsarkitekt .NET, Stockholm | Sopra Steria Corporate | Stockholm, se | 2026-10-01 |
 | Konsult IT-drift/infrastruktur | AFRY | Stockholm, se | 2026-10-01 |
 | Senior Account Manager, Groceries | Delivery Hero | Stockholm, se | 2026-10-01 |
 | Senior Cloud Engineer | Devoteam | Stockholm, se | 2026-10-01 |
-| Juniora Analysts till Enterprise Technology & Performance (Stockholm) - Aug 2027 | Deloitte | Stockholm, se | 2026-10-01 |
 | Sr Marketing Manager | Legora | Stockholm HQ | 2026-10-01 |
 | Treasury Analyst | Legora | Stockholm HQ | 2026-10-01 |
-| Juniora Analysts till Finance Transformation (Stockholm) – Jan 2027 | Deloitte | Stockholm, se | 2026-09-30 |
 | Systemintegratör – inom försvarsindustrin | AFRY | Stockholm, se | 2026-09-30 |
 | Vill du vara med och forma framtidens mejeriindustri? | AFRY | Stockholm, se | 2026-09-30 |
 | Finance Manager - Stockholm | Banyan Software | Stockholm, Sweden | 2026-09-30 |
-| Consulting Internship på Deloitte 2027 – Din väg in i framtidens affärsutveckling | Deloitte | Stockholm, se | 2026-09-30 |
 | Technical Chief of Staff | Clera | Stockholm | 2026-09-29 |
 | Group Privacy Officer | Aceve | Stockholm | 2026-09-29 |
 | Senior Account Director – Large Customers, International - LinkedIn Marketing Solutions (Nordics) | LinkedIn | Stockholm, se | 2026-09-29 |
 | Customer Success Manager | Aceve | Stockholm | 2026-09-29 |
 | Business Development Manager (AI Products and Solutions) | Sigma Software | Stockholm, se | 2026-09-29 |
-| Junior Consultant till Monitor Deloitte (Stockholm) - Aug 2027 | Deloitte | Stockholm, se | 2026-09-29 |
-| Tax Specialist | Lovable | Stockholm | 2026-09-29 |
 | Office Manager | Valtech | Stockholm | 2026-09-29 |
 | AI Architect | EQT Group | Stockholm, Stockholm, Sweden | 2026-09-28 |
 | Platschef Stål Gällivare, Northern Sweden | NCC | Stockholm, se | 2026-09-28 |
@@ -54,16 +50,12 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Platschef till Marina enheten - NCC Civil South East | NCC | Stockholm, se | 2026-09-25 |
 | Talent Acquisition Partner - GTM Enterprise | Mentimeter | Stockholm | 2026-09-25 |
 | Arbetsledare till Marina enheten - NCC Civil South East | NCC | Stockholm, se | 2026-09-25 |
-| Experienced professionals to our SAP Supply Chain team (Stockholm) | Deloitte | Stockholm, se | 2026-09-25 |
-| Juniora Analysts till Deloitte Digital (Stockholm) - Jan 2027 | Deloitte | Stockholm, se | 2026-09-24 |
 | Head of SB Product - Data & AI | Betsson Group | Stockholm | 2026-09-24 |
 | Engineering Manager - Data Platform | Epidemic Sound | Stockholm HQ | 2026-09-24 |
 | Regulatory Affairs Engineer, Post-Market Surveillance | Neko Health | Stockholm | 2026-09-24 |
 | Regulatory Affairs Engineer, Manufacturing Lifecycle | Neko Health | Stockholm | 2026-09-24 |
 | SW Tool Validation Lead | Neko Health | Stockholm | 2026-09-24 |
 | Senior Gameplay Programmer [Unannounced Project] | Ubisoft | Stockholm, se | 2026-09-24 |
-| Junior Consultant to M&A Transaction Services (Stockholm) - Aug 2027 | Deloitte | Stockholm, se | 2026-09-24 |
-| Subject Matter Expert inom QRS - Quality, Risk & Security | Deloitte | Stockholm, se | 2026-09-24 |
 | Usability Engineering Lead | Neko Health | Stockholm | 2026-09-23 |
 | Key Account Sales/Säljare till Stone Materials | NCC | Stockholm, se | 2026-09-23 |
 | Product Engineer, Growth Acquisition | Mentimeter | Stockholm | 2026-09-23 |
@@ -73,33 +65,24 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Senior AI Developer - LLM Integration | InventYOU AB | Stockholm, Sweden | 2026-09-23 |
 | Senior Fullstack Developer (Java/Kotlin) | InventYOU AB | Stockholm, Sweden | 2026-09-23 |
 | Technical Program Manager - EMEA | Applied | Stockholm | 2026-09-22 |
-| Product Partnership Manager | Lovable | Stockholm | 2026-09-22 |
 | Account Executive - Northern Europe | Appian Corporation | Stockholm, Sweden | 2026-09-22 |
-| Senior Mobile Engineer | Lovable | Stockholm | 2026-09-22 |
 | Head of Health & Safety, NCC Building Sweden | NCC | Stockholm, se | 2026-09-22 |
-| Uppsatspraktikant till Deloitte Legal Stockholm - våren 2027 | Deloitte | Stockholm, se | 2026-09-22 |
 | Associate, Fundraising | Human Rights Watch | Stockholm, Stockholms län, Sweden | 2026-09-21 |
 | Lead Test Engineer, Electronics | Neko Health | Stockholm | 2026-09-21 |
 | NPI Engineer, Electronics | Neko Health | Stockholm | 2026-09-21 |
 | Business Line Controller - VP | EQT Group | Stockholm, Stockholm, Sweden | 2026-09-21 |
-| Consultant/Senior Consultant for our Human Capital team with ServiceNow experience | Deloitte | Stockholm, se | 2026-09-21 |
-| Sales Director / Senior Sales Executive, Managed Security Services (Nordics) | Deloitte | Stockholm, se | 2026-09-21 |
 | Security Engineering Director | Legora | Stockholm HQ | 2026-09-21 |
-| Senior Consultants to Deloitte’s M&A Finance team in Stockholm | Deloitte | Stockholm, se | 2026-09-21 |
-| Consultants and Senior Consultants to Finance Strategy & GBS - Stockholm | Deloitte | Stockholm, se | 2026-09-21 |
 | Regulatory Affairs Engineering Lead, Clinical Evaluation | Neko Health | Stockholm | 2026-09-21 |
 | Revenue Development Manager | Mentimeter | Stockholm | 2026-09-21 |
 | Director of People Operations | Legora | Stockholm HQ | 2026-09-21 |
 | VP of Customer Success | Kognity | Stockholm | 2026-09-21 |
 | Senior Payroll Specialist Sweden | Sobi | Stockholm, se | 2026-09-21 |
-| Software Engineer, Product (Integration Platform) | Lovable | Stockholm | 2026-09-18 |
-| Praktik på skatteavdelningen i Stockholm våren 2027 | Deloitte | Stockholm, se | 2026-09-18 |
 | Content Marketing Intern | Kognity | Stockholm | 2026-09-18 |
 | Arbetsledare inom stål till megaprojekt | NCC | Stockholm, se | 2026-09-18 |
 | Account Manager (f/m/d) FTC | Awin | Stockholm, Stockholm, Sweden | 2026-09-18 |
 | Endpoint Management Engineer | Sobi | Stockholm, se | 2026-09-18 |
-| Senior Automation Tester - ERP Integration & Performance Testing | InventYOU AB | Stockholm, Sweden | 2026-09-18 |
 | Business Development Manager till Insight Events | Saleshub | Stockholm, Sweden | 2026-09-18 |
+| Senior Automation Tester - ERP Integration & Performance Testing | InventYOU AB | Stockholm, Sweden | 2026-09-18 |
 | Customer Care Representative - EMEA | Neko Health | Stockholm | 2026-09-17 |
 | Projektingenjör inriktning stål till megaprojekt | NCC | Stockholm, se | 2026-09-17 |
 | Territory Sales Manager (Sweden) | Xds | Stockholm, Sweden | 2026-09-17 |
@@ -112,43 +95,26 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Senior Data Engineer | Datatonic | Stockholm | 2026-09-16 |
 | Content Producer | Epidemic Sound | Stockholm HQ | 2026-09-16 |
 | Data Governance Lead | Karo Healthcare | Stockholm, Sweden | 2026-09-16 |
-| Area Lead | Lovable | Stockholm | 2026-09-15 |
 | Quality Manager for a Mega Project in Luleå, Northern Sweden | NCC | Stockholm, se | 2026-09-15 |
-| CRM Consultants with interest in Salesforce - Deloitte Digital | Deloitte | Stockholm, se | 2026-09-15 |
-| Experienced Salesforce Program Manager at Deloitte Digital | Deloitte | Stockholm, se | 2026-09-15 |
 | VP Enterprise Marketing | Mentimeter | Stockholm | 2026-09-15 |
 | Quality Supplier Manager GDP | Sobi | Stockholm, se | 2026-09-15 |
 | Senior IT Project Manager - Financial Crime & Transaction Monitoring | InventYOU AB | Stockholm, Sweden | 2026-09-15 |
 | FX / IR Dealer | EQT Group | Stockholm, Stockholm, Sweden | 2026-09-14 |
 | Electronics Design Engineer | Neko Health | Stockholm | 2026-09-14 |
-| Juniora Analysts till Deloitte Digital (Stockholm) - Aug 2027 | Deloitte | Stockholm, se | 2026-09-14 |
 | Investment Banking Internship | GP Bullhound | Stockholm, Sweden | 2026-09-13 |
 | Forward Deployed Engineer, Nordics | Telnyx | Stockholm, Sweden | 2026-09-11 |
 | Enterprise Account Executive | MongoDB | Stockholm | 2026-09-11 |
 | Engineering Manager - Foundations | Legora | Stockholm HQ | 2026-09-11 |
-| Corporate Communications & Public Affairs (Europe) | Lovable | Stockholm | 2026-09-11 |
 | Global HR Tech Product Owner | Sobi | Stockholm, se | 2026-09-11 |
-| Juniora Skattejurister till Business & International Tax hos Tax & Legal (Stockholm) – Jan 2027 | Deloitte | Stockholm, se | 2026-09-11 |
 | Global PV Partnership & Operations Director | Sobi | Stockholm, se | 2026-09-11 |
-| Mid-Market Account Executive, Nordics | Lovable | Stockholm | 2026-09-10 |
-| M&A Tax-specialist | Deloitte | Stockholm, se | 2026-09-10 |
-| Erfaren managementkonsult inom IT/Tech M&A | Deloitte | Stockholm, se | 2026-09-10 |
-| Experienced advisors to M&A Deal Transformation | Deloitte | Stockholm, se | 2026-09-10 |
-| Manager & Senior Manager \| Strategy Consulting at Monitor Deloitte \| Stockholm | Deloitte | Stockholm, se | 2026-09-10 |
-| Consultant & Senior Consultant \| Strategy Consulting at Monitor Deloitte \| Stockholm | Deloitte | Stockholm, se | 2026-09-10 |
-| Senior M&A Tax-specialist | Deloitte | Stockholm, se | 2026-09-10 |
 | Account Executive, Key Accounts (Stockholm) | Ideals | Stockholm, Sweden | 2026-09-10 |
 | Senior Mechanical Design Engineer | Neko Health | Stockholm | 2026-09-10 |
 | Säljare till Goa Gubbar Fisk | Saleshub | Stockholm, Sweden | 2026-09-10 |
 | BI Developer | Intelligent growth for the AI era. We are WPP Media | Stockholm, Sweden | 2026-09-09 |
 | AI Engineer | Aceve | Stockholm | 2026-09-09 |
 | Sales Director Nordics | Celonis | Stockholm, Sweden | 2026-09-09 |
-| Juniora Skattejurister till Global Employer Services hos Tax & Legal (Stockholm) – Jan 2027 | Deloitte | Stockholm, se | 2026-09-09 |
 | SMB Team Lead EMEA | Legora | Stockholm HQ | 2026-09-08 |
-| Internal Communications Lead | Lovable | Stockholm | 2026-09-08 |
-| Experienced Consultants to our AI & Data team | Deloitte | Stockholm, se | 2026-09-08 |
 | Full Stack Engineer - Monetization | Epidemic Sound | Stockholm HQ | 2026-09-08 |
-| Senior skattekonsult till Business Tax (Stockholm) | Deloitte | Stockholm, se | 2026-09-08 |
 | Team Lead – Evergreen Product Management, Private Capital | EQT Group | Stockholm, Stockholm, Sweden | 2026-09-08 |
 | Senior Financial Accountant / Finance Manager - Nordics | Vix Technology & Kuba | Stockholm, Sweden | 2026-09-08 |
 | Account Director, Digital Natives - Nordics | Openai | Stockholm, Sweden | 2026-09-07 |
@@ -156,7 +122,6 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Software QA Lead | Keyfactor, Inc. | Stockholm, Sweden | 2026-09-07 |
 | Account Executive - Stockholm | Tandem Health | Stockholm | 2026-09-07 |
 | Indirect Sourcing manager - fixed term 12 months | Sobi | Stockholm, se | 2026-09-06 |
-| Tech Procurement Specialist | Lovable | Stockholm | 2026-09-04 |
 | Account Manager - EMEA | Mentimeter | Stockholm | 2026-09-04 |
 | Accounting Manager | Kognity | Stockholm | 2026-09-04 |
 | Business Development Associate, Key Accounts (Stockholm) | Ideals | Stockholm, Sweden | 2026-09-04 |
@@ -183,8 +148,6 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | BDR Team Lead EMEA | Legora | Stockholm HQ | 2026-08-27 |
 | Partnerships Growth Manager (f/m/d) | Awin | Berlin, Berlin, Germany; London, England, United Kingdom; München, Bavaria, Germany; Stockholm, Stockholm, Sweden | 2026-08-27 |
 | Commercial | Redpine | Redpine HQ, central Stockholm | 2026-08-27 |
-| AI Ops Engineer (FBOS) | Lovable | Stockholm | 2026-08-27 |
-| Team Lead | Netlight | Stockholm | 2026-08-27 |
 | Senior AI Engineer | Betsson Group | Stockholm | 2026-08-27 |
 | AI Engineer | Betsson Group | Stockholm | 2026-08-27 |
 | Enterprise Account Executive - Expansion | Snowflake | SE-Stockholm-MSO | 2026-08-27 |
@@ -193,18 +156,13 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Accounts Payable Specialist | Legora | Stockholm HQ | 2026-08-26 |
 | Solutions Architect - Nordics | Cohere | Stockholm | 2026-08-26 |
 | Statutory Reporting & Compliance Manager | Legora | Stockholm HQ | 2026-08-26 |
-| Payroll Lead | Lovable | Stockholm | 2026-08-26 |
-| Senior Manager to Deloitte’s Business Finance team (Stockholm) | Deloitte | Stockholm, se | 2026-08-26 |
 | Staff Accountant | Legora | Stockholm HQ | 2026-08-26 |
 | Associate, EMEA Marketing | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-25 |
 | Senior Accountant | Legora | Stockholm HQ | 2026-08-25 |
 | Software and Solution Architect | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-25 |
 | Senior Digital Transformation & AI Value Creation Advisor - Freelance, Part-Time | Karo Healthcare | Stockholm, Sweden | 2026-08-25 |
-| Product Counsel | Lovable | Stockholm | 2026-08-24 |
 | Senior Test Automation Engineer | Keyfactor, Inc. | Stockholm, Sweden | 2026-08-24 |
-| Cloud Architect – Senior Consultant | Deloitte | Stockholm, se | 2026-08-24 |
 | People Operations Specialist | Legora | Stockholm HQ | 2026-08-24 |
-| Juniora Revisorsassistenter till Audit & Assurance (Stockholm) – Jan 2027 | Deloitte | Stockholm, se | 2026-08-24 |
 | Account Manager | Adyen | Stockholm | 2026-08-23 |
 | Enterprise Account Manager | Adyen | Stockholm | 2026-08-21 |
 | Senior Product Designer | Legora | Stockholm | 2026-08-21 |
@@ -220,23 +178,17 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Senior Electronics Design Engineer | Neko Health | Stockholm | 2026-08-19 |
 | Named Enterprise Account Executive | Databricks | Stockholm, Sweden | 2026-08-18 |
 | Project Manager | Legora | Stockholm | 2026-08-18 |
-| Security Engineer, Corporate | Lovable | Stockholm | 2026-08-18 |
 | Client Director | Nexthink | Stockholm, se | 2026-08-18 |
-| Investment Professionals Associate - EU | EQT Group | Amsterdam, North Holland, Netherlands; København, Capital Region of Denmark, Denmark; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Paris, Paris, France; Stockholm, Stockholm, Sweden; Zürich, Zürich, Switzerland | 2026-08-18 |
 | Application Security Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
-| Senior Platform Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
+| Investment Professionals Associate - EU | EQT Group | Amsterdam, North Holland, Netherlands; København, Capital Region of Denmark, Denmark; London, England, United Kingdom; Madrid, Madrid, Spain; Milano, Milan, Italy; München, Bavaria, Germany; Paris, Paris, France; Stockholm, Stockholm, Sweden; Zürich, Zürich, Switzerland | 2026-08-18 |
 | Applied AI Lead | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
+| Senior Platform Engineer | EQT Group | Stockholm, Stockholm, Sweden | 2026-08-18 |
 | Design Director | Mentimeter | Stockholm | 2026-08-18 |
-| Social Media Lead | Lovable | Stockholm | 2026-08-17 |
 | Director, SME, Sweden | Airwallex | SE - Stockholm | 2026-08-17 |
 | Delivery Excellence Lead | Aceve | Stockholm | 2026-08-17 |
-| Product Manager (Identity & Access Management) | Lovable | Stockholm | 2026-08-14 |
-| Staff / Principal Software Engineer, Detection and Response | Lovable | Stockholm | 2026-08-14 |
-| Staff / Principal Software Engineer, Infrastructure Security | Lovable | Stockholm | 2026-08-14 |
 | Senior Manager Commercial Excellence ITB | Karo Healthcare | Stockholm, Sweden | 2026-08-14 |
 | Deployment Strategist, Professional Services Global D&I | Planet | Stockholm, Sweden | 2026-08-13 |
 | Technical Account Manager - Stockholm | Legora | Stockholm HQ | 2026-08-13 |
-| Product Manager (Agents) | Lovable | Stockholm | 2026-08-13 |
 | Partnerships Associate | Legora | Stockholm HQ | 2026-08-13 |
 | Partnerships Associate | Legora | Stockholm HQ | 2026-08-13 |
 | Senior Account Executive | Cohere | Stockholm | 2026-08-12 |
@@ -246,7 +198,6 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Sr. Solutions Engineer | Databricks | Stockholm, Sweden | 2026-08-11 |
 | Lakebase Sales Specialist | Databricks | Stockholm, Sweden | 2026-08-11 |
 | Delivery Solutions Architect | Databricks | Finland; Remote - Denmark; Stockholm, Sweden | 2026-08-11 |
-| IT Specialist | Lovable | Stockholm | 2026-08-11 |
 | Account Manager, DACH Enterprise — German-speaking | Mentimeter | Stockholm | 2026-08-11 |
 | Senior Search & Discoverability Lead | Mentimeter | Stockholm | 2026-08-11 |
 | Corporate Account Executive - Dutch Speaking | Asana | Stockholm | 2026-08-10 |
@@ -258,31 +209,23 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Freelance Luxury Brand Evaluator - Stockholm Area, SE | CXG | Stockholm, Sweden | 2026-08-07 |
 | Account Director, Startups | Openai | Stockholm, Sweden | 2026-08-06 |
 | Account Director, Startups | Openai | Stockholm, Sweden | 2026-08-06 |
-| AI Ops Engineer (People Team) | Lovable | Stockholm | 2026-08-06 |
 | Product Manager | Tandem Health | Stockholm | 2026-08-06 |
 | Senior Product Designer | Tandem Health | Stockholm | 2026-08-06 |
 | Senior Backend Engineer - Music Monetization & DRM | Epidemic Sound | Stockholm HQ | 2026-08-06 |
-| Data Scientist, Product | Lovable | Stockholm | 2026-08-06 |
-| Data Scientist, Pricing | Lovable | Stockholm | 2026-08-06 |
-| Data Scientist, Agent | Lovable | Stockholm | 2026-08-06 |
-| Design Engineer, Brand | Lovable | Stockholm | 2026-08-06 |
-| Brand & Integrated Marketing Lead, Europe | Lovable | Stockholm | 2026-08-05 |
 | VP of Engineering - Foundational Platform | Epidemic Sound | Stockholm HQ | 2026-08-05 |
-| Enterprise Solutions Engineer - Swedish Speaking | Verkada | Stockholm, Sweden | 2026-08-05 |
 | Corporate Legal Counsel | Tandem Health | Stockholm | 2026-08-04 |
-| Trust & Safety Engineer | Lovable | Stockholm | 2026-08-03 |
 | Principal Enterprise Architect | Celonis | Stockholm, Sweden | 2026-08-03 |
 | AI-first Creative Lead | Aceve | Stockholm | 2026-08-03 |
 | Senior Agentic NetSuite Developer | Epidemic Sound | Stockholm HQ | 2026-08-03 |
-| Solution Architect (SharePoint, Power Platform,Power BI, Azure) | EUROPEAN DYNAMICS | Stockholm, Sweden | 2026-08-03 |
 | Data Manager (FME) | EUROPEAN DYNAMICS | Stockholm, Sweden | 2026-08-03 |
+| Solution Architect (SharePoint, Power Platform,Power BI, Azure) | EUROPEAN DYNAMICS | Stockholm, Sweden | 2026-08-03 |
 | Backend Software Engineer Team Lead | Betsson Group | Stockholm | 2026-07-31 |
 | Senior Value Engineer, Automotive | Celonis | Stockholm, Sweden | 2026-07-30 |
 | Platform Specialist | Legora | Stockholm | 2026-07-30 |
 | Senior AI Engineer | Tandem Health | Stockholm | 2026-07-29 |
 | Account Executive | Neuralconcept | Stockholm | 2026-07-29 |
-| Senior Web Designer - Framer | Legora | Stockholm HQ | 2026-07-29 |
 | Senior Web Designer | Legora | Stockholm HQ | 2026-07-29 |
+| Senior Web Designer - Framer | Legora | Stockholm HQ | 2026-07-29 |
 | Workforce Planning Specialist | Neko Health | Stockholm | 2026-07-28 |
 | Demand Generation Marketing Manager | Adyen | Stockholm | 2026-07-28 |
 | Manager, Pre-Sales and Solution Engineering - Nordics | Celonis | Stockholm, Sweden | 2026-07-26 |
@@ -292,20 +235,77 @@ _473 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Regional Sales Manager – Mellersta och östra Sverige | AutoProff | Stockholm (Sweden) | 2026-07-23 |
 | Senior Partner & Field Marketing Manager Nordics (m/f/x) | Eye Security | Stockholm - remote | 2026-07-22 |
 | Lead Infrastructure Engineer | Arcesium LLC | Stockholm, Sweden | 2026-07-17 |
-| Global People Operations Lead | Lovable | Stockholm | 2026-07-17 |
 | System Verification Engineer, Test Automation | Neko Health | Stockholm | 2026-07-17 |
 | Channel Sales Manager, Sweden | Verkada | Stockholm, Sweden | 2026-07-16 |
 | Senior Cloud Engineer | Keyfactor, Inc. | Stockholm, Sweden | 2026-07-15 |
 | Technical Platform Expert | Legora | Stockholm | 2026-07-13 |
-| Technical Platform Advisor - Stockholm | Legora | Stockholm HQ | 2026-07-13 |
 | Principal Platform Advisor | Legora | Stockholm | 2026-07-13 |
-| Product Experience Specialist (Full Time) | Lovable | Stockholm | 2026-07-13 |
+| Technical Platform Advisor - Stockholm | Legora | Stockholm HQ | 2026-07-13 |
 | Platform Advisor - Stockholm | Legora | Stockholm HQ | 2026-07-13 |
 | Platform Consultant | Legora | Stockholm HQ | 2026-07-13 |
 | Global Account Director - Strategic Accounts | Mentimeter | Stockholm | 2026-07-10 |
 | Executive Partner | Mentimeter | Stockholm | 2026-07-10 |
-| Product Engineer - Integrations Team | Mentimeter | Stockholm | 2026-07-10 |
 | Senior Operations Manager - ESG & Sustainability | Legora | Stockholm | 2026-07-09 |
+| Staff Software Engineer | Helsing | Berlin; London; Munich; Paris; Stockholm; Tallinn | 2026-07-09 |
+| Key Account Manager | Delta Electronics | Stockholm, se | 2026-07-09 |
+| Business Partner IFS | Karo Healthcare | Stockholm, Sweden | 2026-07-09 |
+| Designer, Brand & Product | Redpine | Redpine HQ, central Stockholm | 2026-07-08 |
+| Fullstack Engineer | Legora | Stockholm | 2026-07-08 |
+| Fullstack Engineer | Legora | Stockholm HQ | 2026-07-08 |
+| Software Integration Engineer | Applied | Stockholm | 2026-07-06 |
+| Software Integration Engineer | Applied | Stockholm | 2026-07-06 |
+| Head of Engineering | Redpine | Redpine HQ, central Stockholm | 2026-07-05 |
+| Optics Engineering Lead | Neko Health | Stockholm | 2026-07-03 |
+| Key Account Manager - Strategic Accounts | Mentimeter | Stockholm | 2026-07-03 |
+| Revenue Operations Specialist | Tandem Health | Stockholm | 2026-07-03 |
+| Workplace Technology Lead | Legora | Stockholm | 2026-07-03 |
+| Engineering Director | Mentimeter | Stockholm | 2026-07-03 |
+| Engineering Manager | Kognity | Stockholm | 2026-07-02 |
+| Product Marketing Manager | Tandem Health | Stockholm | 2026-07-01 |
+| Clinical Research Lead - Stockholm | Tandem Health | Stockholm | 2026-06-30 |
+| AI Software Engineer | Legora | Stockholm HQ | 2026-06-30 |
+| Senior Data Analyst - Enterprise GTM | Epidemic Sound | Stockholm HQ | 2026-06-30 |
+| Marketing Automation Specialist | Aceve | Stockholm | 2026-06-30 |
+| Teknisk Säljare till Aeroseal Sweden AB | Saleshub | Stockholm, Sweden | 2026-06-30 |
+| Head of Customer Success | Tandem Health | Stockholm | 2026-06-28 |
+| Motion Designer | Legora | Stockholm HQ | 2026-06-25 |
+| Senior Product Manager | Legora | Stockholm HQ | 2026-06-25 |
+| Senior Product Manager | Legora | Stockholm | 2026-06-25 |
+| Senior Product Manager - UX Core | Legora | Stockholm HQ | 2026-06-24 |
+| Senior Product Manager - UX Core | Legora | Stockholm | 2026-06-24 |
+| AI Enablement Lead | Legora | Stockholm HQ | 2026-06-24 |
+| Total Rewards Analyst | Legora | Stockholm HQ | 2026-06-22 |
+| Total Rewards Analyst | Legora | Stockholm | 2026-06-22 |
+| Total Rewards Manager | Legora | Stockholm | 2026-06-22 |
+| Senior Operations Manager - Business Operations (founding) | Legora | Stockholm | 2026-06-17 |
+| Strategic Operations, Founder’s Office | Rerun | Södermalm, Stockholm | 2026-06-17 |
+| Senior Software Engineer | Legora | Stockholm HQ | 2026-06-17 |
+| Account Manager till Tenka AB | Saleshub | Stockholm, Sweden | 2026-06-12 |
+| Senior Sales Engineer - Sweden | Harness.io | Stockholm, Stockholm, Sweden | 2026-06-10 |
+| Country Manager - Sweden | Avomind | Stockholm, Sweden | 2026-06-08 |
+| Partner Manager, Nordics | Datatonic | Stockholm | 2026-06-05 |
+| IT Systems Engineer | Epidemic Sound | Stockholm HQ | 2026-06-03 |
+| Sales Development Representative - Stockholm | Tandem Health | Stockholm | 2026-06-01 |
+| Senior Product Designer | Legora | Stockholm HQ | 2026-05-28 |
+| Design Systems Engineer | Legora | Stockholm HQ | 2026-05-27 |
+| Design Systems Engineer | Legora | Stockholm HQ | 2026-05-27 |
+| Solutions Engineer | Legora | Stockholm HQ | 2026-05-26 |
+| Solutions Engineer | Legora | Stockholm HQ | 2026-05-26 |
+| Delivery Management Associate - Stockholm | Tandem Health | Stockholm | 2026-05-25 |
+| Software Engineer | Legora | Stockholm HQ | 2026-05-22 |
+| Software Engineer | Legora | Stockholm HQ | 2026-05-22 |
+| CLIENT MANAGER / LEG. SJUKSKÖTERSKA | Adoreal | Stockholm, Sweden | 2026-05-22 |
+| Deployed AI Engineer | Helsing | Berlin; London; Munich; Paris; Stockholm; Tallinn | 2026-05-21 |
+| Software Engineer - Backend | Helsing | Berlin; London; Munich; Paris; Stockholm; Tallinn | 2026-05-21 |
+| CLIENT MANAGER/ NURSE | Adoreal | Stockholm, Sweden | 2026-05-21 |
+| Systems Engineering Manager | Modal | Stockholm | 2026-05-19 |
+| Säljare till Nordiska Inglasningar | Saleshub | Stockholm, Sweden | 2026-05-19 |
+| Resande säljare till Goa Gubbar Fisk | Saleshub | Stockholm, Sweden | 2026-05-15 |
+| Fältsäljare till Goa Gubbar Fisk | Saleshub | Stockholm, Sweden | 2026-05-15 |
+| Senior ML Engineer | Datatonic | Stockholm | 2026-05-11 |
+| Product Engineering Lead | Tandem Health | Stockholm | 2026-05-07 |
+| Delivery Management Associate (socialsekreterare) | Tandem Health | Stockholm | 2026-04-30 |
+| Innesäljare till ledande företag inom energiteknik | Saleshub | Stockholm, Sweden | 2026-04-30 |
 
 ---
 

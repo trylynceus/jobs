@@ -2,7 +2,7 @@
 
 Roles listing Munich as their location.
 
-_1,403 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
+_1,321 open · showing the 300 most recent · updated 2026-10-05 04:16 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
@@ -10,6 +10,7 @@ _1,403 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Senior Platform Engineer | Clera | Munich | 2026-10-02 |
 | Senior Product Engineer | Clera | Munich | 2026-10-02 |
 | Senior Product Engineer | Clera | Munich | 2026-10-02 |
+| Key Account Manager TMC & Consortia (m/f/d) - DACH Region | AccorCorpo | Munich, de | 2026-10-02 |
 | Staff Perception | SE3 Labs | Munich | 2026-10-02 |
 | Technical Project Manager - Dach | Tandem Health | Munich | 2026-10-02 |
 | People & Operation Manager | Zeit Ai | Munich | 2026-10-02 |
@@ -143,8 +144,8 @@ _1,403 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Praktikant (all genders) HR Marketing mit Fokus auf Social Media | Roland Berger | Munich, de | 2026-09-24 |
 | Implementation Manager DACH | Mollie | Munich | 2026-09-24 |
 | Senior Infrastructure Engineer (PostgreSQL DBA) | Workato | Berlin, Germany; Frankfurt, Germany; Munich, Germany | 2026-09-24 |
-| Costing Manager (m/f/d) - Electronics | A2MAC1 | Munich, Germany | 2026-09-24 |
 | UAV Production Technician | Destinus | Munich, Germany | 2026-09-24 |
+| Costing Manager (m/f/d) - Electronics | A2MAC1 | Munich, Germany | 2026-09-24 |
 | Senior Engineering Manager, Product Engineering | Secfix | Remote - Munich | 2026-09-23 |
 | Senior Account Executive - New Business - PSO Nfp | Unit4 | Munich, de | 2026-09-23 |
 | Event Marketing Manager (all genders) | Avelios Medical | Munich | 2026-09-23 |
@@ -234,8 +235,8 @@ _1,403 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | AI Specialist (all genders) | Roland Berger | Munich, de | 2026-09-15 |
 | Executive Assistant | Helsing | Munich | 2026-09-15 |
 | Senior Customer Success Manager (f/m/d) | Remberg | Munich Office | 2026-09-15 |
-| Customer Success Consultant | Avomind | Munich, Germany | 2026-09-15 |
 | Senior Customer Success Consultant | Avomind | Munich, Germany | 2026-09-15 |
+| Customer Success Consultant | Avomind | Munich, Germany | 2026-09-15 |
 | Senior Sales Analyst (f/m/d) | AutoScout24 | Munich (Germany) | 2026-09-14 |
 | Knowledge Engineer | Fusion Consulting | Munich, de | 2026-09-14 |
 | Leader Partner Sales, Digital Europe | Quadient | Munich, de | 2026-09-14 |
@@ -282,9 +283,9 @@ _1,403 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Guidance, Navigation, & Control Engineer | Helsing | Munich | 2026-09-10 |
 | Senior Manager Group Accounting & IFRS (m/f/d) | SAP Fioneer | Munich, Germany | 2026-09-10 |
 | Electrical Engineer (F/M/D) – Maternity/Parental leave cover ~1 year | NavVis | Munich Onsite (NavVis GmbH) | 2026-09-09 |
-| Intern Human Resource Management | H&Z Group | Munich | 2026-09-09 |
-| (Senior) Manager Operations (m/f/d) | H&Z Group | Munich | 2026-09-09 |
 | Intern Post Merger Integration & Strategy Execution (m/f/d) | H&Z Group | Munich | 2026-09-09 |
+| (Senior) Manager Operations (m/f/d) | H&Z Group | Munich | 2026-09-09 |
+| Intern Human Resource Management | H&Z Group | Munich | 2026-09-09 |
 | Working Student Business Development & Growth Strategy (all genders) | Wemolo | Munich | 2026-09-09 |
 | Senior Software Engineer | Celonis | Munich, Germany | 2026-09-09 |
 | Enterprise Sales Manager | Adyen | Berlin; Munich | 2026-09-09 |
@@ -305,7 +306,6 @@ _1,403 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Software Engineer - Roboticist | Ekumenlabs | Munich | 2026-09-07 |
 | Senior Value Engineer - CPG/Retail | Celonis | Munich, Germany | 2026-09-07 |
 | Senior Process Intelligence & Supply Chain Transformation Consultant - CPG/Retail | Celonis | Munich, Germany | 2026-09-07 |
-| Senior Management & Technology Consultant - CPG/Retail | Celonis | Munich, Germany | 2026-09-07 |
 
 ---
 

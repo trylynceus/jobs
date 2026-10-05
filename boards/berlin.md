@@ -2,12 +2,15 @@
 
 Roles listing Berlin as their location.
 
-_2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
+_2,439 open · showing the 300 most recent · updated 2026-10-05 04:16 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | Revenue Operations | Kombo | Berlin Office | 2026-10-03 |
+| Senior Product Designer (all genders) | Justplay Gmbh | Berlin (Hybrid) | 2026-10-02 |
+| Manager, CRM Category Expansion | Quince | Germany - Berlin; London, England, United Kingdom; Spain - Madrid | 2026-10-02 |
 | Founding Sales Development Representative (SDR/BDR) | Clera | Berlin | 2026-10-02 |
+| Senior Product Manager, Payments | Navan | Berlin, Germany | 2026-10-02 |
 | Senior Product Engineer | Clera | Berlin | 2026-10-02 |
 | Senior People and Culture Manager | Clera | Berlin | 2026-10-02 |
 | Agent Deployment Manager | Clera | Berlin | 2026-10-02 |
@@ -16,6 +19,9 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Mid-Level Forward Deployed Engineer | Clera | Berlin | 2026-10-02 |
 | Operations Intern, Full-Time Conversion Path | Clera | Berlin | 2026-10-02 |
 | Backend Engineer | Clera | Berlin | 2026-10-02 |
+| Expansion Working Student (German-speaking) | Via | Berlin | 2026-10-02 |
+| Expansion Intern (German-speaking) | Via | Berlin | 2026-10-02 |
+| Personalsachbearbeiter (m/w/d) | SIXT | Berlin, de | 2026-10-02 |
 | Senior Analytics Engineer - Quick Commerce | Delivery Hero | Berlin, de | 2026-10-02 |
 | Technical Program Manager - People Systems (Fixed Term - 6 months) | Delivery Hero | Berlin, de | 2026-10-02 |
 | Revenue Operations Specialist | Talon.One | Berlin | 2026-10-02 |
@@ -53,8 +59,6 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | CEO \| Porous (Ultrasound & Osteoporosis Solutions) | CAREERS AT NLC | Berlin, Germany | 2026-10-02 |
 | Senior Engineer/Projektleitung (m/w/d) Mobility & Transport – Fokus Verkehrsanlagenplanung gemäß HOAI | Ramboll | Berlin, de | 2026-10-02 |
 | Teamleitung (m/w/d) Mobility & Transport – Fokus Verkehrsanlagenplanung gemäß HOAI | Ramboll | Berlin, de | 2026-10-02 |
-| Senior - Verkehrsanlagenplaner (m/w/d) für Eisenbahn- Infrastrukturprojekte / Verkehrsanlagen – Fokus Verkehrsstationen | Ramboll | Berlin, de | 2026-10-02 |
-| Senior Planungsingenieur (m/w/d) Elektrotechnik - 50Hz | Ramboll | Berlin, de | 2026-10-02 |
 | Mitarbeiter:in im Kraftwerksschichtbetrieb Dezentrale Anlagen / E-Technik | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-10-02 |
 | Marketing Business Analyst (all genders) | HelloFresh | Berlin, Berlin, Germany | 2026-10-02 |
 | Venture Manager (Berlin) | Almedia | Berlin | 2026-10-02 |
@@ -80,8 +84,8 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Handwerker/Monteur (m/w/d) Probenahme | Eurofins | Berlin, de | 2026-10-02 |
 | Probenehmer (m/w/d) | Eurofins | Berlin, de | 2026-10-02 |
 | Personaleinsatzplaner (m/w/d) in Berlin | Securitas | Berlin, de | 2026-10-02 |
-| Technology Consultant - Förderbanken m/f/d | SAP Fioneer | Berlin, Germany | 2026-10-02 |
 | Senior Product Marketing Manager | dltHub | Berlin, Germany | 2026-10-02 |
+| Technology Consultant - Förderbanken m/f/d | SAP Fioneer | Berlin, Germany | 2026-10-02 |
 | Technical Sales Representative - Italian Speaking (fresh grads) | Formlabs | Berlin, Germany | 2026-10-01 |
 | Product Designer | Clera | Berlin | 2026-10-01 |
 | Founding Engineer / Product Engineer | Clera | Berlin | 2026-10-01 |
@@ -93,8 +97,8 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Corporate Real Estate Specialist | Avaloq | Berlin, de | 2026-10-01 |
 | Werkstudent (m/w/d) Projektassistenz Baustelle Berlin Tegel | Boskalis | Berlin, de | 2026-10-01 |
 | Développe à Ubisoft- Programme de Mentorat Game Design | Ubisoft | Berlin, de | 2026-10-01 |
-| Founders Associate Intern (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-10-01 |
 | Energy Trading Analyst Intern (m/w/d) | Rabot Energy | Energy Management Berlin (öffnet in neuem Tab) | 2026-10-01 |
+| Founders Associate Intern (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-10-01 |
 | Senior Product Owner - Data & Analytics (m/f/d) | Yepoda | Berlin | 2026-10-01 |
 | Develop at Ubisoft Mentorship - Programming 2026-2027 | Ubisoft | Berlin, de | 2026-10-01 |
 | Develop at Ubisoft - Game Design Mentorship 2026-2027 | Ubisoft | Berlin, de | 2026-10-01 |
@@ -137,8 +141,8 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | PR Manager (m/f/d) | Yepoda | Berlin | 2026-09-30 |
 | Brand Experience Manager (m/f/d) | Yepoda | Berlin | 2026-09-30 |
 | (Junior) PR & Communications Manager EMEA | Statista | Hamburg or Berlin or London | 2026-09-30 |
-| (Freelance) Senior Backend Engineer (m/f/d) - Agent SDK | Voize | Berlin | 2026-09-30 |
 | (Freelance) Senior Backend Engineer (m/f/d) - Agent SDK | voize | Berlin | 2026-09-30 |
+| (Freelance) Senior Backend Engineer (m/f/d) - Agent SDK | Voize | Berlin | 2026-09-30 |
 | Senior Data Scientist (f/m/d) | Awin | Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; Hannover, Lower Saxony, Germany; Iași, Iași, Romania; London, England, United Kingdom; Madrid, Madrid, Spain; Manchester, England, United Kingdom; Milano, Milan, Italy; München, Bavaria, Germany; Warsaw, Masovian Voivodeship, Poland | 2026-09-30 |
 | Quality Assurance Manager*in (m/w/d) Operations | LGC | Berlin, de | 2026-09-30 |
 | Junior Influencer Marketing Manager (m/f/d) \| German Speaking | Yepoda | Berlin | 2026-09-30 |
@@ -168,14 +172,13 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Senior Data Scientist – Fintech (Credit and Fraud) | Delivery Hero | Berlin, de | 2026-09-30 |
 | Creative Strategist | Yepoda | Berlin | 2026-09-30 |
 | Senior Partnerships Manager: Media & Editorial (f/m/d) | Awin | Berlin, Berlin, Germany; London, England, United Kingdom | 2026-09-30 |
-| Kundenservice / Call Center Agent (d/m/w) | AUTO1 Group | Berlin, de | 2026-09-30 |
 | Schichtleiter (m/w/d) in einer Flüchtlingsunterkunft in Marzahn-Hellersdorf mit 19,00 EUR | Securitas | Berlin, de | 2026-09-30 |
 | Sicherheitsmitarbeiter (m/w/d) in einer Flüchtlingsunterkunft in Marzahn-Hellersdorf mit 17,50 EUR | Securitas | Berlin, de | 2026-09-30 |
 | IT Engineer - 3 | Quince | Germany - Berlin; Spain - Madrid | 2026-09-30 |
-| Sales Support Specialist / Vertriebsinnendienst (Englisch & Deutsch) | 1GLOBAL | Berlin, Germany | 2026-09-30 |
-| Sales Support Specialist (German-speaking) | 1GLOBAL | Berlin, Germany | 2026-09-30 |
-| Embedded Software Engineer (m/f/d) - ADAM Audio GmbH | The Focusrite Group | Berlin, Germany | 2026-09-30 |
 | Payment Growth Sales Manager (m/w/d) | Treatwell | Berlin, Germany | 2026-09-30 |
+| Embedded Software Engineer (m/f/d) - ADAM Audio GmbH | The Focusrite Group | Berlin, Germany | 2026-09-30 |
+| Sales Support Specialist (German-speaking) | 1GLOBAL | Berlin, Germany | 2026-09-30 |
+| Sales Support Specialist / Vertriebsinnendienst (Englisch & Deutsch) | 1GLOBAL | Berlin, Germany | 2026-09-30 |
 | Research Associate | Precision for Medicine | Berlin, Berlin, Germany | 2026-09-29 |
 | Research Associate | Precision for Medicine | Berlin, Berlin, Germany | 2026-09-29 |
 | Performance Marketing Manager | Clera | Berlin | 2026-09-29 |
@@ -223,6 +226,7 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Techno-Functional SME Consultant (m/f/d) | Capco | Germany - Berlin | 2026-09-28 |
 | (Senior) Finance Controller (all genders) | Justplay Gmbh | Berlin (Hybrid) | 2026-09-28 |
 | Senior Partner Project Manager (Fluent Polish) | FeverUp | Berlin | 2026-09-28 |
+| Product Marketing Manager (m/w/d) | StepStone Group | Berlin, de | 2026-09-28 |
 | Werkstudent:in Customer Success Manager:in (w/m/d) | Enpal | Berlin | 2026-09-28 |
 | Data Analyst | Tripledot Studios | Berlin | 2026-09-28 |
 | Fraud Analyst | Tripledot Studios | Berlin | 2026-09-28 |
@@ -258,18 +262,18 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Founder's Associate Intern / Working Student | Clera | Berlin | 2026-09-27 |
 | Software Engineer, Foundation | Clera | Berlin | 2026-09-26 |
 | Founding Customer Success Manager | Clera | Berlin | 2026-09-26 |
-| Growth Marketing Manager (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
-| Sales Manager (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
+| PR Manager (m/w/d) – Batteriespeicher & Rabot Flow | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
+| Content Manager (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
+| Brand Marketing Manager (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
+| People & Talent Manager (m/w/d) | Rabot Energy | Operations Berlin (öffnet in neuem Tab) | 2026-09-26 |
+| Creative Designer (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
 | (Senior) Product Manager (m/w/d) – Partner Platform & Ecosystem | Rabot Energy | Product Hamburg, Berlin (öffnet in neuem Tab) | 2026-09-26 |
 | Forward Deployed Engineer (m/w/d) - AI Automation, intern | Rabot Energy | Technology Berlin, Hamburg (öffnet in neuem Tab | 2026-09-26 |
 | Practice Lead B2B2C (m/w/d) – Partner Acquisition | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
-| VP Operations & Customer Success (m/w/d) | Rabot Energy | Operations Berlin (öffnet in neuem Tab) | 2026-09-26 |
+| Sales Manager (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
 | Forward Deployed Engineer (m/f/d) - AI Automation, internal | Rabot Energy | Technology Berlin, Hamburg (öffnet in neuem Tab | 2026-09-26 |
-| Creative Designer (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
-| People & Talent Manager (m/w/d) | Rabot Energy | Operations Berlin (öffnet in neuem Tab) | 2026-09-26 |
-| Brand Marketing Manager (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
-| Content Manager (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
-| PR Manager (m/w/d) – Batteriespeicher & Rabot Flow | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
+| VP Operations & Customer Success (m/w/d) | Rabot Energy | Operations Berlin (öffnet in neuem Tab) | 2026-09-26 |
+| Growth Marketing Manager (m/w/d) | Rabot Energy | Sales & Marketing Berlin (öffnet in neuem Tab) | 2026-09-26 |
 | Head of Finance | Bunch | Berlin | 2026-09-26 |
 | Office Manager (m/f/d) | Glassdollar | Berlin | 2026-09-26 |
 | Sales Development Representative | Planet | Berlin, Germany | 2026-09-25 |
@@ -302,10 +306,6 @@ _2,551 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Product Lead - Adtech | Almedia | Berlin | 2026-09-25 |
 | Product Lead | Almedia | Berlin | 2026-09-25 |
 | Cloud Engineer / Cloud Administrator (w/m/d) | Drees & Sommer SE | Berlin-Bezirk Charlottenburg-Wilmersdorf, de | 2026-09-25 |
-| Software Engineer - Java Platform | Snowflake | DE-Berlin-Trion Building | 2026-09-25 |
-| Fachingenieur:in Verfahrenstechnik | BEW Berliner Energie und Wärme GmbH | Berlin, de | 2026-09-25 |
-| Delivery Capacity & Demand Manager (f/m/x) | HelloFresh | Berlin, Berlin, Germany | 2026-09-25 |
-| Visiting Brand Designer | Peec AI | Berlin | 2026-09-25 |
 
 ---
 

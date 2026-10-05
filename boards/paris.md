@@ -2,33 +2,45 @@
 
 Roles listing Paris as their location.
 
-_2,413 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
+_2,413 open · showing the 300 most recent · updated 2026-10-05 04:16 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
+| CDD Responsable Admissions Réseau (siège) | Relais & Châteaux | Paris, fr | 2026-10-02 |
 | Software / Integration Engineer (Agentic Systems) - Paris based | Shift Technology | France - Paris | 2026-10-02 |
+| Expansion Intern (German-speaking) | Via | Paris | 2026-10-02 |
+| Expansion Working Student (German-speaking) | Via | Paris | 2026-10-02 |
 | Assistant services généraux H/F | EOS France | Paris, fr | 2026-10-02 |
 | Customer Success Partner (EMEA) | Creatoriq | Paris | 2026-10-02 |
 | Technical Project Manager - France | Tandem Health | Paris | 2026-10-02 |
 | Customer Support Specialist | Owkin | Paris | 2026-10-02 |
+| Marketing Data Scientist Consultant | Sia | Paris, fr | 2026-10-02 |
 | Architecte / Chef de Projet Intégration Senior H/F | Talan | Paris, fr | 2026-10-02 |
 | Senior Software Engineer - Paris | Hcompany | Hybrid Paris | 2026-10-02 |
 | Consultant Intégration Tibco BusinessWorks Confirmé H/F | Talan | Paris, fr | 2026-10-02 |
 | Consultant Intégration Talend Confirmé H/F | Talan | Paris, fr | 2026-10-02 |
 | Consultant(e) Secteur Public | Sia | Paris, fr | 2026-10-02 |
 | Stage de fin d’études Consultant(e) Secteur Public | Sia | Paris, fr | 2026-10-02 |
+| Business Consultant PLM H/F | ASSYSTEM | Paris, fr | 2026-10-02 |
 | Senior Software Engineer - Distributed Systems (Applied AI) | Datadog | Bordeaux, France; Grenoble, France; Lyon, France; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France | 2026-10-02 |
 | Senior Trade Marketing Manager | NBCUniversal | Paris, fr | 2026-10-02 |
 | Trade Marketing Assistant – Internship (6-month) January 2027 (W/M/NB) | Ubisoft | Paris, fr | 2026-10-02 |
 | Trade Marketing Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-10-02 |
+| Chef de projet MOA Moyen de Paiements H/F | NEXTON | Paris, fr | 2026-10-02 |
 | Chargé d'Affaires Evaluation des Risques Sanitaires et Environnementaux H/F | SOCOTEC | Paris la Defense, fr | 2026-10-02 |
+| Head of PARIS21 Secretariat | OECD | Paris, fr | 2026-10-02 |
+| Business Consultant EAM H/F | ASSYSTEM | Paris, fr | 2026-10-02 |
 | CDD - Responsable Grands Comptes F/H | Vetoquinol | Paris, fr | 2026-10-02 |
+| Chef Exécutif du Secrétariat de PARIS21 | OECD | Paris, fr | 2026-10-02 |
 | Gestionnaire Middle-office - Relations clients H/F | EOS France | Paris, fr | 2026-10-02 |
 | Customer Care Team Lead | Lucis | Paris | 2026-10-02 |
 | Customer Care Specialist | Lucis | Paris | 2026-10-02 |
 | Enterprise Account Executive - Dutch Speaking | Algolia | Paris, France | 2026-10-02 |
 | Directeur Technique Global - Activités Nucléaire H/F | Egis Group | Paris, fr | 2026-10-02 |
 | Juriste Droit des Affaires Junior - F/H | Courir | Paris, fr | 2026-10-02 |
+| Product Manager Intern - Platform | Mirakl - Labs | Paris, France | 2026-10-02 |
+| Product Manager Intern - Connect | Mirakl - Labs | Paris, France | 2026-10-02 |
+| Social Media Manager (H/F) | OLIVER Agency | Paris, France | 2026-10-02 |
 | Stagiaire réceptionniste (H/F) | Relais & Châteaux | Paris, fr | 2026-10-02 |
 | Team Lead Website | Pennylane | Paris | 2026-10-02 |
 | Data Platform, Analytics Engineering & Data for IA | Wavestone | Paris, fr | 2026-10-02 |
@@ -93,9 +105,9 @@ _2,413 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Optical Engineer | Harmattan Ai | Paris | 2026-10-02 |
 | Social Media Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-10-02 |
 | Content Creator & PR Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-10-02 |
-| Technology M&A Associate - Paris | Clipperton Finance | Paris, France | 2026-10-02 |
-| Senior Software Engineer - Data Search (remote, Europe) | Modash | Paris, France | 2026-10-02 |
 | Sr Clinical Research Associate Contractor (France) | Allucent | Paris, France | 2026-10-02 |
+| Senior Software Engineer - Data Search (remote, Europe) | Modash | Paris, France | 2026-10-02 |
+| Technology M&A Associate - Paris | Clipperton Finance | Paris, France | 2026-10-02 |
 | Operations Research Consultant | Sia | Paris, fr | 2026-10-01 |
 | Senior - Data Scientist & AI Consultant | Sia | Paris, fr | 2026-10-01 |
 | Head of Hospitals & Home Care | Doctolib | Paris, Paris, France | 2026-10-01 |
@@ -121,7 +133,6 @@ _2,413 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Marketing Artist- Blitz | Voodoo | Paris | 2026-10-01 |
 | Stage - Sales Development Representative (x/f/m) - janvier 2027 | Doctolib | Paris, Paris, France | 2026-10-01 |
 | Technicien de maintenance lignes aériennes HTB F/H | RTE | Seyssinet-Pariset, fr | 2026-10-01 |
-| Receptionist - Hotel Splendide Royal Paris | Relais & Châteaux | Paris, fr | 2026-10-01 |
 | Equipier Commercial - CDI F/H | METRO/MAKRO | Paris, fr | 2026-10-01 |
 | Equipier Commercial - CDD F/H | METRO/MAKRO | Paris, fr | 2026-10-01 |
 | Equipier Commercial - CDI F/H | METRO/MAKRO | Paris, fr | 2026-10-01 |
@@ -188,16 +199,16 @@ _2,413 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Acheteur Marchés Publics - Junior H/F | EPSA | Paris, fr | 2026-10-01 |
 | Axillaire de vie H/F | Joya | Argenteuil , Ermont , Cormeilles-en-Parisis, Montigny-Lès-Cormeilles, Herblay | 2026-10-01 |
 | Forward Deployed Engineer H/F | Alta Ares | Paris | 2026-10-01 |
-| Senior Business Development Manager - Dissemination & Distribution | FE fundinfo | Paris, France | 2026-10-01 |
-| CDI - Directeur.trice Artistique | We Are Social | Paris, France | 2026-10-01 |
+| Stage - Junior Copywriter | We Are Social | Paris, France | 2026-10-01 |
+| Compositor | One Of Us | Paris, France | 2026-10-01 |
+| DMP Artist | One Of Us | Paris, France | 2026-10-01 |
 | CDI - Junior Copywriter Éditorial | We Are Social | Paris, France | 2026-10-01 |
 | CDI - Team Directeur.trice Artistique + Copywriter | We Are Social | Paris, France | 2026-10-01 |
-| Stage - Junior Copywriter | We Are Social | Paris, France | 2026-10-01 |
-| CDI - Consultant(e) Social Média Senior | We Are Social | Paris, France | 2026-10-01 |
 | CDI - Content Creator & Directeur.trice Artitique | We Are Social | Paris, France | 2026-10-01 |
-| Compositor | One Of Us | Paris, France | 2026-10-01 |
+| CDI - Consultant(e) Social Média Senior | We Are Social | Paris, France | 2026-10-01 |
+| CDI - Directeur.trice Artistique | We Are Social | Paris, France | 2026-10-01 |
+| Senior Business Development Manager - Dissemination & Distribution | FE fundinfo | Paris, France | 2026-10-01 |
 | QA Engineer | Terabase Energy | Paris, France | 2026-10-01 |
-| DMP Artist | One Of Us | Paris, France | 2026-10-01 |
 | Lead - Account Manager(Italian and Spanish Speaking) | Freshworks | Paris, fr | 2026-09-30 |
 | Accounting & Tax Manager - Consumer Health | Dr Reddy's Laboratories Limited | Paris, fr | 2026-09-30 |
 | Financial Services & Administration Senior Specialist – France | Lucid Motors | Paris, 75 | 2026-09-30 |
@@ -211,7 +222,6 @@ _2,413 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Creator Project Manager Assistant - Stage (6 mois) Janvier 2027 (F/H/NB) | Ubisoft | Paris, fr | 2026-09-30 |
 | Développeur Fullstack React / Kotlin H/F | NEXTON | Paris, fr | 2026-09-30 |
 | Research Manager - Foundation & World Models | Datadog | Paris, France | 2026-09-30 |
-| Femme/Valet de Chambre Soir (H/F) - Hôtel Splendide Royal Paris | Relais & Châteaux | Paris, fr | 2026-09-30 |
 | Growth Operations & Automation Specialist | Pennylane | Paris | 2026-09-30 |
 | Juriste Stagiaire - Paris 17ème (Stage) | REXEL | PARIS, fr | 2026-09-30 |
 | Business Manager - CDI - Paris - Theodo Extend | Theodo | Paris | 2026-09-30 |
@@ -246,11 +256,11 @@ _2,413 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | ACHETEUR PRESTATIONS INTELLECTUELLES SENIOR (H/F) | EPSA | Paris, fr | 2026-09-30 |
 | Senior People Ops Manager (International) | Photoroom | Paris | 2026-09-30 |
 | Senior Analyst, Permanent Control | Checkout.Com | Paris | 2026-09-30 |
-| Senior IT Support Engineer | Sweep | Paris | 2026-09-30 |
 | Field Marketing Manager (short term freelance contract) | Sweep | Paris | 2026-09-30 |
+| Senior IT Support Engineer | Sweep | Paris | 2026-09-30 |
+| Client Success Manager | Fundcraft | Paris, France | 2026-09-30 |
 | AI Content Manager Intern | Homa | Paris, France | 2026-09-30 |
 | Business & AI Transformation \| Engagement Manager | Singulier | Paris, France | 2026-09-30 |
-| Client Success Manager | Fundcraft | Paris, France | 2026-09-30 |
 | Responsable des Ressources Humaines | Robeauté | Paris, France | 2026-09-30 |
 | Insurance Transaction Customer Service Associates- Contract | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-29 |
 | Growth Lead, France | Openai | Paris, France | 2026-09-29 |
@@ -296,16 +306,6 @@ _2,413 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Public Sector - Consultant.e junior | Wavestone | Paris, fr | 2026-09-29 |
 | Affiliation Marketing Intern (German & English required) | Backmarket | Paris | 2026-09-29 |
 | Public Sector - Consultant.e stagiaire/alternant | Wavestone | Paris, fr | 2026-09-29 |
-| Responsable Développement Foncier (91) - F/H | ALTAREA | Paris, fr | 2026-09-29 |
-| CEO Right Hand Intern | Homa | Paris, France | 2026-09-29 |
-| FP&A Intern | Homa | Paris, France | 2026-09-29 |
-| Retail Customer Service Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-28 |
-| Retail Customer Service Associate | Sutherland | Kingston, St. Andrew Parish, Jamaica, jm | 2026-09-28 |
-| Software Engineer II | Checkout.Com | Paris | 2026-09-28 |
-| Inbound Auto Loans Collections Associate | Sutherland | Mandeville, Manchester Parish, Jamaica, jm | 2026-09-28 |
-| Administrateur Systèmes & Réseaux N2 H/F | iad | Paris, fr | 2026-09-28 |
-| Stage consultant Grande Distribution | VusionGroup SA | Paris, fr | 2026-09-28 |
-| Stage – Consultant junior RH & Assessment | Sia | Paris, fr | 2026-09-28 |
 
 ---
 

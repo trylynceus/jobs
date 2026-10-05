@@ -2,56 +2,79 @@
 
 Roles listing San Francisco as their location.
 
-_11,917 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
+_11,863 open · showing the 300 most recent · updated 2026-10-05 04:16 UTC_
 
 | Role | Company | Location | Posted |
 | --- | --- | --- | --- |
 | Product Manager \| Software | Plasmidsaurus | San Francisco | 2026-10-03 |
 | Software Engineer, Enterprise Controls | Openai | San Francisco | 2026-10-03 |
 | Software Engineer, OpenAI Presence | Openai | San Francisco | 2026-10-03 |
+| People Team Coordinator | Spring Fertility | San Francisco, CA | 2026-10-03 |
 | Product Engineer, Infrastructure Development & Delivery | Fluidstack | San Francisco, CA | 2026-10-03 |
 | Product Engineer, Business Operations | Fluidstack | San Francisco, CA | 2026-10-03 |
 | Forward Deployed Engineer, Infrastructure Development & Delivery | Fluidstack | San Francisco, CA | 2026-10-03 |
 | Forward Deployed Engineer, Business Operations | Fluidstack | San Francisco, CA | 2026-10-03 |
 | Manager, Solutions Engineering | Factory | San Francisco, CA | 2026-10-03 |
 | Integrated Marketing Manager, Hardware | Openai | San Francisco | 2026-10-03 |
+| Director- Variable Project Delivery | Turner & Townsend | San Francisco, us | 2026-10-03 |
 | Talent Associate | Broccoli | San Francisco | 2026-10-03 |
 | Product Operations Specialist | Plaid | San Francisco HQ | 2026-10-03 |
+| Senior Finance Manager, Product & Engineering | Mixpanel | San Francisco, US (Hybrid) | 2026-10-03 |
 | Director of Events and Experiences | Perplexity | San Francisco | 2026-10-02 |
 | North America Vendor Lead, Ads | Openai | San Francisco | 2026-10-02 |
 | General Manager, Marketplace | David Ai | San Francisco | 2026-10-02 |
+| Per Diem Primary Care Nurse Practitioner or Physician Assistant (Casual Employee) | One Medical | San Francisco, CA | 2026-10-02 |
 | Global Workplace Business Operations Lead | Perplexity | San Francisco | 2026-10-02 |
+| Exempt to Permanent – Manager VI (0941) – Citywide (E10193) | City and County of San Francisco | San Francisco, us | 2026-10-02 |
 | Technical Program Manager, Product Design | Sesame | San Francisco | 2026-10-02 |
 | Research Engineer, Robotics Evals | Hud | San Francisco | 2026-10-02 |
 | Staff Brand Designer | Snorkel AI | New York City, NY (Hybrid); San Francisco, CA (Hybrid) | 2026-10-02 |
 | Founder’s Associate Intern | Dryft | San Francisco | 2026-10-02 |
 | Field Installation Engineer - Region: TOLA | Span | San Francisco | 2026-10-02 |
+| Software Engineer (Machine Learning) Intern (Summer 2027) | Affirm | San Francisco, California, United States | 2026-10-02 |
+| Software Engineer Intern (Summer 2027) | Affirm | San Francisco, California, United States | 2026-10-02 |
 | Revenue Enablement Manager | Handshake | San Francisco, CA | 2026-10-02 |
+| Associate Director, Regulatory Affairs Advertising & Promotion - Oncology | AbbVie | South San Francisco, us | 2026-10-02 |
 | Sr. Business Recruiter | Campfire | San Francisco | 2026-10-02 |
+| Sr. Product & Design Operations Manager | PagerDuty | San Francisco | 2026-10-02 |
 | Senior Engineering Manager - Mobile | Mercury | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | 2026-10-02 |
+| Statistical Analyst - ADaM Programming (Hybrid) | AbbVie | South San Francisco, us | 2026-10-02 |
 | Senior/Staff Linux Kernel Engineer - Avionics SW | Zipline | South San Francisco, California, USA | 2026-10-02 |
+| Commercial Account Executive | Brex | San Francisco, California, United States | 2026-10-02 |
 | Head of Strategic Partnerships | HeyGen | San francisco, Los Angeles | 2026-10-02 |
 | Marketing Events Manager | Doximity | San Francisco, CA or Remote (U.S.) | 2026-10-02 |
 | Product Manager - Multiple Levels | Faire | New York City, NY; San Francisco, CA | 2026-10-02 |
+| Merchandising Manager, Eyewear | Quince | San Francisco, California, United States | 2026-10-02 |
+| Structural Engineering Internship - Summer 2027 | KPFF Consulting Engineers | San Francisco, us | 2026-10-02 |
 | Staff Engineer - Robot Learning, Embodied AI | Niantic Spatial, Inc. | San Francisco, CA | 2026-10-02 |
 | AI Forward Deployed Engineer | Zip AI Procurement Platform | San Francisco | 2026-10-02 |
+| Staff Software Engineer, Infrastructure | Stripe | Seattle, San Francisco | 2026-10-02 |
+| Personal Trainer, Beale Street | Equinox | San Francisco, us | 2026-10-02 |
 | Senior Application Security Engineer | Chime Financial, Inc | San Francisco, CA, USA | 2026-10-02 |
 | Senior Software Engineer — Backend (Files Team) | Databricks | San Francisco, California | 2026-10-02 |
+| Venture Partnerships Associate | Brex | San Francisco, California, United States | 2026-10-02 |
+| Startup Partnerships Associate | Brex | San Francisco, California, United States | 2026-10-02 |
+| Payroll Analyst - Accounting | Notion | San Francisco, California | 2026-10-02 |
 | ITAV Event Technical Producer | Openai | San Francisco | 2026-10-02 |
 | Senior Device Software Engineer | Atomic | San Francisco, CA | 2026-10-02 |
 | Senior Perception Engineer | Atomic | San Francisco, CA | 2026-10-02 |
 | Technical Program Manager, Robotics | Openai | San Francisco | 2026-10-02 |
+| Analyst, Sales Strategy & GTM Planning | Planet | San Francisco, CA | 2026-10-02 |
 | Mid-Level AI Engineer | Clera | San Francisco | 2026-10-02 |
 | Senior Associate, International Sales Strategy & Operations | DoorDash USA | New York City, NY; San Francisco, CA; Atlanta, GA; Chicago, IL; Denver, CO; Washington, DC; Austin, TX; Phoenix, AZ; Los Angeles, CA; Seattle, WA; Boston, MA | 2026-10-02 |
 | Engineering Manager - Dashboard | Workos | San Francisco | 2026-10-02 |
 | Mid-Market Account Executive, New Business | Motive | Hybrid - San Francisco, California | 2026-10-02 |
+| Head of Sales Recruiting, AMER | Notion | San Francisco, California | 2026-10-02 |
+| Surgical Procedures Technician (2310) – Citywide - H00187 | City and County of San Francisco | San Francisco, us | 2026-10-02 |
 | Senior Manager, Center of Excellence | Gong.io | Austin \| Chicago \| New York City \| Salt Lake City \| San Francisco | 2026-10-02 |
 | Senior Member of Technical Staff | Clera | San Francisco | 2026-10-02 |
 | Co-Founder & CTO | Clera | San Francisco | 2026-10-02 |
 | Senior Software Engineer, Annotations | Handshake | San Francisco, CA | 2026-10-02 |
 | Manager, Field Engineering - Strategic Digital Native Business | Databricks | San Francisco, California | 2026-10-02 |
+| QA Engineer | Wonderschool | San Francisco | 2026-10-02 |
 | Software Engineer, New Grad (2027) | Harvey | San Francisco | 2026-10-02 |
 | Software Engineer, Infrastructure Platform | Chime Financial, Inc | Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA | 2026-10-02 |
+| Aquatics Facility Supervisor (3215) – Recreation and Park Department - (167171) | City and County of San Francisco | San Francisco, us | 2026-10-02 |
 | Strategic Sourcing Leader, Professional Services | Openai | San Francisco | 2026-10-02 |
 | Senior Detection and Response Engineer | Anyscale | San Francisco | 2026-10-02 |
 | Staff Product Manager - Procurement AI | Ironcladhq | San Francisco | 2026-10-02 |
@@ -60,39 +83,62 @@ _11,917 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Business Systems Architect – Finance (D365 FO) | Axon | San Francisco, California, United States | 2026-10-02 |
 | Category Manager | Checkr | Denver, Colorado, United States; San Francisco, California, United States | 2026-10-02 |
 | Sales Manager, Enterprise | Juicebox | San Francisco | 2026-10-02 |
+| Technology Engineer (1042) - SF Planning Department (CPC) | City and County of San Francisco | San Francisco, us | 2026-10-02 |
 | Staff Technical Program Manager- Security | Databricks | Mountain View, California; San Francisco, California | 2026-10-02 |
 | Sr. Manager, Engineering - AI/BI | Databricks | Mountain View, California; San Francisco, California | 2026-10-02 |
+| Product Operations Lead, Generative AI | Scale AI | San Francisco, CA; New York, NY | 2026-10-02 |
 | Founding Growth Lead | Clera | San Francisco | 2026-10-02 |
 | Tech Lead Manager, Machine Learning, Growth and Marketing | Chime Financial, Inc | San Francisco, CA, USA | 2026-10-02 |
 | Founding SDR Manager | Hike Medical | San Francisco, CA | 2026-10-02 |
+| Sr. Product Designer | LinkedIn | San Francisco, us | 2026-10-02 |
 | Staff Software Engineer, User Targeting | Braze | San Francisco | 2026-10-02 |
 | Senior Software Engineer I, Core Objects | Braze | San Francisco | 2026-10-02 |
 | Applied AI Engineer, Video Agent | HeyGen | San Francisco, Palo Alto, Los Angeles, Toronto | 2026-10-02 |
 | QA Engineer | Clera | San Francisco | 2026-10-02 |
 | Senior Member of Technical Staff | Clera | San Francisco | 2026-10-02 |
+| Accounts Payable Specialist | Alchemy | San Francisco | 2026-10-02 |
 | Senior/Staff Software Engineer (Platform) | Clera | San Francisco | 2026-10-02 |
+| Staff Software Engineer | Nourish | San Francisco, CA | 2026-10-02 |
 | Recruiter III — Sales & Distribution \| Salesforce Partnership | Job Mobz | San Francisco, us | 2026-10-02 |
+| Engineering Manager, Provider Supply | Nourish | San Francisco, CA | 2026-10-02 |
+| Per Diem Primary Care Physician (Casual Employee) | One Medical | San Francisco, CA | 2026-10-02 |
+| Engineering Manager, Provider Quality | Nourish | San Francisco, CA | 2026-10-02 |
+| Lifecycle Marketing Manager, Campaign Strategy & Execution | Notion | San Francisco, California | 2026-10-02 |
 | Founding Product Designer | Clera | San Francisco | 2026-10-02 |
 | Recruiter III — Sales \| Salesforce Partnership | Job Mobz | San Francisco, us | 2026-10-02 |
+| Engineering Manager, Operations | Nourish | San Francisco, CA | 2026-10-02 |
 | Founding Engineer | Clera | San Francisco | 2026-10-02 |
 | Senior Technical Program Manager | Clera | San Francisco | 2026-10-02 |
+| Per Diem Family Nurse Practitioner or Physician Assistant (Casual Employee) | One Medical | San Francisco, CA | 2026-10-02 |
+| Per Diem Family Nurse Practitioner or Physician Assistant (Casual Employee) - West Portal | One Medical | San Francisco, CA | 2026-10-02 |
 | Founding Hardware Engineer | Clera | San Francisco | 2026-10-02 |
+| Senior Backend Engineer | Nourish | San Francisco, CA / Remote | 2026-10-02 |
+| Per Diem Family Nurse Practitioner or Physician Assistant (Casual Employee) - Pacific Heights | One Medical | San Francisco, CA | 2026-10-02 |
 | Software Engineering Intern (Summer 2027) | Harvey | San Francisco | 2026-10-02 |
+| Revenue Operations Manager | Scale AI | San Francisco, CA | 2026-10-02 |
+| Account Executive, AI Startups - Grower | Stripe | San Francisco | 2026-10-02 |
 | Software Engineer, Device Security | HP IQ | San Francisco, CA | 2026-10-02 |
 | Head of Payroll & Equity | Anthropic | San Francisco, CA \| Seattle, WA | 2026-10-02 |
+| Senior Accountant - Corporate Accounting | Notion | San Francisco, California | 2026-10-02 |
 | Strategic Business Development Lead | Anthropic | San Francisco, CA \| New York City, NY \| Seattle, WA | 2026-10-02 |
 | Enterprise Account Executive | Incident | San Francisco | 2026-10-02 |
+| Expanded Care Family Medicine Physician (All Ages) (Sign-On Bonus Available) | One Medical | San Francisco, CA | 2026-10-02 |
 | Commercial Counsel | Hinge Health | San Francisco-HQ | 2026-10-02 |
 | Member of Technical Staff, Vulnerability Management | Inferact | San Francisco | 2026-10-02 |
+| Senior Full Stack Engineer | Nourish | San Francisco, CA / Remote | 2026-10-02 |
+| Mid Market Customer Success Manager | Ivo Inc | San Francisco | 2026-10-02 |
 | Talent Development Leader, Foundational Talent Products | Gusto, Inc. | Denver, CO - Hybrid; San Francisco, CA - Hybrid | 2026-10-02 |
 | 2027 Internship Behavior ML Engineer, Learned Manipulation Policies | Bedrock Robotics | San Francisco, CA | 2026-10-02 |
 | Member of Technical Staff, Forward Deployed Engineer | Inferact | San Francisco | 2026-10-02 |
 | Senior Recruiter | Faire | San Francisco, CA | 2026-10-02 |
 | Principal Customer Success Manager - Dedicated | Okta | Chicago, Illinois; Colorado; San Francisco, California; Texas | 2026-10-02 |
 | Medical Science Liaison/Senior Medical Science Liaison, Alzheimer's Disease Agitation (West Region) | Axsome Therapeutics | San Francisco, CA | 2026-10-02 |
+| Support Analyst | OneTrust | Atlanta, Georgia; San Francisco, California | 2026-10-02 |
+| Senior Support Analyst | OneTrust | Atlanta, Georgia; San Francisco, California | 2026-10-02 |
 | Senior/Staff Software Engineer | Heartflow | San Francisco, California | 2026-10-02 |
 | Senior Machine Learning Engineer - New Verticals Agentic Foundations | DoorDash USA | San Francisco, CA; Sunnyvale, CA; Seattle, WA; NewYork, NY | 2026-10-02 |
 | Behavior Technician - Paid Training | Cortica - Neurodevelopmental | San Francisco, CA | 2026-10-02 |
+| System Support - Baggage Handling Systems (SFO) (3rd Shift) | BEUMER Group | San Francisco, us | 2026-10-02 |
 | Principal Product Operations Manager - Launches | Socure | Hub - San Francisco | 2026-10-02 |
 | Mid-Market Account Executive | HeyGen | San Francisco, Los Angeles, Remote - Europe | 2026-10-02 |
 | Director, Strategy | Highwire | San Francisco, California, United States | 2026-10-02 |
@@ -149,7 +195,6 @@ _11,917 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Strategic Finance Associate/Sr. Associate - Product | Zip AI Procurement Platform | San Francisco | 2026-10-01 |
 | System Architect, New Products | Wispr Flow | San Francisco | 2026-10-01 |
 | General Counsel | Hubble Network | San Francisco, California | 2026-10-01 |
-| TRILINGUAL (ENGLISH/PORTUGUÊS/SPANISH) - CUSTOMER CARE AGENT FOR ROADSIDE ASSISTANCE | Bosch Group | San Francisco, cr | 2026-10-01 |
 | Software Engineer - Enterprise Engineering | Coderabbit | San Francisco | 2026-10-01 |
 | Senior Manager, Technical Architecture | Okta | Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada | 2026-10-01 |
 | Enterprise Account Executive, Justice & Public Safety | Box | Redwood City, CA, United States, San Francisco, CA, United States | 2026-10-01 |
@@ -172,10 +217,8 @@ _11,917 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Pricing Operations Lead | Openai | San Francisco | 2026-10-01 |
 | Brand Marketing Lead | Brex | New York, New York, United States; San Francisco, California, United States; United States | 2026-10-01 |
 | Chief Financial Officer | Hubble Network | San Francisco, CA | 2026-10-01 |
-| Associate Director, Oncology Market Access Marketing | AbbVie | San Francisco, us | 2026-10-01 |
 | Lead Visual Designer | Taskrabbit | New York, New York, United States; San Francisco, California, United States | 2026-10-01 |
 | Payments & Product Partnerships Counsel, Americas | Adyen | San Francisco | 2026-10-01 |
-| Director Of Labor And Employee Relations (0932 Manager IV) - DPH - 167473 | City and County of San Francisco | San Francisco, us | 2026-10-01 |
 | Patient Navigator | Spring Fertility | San Francisco, CA | 2026-10-01 |
 | Sr. Sales Operations Analyst | Gusto, Inc. | Atlanta, GA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Scottsdale, AZ - Hybrid; Toronto, Ontario - Remote | 2026-10-01 |
 | Staff Software Engineer (AI) | Onoshealth | San Francisco | 2026-10-01 |
@@ -208,7 +251,6 @@ _11,917 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Senior Manager, Accounts Payable - Compute | Openai | San Francisco | 2026-10-01 |
 | Ex-Founder / Ex-CTO | Clera | San Francisco | 2026-10-01 |
 | Engineering Manager (Enterprise) | Perplexity | San Francisco | 2026-10-01 |
-| PhD University Grad Data Scientist 2027 (USA) | Pinterest | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 2026-10-01 |
 | Fractional Product Manager, Renewable Energy (LG NOVA) | LG Electronics | San Francisco, CA | 2026-10-01 |
 | Founding Design Engineer | Clera | San Francisco | 2026-10-01 |
 | Master's University Grad Data Scientist (USA) | Pinterest | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | 2026-10-01 |
@@ -253,7 +295,6 @@ _11,917 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | 2027 Internship Product Intern | Bedrock Robotics | San Francisco, CA | 2026-10-01 |
 | Provisional to Permanent - Security Access Office Supervisor I (9235) - Citywide - (168415) | City and County of San Francisco | San Francisco, us | 2026-10-01 |
 | Software Engineer, Sandboxing | Anthropic | San Francisco, CA \| New York City, NY | 2026-10-01 |
-| Street Inspector (6230) - Citywide (W00006) | City and County of San Francisco | San Francisco, us | 2026-10-01 |
 | Pilates Instructors, Union Street | Equinox | San Francisco, us | 2026-10-01 |
 | Accounting Manager | Suno | San Francisco | 2026-10-01 |
 | Senior Spacecraft Systems Engineer | Planet | San Francisco, CA | 2026-10-01 |
@@ -265,47 +306,6 @@ _11,917 open · showing the 300 most recent · updated 2026-10-04 04:18 UTC_
 | Strategic Alliances GTM Lead | Cursor | San Francisco | 2026-10-01 |
 | Software Engineer, Mobile Platform (iOS) | Notion | San Francisco, California | 2026-10-01 |
 | Prospect | Rox Data Corp | San Francisco | 2026-10-01 |
-| Founding Product Marketing Manager | Mintmcp | San Francisco, CA | 2026-10-01 |
-| Product Support - Bridge | Stripe | New York, Seattle, San Francisco | 2026-10-01 |
-| Paralegal | Blend360 | San Francisco, us | 2026-10-01 |
-| UAS Operations Specialist, Labs | DoorDash USA | San Francisco, CA | 2026-10-01 |
-| Langfuse - Product Marketing Manager (AMER) | Clickhouse | San Francisco | 2026-10-01 |
-| Senior Sales Engineer | Tray Ai | San Francisco | 2026-10-01 |
-| Critical Support Manager - Escalations | Stripe | Seattle or San Francisco | 2026-10-01 |
-| Growth Marketer | Tavus | San Francisco | 2026-10-01 |
-| Member of Technical Staff — DevOps | Causal | San Francisco | 2026-10-01 |
-| IT Ops Engineer, Networking | Discord | San Francisco Bay Area | 2026-10-01 |
-| IT Ops Engineer | Discord | San Francisco Bay Area | 2026-10-01 |
-| Product Engineer, New Products | Wispr Flow | San Francisco | 2026-10-01 |
-| Principal Engineer - Product Investigations | Heartflow | San Francisco, California | 2026-10-01 |
-| Machine Learning Engineer - Content Discovery | Suno | San Francisco | 2026-10-01 |
-| Global Head of Workplace | Scale AI | San Francisco, CA | 2026-10-01 |
-| Principal Regulatory Affairs Specialist | Heartflow | San Francisco, California; Rohnert Park, California | 2026-10-01 |
-| Chief of Staff to the CMO | Databricks | San Francisco, California | 2026-10-01 |
-| Contract Sourcer | Rox Data Corp | San Francisco | 2026-10-01 |
-| Product Manager - AI Content Generation | Speak | San Francisco | 2026-10-01 |
-| Technical Recruiter | Rox Data Corp | San Francisco | 2026-10-01 |
-| Technical Sourcer, Research SWE | Openai | San Francisco | 2026-10-01 |
-| Lead Product Designer | Collective | San Francisco | 2026-10-01 |
-| Physical Network & Structured Cabling Engineer | Openai | San Francisco | 2026-10-01 |
-| Founding Robot Learning Research Lead | Origin | San Francisco, United States | 2026-10-01 |
-| Product Manager | Notion | San Francisco, California | 2026-09-30 |
-| Employment Services Manager-Human Resources-Public Works (1246)(162480) | City and County of San Francisco | San Francisco, us | 2026-09-30 |
-| Sr/Staff Civil Engineer | Marianaminerals | San Francisco HQ | 2026-09-30 |
-| Senior Product Designer, Design Systems | Discord | San Francisco Bay Area | 2026-09-30 |
-| Accounting Manager, General Ledger & OPEX | Happyrobot.Ai | San Francisco | 2026-09-30 |
-| Head of Marketing | Nuance Labs | Seattle, WA; San Francisco, CA | 2026-09-30 |
-| Revenue Accounting Lead | Happyrobot.Ai | San Francisco | 2026-09-30 |
-| Executive Recruiter | Harvey | San Francisco | 2026-09-30 |
-| Radiation Effects Associate Engineer (Winter 2027) | Astranis | San Francisco | 2026-09-30 |
-| Radiation Effects Engineer Intern (Winter 2027) | Astranis | San Francisco | 2026-09-30 |
-| Stationary Engineer, Sewage Plant - Wastewater Enterprise - SFPUC (7372) (904222) | City and County of San Francisco | San Francisco, us | 2026-09-30 |
-| GTM Engineer | Zip AI Procurement Platform | San Francisco | 2026-09-30 |
-| Automation & Controls Engineering Associate (Winter 2027) | Astranis | San Francisco | 2026-09-30 |
-| Automation & Controls Engineering Associate (Summer 2027) | Astranis | San Francisco | 2026-09-30 |
-| Automation & Controls Engineering Intern (Summer 2027) | Astranis | San Francisco | 2026-09-30 |
-| Automation & Controls Engineering Intern (Winter 2027) | Astranis | San Francisco | 2026-09-30 |
-| Senior Shelter Veterinarian (2293) - Animal Care and Control, Office of the City Administrator | City and County of San Francisco | San Francisco, us | 2026-09-30 |
 
 ---
 
